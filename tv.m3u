@@ -1,0 +1,385 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1  tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV3
+http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
+#EXTINF:-1  tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1  tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
+http://112.17.40.140/PLTV/88888888/224/3221226556/index.m3u8
+#EXTINF:-1  tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
+http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
+#EXTINF:-1  tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1  tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8
+http://112.17.40.140/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1  tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV9
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1  tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1  tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11
+http://223.110.241.203:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+#EXTINF:-1  tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1  tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
+http://223.110.241.203:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+#EXTINF:-1  tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1  tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
+http://223.110.241.203:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+
+http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1  tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1  tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
+http://223.110.242.130:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+#EXTINF:-1  tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="山东频道",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1  tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="山东频道",山东齐鲁
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1  tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="山东频道",山东体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1  tvg-name="山东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_gonggong.png" group-title="山东频道",山东公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1  tvg-name="山东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png" group-title="山东频道",山东影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1  tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="山东频道",山东生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1  tvg-name="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="山东频道",山东综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1  tvg-name="山东农科" group-title="山东频道",山东农科
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1  tvg-name="山东教育" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SDETV1/SDETV1.jpg" group-title="山东频道",山东教育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1  tvg-name="济南综合" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV1/JNTV1.jpg" group-title="山东频道",济南综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1  tvg-name="临沂综合" group-title="山东频道",临沂综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
+#EXTINF:-1  tvg-name="临沂农科"  group-title="山东频道",临沂农科
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000121/index.m3u8
+#EXTINF:-1  tvg-name="临沂公共"  group-title="山东频道",临沂公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000256/index.m3u8
+#EXTINF:-1  tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1  tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1  tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1  tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1  tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1  tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1  tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视频道",东南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1  tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1  tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视频道",黑龙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1  tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视频道",天津卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1  tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视频道",贵州卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1  tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视频道",河北卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1  tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="凤凰卫视",凤凰中文
+http://112.17.40.145/PLTV/88888888/224/3221226368/index.m3u8
+#EXTINF:-1  tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="凤凰卫视",凤凰资讯
+http://112.17.40.145/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1  group-title="凤凰卫视",奥林匹克
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
+#EXTINF:-1  group-title="凤凰卫视",iPanda
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
+#EXTINF:-1  group-title="凤凰卫视",CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 group-title="凤凰卫视",CHC家庭电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1  group-title="凤凰卫视",CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品电影
+http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV动作电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV惊悚悬疑
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV明星大片
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV爱情喜剧
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品大剧
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV海外剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
+#EXTINF:-1group-title="NewTV" ,NewTV家庭剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品纪录
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225924/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV金牌综艺
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV中国功夫
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV古装剧场
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军事评论
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军旅剧场
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV炫舞未来
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV健康有约
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级体育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV搏击
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品体育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV潮妈辣婆
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV农业致富
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
+#EXTINF:-1   group-title="山东移动",欧美电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
+#EXTINF:-1  group-title="山东移动",亚洲电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
+#EXTINF:-1  group-title="山东移动",海看大片
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000407/index.m3u8
+#EXTINF:-1  group-title="山东移动",家庭影院
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000635/index.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="山东移动",IPTV经典电影
+http://39.137.76.32:8089/00/SNM/CHANNEL00000604/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="山东移动",喜剧影院
+http://39.137.76.32:8089/00/SNM/CHANNEL00000602/index.m3u8
+#EXTINF:-1 group-title="山东移动",动作影院
+http://39.137.76.32:8089/00/SNM/CHANNEL00000603/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="山东移动",精彩影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
+#EXTINF:-1 group-title="山东移动",光影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000611/index.m3u8
+#EXTINF:-1  tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SITV-MOVIE/SITV-MOVIE.jpg" group-title="山东移动",都市剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002014/index.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="山东移动",欢笑剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002004/index.m3u8
+#EXTINF:-1 group-title="山东移动",城市剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000614/index.m3u8
+#EXTINF:-1  group-title="山东移动",古装剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000622/index.m3u8
+#EXTINF:-1  group-title="山东移动",军旅剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000617/index.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E5%B0%91%E5%84%BF%E5%8A%A8%E7%94%BB.png" group-title="山东移动",IPTV少儿动画
+http://39.137.76.32:8089/00/SNM/CHANNEL00000605/index.m3u8
+#EXTINF:-1  tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IPTVXSXP/IPTVXSXP.jpg" group-title="山东移动",IPTV相声小品
+http://39.137.76.32:8089/00/SNM/CHANNEL00000606/index.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA.png" group-title="山东移动",IPTV热播剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000608/index.m3u8
+#EXTINF:-1  tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IPTVMLSS/IPTVMLSS.jpg" group-title="山东移动",IPTV魅力时尚
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000609/index.m3u8
+#EXTINF:-1  group-title="山东移动",IPTV法治
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.m3u8
+#EXTINF:-1 group-title="山东移动" ,墨宝
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000610/index.m3u8
+#EXTINF:-1  group-title="山东移动",美人
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000612/index.m3u8
+#EXTINF:-1  group-title="山东移动",音乐现场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000613/index.m3u8
+#EXTINF:-1  group-title="山东移动",地理
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000615/index.m3u8
+#EXTINF:-1  group-title="山东移动",美妆
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000616/index.m3u8
+#EXTINF:-1  group-title="山东移动",足球
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000618/index.m3u8
+#EXTINF:-1  group-title="山东移动",高网
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000620/index.m3u8
+#EXTINF:-1  group-title="山东移动",珠峰
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000621/index.m3u8
+#EXTINF:-1  group-title="山东移动",珠峰
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000639/index.m3u8
+#EXTINF:-1  group-title="山东移动",解密
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000624/index.m3u8
+#EXTINF:-1  group-title="山东移动",动画
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000625/index.m3u8
+#EXTINF:-1  group-title="山东移动",早教
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000627/index.m3u8
+#EXTINF:-1  group-title="山东移动",好学生
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000629/index.m3u8
+#EXTINF:-1  group-title="山东移动",台球
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000628/index.m3u8
+#EXTINF:-1  group-title="山东移动",武术
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000634/index.m3u8
+#EXTINF:-1  group-title="山东移动",国学
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000636/index.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="山东移动",四海钓鱼
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000640/index.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="山东移动",优优宝贝
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000641/index.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="山东移动",车迷频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000645/index.m3u8
+#EXTINF:-1  group-title="山东移动",MAX极速汽车
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002001/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="山东移动",动漫秀场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="山东移动",探索纪实
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002006/index.m3u8
+#EXTINF:-1  group-title="山东移动",地理中国
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002007/index.m3u8
+#EXTINF:-1  group-title="山东移动",法治天地
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
+#EXTINF:-1 group-title="山东移动",演唱会
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002015/index.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="山东移动",全纪实
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="山东移动",生活时尚
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
+#EXTINF:-1  group-title="山东移动",金色频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
+#EXTINF:-1  group-title="山东移动",卡通世界
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002017/index.m3u8
+#EXTINF:-1  group-title="山东移动",海看爱宠
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000202/index.m3u8
+#EXTINF:-1  group-title="山东移动",海看教育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000204/index.m3u8
+#EXTINF:-1  group-title="山东移动",海看演艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000400/index.m3u8
+#EXTINF:-1  group-title="山东移动",海看健康
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000401/index.m3u8
+#EXTINF:-1  group-title="山东移动",海看少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000402/index.m3u8
+#EXTINF:-1  group-title="山东移动",海看剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000403/index.m3u8
+#EXTINF:-1  group-title="山东移动",海看热播
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
+#EXTINF:-1  group-title="山东移动",海看4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
+#EXTINF:-1  group-title="辽宁移动",北方家庭影院
+http://hwottcdn.ln.chinamobile.com/PLTV/88888892/224/3221226723/index.m3u8
+#EXTINF:-1  group-title="辽宁移动",北方家庭剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/88888892/224/3221226740/index.m3u8
+#EXTINF:-1 group-title="辽宁移动",北方大众影视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
+#EXTINF:-1 group-title="辽宁移动",北方劲爆电影
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226756/index.m3u8
+#EXTINF:-1 group-title="辽宁移动",北方原声电影
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226904/index.m3u8
+#EXTINF:-1 group-title="辽宁移动",北方译制电影
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226901/index.m3u8
+#EXTINF:-1 group-title="辽宁移动",北方喜剧电影
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226762/index.m3u8
+#EXTINF:-1 group-title="辽宁移动",北方热播电影
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226827/index.m3u8
+#EXTINF:-1 group-title="辽宁移动",北方怀旧电影
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226857/index.m3u8
+#EXTINF:-1 group-title="辽宁移动",北方亚洲电影
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226898/index.m3u8
+#EXTINF:-1  group-title="辽宁移动",北方卡通剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/88888892/224/3221226717/index.m3u8
+#EXTINF:-1 group-title="福建移动",国外电影
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 group-title="福建移动",国语电影
+http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1 group-title="福建移动",经典电影
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 group-title="咪咕",高分影院
+http://kkitv.com/iptv/mg.php?id=627198191
+#EXTINF:-1 group-title="咪咕",高清影视
+http://kkitv.com/iptv/mg.php?id=617432318
+#EXTINF:-1 group-title="咪咕",每日科幻
+http://kkitv.com/iptv/mg.php?id=625204865
+#EXTINF:-1 group-title="咪咕",黄金剧场
+http://kkitv.com/iptv/mg.php?id=625155140
+#EXTINF:-1 group-title="咪咕",军旅剧场
+http://kkitv.com/iptv/mg.php?id=625643517
+#EXTINF:-1 group-title="咪咕",暑期剧场
+http://kkitv.com/iptv/mg.php?id=627198610
+#EXTINF:-1 group-title="咪咕",精品国产
+http://kkitv.com/iptv/mg.php?id=625574378
+#EXTINF:-1 group-title="咪咕",乡村爱情
+http://kkitv.com/iptv/mg.php?id=625774662
+#EXTINF:-1 group-title="咪咕",红色谍战
+http://kkitv.com/iptv/mg.php?id=634274665
+#EXTINF:-1 group-title="咪咕",周星驰
+http://kkitv.com/iptv/mg.php?id=623338112
+#EXTINF:-1 group-title="咪咕",精品剧场
+http://kkitv.com/iptv/mg.php?id=615810094
+#EXTINF:-1 group-title="咪咕",四大名著
+http://kkitv.com/iptv/mg.php?id=625498432
+#EXTINF:-1 group-title="咪咕",金庸频道
+http://kkitv.com/iptv/mg.php?id=625774640
+#EXTINF:-1 group-title="咪咕",天龙八部
+http://kkitv.com/iptv/mg.php?id=625703337
+#EXTINF:-1 group-title="咪咕",笑傲江湖
+http://kkitv.com/iptv/mg.php?id=625759558
+#EXTINF:-1 group-title="咪咕",鹿鼎记
+http://kkitv.com/iptv/mg.php?id=625681368
+#EXTINF:-1 group-title="咪咕",刘涛作品
+http://kkitv.com/iptv/mg.php?id=625514969
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="求索频道",求索记录
+http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="求索频道",求索生活
+http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="求索频道",求索科学
+http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="求索频道",求索动物
+http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱院线
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
+#EXTINF:-1 group-title="爱剧场",爱科幻
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7814,0,0
+#EXTINF:-1 group-title="爱剧场",爱喜剧
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
+#EXTINF:-1 group-title="爱剧场",爱悬疑
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱都市
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱怀旧
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱谍战
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱家庭
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱江湖
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱经典
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱军武
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱浪漫
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
+#EXTINF:-1 group-title="爱剧场",爱青春
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱时尚
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱娱乐
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱世界
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱科学
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱探索
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱历史
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱解密
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱猎奇
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱旅行
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱美食
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
+#EXTINF:-1 group-title="爱剧场",爱奇谈
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
