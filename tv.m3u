@@ -181,6 +181,14 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000614/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000622/index.m3u8
 #EXTINF:-1  group-title="山东移动",军旅剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000617/index.m3u8
+#EXTINF:-1  group-title="山东移动",IPTV3+
+http://211.137.115.110:8080/gitv_live/G_IPTV-3PLUS/G_IPTV-3PLUS.m3u8
+#EXTINF:-1  group-title="山东移动",IPTV5+
+http://211.137.115.110:8080/gitv_live/G_IPTV-5PLUS-HD/G_IPTV-5PLUS-HD.m3u8
+#EXTINF:-1  group-title="山东移动",IPTV6+
+http://211.137.115.110:8080/gitv_live/G_IPTV-6PLUS/G_IPTV-6PLUS.m3u8
+#EXTINF:-1  group-title="山东移动",IPTV8+
+http://211.137.115.110:8080/gitv_live/G_IPTV-8PLUS/G_IPTV-8PLUS.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E5%B0%91%E5%84%BF%E5%8A%A8%E7%94%BB.png" group-title="山东移动",IPTV少儿动画
 http://39.137.76.32:8089/00/SNM/CHANNEL00000605/index.m3u8
 #EXTINF:-1  tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IPTVXSXP/IPTVXSXP.jpg" group-title="山东移动",IPTV相声小品
@@ -313,10 +321,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1  group-title="求索频道",求索动物
 http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
-#EXTINF:-1  group-title="求索频道",茶频道
-http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
-#EXTINF:-1  group-title="求索频道",高清3D
-http://112.17.40.140/PLTV/88888888/224/3221226475/index.m3u8
 #EXTINF:-1 group-title="爱剧场",爱院线
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
 #EXTINF:-1 group-title="爱剧场",爱科幻
