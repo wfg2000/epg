@@ -279,6 +279,19 @@ http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 #EXTINF:-1 group-title="福建移动",FJ国产影院
 http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 group-title="爱奇艺",豆瓣高分
+http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
+#EXTINF:-1 group-title="爱奇艺",票房收割
+http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c19_lb_heibangdianying_720p_t5/c19_lb_heibangdianying_720p_t5.m3u8
+#EXTINF:-1 group-title="爱奇艺",惊悚午夜
+http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t5/c16_lb_jingnawuyechang_1080p_t5.m3u8
+#EXTINF:-1 group-title="爱奇艺",历史秘闻
+http://223.99.240.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c18_lb_lishimiwen_1080p_t5/c18_lb_lishimiwen_1080p_t5.m3u8
+人文社会,http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_renwenshehui_720P_t5/c15_lb_renwenshehui_720P_t5.m3u8
+#EXTINF:-1 group-title="爱奇艺",军事观察
+http://223.99.240.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c20_lb_junshiguancha_720P_t5/c20_lb_junshiguancha_720P_t5.m3u8
+#EXTINF:-1 group-title="爱奇艺",文化奇谈
+http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wenhuaqitan_720p_t5/c15_lb_wenhuaqitan_720p_t5.m3u8
 #EXTINF:-1 group-title="咪咕",MiGu高分影院
 http://kkitv.com/iptv/mg.php?id=627198191
 #EXTINF:-1 group-title="咪咕",MiGu高清影视
