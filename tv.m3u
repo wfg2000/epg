@@ -8,7 +8,7 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1  tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
 #EXTINF:-1  tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-5/1.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL30000005/index.m3u8
 #EXTINF:-1  tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 #EXTINF:-1  tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
@@ -24,7 +24,7 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-11/1.m3u8
 #EXTINF:-1  tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
 #EXTINF:-1  tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
-http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2_hd.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-13/1.m3u8
 #EXTINF:-1  tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1  tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
@@ -205,7 +205,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000616/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000618/index.m3u8
 #EXTINF:-1  group-title="山东移动",CNTV高网
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000620/index.m3u8
-#EXTINF:-1  group-title="山东移动",珠峰4800
+#EXTINF:-1  group-title="山东移动",CNTV精选
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000621/index.m3u8
 #EXTINF:-1  group-title="山东移动",爱生活
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000639/index.m3u8
@@ -314,9 +314,9 @@ http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1  group-title="求索频道",求索动物
 http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
 #EXTINF:-1  group-title="求索频道",茶频道
-http://112.17.40.145/PLTV/88888888/224/3221226744/index.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 #EXTINF:-1  group-title="求索频道",高清3D
-http://112.17.40.145/PLTV/88888888/224/3221226475/index.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226475/index.m3u8
 #EXTINF:-1 group-title="爱剧场",爱院线
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
 #EXTINF:-1 group-title="爱剧场",爱科幻
