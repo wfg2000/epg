@@ -24,6 +24,18 @@
 <channel id="IPTV法治">
 <display-name lang="zh">IPTV法治</display-name>
 </channel>
+<channel id="IPTV3+">
+<display-name lang="zh">IPTV3+</display-name>
+</channel>
+<channel id="IPTV5+">
+<display-name lang="zh">IPTV5+</display-name>
+</channel>
+<channel id="IPTV6+">
+<display-name lang="zh">IPTV6+</display-name>
+</channel>
+<channel id="IPTV8+">
+<display-name lang="zh">IPTV8+</display-name>
+</channel>
 <channel id="济南综合">
 <display-name lang="zh">济南综合</display-name>
 </channel>
@@ -821,6 +833,342 @@
 </programme>
 <programme start="20200806234800 +0800" stop="20200806235900 +0800" channel="IPTV法治">
 <title lang="zh">《热线12》 20180713</title>
+</programme>
+<programme start="20200806002100 +0800" stop="20200806011200 +0800" channel="IPTV3+">
+<title lang="zh">标清 《艺览天下》 20200803 有趣的奇闻异事 第三季精编</title>
+</programme>
+<programme start="20200806011200 +0800" stop="20200806012200 +0800" channel="IPTV3+">
+<title lang="zh">标清 《文化十分》 20200803</title>
+</programme>
+<programme start="20200806012200 +0800" stop="20200806023900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《2020新春相声大联欢》 20200803</title>
+</programme>
+<programme start="20200806023900 +0800" stop="20200806040000 +0800" channel="IPTV3+">
+<title lang="zh">标清 《越战越勇》 20200803 为梦歌唱</title>
+</programme>
+<programme start="20200806040000 +0800" stop="20200806040900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《文化十分》 20200804</title>
+</programme>
+<programme start="20200806040900 +0800" stop="20200806052600 +0800" channel="IPTV3+">
+<title lang="zh">标清 《越战越勇》 20200804 为梦歌唱</title>
+</programme>
+<programme start="20200806052600 +0800" stop="20200806061600 +0800" channel="IPTV3+">
+<title lang="zh">标清 《非常6+1》 20200804 小不点大能耐</title>
+</programme>
+<programme start="20200806061600 +0800" stop="20200806071600 +0800" channel="IPTV3+">
+<title lang="zh">标清 《我们的中国梦 文化进万家》 20200804 走进广东省佛山市顺德区</title>
+</programme>
+<programme start="20200806071600 +0800" stop="20200806074100 +0800" channel="IPTV3+">
+<title lang="zh">标清 《天天把歌唱》 20200804</title>
+</programme>
+<programme start="20200806074100 +0800" stop="20200806085800 +0800" channel="IPTV3+">
+<title lang="zh">标清 《星光大道》 20200804</title>
+</programme>
+<programme start="20200806085800 +0800" stop="20200806101500 +0800" channel="IPTV3+">
+<title lang="zh">标清 《向幸福出发》 20200804</title>
+</programme>
+<programme start="20200806101500 +0800" stop="20200806110500 +0800" channel="IPTV3+">
+<title lang="zh">标清 《综艺喜乐汇》 20200803 那些唱给你的歌</title>
+</programme>
+<programme start="20200806110500 +0800" stop="20200806115500 +0800" channel="IPTV3+">
+<title lang="zh">标清 《非常6+1》 20200803 小不点大能耐</title>
+</programme>
+<programme start="20200806115500 +0800" stop="20200806131200 +0800" channel="IPTV3+">
+<title lang="zh">标清 《开门大吉》 20200803</title>
+</programme>
+<programme start="20200806131200 +0800" stop="20200806144200 +0800" channel="IPTV3+">
+<title lang="zh">标清 《全球中文音乐榜上榜》 20200803</title>
+</programme>
+<programme start="20200806144200 +0800" stop="20200806145200 +0800" channel="IPTV3+">
+<title lang="zh">标清 《文化十分》 20200804</title>
+</programme>
+<programme start="20200806145200 +0800" stop="20200806160900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《越战越勇》 20200804 为梦歌唱</title>
+</programme>
+<programme start="20200806160900 +0800" stop="20200806165900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《非常6+1》 20200804 小不点大能耐</title>
+</programme>
+<programme start="20200806165900 +0800" stop="20200806175900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《我们的中国梦 文化进万家》 20200804 走进广东省佛山市顺德区</title>
+</programme>
+<programme start="20200806175900 +0800" stop="20200806182400 +0800" channel="IPTV3+">
+<title lang="zh">标清 《天天把歌唱》 20200804</title>
+</programme>
+<programme start="20200806182400 +0800" stop="20200806194100 +0800" channel="IPTV3+">
+<title lang="zh">标清 《星光大道》 20200804</title>
+</programme>
+<programme start="20200806194100 +0800" stop="20200806205800 +0800" channel="IPTV3+">
+<title lang="zh">标清 《向幸福出发》 20200804</title>
+</programme>
+<programme start="20200806205800 +0800" stop="20200806214800 +0800" channel="IPTV3+">
+<title lang="zh">标清 《综艺喜乐汇》 20200803 那些唱给你的歌</title>
+</programme>
+<programme start="20200806214800 +0800" stop="20200806223800 +0800" channel="IPTV3+">
+<title lang="zh">标清 《非常6+1》 20200803 小不点大能耐</title>
+</programme>
+<programme start="20200806223800 +0800" stop="20200806235500 +0800" channel="IPTV3+">
+<title lang="zh">标清 《开门大吉》 20200803</title>
+</programme>
+<programme start="20200806235500 +0800" stop="20200806235900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《全球中文音乐榜上榜》 20200803</title>
+</programme>
+<programme start="20200806004600 +0800" stop="20200806011100 +0800" channel="IPTV5+">
+<title lang="zh">标清 ATP周刊 20200803</title>
+</programme>
+<programme start="20200806011100 +0800" stop="20200806015900 +0800" channel="IPTV5+">
+<title lang="zh">标清 北京2022 20200803</title>
+</programme>
+<programme start="20200806015900 +0800" stop="20200806025200 +0800" channel="IPTV5+">
+<title lang="zh">标清 奥运争锋 20200803</title>
+</programme>
+<programme start="20200806025200 +0800" stop="20200806040000 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 20200803</title>
+</programme>
+<programme start="20200806040000 +0800" stop="20200806042800 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 女子跳马决赛 20200804</title>
+</programme>
+<programme start="20200806042800 +0800" stop="20200806045800 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 女子自由操决赛 20200804</title>
+</programme>
+<programme start="20200806045800 +0800" stop="20200806054200 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 沙滩排球女子决赛 德国VS巴西 20200804</title>
+</programme>
+<programme start="20200806054200 +0800" stop="20200806060800 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 小轮车女子半决赛 20200804</title>
+</programme>
+<programme start="20200806060800 +0800" stop="20200806061700 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 小轮车女子决赛 20200804</title>
+</programme>
+<programme start="20200806061700 +0800" stop="20200806063900 +0800" channel="IPTV5+">
+<title lang="zh">标清 健身动起来 20200804</title>
+</programme>
+<programme start="20200806063900 +0800" stop="20200806081200 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年世界斯诺克锦标赛第1轮 利索夫斯基VS迈克吉尔 20200804</title>
+</programme>
+<programme start="20200806081200 +0800" stop="20200806085000 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年斯诺克世锦赛 第1轮 颜丙涛VS斯莱塞 20200804</title>
+</programme>
+<programme start="20200806085000 +0800" stop="20200806085900 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年斯诺克世锦赛 第1轮 艾伦VS克拉克 第2局 20200804</title>
+</programme>
+<programme start="20200806085900 +0800" stop="20200806100200 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年斯诺克世锦赛 第1轮 马奎尔VS古尔德 6-9局 20200804</title>
+</programme>
+<programme start="20200806100200 +0800" stop="20200806113700 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年斯诺克世锦赛 第1轮 墨菲VS桑坎姆 10-14局 20200804</title>
+</programme>
+<programme start="20200806113700 +0800" stop="20200806122600 +0800" channel="IPTV5+">
+<title lang="zh">标清 北京2022 20200803</title>
+</programme>
+<programme start="20200806122600 +0800" stop="20200806125100 +0800" channel="IPTV5+">
+<title lang="zh">标清 ATP周刊 20200803</title>
+</programme>
+<programme start="20200806125100 +0800" stop="20200806131900 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 女子跳马决赛 20200804</title>
+</programme>
+<programme start="20200806131900 +0800" stop="20200806134900 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 女子自由操决赛 20200804</title>
+</programme>
+<programme start="20200806134900 +0800" stop="20200806143300 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 沙滩排球女子决赛 德国VS巴西 20200804</title>
+</programme>
+<programme start="20200806143300 +0800" stop="20200806145900 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 小轮车女子半决赛 20200804</title>
+</programme>
+<programme start="20200806145900 +0800" stop="20200806150800 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 小轮车女子决赛 20200804</title>
+</programme>
+<programme start="20200806150800 +0800" stop="20200806153000 +0800" channel="IPTV5+">
+<title lang="zh">标清 健身动起来 20200804</title>
+</programme>
+<programme start="20200806153000 +0800" stop="20200806170300 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年世界斯诺克锦标赛第1轮 利索夫斯基VS迈克吉尔 20200804</title>
+</programme>
+<programme start="20200806170300 +0800" stop="20200806174100 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年斯诺克世锦赛 第1轮 颜丙涛VS斯莱塞 20200804</title>
+</programme>
+<programme start="20200806174100 +0800" stop="20200806175000 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年斯诺克世锦赛 第1轮 第2局 20200804</title>
+</programme>
+<programme start="20200806175000 +0800" stop="20200806185300 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年斯诺克世锦赛 第1轮 6-9局 20200804</title>
+</programme>
+<programme start="20200806185300 +0800" stop="20200806202800 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年斯诺克世锦赛 第1轮 10-14局 20200804</title>
+</programme>
+<programme start="20200806202800 +0800" stop="20200806211700 +0800" channel="IPTV5+">
+<title lang="zh">标清 北京2022 20200803</title>
+</programme>
+<programme start="20200806211700 +0800" stop="20200806214200 +0800" channel="IPTV5+">
+<title lang="zh">标清 ATP周刊 20200803</title>
+</programme>
+<programme start="20200806214200 +0800" stop="20200806221000 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 女子跳马决赛 20200804</title>
+</programme>
+<programme start="20200806221000 +0800" stop="20200806224000 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 女子自由操决赛 20200804</title>
+</programme>
+<programme start="20200806224000 +0800" stop="20200806232400 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 沙滩排球女子决赛 德国VS巴西 20200804</title>
+</programme>
+<programme start="20200806232400 +0800" stop="20200806235000 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 小轮车女子半决赛 20200804</title>
+</programme>
+<programme start="20200806235000 +0800" stop="20200806235900 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 小轮车女子决赛 20200804</title>
+</programme>
+<programme start="20200806235900 +0800" stop="20200806235900 +0800" channel="IPTV5+">
+<title lang="zh">标清 健身动起来 20200804</title>
+</programme>
+<programme start="20200806003100 +0800" stop="20200806022500 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《侏罗纪世界2》(美国)</title>
+</programme>
+<programme start="20200806022500 +0800" stop="20200806040000 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《袁天罡之夺命天敌》</title>
+</programme>
+<programme start="20200806040000 +0800" stop="20200806053100 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《袁天罡之末日天劫》</title>
+</programme>
+<programme start="20200806053100 +0800" stop="20200806065800 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《柴生芳》</title>
+</programme>
+<programme start="20200806065800 +0800" stop="20200806082900 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《偷心者》</title>
+</programme>
+<programme start="20200806082900 +0800" stop="20200806100100 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《成成烽火之青山铁骑》</title>
+</programme>
+<programme start="20200806100100 +0800" stop="20200806112300 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《熊猫回家路》</title>
+</programme>
+<programme start="20200806112300 +0800" stop="20200806124600 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《寻侠英雄传之护花》</title>
+</programme>
+<programme start="20200806124600 +0800" stop="20200806140500 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《紫霞》</title>
+</programme>
+<programme start="20200806140500 +0800" stop="20200806160100 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《盗墓笔记》</title>
+</programme>
+<programme start="20200806160100 +0800" stop="20200806173100 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《幸福俏冤家》</title>
+</programme>
+<programme start="20200806173100 +0800" stop="20200806190200 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《袁天罡之末日天劫》</title>
+</programme>
+<programme start="20200806190200 +0800" stop="20200806202900 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《柴生芳》</title>
+</programme>
+<programme start="20200806202900 +0800" stop="20200806220100 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《偷心者》</title>
+</programme>
+<programme start="20200806220100 +0800" stop="20200806233300 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《成成烽火之青山铁骑》</title>
+</programme>
+<programme start="20200806233300 +0800" stop="20200806235900 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《熊猫回家路》</title>
+</programme>
+<programme start="20200806001200 +0800" stop="20200806005300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《可爱的中国》 第13集</title>
+</programme>
+<programme start="20200806005300 +0800" stop="20200806013400 +0800" channel="IPTV8+">
+<title lang="zh">标清 《可爱的中国》 第14集</title>
+</programme>
+<programme start="20200806013400 +0800" stop="20200806021600 +0800" channel="IPTV8+">
+<title lang="zh">标清 《可爱的中国》 第15集</title>
+</programme>
+<programme start="20200806021600 +0800" stop="20200806025700 +0800" channel="IPTV8+">
+<title lang="zh">标清 《谁说我结不了婚》 第16集</title>
+</programme>
+<programme start="20200806025700 +0800" stop="20200806040000 +0800" channel="IPTV8+">
+<title lang="zh">标清 《谁说我结不了婚》 第17集</title>
+</programme>
+<programme start="20200806040000 +0800" stop="20200806044100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《谁说我结不了婚》 第20集</title>
+</programme>
+<programme start="20200806044100 +0800" stop="20200806052300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《谁说我结不了婚》 第21集</title>
+</programme>
+<programme start="20200806052300 +0800" stop="20200806060400 +0800" channel="IPTV8+">
+<title lang="zh">标清 《谁说我结不了婚》 第22集</title>
+</programme>
+<programme start="20200806060400 +0800" stop="20200806064600 +0800" channel="IPTV8+">
+<title lang="zh">标清 《谁说我结不了婚》 第23集</title>
+</programme>
+<programme start="20200806064600 +0800" stop="20200806072700 +0800" channel="IPTV8+">
+<title lang="zh">标清 《安家》 第38集</title>
+</programme>
+<programme start="20200806072700 +0800" stop="20200806080900 +0800" channel="IPTV8+">
+<title lang="zh">标清 《安家》 第39集</title>
+</programme>
+<programme start="20200806080900 +0800" stop="20200806085000 +0800" channel="IPTV8+">
+<title lang="zh">标清 《安家》 第40集</title>
+</programme>
+<programme start="20200806085000 +0800" stop="20200806093200 +0800" channel="IPTV8+">
+<title lang="zh">标清 《安家》 第41集</title>
+</programme>
+<programme start="20200806093200 +0800" stop="20200806101300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第5集</title>
+</programme>
+<programme start="20200806101300 +0800" stop="20200806105500 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第6集</title>
+</programme>
+<programme start="20200806105500 +0800" stop="20200806113600 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第7集</title>
+</programme>
+<programme start="20200806113600 +0800" stop="20200806121800 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第8集</title>
+</programme>
+<programme start="20200806121800 +0800" stop="20200806130000 +0800" channel="IPTV8+">
+<title lang="zh">标清 《可爱的中国》 第16集</title>
+</programme>
+<programme start="20200806130000 +0800" stop="20200806134100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《可爱的中国》 第17集</title>
+</programme>
+<programme start="20200806134100 +0800" stop="20200806142200 +0800" channel="IPTV8+">
+<title lang="zh">标清 《可爱的中国》 第18集</title>
+</programme>
+<programme start="20200806142200 +0800" stop="20200806150400 +0800" channel="IPTV8+">
+<title lang="zh">标清 《可爱的中国》 第19集</title>
+</programme>
+<programme start="20200806150400 +0800" stop="20200806154500 +0800" channel="IPTV8+">
+<title lang="zh">标清 《谁说我结不了婚》 第20集</title>
+</programme>
+<programme start="20200806154500 +0800" stop="20200806162700 +0800" channel="IPTV8+">
+<title lang="zh">标清 《谁说我结不了婚》 第21集</title>
+</programme>
+<programme start="20200806162700 +0800" stop="20200806170900 +0800" channel="IPTV8+">
+<title lang="zh">标清 《谁说我结不了婚》 第22集</title>
+</programme>
+<programme start="20200806170900 +0800" stop="20200806175000 +0800" channel="IPTV8+">
+<title lang="zh">标清 《谁说我结不了婚》 第23集</title>
+</programme>
+<programme start="20200806175000 +0800" stop="20200806183200 +0800" channel="IPTV8+">
+<title lang="zh">标清 《安家》 第38集</title>
+</programme>
+<programme start="20200806183200 +0800" stop="20200806191300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《安家》 第39集</title>
+</programme>
+<programme start="20200806191300 +0800" stop="20200806195500 +0800" channel="IPTV8+">
+<title lang="zh">标清 《安家》 第40集</title>
+</programme>
+<programme start="20200806195500 +0800" stop="20200806203600 +0800" channel="IPTV8+">
+<title lang="zh">标清 《安家》 第41集</title>
+</programme>
+<programme start="20200806203600 +0800" stop="20200806211800 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第5集</title>
+</programme>
+<programme start="20200806211800 +0800" stop="20200806215900 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第6集</title>
+</programme>
+<programme start="20200806215900 +0800" stop="20200806224100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第7集</title>
+</programme>
+<programme start="20200806224100 +0800" stop="20200806232200 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第8集</title>
+</programme>
+<programme start="20200806232200 +0800" stop="20200806235900 +0800" channel="IPTV8+">
+<title lang="zh">标清 《可爱的中国》 第16集</title>
 </programme>
 <programme start="20200806070100 +0800" stop="20200806073000 +0800" channel="济南综合">
 <title lang="zh">济南新发现</title>

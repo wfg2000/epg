@@ -8,7 +8,7 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1  tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
 #EXTINF:-1  tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL30000005/index.m3u8
+http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/llhmg/2000205103.m3u8
 #EXTINF:-1  tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 #EXTINF:-1  tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
@@ -24,7 +24,7 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-11/1.m3u8
 #EXTINF:-1  tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
 #EXTINF:-1  tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-13/1.m3u8
+http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/llhmg/2000204603.m3u8
 #EXTINF:-1  tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1  tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
@@ -34,7 +34,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1  tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1  tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
+http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/llhmg/2001656801.m3u8
 #EXTINF:-1  tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="山东频道",山东卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
 #EXTINF:-1  tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="山东频道",山东齐鲁
@@ -105,6 +105,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1  group-title="凤凰卫视",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1  group-title="凤凰卫视",FOXActionMovies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级电视剧
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级电影
@@ -287,11 +289,14 @@ http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c19_lb_heibangdian
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t5/c16_lb_jingnawuyechang_1080p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",历史秘闻
 http://223.99.240.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c18_lb_lishimiwen_1080p_t5/c18_lb_lishimiwen_1080p_t5.m3u8
-人文社会,http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_renwenshehui_720P_t5/c15_lb_renwenshehui_720P_t5.m3u8
+#EXTINF:-1 group-title="爱奇艺",人文社会
+http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_renwenshehui_720P_t5/c15_lb_renwenshehui_720P_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",军事观察
 http://223.99.240.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c20_lb_junshiguancha_720P_t5/c20_lb_junshiguancha_720P_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",文化奇谈
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wenhuaqitan_720p_t5/c15_lb_wenhuaqitan_720p_t5.m3u8
+#EXTINF:-1 group-title="爱奇艺",奇妙世界
+http://120.221.77.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c18_lb_qimiaoshijie_720P_t5/c18_lb_qimiaoshijie_720P_t5.m3u8
 #EXTINF:-1 group-title="咪咕",MiGu高分影院
 http://kkitv.com/iptv/mg.php?id=627198191
 #EXTINF:-1 group-title="咪咕",MiGu高清影视
@@ -326,6 +331,16 @@ http://kkitv.com/iptv/mg.php?id=625681368
 http://kkitv.com/iptv/mg.php?id=623338112
 #EXTINF:-1 group-title="咪咕",MiGu刘涛作品
 http://kkitv.com/iptv/mg.php?id=625514969
+#EXTINF:-1 group-title="CIBN",CIBN电影
+http://gqys.lbcl01.cibn.cc/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?k=16a1f2573be9472216a83930f7bc0829&channel=xlmediawatch&t=1596685096&ttl=86400&type=3&videotype=loop
+#EXTINF:-1 group-title="CIBN",CIBN好莱坞
+http://gqys.lbcl02.cibn.cc/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?k=16a1f2573be9472216a83930f7bc0829&channel=xlmediawatch&t=1596685096&ttl=86400&type=3&videotype=loop
+#EXTINF:-1 group-title="CIBN",CIBN动作影院
+http://gqys.lbcl02.cibn.cc/hls/vCIBNDZYY/1800/vCIBNDZYY.m3u8?k=16a1f2573be9472216a83930f7bc0829&channel=xlmediawatch&t=1596685096&ttl=86400&type=3&videotype=loop
+#EXTINF:-1 group-title="CIBN",CIBN精品影院
+http://gqys.lbcl01.cibn.cc/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?k=16a1f2573be9472216a83930f7bc0829&channel=xlmediawatch&t=1596685096&ttl=86400&type=3&videotype=loop
+#EXTINF:-1 group-title="CIBN",CIBN院线大片
+http://gqys.lbcl02.cibn.cc/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?k=16a1f2573be9472216a83930f7bc0829&channel=xlmediawatch&t=1596685096&ttl=86400&type=3&videotype=loop
 #EXTINF:-1 group-title="求索频道",求索记录
 http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1  group-title="求索频道",求索生活
