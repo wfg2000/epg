@@ -281,6 +281,14 @@ http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 #EXTINF:-1 group-title="福建移动",FJ国产影院
 http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 group-title="福建移动",BesTV全球大片
+rtsp://112.50.242.148:554/PLTV/88888888/224/3221226748/45950069.smil
+#EXTINF:-1 group-title="福建移动",BesTV星光影院
+rtsp://112.50.242.148:554/PLTV/88888888/224/3221226816/48629572.smil
+#EXTINF:-1 group-title="福建移动",BesTV华语影院
+rtsp://112.50.242.148:554/PLTV/88888888/224/3221226757/45949783.smil
+#EXTINF:-1 group-title="福建移动",BesTV4K
+http://111.0.93.25/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="爱奇艺",豆瓣高分
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",票房收割
@@ -342,13 +350,13 @@ http://gqys.lbcl01.cibn.cc/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?k=16a1f2573be947221
 #EXTINF:-1 group-title="CIBN",CIBN院线大片
 http://gqys.lbcl02.cibn.cc/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?k=16a1f2573be9472216a83930f7bc0829&channel=xlmediawatch&t=1596685096&ttl=86400&type=3&videotype=loop
 #EXTINF:-1 group-title="求索频道",求索记录
-http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+http://125.210.152.21:9120/live/QSJLHD.m3u8
 #EXTINF:-1  group-title="求索频道",求索生活
-http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
+http://125.210.152.21:9120/live/QSSH.m3u8
 #EXTINF:-1  group-title="求索频道",求索科学
-http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
+http://125.210.152.21:9120/live/QSKX.m3u8
 #EXTINF:-1  group-title="求索频道",求索动物
-http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
+http://125.210.152.21:9120/live/QSDW.m3u8
 #EXTINF:-1 group-title="爱剧场",爱院线
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
 #EXTINF:-1 group-title="爱剧场",爱科幻

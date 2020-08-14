@@ -33,6 +33,9 @@
 <channel id="IPTV6+">
 <display-name lang="zh">IPTV6+</display-name>
 </channel>
+<channel id="IPTV8+">
+<display-name lang="zh">IPTV8+</display-name>
+</channel>
 <channel id="济南综合">
 <display-name lang="zh">济南综合</display-name>
 </channel>
@@ -45,1222 +48,1483 @@
 <channel id="临沂公共">
 <display-name lang="zh">临沂公共</display-name>
 </channel>
-<programme start="20200811000000 +0800" stop="20200811002500 +0800" channel="法治天地">
-<title lang="zh">庭审直播精编版(869)</title>
+<programme start="20200814000000 +0800" stop="20200814003000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面</title>
 </programme>
-<programme start="20200811002500 +0800" stop="20200811060000 +0800" channel="法治天地">
-<title lang="zh">MV:这里有我</title>
+<programme start="20200814003000 +0800" stop="20200814003800 +0800" channel="法治天地">
+<title lang="zh">首届上海检察风云演说会:谷晓丽</title>
 </programme>
-<programme start="20200811060000 +0800" stop="20200811062000 +0800" channel="法治天地">
-<title lang="zh">律师界</title>
+<programme start="20200814003800 +0800" stop="20200814011300 +0800" channel="法治天地">
+<title lang="zh">过年合约</title>
 </programme>
-<programme start="20200811062000 +0800" stop="20200811063000 +0800" channel="法治天地">
+<programme start="20200814011300 +0800" stop="20200814015200 +0800" channel="法治天地">
+<title lang="zh">怀孕那些事</title>
+</programme>
+<programme start="20200814015200 +0800" stop="20200814020000 +0800" channel="法治天地">
+<title lang="zh">首届上海检察风云演说会:邓忠华</title>
+</programme>
+<programme start="20200814020000 +0800" stop="20200814022000 +0800" channel="法治天地">
+<title lang="zh">律师讲堂</title>
+</programme>
+<programme start="20200814022000 +0800" stop="20200814023000 +0800" channel="法治天地">
+<title lang="zh">首届上海检察风云演说会</title>
+</programme>
+<programme start="20200814023000 +0800" stop="20200814030000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面</title>
+</programme>
+<programme start="20200814030000 +0800" stop="20200814031000 +0800" channel="法治天地">
+<title lang="zh">首届上海检察风云演说会</title>
+</programme>
+<programme start="20200814031000 +0800" stop="20200814032000 +0800" channel="法治天地">
+<title lang="zh">禁毒视窗</title>
+</programme>
+<programme start="20200814032000 +0800" stop="20200814033000 +0800" channel="法治天地">
+<title lang="zh">首届上海检察风云演说会</title>
+</programme>
+<programme start="20200814033000 +0800" stop="20200814035000 +0800" channel="法治天地">
+<title lang="zh">记者调查</title>
+</programme>
+<programme start="20200814035000 +0800" stop="20200814035900 +0800" channel="法治天地">
+<title lang="zh">首届上海检察风云演说会</title>
+</programme>
+<programme start="20200814035900 +0800" stop="20200814040500 +0800" channel="法治天地">
+<title lang="zh">老交警与新司机3(2)</title>
+</programme>
+<programme start="20200814040500 +0800" stop="20200814044000 +0800" channel="法治天地">
+<title lang="zh">过年合约</title>
+</programme>
+<programme start="20200814044000 +0800" stop="20200814051900 +0800" channel="法治天地">
+<title lang="zh">怀孕那些事</title>
+</programme>
+<programme start="20200814051900 +0800" stop="20200814053000 +0800" channel="法治天地">
+<title lang="zh">首届上海检察风云演说会</title>
+</programme>
+<programme start="20200814053000 +0800" stop="20200814060100 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面</title>
+</programme>
+<programme start="20200814060100 +0800" stop="20200814061000 +0800" channel="法治天地">
 <title lang="zh">首届上海检察风云演说会:周子简</title>
 </programme>
-<programme start="20200811063000 +0800" stop="20200811070000 +0800" channel="法治天地">
-<title lang="zh">和大律师面对面</title>
-</programme>
-<programme start="20200811070000 +0800" stop="20200811072000 +0800" channel="法治天地">
+<programme start="20200814061000 +0800" stop="20200814062000 +0800" channel="法治天地">
 <title lang="zh">禁毒视窗</title>
 </programme>
-<programme start="20200811072000 +0800" stop="20200811073000 +0800" channel="法治天地">
+<programme start="20200814062000 +0800" stop="20200814063000 +0800" channel="法治天地">
+<title lang="zh">首届上海检察风云演说会</title>
+</programme>
+<programme start="20200814063000 +0800" stop="20200814070000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面</title>
+</programme>
+<programme start="20200814070000 +0800" stop="20200814072000 +0800" channel="法治天地">
+<title lang="zh">律师讲堂</title>
+</programme>
+<programme start="20200814072000 +0800" stop="20200814073000 +0800" channel="法治天地">
 <title lang="zh">法说百姓事</title>
 </programme>
-<programme start="20200811073000 +0800" stop="20200811074500 +0800" channel="法治天地">
-<title lang="zh">大律师精编</title>
+<programme start="20200814073000 +0800" stop="20200814075000 +0800" channel="法治天地">
+<title lang="zh">记者调查</title>
 </programme>
-<programme start="20200811074500 +0800" stop="20200811075000 +0800" channel="法治天地">
-<title lang="zh">MV:这里有我</title>
-</programme>
-<programme start="20200811075000 +0800" stop="20200811080000 +0800" channel="法治天地">
+<programme start="20200814075000 +0800" stop="20200814080000 +0800" channel="法治天地">
 <title lang="zh">法眼看生活</title>
 </programme>
-<programme start="20200811080000 +0800" stop="20200811082100 +0800" channel="法治天地">
-<title lang="zh">律师界</title>
-</programme>
-<programme start="20200811082100 +0800" stop="20200811083000 +0800" channel="法治天地">
-<title lang="zh">首届上海检察风云演说会:马玮玮</title>
-</programme>
-<programme start="20200811083000 +0800" stop="20200811090300 +0800" channel="法治天地">
-<title lang="zh">和大律师面对面</title>
-</programme>
-<programme start="20200811090300 +0800" stop="20200811094400 +0800" channel="法治天地">
-<title lang="zh">回到我身边</title>
-</programme>
-<programme start="20200811094400 +0800" stop="20200811102400 +0800" channel="法治天地">
-<title lang="zh">被侵犯的爱</title>
-</programme>
-<programme start="20200811102400 +0800" stop="20200811103000 +0800" channel="法治天地">
-<title lang="zh">老交警与新司机3(1)</title>
-</programme>
-<programme start="20200811103000 +0800" stop="20200811110000 +0800" channel="法治天地">
-<title lang="zh">和大律师面对面</title>
-</programme>
-<programme start="20200811110000 +0800" stop="20200811112000 +0800" channel="法治天地">
+<programme start="20200814080000 +0800" stop="20200814081000 +0800" channel="法治天地">
 <title lang="zh">禁毒视窗</title>
 </programme>
-<programme start="20200811112000 +0800" stop="20200811113000 +0800" channel="法治天地">
-<title lang="zh">法眼看生活</title>
-</programme>
-<programme start="20200811113000 +0800" stop="20200811120000 +0800" channel="法治天地">
-<title lang="zh">法治新闻</title>
-</programme>
-<programme start="20200811120000 +0800" stop="20200811123000 +0800" channel="法治天地">
-<title lang="zh">和大律师面对面</title>
-</programme>
-<programme start="20200811123000 +0800" stop="20200811125100 +0800" channel="法治天地">
-<title lang="zh">律师界</title>
-</programme>
-<programme start="20200811125100 +0800" stop="20200811130000 +0800" channel="法治天地">
-<title lang="zh">首届上海检察风云演说会:陈苹</title>
-</programme>
-<programme start="20200811130000 +0800" stop="20200811131000 +0800" channel="法治天地">
-<title lang="zh">法眼看生活</title>
-</programme>
-<programme start="20200811131000 +0800" stop="20200811132500 +0800" channel="法治天地">
-<title lang="zh">大律师精编</title>
-</programme>
-<programme start="20200811132500 +0800" stop="20200811133200 +0800" channel="法治天地">
-<title lang="zh">MV:这里有我</title>
-</programme>
-<programme start="20200811133200 +0800" stop="20200811141300 +0800" channel="法治天地">
-<title lang="zh">回到我身边</title>
-</programme>
-<programme start="20200811141300 +0800" stop="20200811145400 +0800" channel="法治天地">
-<title lang="zh">被侵犯的爱</title>
-</programme>
-<programme start="20200811145400 +0800" stop="20200811150500 +0800" channel="法治天地">
+<programme start="20200814081000 +0800" stop="20200814082300 +0800" channel="法治天地">
 <title lang="zh">首届上海检察风云演说会</title>
 </programme>
-<programme start="20200811150500 +0800" stop="20200811153500 +0800" channel="法治天地">
+<programme start="20200814082300 +0800" stop="20200814082900 +0800" channel="法治天地">
+<title lang="zh">老交警与新司机3(2)</title>
+</programme>
+<programme start="20200814082900 +0800" stop="20200814090000 +0800" channel="法治天地">
 <title lang="zh">和大律师面对面</title>
 </programme>
-<programme start="20200811153500 +0800" stop="20200811155500 +0800" channel="法治天地">
+<programme start="20200814090000 +0800" stop="20200814090800 +0800" channel="法治天地">
+<title lang="zh">首届上海检察风云演说会:高峰</title>
+</programme>
+<programme start="20200814090800 +0800" stop="20200814094300 +0800" channel="法治天地">
+<title lang="zh">过年合约</title>
+</programme>
+<programme start="20200814094300 +0800" stop="20200814102200 +0800" channel="法治天地">
+<title lang="zh">怀孕那些事</title>
+</programme>
+<programme start="20200814102200 +0800" stop="20200814103000 +0800" channel="法治天地">
+<title lang="zh">首届上海检察风云演说会:邓忠华</title>
+</programme>
+<programme start="20200814103000 +0800" stop="20200814110000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面</title>
+</programme>
+<programme start="20200814110000 +0800" stop="20200814112000 +0800" channel="法治天地">
+<title lang="zh">律师讲堂</title>
+</programme>
+<programme start="20200814112000 +0800" stop="20200814113000 +0800" channel="法治天地">
+<title lang="zh">法眼看生活</title>
+</programme>
+<programme start="20200814113000 +0800" stop="20200814120000 +0800" channel="法治天地">
+<title lang="zh">法治新闻</title>
+</programme>
+<programme start="20200814120000 +0800" stop="20200814123500 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面</title>
+</programme>
+<programme start="20200814123500 +0800" stop="20200814124500 +0800" channel="法治天地">
 <title lang="zh">禁毒视窗</title>
 </programme>
-<programme start="20200811155500 +0800" stop="20200811161000 +0800" channel="法治天地">
-<title lang="zh">大律师精编</title>
-</programme>
-<programme start="20200811161000 +0800" stop="20200811161500 +0800" channel="法治天地">
-<title lang="zh">MV:这里有我</title>
-</programme>
-<programme start="20200811161500 +0800" stop="20200811162900 +0800" channel="法治天地">
-<title lang="zh">法眼看生活</title>
-</programme>
-<programme start="20200811162900 +0800" stop="20200811163800 +0800" channel="法治天地">
+<programme start="20200814124500 +0800" stop="20200814130000 +0800" channel="法治天地">
 <title lang="zh">首届上海检察风云演说会</title>
 </programme>
-<programme start="20200811163800 +0800" stop="20200811171900 +0800" channel="法治天地">
-<title lang="zh">回到我身边</title>
-</programme>
-<programme start="20200811171900 +0800" stop="20200811180000 +0800" channel="法治天地">
-<title lang="zh">被侵犯的爱</title>
-</programme>
-<programme start="20200811180000 +0800" stop="20200811183000 +0800" channel="法治天地">
-<title lang="zh">和大律师面对面</title>
-</programme>
-<programme start="20200811183000 +0800" stop="20200811190400 +0800" channel="法治天地">
-<title lang="zh">法治新闻</title>
-</programme>
-<programme start="20200811190400 +0800" stop="20200811190800 +0800" channel="法治天地">
-<title lang="zh">MV:这里有我</title>
-</programme>
-<programme start="20200811190800 +0800" stop="20200811191700 +0800" channel="法治天地">
-<title lang="zh">首届上海检察风云演说会:马玮玮</title>
-</programme>
-<programme start="20200811191700 +0800" stop="20200811195600 +0800" channel="法治天地">
-<title lang="zh">变形记(上)</title>
-</programme>
-<programme start="20200811195600 +0800" stop="20200811203600 +0800" channel="法治天地">
-<title lang="zh">变形记(下)</title>
-</programme>
-<programme start="20200811203600 +0800" stop="20200811204500 +0800" channel="法治天地">
-<title lang="zh">首届上海检察风云演说会:许靖</title>
-</programme>
-<programme start="20200811204500 +0800" stop="20200811205600 +0800" channel="法治天地">
-<title lang="zh">法说百姓事</title>
-</programme>
-<programme start="20200811205600 +0800" stop="20200811210000 +0800" channel="法治天地">
-<title lang="zh">MV:这里有我</title>
-</programme>
-<programme start="20200811210000 +0800" stop="20200811211000 +0800" channel="法治天地">
+<programme start="20200814130000 +0800" stop="20200814131300 +0800" channel="法治天地">
 <title lang="zh">法眼看生活</title>
 </programme>
-<programme start="20200811211000 +0800" stop="20200811212500 +0800" channel="法治天地">
-<title lang="zh">大律师精编</title>
+<programme start="20200814131300 +0800" stop="20200814133300 +0800" channel="法治天地">
+<title lang="zh">记者调查</title>
 </programme>
-<programme start="20200811212500 +0800" stop="20200811213000 +0800" channel="法治天地">
-<title lang="zh">MV:这里有我</title>
-</programme>
-<programme start="20200811213000 +0800" stop="20200811214000 +0800" channel="法治天地">
-<title lang="zh">法说百姓事</title>
-</programme>
-<programme start="20200811214000 +0800" stop="20200811220000 +0800" channel="法治天地">
-<title lang="zh">律师讲堂(953):郑健</title>
-</programme>
-<programme start="20200811220000 +0800" stop="20200811223000 +0800" channel="法治天地">
-<title lang="zh">和大律师面对面</title>
-</programme>
-<programme start="20200811223000 +0800" stop="20200811230400 +0800" channel="法治天地">
-<title lang="zh">法治新闻</title>
-</programme>
-<programme start="20200811230400 +0800" stop="20200811231500 +0800" channel="法治天地">
-<title lang="zh">法说百姓事</title>
-</programme>
-<programme start="20200811231500 +0800" stop="20200811231900 +0800" channel="法治天地">
-<title lang="zh">MV:这里有我</title>
-</programme>
-<programme start="20200811231900 +0800" stop="20200811233000 +0800" channel="法治天地">
+<programme start="20200814133300 +0800" stop="20200814134600 +0800" channel="法治天地">
 <title lang="zh">首届上海检察风云演说会</title>
 </programme>
-<programme start="20200811233000 +0800" stop="20200811234500 +0800" channel="法治天地">
-<title lang="zh">大律师精编</title>
+<programme start="20200814134600 +0800" stop="20200814142100 +0800" channel="法治天地">
+<title lang="zh">过年合约</title>
 </programme>
-<programme start="20200811234500 +0800" stop="20200811235000 +0800" channel="法治天地">
-<title lang="zh">MV:这里有我</title>
+<programme start="20200814142100 +0800" stop="20200814150500 +0800" channel="法治天地">
+<title lang="zh">怀孕那些事</title>
 </programme>
-<programme start="20200811235000 +0800" stop="20200811235900 +0800" channel="法治天地">
+<programme start="20200814150500 +0800" stop="20200814153500 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面</title>
+</programme>
+<programme start="20200814153500 +0800" stop="20200814155500 +0800" channel="法治天地">
+<title lang="zh">律师讲堂</title>
+</programme>
+<programme start="20200814155500 +0800" stop="20200814161500 +0800" channel="法治天地">
+<title lang="zh">记者调查</title>
+</programme>
+<programme start="20200814161500 +0800" stop="20200814162900 +0800" channel="法治天地">
 <title lang="zh">法眼看生活</title>
 </programme>
-<programme start="20200811000000 +0800" stop="20200811001300 +0800" channel="动漫秀场">
-<title lang="zh">哈哈!地球人2(18)</title>
+<programme start="20200814162900 +0800" stop="20200814163900 +0800" channel="法治天地">
+<title lang="zh">首届上海检察风云演说会:王卓</title>
 </programme>
-<programme start="20200811001300 +0800" stop="20200811002500 +0800" channel="动漫秀场">
-<title lang="zh">哈哈!地球人2(19)</title>
+<programme start="20200814163900 +0800" stop="20200814171400 +0800" channel="法治天地">
+<title lang="zh">过年合约</title>
 </programme>
-<programme start="20200811002500 +0800" stop="20200811060000 +0800" channel="动漫秀场">
-<title lang="zh">少儿动画精彩片段(18)</title>
+<programme start="20200814171400 +0800" stop="20200814175400 +0800" channel="法治天地">
+<title lang="zh">怀孕那些事</title>
 </programme>
-<programme start="20200811060000 +0800" stop="20200811061500 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠2(19)</title>
+<programme start="20200814175400 +0800" stop="20200814180000 +0800" channel="法治天地">
+<title lang="zh">老交警与新司机3(9)</title>
 </programme>
-<programme start="20200811061500 +0800" stop="20200811063000 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠2(20)</title>
+<programme start="20200814180000 +0800" stop="20200814183000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面</title>
 </programme>
-<programme start="20200811063000 +0800" stop="20200811064500 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠2(21)</title>
+<programme start="20200814183000 +0800" stop="20200814190400 +0800" channel="法治天地">
+<title lang="zh">法治新闻</title>
 </programme>
-<programme start="20200811064500 +0800" stop="20200811065900 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠2(22)</title>
+<programme start="20200814190400 +0800" stop="20200814194700 +0800" channel="法治天地">
+<title lang="zh">两个闪婚的女人(上)</title>
 </programme>
-<programme start="20200811065900 +0800" stop="20200811072300 +0800" channel="动漫秀场">
-<title lang="zh">精灵梦叶罗丽6(22)</title>
+<programme start="20200814194700 +0800" stop="20200814203500 +0800" channel="法治天地">
+<title lang="zh">两个闪婚的女人(下)</title>
 </programme>
-<programme start="20200811072300 +0800" stop="20200811074500 +0800" channel="动漫秀场">
-<title lang="zh">精灵梦叶罗丽6(23)</title>
+<programme start="20200814203500 +0800" stop="20200814210000 +0800" channel="法治天地">
+<title lang="zh">庭审直播精编版</title>
 </programme>
-<programme start="20200811074500 +0800" stop="20200811081000 +0800" channel="动漫秀场">
-<title lang="zh">精灵梦叶罗丽6(24)</title>
+<programme start="20200814210000 +0800" stop="20200814211000 +0800" channel="法治天地">
+<title lang="zh">法眼看生活</title>
 </programme>
-<programme start="20200811081000 +0800" stop="20200811082300 +0800" channel="动漫秀场">
-<title lang="zh">哈哈!地球人2(22)</title>
+<programme start="20200814211000 +0800" stop="20200814213000 +0800" channel="法治天地">
+<title lang="zh">记者调查</title>
 </programme>
-<programme start="20200811082300 +0800" stop="20200811083600 +0800" channel="动漫秀场">
-<title lang="zh">哈哈!地球人2(23)</title>
+<programme start="20200814213000 +0800" stop="20200814214000 +0800" channel="法治天地">
+<title lang="zh">法说百姓事</title>
 </programme>
-<programme start="20200811083600 +0800" stop="20200811084800 +0800" channel="动漫秀场">
-<title lang="zh">彩虹宝宝1(14)</title>
+<programme start="20200814214000 +0800" stop="20200814220000 +0800" channel="法治天地">
+<title lang="zh">律师讲堂(901):孙鸣民</title>
 </programme>
-<programme start="20200811084800 +0800" stop="20200811090000 +0800" channel="动漫秀场">
-<title lang="zh">彩虹宝宝1(15)</title>
+<programme start="20200814220000 +0800" stop="20200814223000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面</title>
 </programme>
-<programme start="20200811090000 +0800" stop="20200811091300 +0800" channel="动漫秀场">
-<title lang="zh">彩虹宝宝1(16)</title>
+<programme start="20200814223000 +0800" stop="20200814230000 +0800" channel="法治天地">
+<title lang="zh">法治新闻</title>
 </programme>
-<programme start="20200811091300 +0800" stop="20200811092800 +0800" channel="动漫秀场">
-<title lang="zh">逗逗迪迪之美梦精灵1(7)</title>
+<programme start="20200814230000 +0800" stop="20200814232600 +0800" channel="法治天地">
+<title lang="zh">庭审直播精编版</title>
 </programme>
-<programme start="20200811092800 +0800" stop="20200811094300 +0800" channel="动漫秀场">
-<title lang="zh">逗逗迪迪之美梦精灵1:丹麦公主</title>
+<programme start="20200814232600 +0800" stop="20200814233000 +0800" channel="法治天地">
+<title lang="zh">MV:这里有我</title>
 </programme>
-<programme start="20200811094300 +0800" stop="20200811095600 +0800" channel="动漫秀场">
-<title lang="zh">帮帮龙出动1(9)</title>
+<programme start="20200814233000 +0800" stop="20200814235000 +0800" channel="法治天地">
+<title lang="zh">记者调查</title>
 </programme>
-<programme start="20200811095600 +0800" stop="20200811101000 +0800" channel="动漫秀场">
-<title lang="zh">帮帮龙出动1(10)</title>
+<programme start="20200814235000 +0800" stop="20200814235900 +0800" channel="法治天地">
+<title lang="zh">法眼看生活</title>
 </programme>
-<programme start="20200811101000 +0800" stop="20200811102500 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠2(23)</title>
-</programme>
-<programme start="20200811102500 +0800" stop="20200811104000 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠2(24)</title>
-</programme>
-<programme start="20200811104000 +0800" stop="20200811105500 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠2(25)</title>
-</programme>
-<programme start="20200811105500 +0800" stop="20200811111200 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠2(26)</title>
-</programme>
-<programme start="20200811111200 +0800" stop="20200811113400 +0800" channel="动漫秀场">
-<title lang="zh">精灵梦叶罗丽6(25)</title>
-</programme>
-<programme start="20200811113400 +0800" stop="20200811115600 +0800" channel="动漫秀场">
-<title lang="zh">精灵梦叶罗丽6(26)</title>
-</programme>
-<programme start="20200811115600 +0800" stop="20200811121000 +0800" channel="动漫秀场">
-<title lang="zh">超级飞侠6(1)</title>
-</programme>
-<programme start="20200811121000 +0800" stop="20200811122300 +0800" channel="动漫秀场">
+<programme start="20200814000000 +0800" stop="20200814001300 +0800" channel="动漫秀场">
 <title lang="zh">哈哈!地球人2(24)</title>
 </programme>
-<programme start="20200811122300 +0800" stop="20200811123500 +0800" channel="动漫秀场">
+<programme start="20200814001300 +0800" stop="20200814002500 +0800" channel="动漫秀场">
 <title lang="zh">哈哈!地球人2(25)</title>
 </programme>
-<programme start="20200811123500 +0800" stop="20200811124700 +0800" channel="动漫秀场">
+<programme start="20200814002500 +0800" stop="20200814003700 +0800" channel="动漫秀场">
 <title lang="zh">彩虹宝宝1(17)</title>
 </programme>
-<programme start="20200811124700 +0800" stop="20200811125900 +0800" channel="动漫秀场">
+<programme start="20200814003700 +0800" stop="20200814004900 +0800" channel="动漫秀场">
 <title lang="zh">彩虹宝宝1(18)</title>
 </programme>
-<programme start="20200811125900 +0800" stop="20200811131500 +0800" channel="动漫秀场">
+<programme start="20200814004900 +0800" stop="20200814010100 +0800" channel="动漫秀场">
 <title lang="zh">彩虹宝宝1(19)</title>
 </programme>
-<programme start="20200811131500 +0800" stop="20200811133000 +0800" channel="动漫秀场">
+<programme start="20200814010100 +0800" stop="20200814011600 +0800" channel="动漫秀场">
 <title lang="zh">逗逗迪迪之美梦精灵1(9)</title>
 </programme>
-<programme start="20200811133000 +0800" stop="20200811134500 +0800" channel="动漫秀场">
+<programme start="20200814011600 +0800" stop="20200814013200 +0800" channel="动漫秀场">
 <title lang="zh">逗逗迪迪之美梦精灵1:美国导演</title>
 </programme>
-<programme start="20200811134500 +0800" stop="20200811135800 +0800" channel="动漫秀场">
+<programme start="20200814013200 +0800" stop="20200814014500 +0800" channel="动漫秀场">
 <title lang="zh">帮帮龙出动1(11)</title>
 </programme>
-<programme start="20200811135800 +0800" stop="20200811141500 +0800" channel="动漫秀场">
+<programme start="20200814014500 +0800" stop="20200814015800 +0800" channel="动漫秀场">
 <title lang="zh">帮帮龙出动1(12)</title>
 </programme>
-<programme start="20200811141500 +0800" stop="20200811143000 +0800" channel="动漫秀场">
+<programme start="20200814015800 +0800" stop="20200814021300 +0800" channel="动漫秀场">
 <title lang="zh">猪猪侠之超星萌宠3(1)</title>
 </programme>
-<programme start="20200811143000 +0800" stop="20200811144500 +0800" channel="动漫秀场">
+<programme start="20200814021300 +0800" stop="20200814022800 +0800" channel="动漫秀场">
 <title lang="zh">猪猪侠之超星萌宠3(2)</title>
 </programme>
-<programme start="20200811144500 +0800" stop="20200811150000 +0800" channel="动漫秀场">
+<programme start="20200814022800 +0800" stop="20200814024300 +0800" channel="动漫秀场">
 <title lang="zh">猪猪侠之超星萌宠3(3)</title>
 </programme>
-<programme start="20200811150000 +0800" stop="20200811152000 +0800" channel="动漫秀场">
+<programme start="20200814024300 +0800" stop="20200814025800 +0800" channel="动漫秀场">
 <title lang="zh">猪猪侠之超星萌宠3(4)</title>
 </programme>
-<programme start="20200811152000 +0800" stop="20200811153100 +0800" channel="动漫秀场">
+<programme start="20200814025800 +0800" stop="20200814031000 +0800" channel="动漫秀场">
 <title lang="zh">超级飞侠6(2)</title>
 </programme>
-<programme start="20200811153100 +0800" stop="20200811154300 +0800" channel="动漫秀场">
+<programme start="20200814031000 +0800" stop="20200814032100 +0800" channel="动漫秀场">
 <title lang="zh">超级飞侠6(3)</title>
 </programme>
-<programme start="20200811154300 +0800" stop="20200811155500 +0800" channel="动漫秀场">
+<programme start="20200814032100 +0800" stop="20200814033300 +0800" channel="动漫秀场">
 <title lang="zh">超级飞侠6(4)</title>
 </programme>
-<programme start="20200811155500 +0800" stop="20200811160000 +0800" channel="动漫秀场">
-<title lang="zh">少儿动画精彩片段(27)</title>
+<programme start="20200814033300 +0800" stop="20200814034500 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(5)</title>
 </programme>
-<programme start="20200811160000 +0800" stop="20200811161300 +0800" channel="动漫秀场">
-<title lang="zh">警车联盟(2)</title>
+<programme start="20200814034500 +0800" stop="20200814040100 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(6)</title>
 </programme>
-<programme start="20200811161300 +0800" stop="20200811162600 +0800" channel="动漫秀场">
-<title lang="zh">警车联盟(3)</title>
-</programme>
-<programme start="20200811162600 +0800" stop="20200811163800 +0800" channel="动漫秀场">
-<title lang="zh">彩虹宝宝1(23)</title>
-</programme>
-<programme start="20200811163800 +0800" stop="20200811165000 +0800" channel="动漫秀场">
-<title lang="zh">彩虹宝宝1(24)</title>
-</programme>
-<programme start="20200811165000 +0800" stop="20200811170300 +0800" channel="动漫秀场">
-<title lang="zh">彩虹宝宝1(25)</title>
-</programme>
-<programme start="20200811170300 +0800" stop="20200811171800 +0800" channel="动漫秀场">
-<title lang="zh">逗逗迪迪之美梦精灵1(13)</title>
-</programme>
-<programme start="20200811171800 +0800" stop="20200811173300 +0800" channel="动漫秀场">
-<title lang="zh">逗逗迪迪之美梦精灵2(1)</title>
-</programme>
-<programme start="20200811173300 +0800" stop="20200811174600 +0800" channel="动漫秀场">
-<title lang="zh">帮帮龙出动1(15)</title>
-</programme>
-<programme start="20200811174600 +0800" stop="20200811180100 +0800" channel="动漫秀场">
-<title lang="zh">帮帮龙出动1(16)</title>
-</programme>
-<programme start="20200811180100 +0800" stop="20200811181600 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠3(9)</title>
-</programme>
-<programme start="20200811181600 +0800" stop="20200811183100 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠3(10)</title>
-</programme>
-<programme start="20200811183100 +0800" stop="20200811184500 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠3(11)</title>
-</programme>
-<programme start="20200811184500 +0800" stop="20200811190200 +0800" channel="动漫秀场">
-<title lang="zh">猪猪侠之超星萌宠3(12)</title>
-</programme>
-<programme start="20200811190200 +0800" stop="20200811191400 +0800" channel="动漫秀场">
-<title lang="zh">超级飞侠6(12)</title>
-</programme>
-<programme start="20200811191400 +0800" stop="20200811192600 +0800" channel="动漫秀场">
-<title lang="zh">超级飞侠6(13)</title>
-</programme>
-<programme start="20200811192600 +0800" stop="20200811193800 +0800" channel="动漫秀场">
-<title lang="zh">超级飞侠6(14)</title>
-</programme>
-<programme start="20200811193800 +0800" stop="20200811195000 +0800" channel="动漫秀场">
-<title lang="zh">超级飞侠6(15)</title>
-</programme>
-<programme start="20200811195000 +0800" stop="20200811200500 +0800" channel="动漫秀场">
-<title lang="zh">超级飞侠6(16)</title>
-</programme>
-<programme start="20200811200500 +0800" stop="20200811201800 +0800" channel="动漫秀场">
+<programme start="20200814040100 +0800" stop="20200814041300 +0800" channel="动漫秀场">
 <title lang="zh">哈哈!地球人2(26)</title>
 </programme>
-<programme start="20200811201800 +0800" stop="20200811203100 +0800" channel="动漫秀场">
+<programme start="20200814041300 +0800" stop="20200814042600 +0800" channel="动漫秀场">
 <title lang="zh">警车联盟(1)</title>
 </programme>
-<programme start="20200811203100 +0800" stop="20200811204200 +0800" channel="动漫秀场">
+<programme start="20200814042600 +0800" stop="20200814043800 +0800" channel="动漫秀场">
 <title lang="zh">彩虹宝宝1(20)</title>
 </programme>
-<programme start="20200811204200 +0800" stop="20200811205400 +0800" channel="动漫秀场">
+<programme start="20200814043800 +0800" stop="20200814045000 +0800" channel="动漫秀场">
 <title lang="zh">彩虹宝宝1(21)</title>
 </programme>
-<programme start="20200811205400 +0800" stop="20200811210800 +0800" channel="动漫秀场">
+<programme start="20200814045000 +0800" stop="20200814050200 +0800" channel="动漫秀场">
 <title lang="zh">彩虹宝宝1(22)</title>
 </programme>
-<programme start="20200811210800 +0800" stop="20200811212300 +0800" channel="动漫秀场">
+<programme start="20200814050200 +0800" stop="20200814051700 +0800" channel="动漫秀场">
 <title lang="zh">逗逗迪迪之美梦精灵1:德国牙医</title>
 </programme>
-<programme start="20200811212300 +0800" stop="20200811214000 +0800" channel="动漫秀场">
+<programme start="20200814051700 +0800" stop="20200814053300 +0800" channel="动漫秀场">
 <title lang="zh">逗逗迪迪之美梦精灵1(12)</title>
 </programme>
-<programme start="20200811214000 +0800" stop="20200811215300 +0800" channel="动漫秀场">
+<programme start="20200814053300 +0800" stop="20200814054600 +0800" channel="动漫秀场">
 <title lang="zh">帮帮龙出动1(13)</title>
 </programme>
-<programme start="20200811215300 +0800" stop="20200811220600 +0800" channel="动漫秀场">
+<programme start="20200814054600 +0800" stop="20200814055900 +0800" channel="动漫秀场">
 <title lang="zh">帮帮龙出动1(14)</title>
 </programme>
-<programme start="20200811220600 +0800" stop="20200811222100 +0800" channel="动漫秀场">
+<programme start="20200814055900 +0800" stop="20200814061300 +0800" channel="动漫秀场">
 <title lang="zh">猪猪侠之超星萌宠3(5)</title>
 </programme>
-<programme start="20200811222100 +0800" stop="20200811223600 +0800" channel="动漫秀场">
+<programme start="20200814061300 +0800" stop="20200814062800 +0800" channel="动漫秀场">
 <title lang="zh">猪猪侠之超星萌宠3(6)</title>
 </programme>
-<programme start="20200811223600 +0800" stop="20200811225000 +0800" channel="动漫秀场">
+<programme start="20200814062800 +0800" stop="20200814064300 +0800" channel="动漫秀场">
 <title lang="zh">猪猪侠之超星萌宠3(7)</title>
 </programme>
-<programme start="20200811225000 +0800" stop="20200811230500 +0800" channel="动漫秀场">
+<programme start="20200814064300 +0800" stop="20200814065800 +0800" channel="动漫秀场">
 <title lang="zh">猪猪侠之超星萌宠3(8)</title>
 </programme>
-<programme start="20200811230500 +0800" stop="20200811231700 +0800" channel="动漫秀场">
+<programme start="20200814065800 +0800" stop="20200814071000 +0800" channel="动漫秀场">
 <title lang="zh">超级飞侠6(7)</title>
 </programme>
-<programme start="20200811231700 +0800" stop="20200811232900 +0800" channel="动漫秀场">
+<programme start="20200814071000 +0800" stop="20200814072200 +0800" channel="动漫秀场">
 <title lang="zh">超级飞侠6(8)</title>
 </programme>
-<programme start="20200811232900 +0800" stop="20200811234100 +0800" channel="动漫秀场">
+<programme start="20200814072200 +0800" stop="20200814073400 +0800" channel="动漫秀场">
 <title lang="zh">超级飞侠6(9)</title>
 </programme>
-<programme start="20200811234100 +0800" stop="20200811235400 +0800" channel="动漫秀场">
+<programme start="20200814073400 +0800" stop="20200814074600 +0800" channel="动漫秀场">
 <title lang="zh">超级飞侠6(10)</title>
 </programme>
-<programme start="20200811235400 +0800" stop="20200811235900 +0800" channel="动漫秀场">
-<title lang="zh">少儿动画精彩片段(17)</title>
+<programme start="20200814074600 +0800" stop="20200814080000 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(11)</title>
 </programme>
-<programme start="20200811003200 +0800" stop="20200811020700 +0800" channel="动作影院">
+<programme start="20200814080000 +0800" stop="20200814081300 +0800" channel="动漫秀场">
+<title lang="zh">警车联盟(2)</title>
+</programme>
+<programme start="20200814081300 +0800" stop="20200814082600 +0800" channel="动漫秀场">
+<title lang="zh">警车联盟(3)</title>
+</programme>
+<programme start="20200814082600 +0800" stop="20200814083800 +0800" channel="动漫秀场">
+<title lang="zh">彩虹宝宝1(23)</title>
+</programme>
+<programme start="20200814083800 +0800" stop="20200814085000 +0800" channel="动漫秀场">
+<title lang="zh">彩虹宝宝1(24)</title>
+</programme>
+<programme start="20200814085000 +0800" stop="20200814090300 +0800" channel="动漫秀场">
+<title lang="zh">彩虹宝宝1(25)</title>
+</programme>
+<programme start="20200814090300 +0800" stop="20200814091800 +0800" channel="动漫秀场">
+<title lang="zh">逗逗迪迪之美梦精灵1(13)</title>
+</programme>
+<programme start="20200814091800 +0800" stop="20200814093300 +0800" channel="动漫秀场">
+<title lang="zh">逗逗迪迪之美梦精灵2(1)</title>
+</programme>
+<programme start="20200814093300 +0800" stop="20200814094600 +0800" channel="动漫秀场">
+<title lang="zh">帮帮龙出动1(15)</title>
+</programme>
+<programme start="20200814094600 +0800" stop="20200814100100 +0800" channel="动漫秀场">
+<title lang="zh">帮帮龙出动1(16)</title>
+</programme>
+<programme start="20200814100100 +0800" stop="20200814101600 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(9)</title>
+</programme>
+<programme start="20200814101600 +0800" stop="20200814103100 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(10)</title>
+</programme>
+<programme start="20200814103100 +0800" stop="20200814104500 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(11)</title>
+</programme>
+<programme start="20200814104500 +0800" stop="20200814110200 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(12)</title>
+</programme>
+<programme start="20200814110200 +0800" stop="20200814111400 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(12)</title>
+</programme>
+<programme start="20200814111400 +0800" stop="20200814112600 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(13)</title>
+</programme>
+<programme start="20200814112600 +0800" stop="20200814113800 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(14)</title>
+</programme>
+<programme start="20200814113800 +0800" stop="20200814115000 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(15)</title>
+</programme>
+<programme start="20200814115000 +0800" stop="20200814120300 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(16)</title>
+</programme>
+<programme start="20200814120300 +0800" stop="20200814121600 +0800" channel="动漫秀场">
+<title lang="zh">警车联盟(4)</title>
+</programme>
+<programme start="20200814121600 +0800" stop="20200814122900 +0800" channel="动漫秀场">
+<title lang="zh">警车联盟(5)</title>
+</programme>
+<programme start="20200814122900 +0800" stop="20200814124100 +0800" channel="动漫秀场">
+<title lang="zh">彩虹宝宝1(26)</title>
+</programme>
+<programme start="20200814124100 +0800" stop="20200814125500 +0800" channel="动漫秀场">
+<title lang="zh">超级伊仔(1)</title>
+</programme>
+<programme start="20200814125500 +0800" stop="20200814131000 +0800" channel="动漫秀场">
+<title lang="zh">超级伊仔(2)</title>
+</programme>
+<programme start="20200814131000 +0800" stop="20200814132500 +0800" channel="动漫秀场">
+<title lang="zh">逗逗迪迪之美梦精灵2(2)</title>
+</programme>
+<programme start="20200814132500 +0800" stop="20200814134000 +0800" channel="动漫秀场">
+<title lang="zh">逗逗迪迪之美梦精灵2(3)</title>
+</programme>
+<programme start="20200814134000 +0800" stop="20200814135300 +0800" channel="动漫秀场">
+<title lang="zh">帮帮龙出动1(17)</title>
+</programme>
+<programme start="20200814135300 +0800" stop="20200814140700 +0800" channel="动漫秀场">
+<title lang="zh">帮帮龙出动1(18)</title>
+</programme>
+<programme start="20200814140700 +0800" stop="20200814142200 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(13)</title>
+</programme>
+<programme start="20200814142200 +0800" stop="20200814143700 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(14)</title>
+</programme>
+<programme start="20200814143700 +0800" stop="20200814145200 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(15)</title>
+</programme>
+<programme start="20200814145200 +0800" stop="20200814151000 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(16)</title>
+</programme>
+<programme start="20200814151000 +0800" stop="20200814152100 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(17)</title>
+</programme>
+<programme start="20200814152100 +0800" stop="20200814153300 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(18)</title>
+</programme>
+<programme start="20200814153300 +0800" stop="20200814154500 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(19)</title>
+</programme>
+<programme start="20200814154500 +0800" stop="20200814160000 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠6(20)</title>
+</programme>
+<programme start="20200814160000 +0800" stop="20200814161200 +0800" channel="动漫秀场">
+<title lang="zh">警车联盟(8)</title>
+</programme>
+<programme start="20200814161200 +0800" stop="20200814162500 +0800" channel="动漫秀场">
+<title lang="zh">警车联盟(9)</title>
+</programme>
+<programme start="20200814162500 +0800" stop="20200814163900 +0800" channel="动漫秀场">
+<title lang="zh">超级伊仔(6)</title>
+</programme>
+<programme start="20200814163900 +0800" stop="20200814165200 +0800" channel="动漫秀场">
+<title lang="zh">超级伊仔(7)</title>
+</programme>
+<programme start="20200814165200 +0800" stop="20200814170700 +0800" channel="动漫秀场">
+<title lang="zh">超级伊仔(8)</title>
+</programme>
+<programme start="20200814170700 +0800" stop="20200814172200 +0800" channel="动漫秀场">
+<title lang="zh">逗逗迪迪之美梦精灵2(6)</title>
+</programme>
+<programme start="20200814172200 +0800" stop="20200814173700 +0800" channel="动漫秀场">
+<title lang="zh">逗逗迪迪之美梦精灵2(7)</title>
+</programme>
+<programme start="20200814173700 +0800" stop="20200814175000 +0800" channel="动漫秀场">
+<title lang="zh">帮帮龙出动1(21)</title>
+</programme>
+<programme start="20200814175000 +0800" stop="20200814180400 +0800" channel="动漫秀场">
+<title lang="zh">帮帮龙出动1(22)</title>
+</programme>
+<programme start="20200814180400 +0800" stop="20200814181900 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(21)</title>
+</programme>
+<programme start="20200814181900 +0800" stop="20200814183400 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(22)</title>
+</programme>
+<programme start="20200814183400 +0800" stop="20200814184900 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(23)</title>
+</programme>
+<programme start="20200814184900 +0800" stop="20200814190600 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(24)</title>
+</programme>
+<programme start="20200814190600 +0800" stop="20200814191800 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠7(7)</title>
+</programme>
+<programme start="20200814191800 +0800" stop="20200814193100 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠7(8)</title>
+</programme>
+<programme start="20200814193100 +0800" stop="20200814194400 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠7(9)</title>
+</programme>
+<programme start="20200814194400 +0800" stop="20200814195700 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠7(10)</title>
+</programme>
+<programme start="20200814195700 +0800" stop="20200814201000 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠7(11)</title>
+</programme>
+<programme start="20200814201000 +0800" stop="20200814202300 +0800" channel="动漫秀场">
+<title lang="zh">警车联盟(6)</title>
+</programme>
+<programme start="20200814202300 +0800" stop="20200814203600 +0800" channel="动漫秀场">
+<title lang="zh">警车联盟(7)</title>
+</programme>
+<programme start="20200814203600 +0800" stop="20200814204900 +0800" channel="动漫秀场">
+<title lang="zh">超级伊仔(3)</title>
+</programme>
+<programme start="20200814204900 +0800" stop="20200814210200 +0800" channel="动漫秀场">
+<title lang="zh">超级伊仔(4)</title>
+</programme>
+<programme start="20200814210200 +0800" stop="20200814212000 +0800" channel="动漫秀场">
+<title lang="zh">超级伊仔(5)</title>
+</programme>
+<programme start="20200814212000 +0800" stop="20200814213500 +0800" channel="动漫秀场">
+<title lang="zh">逗逗迪迪之美梦精灵2(4)</title>
+</programme>
+<programme start="20200814213500 +0800" stop="20200814215000 +0800" channel="动漫秀场">
+<title lang="zh">逗逗迪迪之美梦精灵2(5)</title>
+</programme>
+<programme start="20200814215000 +0800" stop="20200814220300 +0800" channel="动漫秀场">
+<title lang="zh">帮帮龙出动1(19)</title>
+</programme>
+<programme start="20200814220300 +0800" stop="20200814221700 +0800" channel="动漫秀场">
+<title lang="zh">帮帮龙出动1(20)</title>
+</programme>
+<programme start="20200814221700 +0800" stop="20200814223200 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(17)</title>
+</programme>
+<programme start="20200814223200 +0800" stop="20200814224700 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(18)</title>
+</programme>
+<programme start="20200814224700 +0800" stop="20200814230200 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(19)</title>
+</programme>
+<programme start="20200814230200 +0800" stop="20200814231700 +0800" channel="动漫秀场">
+<title lang="zh">猪猪侠之超星萌宠3(20)</title>
+</programme>
+<programme start="20200814231700 +0800" stop="20200814233000 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠7(2)</title>
+</programme>
+<programme start="20200814233000 +0800" stop="20200814234300 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠7(3)</title>
+</programme>
+<programme start="20200814234300 +0800" stop="20200814235600 +0800" channel="动漫秀场">
+<title lang="zh">超级飞侠7(4)</title>
+</programme>
+<programme start="20200814235600 +0800" stop="20200814235900 +0800" channel="动漫秀场">
+<title lang="zh">少儿动画精彩</title>
+</programme>
+<programme start="20200814235900 +0800" stop="20200814235900 +0800" channel="动漫秀场">
+<title lang="zh">结束</title>
+</programme>
+<programme start="20200814003200 +0800" stop="20200814020700 +0800" channel="动作影院">
 <title lang="zh">电视剧</title>
 </programme>
-<programme start="20200811020700 +0800" stop="20200811034900 +0800" channel="动作影院">
+<programme start="20200814020700 +0800" stop="20200814034900 +0800" channel="动作影院">
 <title lang="zh">电影</title>
 </programme>
-<programme start="20200811034900 +0800" stop="20200811052400 +0800" channel="动作影院">
+<programme start="20200814034900 +0800" stop="20200814052400 +0800" channel="动作影院">
 <title lang="zh">动画版</title>
 </programme>
-<programme start="20200811052400 +0800" stop="20200811063500 +0800" channel="动作影院">
+<programme start="20200814052400 +0800" stop="20200814063500 +0800" channel="动作影院">
 <title lang="zh">电影</title>
 </programme>
-<programme start="20200811063500 +0800" stop="20200811080900 +0800" channel="动作影院">
+<programme start="20200814063500 +0800" stop="20200814080900 +0800" channel="动作影院">
 <title lang="zh">电视剧</title>
 </programme>
-<programme start="20200811080900 +0800" stop="20200811095100 +0800" channel="动作影院">
+<programme start="20200814080900 +0800" stop="20200814095100 +0800" channel="动作影院">
 <title lang="zh">电视剧</title>
 </programme>
-<programme start="20200811095100 +0800" stop="20200811112700 +0800" channel="动作影院">
+<programme start="20200814095100 +0800" stop="20200814112700 +0800" channel="动作影院">
 <title lang="zh">动画片</title>
 </programme>
-<programme start="20200811112700 +0800" stop="20200811125600 +0800" channel="动作影院">
+<programme start="20200814112700 +0800" stop="20200814125600 +0800" channel="动作影院">
 <title lang="zh">电影</title>
 </programme>
-<programme start="20200811125600 +0800" stop="20200811140500 +0800" channel="动作影院">
+<programme start="20200814125600 +0800" stop="20200814140500 +0800" channel="动作影院">
 <title lang="zh">动画片</title>
 </programme>
-<programme start="20200811140500 +0800" stop="20200811153500 +0800" channel="动作影院">
+<programme start="20200814140500 +0800" stop="20200814153500 +0800" channel="动作影院">
 <title lang="zh">玛丽风暴(一)</title>
 </programme>
-<programme start="20200811153500 +0800" stop="20200811235900 +0800" channel="动作影院">
+<programme start="20200814153500 +0800" stop="20200814235900 +0800" channel="动作影院">
 <title lang="zh">玛丽风暴(二)</title>
 </programme>
-<programme start="20200811005700 +0800" stop="20200811022600 +0800" channel="亚洲电影">
-<title lang="zh">分贝人生</title>
+<programme start="20200814001000 +0800" stop="20200814013600 +0800" channel="亚洲电影">
+<title lang="zh">情不可待</title>
 </programme>
-<programme start="20200811022600 +0800" stop="20200811041700 +0800" channel="亚洲电影">
-<title lang="zh">明天还有好吃的饭</title>
+<programme start="20200814013600 +0800" stop="20200814034200 +0800" channel="亚洲电影">
+<title lang="zh">大魔术师</title>
 </programme>
-<programme start="20200811041700 +0800" stop="20200811050000 +0800" channel="亚洲电影">
+<programme start="20200814034200 +0800" stop="20200814050000 +0800" channel="亚洲电影">
 <title lang="zh">实境之旅:桂林</title>
 </programme>
-<programme start="20200811050000 +0800" stop="20200811071800 +0800" channel="亚洲电影">
-<title lang="zh">双簧影帝</title>
+<programme start="20200814050000 +0800" stop="20200814062300 +0800" channel="亚洲电影">
+<title lang="zh">重回20岁</title>
 </programme>
-<programme start="20200811071800 +0800" stop="20200811090700 +0800" channel="亚洲电影">
-<title lang="zh">天才</title>
-</programme>
-<programme start="20200811090700 +0800" stop="20200811112600 +0800" channel="亚洲电影">
-<title lang="zh">一步之遥</title>
-</programme>
-<programme start="20200811112600 +0800" stop="20200811133600 +0800" channel="亚洲电影">
-<title lang="zh">扫毒</title>
-</programme>
-<programme start="20200811133600 +0800" stop="20200811143900 +0800" channel="亚洲电影">
-<title lang="zh">机甲核心</title>
-</programme>
-<programme start="20200811143900 +0800" stop="20200811160900 +0800" channel="亚洲电影">
-<title lang="zh">歌舞青春</title>
-</programme>
-<programme start="20200811160900 +0800" stop="20200811175600 +0800" channel="亚洲电影">
-<title lang="zh">逃出生天</title>
-</programme>
-<programme start="20200811175600 +0800" stop="20200811193300 +0800" channel="亚洲电影">
-<title lang="zh">狗狗心事</title>
-</programme>
-<programme start="20200811193300 +0800" stop="20200811210300 +0800" channel="亚洲电影">
-<title lang="zh">分贝人生</title>
-</programme>
-<programme start="20200811210300 +0800" stop="20200811232100 +0800" channel="亚洲电影">
-<title lang="zh">一步之遥</title>
-</programme>
-<programme start="20200811232100 +0800" stop="20200811235900 +0800" channel="亚洲电影">
+<programme start="20200814062300 +0800" stop="20200814075400 +0800" channel="亚洲电影">
 <title lang="zh">非常同伙</title>
 </programme>
-<programme start="20200811000200 +0800" stop="20200811022200 +0800" channel="欧美电影">
-<title lang="zh">怒火救援</title>
+<programme start="20200814075400 +0800" stop="20200814092400 +0800" channel="亚洲电影">
+<title lang="zh">骇故事之暗窗</title>
 </programme>
-<programme start="20200811022200 +0800" stop="20200811042600 +0800" channel="欧美电影">
-<title lang="zh">勇敢者游戏-再战巅峰</title>
+<programme start="20200814092400 +0800" stop="20200814113800 +0800" channel="亚洲电影">
+<title lang="zh">王者天下</title>
 </programme>
-<programme start="20200811042600 +0800" stop="20200811050000 +0800" channel="欧美电影">
+<programme start="20200814113800 +0800" stop="20200814130600 +0800" channel="亚洲电影">
+<title lang="zh">甜水谣</title>
+</programme>
+<programme start="20200814130600 +0800" stop="20200814150500 +0800" channel="亚洲电影">
+<title lang="zh">大追捕</title>
+</programme>
+<programme start="20200814150500 +0800" stop="20200814154400 +0800" channel="亚洲电影">
+<title lang="zh">父亲</title>
+</programme>
+<programme start="20200814154400 +0800" stop="20200814180200 +0800" channel="亚洲电影">
+<title lang="zh">双簧影帝</title>
+</programme>
+<programme start="20200814180200 +0800" stop="20200814192900 +0800" channel="亚洲电影">
+<title lang="zh">情不可待</title>
+</programme>
+<programme start="20200814192900 +0800" stop="20200814210500 +0800" channel="亚洲电影">
+<title lang="zh">天才J之致命推理</title>
+</programme>
+<programme start="20200814210500 +0800" stop="20200814225500 +0800" channel="亚洲电影">
+<title lang="zh">心理罪</title>
+</programme>
+<programme start="20200814225500 +0800" stop="20200814235900 +0800" channel="亚洲电影">
+<title lang="zh">龙来了</title>
+</programme>
+<programme start="20200814011600 +0800" stop="20200814024000 +0800" channel="欧美电影">
+<title lang="zh">127小时</title>
+</programme>
+<programme start="20200814024000 +0800" stop="20200814044900 +0800" channel="欧美电影">
+<title lang="zh">X战警-逆转未来</title>
+</programme>
+<programme start="20200814044900 +0800" stop="20200814050000 +0800" channel="欧美电影">
 <title lang="zh">情迷英格兰</title>
 </programme>
-<programme start="20200811050000 +0800" stop="20200811064500 +0800" channel="欧美电影">
-<title lang="zh">年鉴计划</title>
+<programme start="20200814050000 +0800" stop="20200814071200 +0800" channel="欧美电影">
+<title lang="zh">我是山姆</title>
 </programme>
-<programme start="20200811064500 +0800" stop="20200811084400 +0800" channel="欧美电影">
-<title lang="zh">惊奇队长</title>
+<programme start="20200814071200 +0800" stop="20200814090200 +0800" channel="欧美电影">
+<title lang="zh">银翼杀手</title>
 </programme>
-<programme start="20200811084400 +0800" stop="20200811101200 +0800" channel="欧美电影">
-<title lang="zh">怦然心动</title>
+<programme start="20200814090200 +0800" stop="20200814110200 +0800" channel="欧美电影">
+<title lang="zh">大买卖</title>
 </programme>
-<programme start="20200811101200 +0800" stop="20200811121700 +0800" channel="欧美电影">
-<title lang="zh">碟中谍-神秘国度</title>
+<programme start="20200814110200 +0800" stop="20200814125200 +0800" channel="欧美电影">
+<title lang="zh">公主日记</title>
 </programme>
-<programme start="20200811121700 +0800" stop="20200811140000 +0800" channel="欧美电影">
-<title lang="zh">时间规划局</title>
+<programme start="20200814125200 +0800" stop="20200814150200 +0800" channel="欧美电影">
+<title lang="zh">美丽心灵</title>
 </programme>
-<programme start="20200811140000 +0800" stop="20200811155600 +0800" channel="欧美电影">
-<title lang="zh">王者少年</title>
+<programme start="20200814150200 +0800" stop="20200814172500 +0800" channel="欧美电影">
+<title lang="zh">血钻</title>
 </programme>
-<programme start="20200811155600 +0800" stop="20200811181600 +0800" channel="欧美电影">
-<title lang="zh">怒火救援</title>
+<programme start="20200814172500 +0800" stop="20200814185000 +0800" channel="欧美电影">
+<title lang="zh">127小时</title>
 </programme>
-<programme start="20200811181600 +0800" stop="20200811201800 +0800" channel="欧美电影">
-<title lang="zh">勇敢者游戏-再战巅峰</title>
+<programme start="20200814185000 +0800" stop="20200814205800 +0800" channel="欧美电影">
+<title lang="zh">X战警-逆转未来</title>
 </programme>
-<programme start="20200811201800 +0800" stop="20200811214700 +0800" channel="欧美电影">
-<title lang="zh">飓风营救2</title>
+<programme start="20200814205800 +0800" stop="20200814225900 +0800" channel="欧美电影">
+<title lang="zh">星尘</title>
 </programme>
-<programme start="20200811214700 +0800" stop="20200811234800 +0800" channel="欧美电影">
-<title lang="zh">实习生</title>
+<programme start="20200814225900 +0800" stop="20200814235900 +0800" channel="欧美电影">
+<title lang="zh">夜行人生</title>
 </programme>
-<programme start="20200811234800 +0800" stop="20200811235900 +0800" channel="欧美电影">
-<title lang="zh">遗失在火中的记忆</title>
+<programme start="20200814001600 +0800" stop="20200814021400 +0800" channel="演唱会">
+<title lang="zh">跨界歌王2:江珊获跨界歌王冠军</title>
 </programme>
-<programme start="20200811000100 +0800" stop="20200811022800 +0800" channel="演唱会">
-<title lang="zh">蒙台威尔第-尤里西斯归乡记</title>
+<programme start="20200814021400 +0800" stop="20200814034700 +0800" channel="演唱会">
+<title lang="zh">德勒斯登除夕音乐会</title>
 </programme>
-<programme start="20200811022800 +0800" stop="20200811041800 +0800" channel="演唱会">
-<title lang="zh">2006年古典高峰会</title>
+<programme start="20200814034700 +0800" stop="20200814042600 +0800" channel="演唱会">
+<title lang="zh">舒曼-大提琴协奏曲</title>
 </programme>
-<programme start="20200811041800 +0800" stop="20200811050000 +0800" channel="演唱会">
+<programme start="20200814042600 +0800" stop="20200814050000 +0800" channel="演唱会">
 <title lang="zh">奥林匹克热带雨林</title>
 </programme>
-<programme start="20200811050000 +0800" stop="20200811064200 +0800" channel="演唱会">
-<title lang="zh">2009年柏林爱乐温布尼音乐会</title>
-</programme>
-<programme start="20200811064200 +0800" stop="20200811093000 +0800" channel="演唱会">
-<title lang="zh">威尔第-西西里晚祷</title>
-</programme>
-<programme start="20200811093000 +0800" stop="20200811102100 +0800" channel="演唱会">
-<title lang="zh">普罗高菲夫音乐节-第五场音乐会</title>
-</programme>
-<programme start="20200811102100 +0800" stop="20200811103500 +0800" channel="演唱会">
-<title lang="zh">北京时装周:Facecity新品发布会</title>
-</programme>
-<programme start="20200811103500 +0800" stop="20200811111300 +0800" channel="演唱会">
-<title lang="zh">2018武汉时装周:SHEGUANG HU</title>
-</programme>
-<programme start="20200811111300 +0800" stop="20200811124100 +0800" channel="演唱会">
-<title lang="zh">跨界歌王:王子文扬言誓晋级</title>
-</programme>
-<programme start="20200811124100 +0800" stop="20200811141200 +0800" channel="演唱会">
-<title lang="zh">这就是街舞</title>
-</programme>
-<programme start="20200811141200 +0800" stop="20200811142800 +0800" channel="演唱会">
-<title lang="zh">2018武汉时装周:LUONA珞娜</title>
-</programme>
-<programme start="20200811142800 +0800" stop="20200811155600 +0800" channel="演唱会">
-<title lang="zh">跨界歌王2</title>
-</programme>
-<programme start="20200811155600 +0800" stop="20200811182300 +0800" channel="演唱会">
-<title lang="zh">蒙台威尔第-尤里西斯归乡记</title>
-</programme>
-<programme start="20200811182300 +0800" stop="20200811201300 +0800" channel="演唱会">
+<programme start="20200814050000 +0800" stop="20200814064900 +0800" channel="演唱会">
 <title lang="zh">2006年古典高峰会</title>
 </programme>
-<programme start="20200811201300 +0800" stop="20200811202800 +0800" channel="演唱会">
-<title lang="zh">中国重庆国际时尚周:冰雪时装秀</title>
+<programme start="20200814064900 +0800" stop="20200814082200 +0800" channel="演唱会">
+<title lang="zh">杨颂斯指挥理查德·史特劳斯作品</title>
 </programme>
-<programme start="20200811202800 +0800" stop="20200811215500 +0800" channel="演唱会">
-<title lang="zh">这就是街舞:中国风街舞炸场</title>
+<programme start="20200814082200 +0800" stop="20200814090300 +0800" channel="演唱会">
+<title lang="zh">韦瓦第-四季</title>
 </programme>
-<programme start="20200811215500 +0800" stop="20200811215800 +0800" channel="演唱会">
-<title lang="zh">北京时装周:FACECITY走秀视频</title>
+<programme start="20200814090300 +0800" stop="20200814090700 +0800" channel="演唱会">
+<title lang="zh">2017北京时装周</title>
 </programme>
-<programme start="20200811215800 +0800" stop="20200811222200 +0800" channel="演唱会">
-<title lang="zh">北京时装周:黄勖个人作品发布</title>
+<programme start="20200814090700 +0800" stop="20200814091100 +0800" channel="演唱会">
+<title lang="zh">北京时装周:风采童装走秀视频</title>
 </programme>
-<programme start="20200811222200 +0800" stop="20200811235600 +0800" channel="演唱会">
-<title lang="zh">这就是街舞</title>
-</programme>
-<programme start="20200811235600 +0800" stop="20200811235900 +0800" channel="演唱会">
+<programme start="20200814091100 +0800" stop="20200814110500 +0800" channel="演唱会">
 <title lang="zh">跨界歌王2</title>
 </programme>
-<programme start="20200811000200 +0800" stop="20200811011900 +0800" channel="IPTV相声小品">
-<title lang="zh">《星光大道》 20200117</title>
+<programme start="20200814110500 +0800" stop="20200814130700 +0800" channel="演唱会">
+<title lang="zh">这就是街舞</title>
 </programme>
-<programme start="20200811011900 +0800" stop="20200811022900 +0800" channel="IPTV相声小品">
-<title lang="zh">《乡村大世界》 20190206 2019农民新春联欢会 亿万农民的笑声 四川·仁寿</title>
+<programme start="20200814130700 +0800" stop="20200814131100 +0800" channel="演唱会">
+<title lang="zh">北京时装周:风尚京津冀走秀视频</title>
 </programme>
-<programme start="20200811022900 +0800" stop="20200811034600 +0800" channel="IPTV相声小品">
-<title lang="zh">《综艺盛典》 20190425 今晚看你的</title>
+<programme start="20200814131100 +0800" stop="20200814150900 +0800" channel="演唱会">
+<title lang="zh">跨界歌王2:江珊获跨界歌王冠军</title>
 </programme>
-<programme start="20200811034600 +0800" stop="20200811050200 +0800" channel="IPTV相声小品">
-<title lang="zh">《我爱满堂彩》 20190430 最强挑战团</title>
+<programme start="20200814150900 +0800" stop="20200814164200 +0800" channel="演唱会">
+<title lang="zh">德勒斯登除夕音乐会</title>
 </programme>
-<programme start="20200811050200 +0800" stop="20200811061900 +0800" channel="IPTV相声小品">
-<title lang="zh">《星光大道》 20200117</title>
+<programme start="20200814164200 +0800" stop="20200814172000 +0800" channel="演唱会">
+<title lang="zh">舒曼-大提琴协奏曲</title>
 </programme>
-<programme start="20200811061900 +0800" stop="20200811072900 +0800" channel="IPTV相声小品">
-<title lang="zh">《乡村大世界》 20190206 2019农民新春联欢会 亿万农民的笑声 四川·仁寿</title>
+<programme start="20200814172000 +0800" stop="20200814180300 +0800" channel="演唱会">
+<title lang="zh">2018北京时装周</title>
 </programme>
-<programme start="20200811072900 +0800" stop="20200811084600 +0800" channel="IPTV相声小品">
-<title lang="zh">《综艺盛典》 20190425 今晚看你的</title>
+<programme start="20200814180300 +0800" stop="20200814213600 +0800" channel="演唱会">
+<title lang="zh">这就是街舞</title>
 </programme>
-<programme start="20200811084600 +0800" stop="20200811100200 +0800" channel="IPTV相声小品">
-<title lang="zh">《我爱满堂彩》 20190430 最强挑战团</title>
+<programme start="20200814213600 +0800" stop="20200814213900 +0800" channel="演唱会">
+<title lang="zh">2017北京时装周:铜牛走秀视频</title>
 </programme>
-<programme start="20200811100200 +0800" stop="20200811111900 +0800" channel="IPTV相声小品">
-<title lang="zh">《星光大道》 20200117</title>
+<programme start="20200814213900 +0800" stop="20200814222100 +0800" channel="演唱会">
+<title lang="zh">2018北京时装周</title>
 </programme>
-<programme start="20200811111900 +0800" stop="20200811122900 +0800" channel="IPTV相声小品">
-<title lang="zh">《乡村大世界》 20190206 2019农民新春联欢会 亿万农民的笑声 四川·仁寿</title>
+<programme start="20200814222100 +0800" stop="20200814234700 +0800" channel="演唱会">
+<title lang="zh">这就是街舞</title>
 </programme>
-<programme start="20200811122900 +0800" stop="20200811134600 +0800" channel="IPTV相声小品">
-<title lang="zh">《综艺盛典》 20190425 今晚看你的</title>
+<programme start="20200814234700 +0800" stop="20200814235900 +0800" channel="演唱会">
+<title lang="zh">厉害了我的歌</title>
 </programme>
-<programme start="20200811134600 +0800" stop="20200811150200 +0800" channel="IPTV相声小品">
-<title lang="zh">《我爱满堂彩》 20190430 最强挑战团</title>
+<programme start="20200814000600 +0800" stop="20200814012000 +0800" channel="IPTV相声小品">
+<title lang="zh">《乡村大世界》 20190302 乡村牛人闹新春2</title>
 </programme>
-<programme start="20200811150200 +0800" stop="20200811161900 +0800" channel="IPTV相声小品">
-<title lang="zh">《星光大道》 20200117</title>
+<programme start="20200814012000 +0800" stop="20200814023700 +0800" channel="IPTV相声小品">
+<title lang="zh">《综艺盛典》 20190523 今晚看你的</title>
 </programme>
-<programme start="20200811161900 +0800" stop="20200811172900 +0800" channel="IPTV相声小品">
-<title lang="zh">《乡村大世界》 20190206 2019农民新春联欢会 亿万农民的笑声 四川·仁寿</title>
+<programme start="20200814023700 +0800" stop="20200814035400 +0800" channel="IPTV相声小品">
+<title lang="zh">《我爱满堂彩》 20190522 戏梦人生</title>
 </programme>
-<programme start="20200811172900 +0800" stop="20200811184600 +0800" channel="IPTV相声小品">
-<title lang="zh">《综艺盛典》 20190425 今晚看你的</title>
+<programme start="20200814035400 +0800" stop="20200814051100 +0800" channel="IPTV相声小品">
+<title lang="zh">《星光大道》 20200201</title>
 </programme>
-<programme start="20200811184600 +0800" stop="20200811200200 +0800" channel="IPTV相声小品">
-<title lang="zh">《我爱满堂彩》 20190430 最强挑战团</title>
+<programme start="20200814051100 +0800" stop="20200814062500 +0800" channel="IPTV相声小品">
+<title lang="zh">《乡村大世界》 20190302 乡村牛人闹新春2</title>
 </programme>
-<programme start="20200811200200 +0800" stop="20200811211900 +0800" channel="IPTV相声小品">
-<title lang="zh">《星光大道》 20200117</title>
+<programme start="20200814062500 +0800" stop="20200814074200 +0800" channel="IPTV相声小品">
+<title lang="zh">《综艺盛典》 20190523 今晚看你的</title>
 </programme>
-<programme start="20200811211900 +0800" stop="20200811222900 +0800" channel="IPTV相声小品">
-<title lang="zh">《乡村大世界》 20190206 2019农民新春联欢会 亿万农民的笑声 四川·仁寿</title>
+<programme start="20200814074200 +0800" stop="20200814085900 +0800" channel="IPTV相声小品">
+<title lang="zh">《我爱满堂彩》 20190522 戏梦人生</title>
 </programme>
-<programme start="20200811222900 +0800" stop="20200811234600 +0800" channel="IPTV相声小品">
-<title lang="zh">《综艺盛典》 20190425 今晚看你的</title>
+<programme start="20200814085900 +0800" stop="20200814101600 +0800" channel="IPTV相声小品">
+<title lang="zh">《星光大道》 20200201</title>
 </programme>
-<programme start="20200811234600 +0800" stop="20200811235900 +0800" channel="IPTV相声小品">
-<title lang="zh">《我爱满堂彩》 20190430 最强挑战团</title>
+<programme start="20200814101600 +0800" stop="20200814113000 +0800" channel="IPTV相声小品">
+<title lang="zh">《乡村大世界》 20190302 乡村牛人闹新春2</title>
 </programme>
-<programme start="20200811000200 +0800" stop="20200811003800 +0800" channel="IPTV法治">
-<title lang="zh">《天网》 20161104 500万和30封情书</title>
+<programme start="20200814113000 +0800" stop="20200814124700 +0800" channel="IPTV相声小品">
+<title lang="zh">《综艺盛典》 20190523 今晚看你的</title>
 </programme>
-<programme start="20200811003800 +0800" stop="20200811010400 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(文史版)》 20170726 明清御批案·贪财逼死五口人(上)</title>
+<programme start="20200814124700 +0800" stop="20200814140400 +0800" channel="IPTV相声小品">
+<title lang="zh">《我爱满堂彩》 20190522 戏梦人生</title>
 </programme>
-<programme start="20200811010400 +0800" stop="20200811014000 +0800" channel="IPTV法治">
-<title lang="zh">《热线12》 20180718</title>
+<programme start="20200814140400 +0800" stop="20200814152100 +0800" channel="IPTV相声小品">
+<title lang="zh">《星光大道》 20200201</title>
 </programme>
-<programme start="20200811014000 +0800" stop="20200811022500 +0800" channel="IPTV法治">
-<title lang="zh">《普法栏目剧》 20161021 法援律师·天涯沦落人(下)</title>
+<programme start="20200814152100 +0800" stop="20200814163500 +0800" channel="IPTV相声小品">
+<title lang="zh">《乡村大世界》 20190302 乡村牛人闹新春2</title>
 </programme>
-<programme start="20200811022500 +0800" stop="20200811025200 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(生活版)》 20170614 盯梢儿媳盯出事</title>
+<programme start="20200814163500 +0800" stop="20200814175200 +0800" channel="IPTV相声小品">
+<title lang="zh">《综艺盛典》 20190523 今晚看你的</title>
 </programme>
-<programme start="20200811025200 +0800" stop="20200811032000 +0800" channel="IPTV法治">
-<title lang="zh">《今日说法》 20180804 “麻饼”保卫战</title>
+<programme start="20200814175200 +0800" stop="20200814190800 +0800" channel="IPTV相声小品">
+<title lang="zh">《我爱满堂彩》 20190522 戏梦人生</title>
 </programme>
-<programme start="20200811032000 +0800" stop="20200811035500 +0800" channel="IPTV法治">
-<title lang="zh">《天网》 20161104 500万和30封情书</title>
+<programme start="20200814190800 +0800" stop="20200814202500 +0800" channel="IPTV相声小品">
+<title lang="zh">《星光大道》 20200201</title>
 </programme>
-<programme start="20200811035500 +0800" stop="20200811042200 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(文史版)》 20170726 明清御批案·贪财逼死五口人(上)</title>
+<programme start="20200814202500 +0800" stop="20200814214000 +0800" channel="IPTV相声小品">
+<title lang="zh">《乡村大世界》 20190302 乡村牛人闹新春2</title>
 </programme>
-<programme start="20200811042200 +0800" stop="20200811045800 +0800" channel="IPTV法治">
-<title lang="zh">《热线12》 20180718</title>
+<programme start="20200814214000 +0800" stop="20200814225700 +0800" channel="IPTV相声小品">
+<title lang="zh">《综艺盛典》 20190523 今晚看你的</title>
 </programme>
-<programme start="20200811045800 +0800" stop="20200811054300 +0800" channel="IPTV法治">
-<title lang="zh">《普法栏目剧》 20161021 法援律师·天涯沦落人(下)</title>
+<programme start="20200814225700 +0800" stop="20200814235900 +0800" channel="IPTV相声小品">
+<title lang="zh">《我爱满堂彩》 20190522 戏梦人生</title>
 </programme>
-<programme start="20200811054300 +0800" stop="20200811061000 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(生活版)》 20170614 盯梢儿媳盯出事</title>
+<programme start="20200814001600 +0800" stop="20200814004300 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(文史版)》 20170729 明清御批案·斩刑犯刑场脱逃(下)</title>
 </programme>
-<programme start="20200811061000 +0800" stop="20200811063800 +0800" channel="IPTV法治">
-<title lang="zh">《今日说法》 20180804 “麻饼”保卫战</title>
+<programme start="20200814004300 +0800" stop="20200814011800 +0800" channel="IPTV法治">
+<title lang="zh">《热线12》 20180721</title>
 </programme>
-<programme start="20200811063800 +0800" stop="20200811071300 +0800" channel="IPTV法治">
-<title lang="zh">《天网》 20161104 500万和30封情书</title>
+<programme start="20200814011800 +0800" stop="20200814020200 +0800" channel="IPTV法治">
+<title lang="zh">《普法栏目剧》 20161023 淳情</title>
 </programme>
-<programme start="20200811071300 +0800" stop="20200811073900 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(文史版)》 20170726 明清御批案·贪财逼死五口人(上)</title>
+<programme start="20200814020200 +0800" stop="20200814022900 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(生活版)》 20170617 赌博 赌妻 赌出命</title>
 </programme>
-<programme start="20200811073900 +0800" stop="20200811081500 +0800" channel="IPTV法治">
-<title lang="zh">《热线12》 20180718</title>
+<programme start="20200814022900 +0800" stop="20200814025700 +0800" channel="IPTV法治">
+<title lang="zh">《今日说法》 20180807 千里之外(上)</title>
 </programme>
-<programme start="20200811081500 +0800" stop="20200811090000 +0800" channel="IPTV法治">
-<title lang="zh">《普法栏目剧》 20161021 法援律师·天涯沦落人(下)</title>
+<programme start="20200814025700 +0800" stop="20200814033300 +0800" channel="IPTV法治">
+<title lang="zh">《天网》 20161109 失踪在小区</title>
 </programme>
-<programme start="20200811090000 +0800" stop="20200811092700 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(生活版)》 20170614 盯梢儿媳盯出事</title>
+<programme start="20200814033300 +0800" stop="20200814040000 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(文史版)》 20170729 明清御批案·斩刑犯刑场脱逃(下)</title>
 </programme>
-<programme start="20200811092700 +0800" stop="20200811095500 +0800" channel="IPTV法治">
-<title lang="zh">《今日说法》 20180804 “麻饼”保卫战</title>
+<programme start="20200814040000 +0800" stop="20200814043500 +0800" channel="IPTV法治">
+<title lang="zh">《热线12》 20180721</title>
 </programme>
-<programme start="20200811095500 +0800" stop="20200811103100 +0800" channel="IPTV法治">
-<title lang="zh">《天网》 20161104 500万和30封情书</title>
+<programme start="20200814043500 +0800" stop="20200814052000 +0800" channel="IPTV法治">
+<title lang="zh">《普法栏目剧》 20161023 淳情</title>
 </programme>
-<programme start="20200811103100 +0800" stop="20200811105700 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(文史版)》 20170726 明清御批案·贪财逼死五口人(上)</title>
+<programme start="20200814052000 +0800" stop="20200814054700 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(生活版)》 20170617 赌博 赌妻 赌出命</title>
 </programme>
-<programme start="20200811105700 +0800" stop="20200811113300 +0800" channel="IPTV法治">
-<title lang="zh">《热线12》 20180718</title>
+<programme start="20200814054700 +0800" stop="20200814061500 +0800" channel="IPTV法治">
+<title lang="zh">《今日说法》 20180807 千里之外(上)</title>
 </programme>
-<programme start="20200811113300 +0800" stop="20200811121800 +0800" channel="IPTV法治">
-<title lang="zh">《普法栏目剧》 20161021 法援律师·天涯沦落人(下)</title>
+<programme start="20200814061500 +0800" stop="20200814065000 +0800" channel="IPTV法治">
+<title lang="zh">《天网》 20161109 失踪在小区</title>
 </programme>
-<programme start="20200811121800 +0800" stop="20200811124500 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(生活版)》 20170614 盯梢儿媳盯出事</title>
+<programme start="20200814065000 +0800" stop="20200814071700 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(文史版)》 20170729 明清御批案·斩刑犯刑场脱逃(下)</title>
 </programme>
-<programme start="20200811124500 +0800" stop="20200811131300 +0800" channel="IPTV法治">
-<title lang="zh">《今日说法》 20180804 “麻饼”保卫战</title>
+<programme start="20200814071700 +0800" stop="20200814075300 +0800" channel="IPTV法治">
+<title lang="zh">《热线12》 20180721</title>
 </programme>
-<programme start="20200811131300 +0800" stop="20200811134800 +0800" channel="IPTV法治">
-<title lang="zh">《天网》 20161104 500万和30封情书</title>
+<programme start="20200814075300 +0800" stop="20200814083700 +0800" channel="IPTV法治">
+<title lang="zh">《普法栏目剧》 20161023 淳情</title>
 </programme>
-<programme start="20200811134800 +0800" stop="20200811141500 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(文史版)》 20170726 明清御批案·贪财逼死五口人(上)</title>
+<programme start="20200814083700 +0800" stop="20200814090400 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(生活版)》 20170617 赌博 赌妻 赌出命</title>
 </programme>
-<programme start="20200811141500 +0800" stop="20200811145000 +0800" channel="IPTV法治">
-<title lang="zh">《热线12》 20180718</title>
+<programme start="20200814090400 +0800" stop="20200814093200 +0800" channel="IPTV法治">
+<title lang="zh">《今日说法》 20180807 千里之外(上)</title>
 </programme>
-<programme start="20200811145000 +0800" stop="20200811153500 +0800" channel="IPTV法治">
-<title lang="zh">《普法栏目剧》 20161021 法援律师·天涯沦落人(下)</title>
+<programme start="20200814093200 +0800" stop="20200814100700 +0800" channel="IPTV法治">
+<title lang="zh">《天网》 20161109 失踪在小区</title>
 </programme>
-<programme start="20200811153500 +0800" stop="20200811160200 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(生活版)》 20170614 盯梢儿媳盯出事</title>
+<programme start="20200814100700 +0800" stop="20200814103400 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(文史版)》 20170729 明清御批案·斩刑犯刑场脱逃(下)</title>
 </programme>
-<programme start="20200811160200 +0800" stop="20200811163000 +0800" channel="IPTV法治">
-<title lang="zh">《今日说法》 20180804 “麻饼”保卫战</title>
+<programme start="20200814103400 +0800" stop="20200814111000 +0800" channel="IPTV法治">
+<title lang="zh">《热线12》 20180721</title>
 </programme>
-<programme start="20200811163000 +0800" stop="20200811170600 +0800" channel="IPTV法治">
-<title lang="zh">《天网》 20161104 500万和30封情书</title>
+<programme start="20200814111000 +0800" stop="20200814115400 +0800" channel="IPTV法治">
+<title lang="zh">《普法栏目剧》 20161023 淳情</title>
 </programme>
-<programme start="20200811170600 +0800" stop="20200811173200 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(文史版)》 20170726 明清御批案·贪财逼死五口人(上)</title>
+<programme start="20200814115400 +0800" stop="20200814122100 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(生活版)》 20170617 赌博 赌妻 赌出命</title>
 </programme>
-<programme start="20200811173200 +0800" stop="20200811180800 +0800" channel="IPTV法治">
-<title lang="zh">《热线12》 20180718</title>
+<programme start="20200814122100 +0800" stop="20200814124900 +0800" channel="IPTV法治">
+<title lang="zh">《今日说法》 20180807 千里之外(上)</title>
 </programme>
-<programme start="20200811180800 +0800" stop="20200811185300 +0800" channel="IPTV法治">
-<title lang="zh">《普法栏目剧》 20161021 法援律师·天涯沦落人(下)</title>
+<programme start="20200814124900 +0800" stop="20200814132500 +0800" channel="IPTV法治">
+<title lang="zh">《天网》 20161109 失踪在小区</title>
 </programme>
-<programme start="20200811185300 +0800" stop="20200811192000 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(生活版)》 20170614 盯梢儿媳盯出事</title>
+<programme start="20200814132500 +0800" stop="20200814135200 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(文史版)》 20170729 明清御批案·斩刑犯刑场脱逃(下)</title>
 </programme>
-<programme start="20200811192000 +0800" stop="20200811194800 +0800" channel="IPTV法治">
-<title lang="zh">《今日说法》 20180804 “麻饼”保卫战</title>
+<programme start="20200814135200 +0800" stop="20200814142700 +0800" channel="IPTV法治">
+<title lang="zh">《热线12》 20180721</title>
 </programme>
-<programme start="20200811194800 +0800" stop="20200811202300 +0800" channel="IPTV法治">
-<title lang="zh">《天网》 20161104 500万和30封情书</title>
+<programme start="20200814142700 +0800" stop="20200814151200 +0800" channel="IPTV法治">
+<title lang="zh">《普法栏目剧》 20161023 淳情</title>
 </programme>
-<programme start="20200811202300 +0800" stop="20200811205000 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(文史版)》 20170726 明清御批案·贪财逼死五口人(上)</title>
+<programme start="20200814151200 +0800" stop="20200814153900 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(生活版)》 20170617 赌博 赌妻 赌出命</title>
 </programme>
-<programme start="20200811205000 +0800" stop="20200811212600 +0800" channel="IPTV法治">
-<title lang="zh">《热线12》 20180718</title>
+<programme start="20200814153900 +0800" stop="20200814160700 +0800" channel="IPTV法治">
+<title lang="zh">《今日说法》 20180807 千里之外(上)</title>
 </programme>
-<programme start="20200811212600 +0800" stop="20200811221100 +0800" channel="IPTV法治">
-<title lang="zh">《普法栏目剧》 20161021 法援律师·天涯沦落人(下)</title>
+<programme start="20200814160700 +0800" stop="20200814164200 +0800" channel="IPTV法治">
+<title lang="zh">《天网》 20161109 失踪在小区</title>
 </programme>
-<programme start="20200811221100 +0800" stop="20200811223800 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(生活版)》 20170614 盯梢儿媳盯出事</title>
+<programme start="20200814164200 +0800" stop="20200814170900 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(文史版)》 20170729 明清御批案·斩刑犯刑场脱逃(下)</title>
 </programme>
-<programme start="20200811223800 +0800" stop="20200811230600 +0800" channel="IPTV法治">
-<title lang="zh">《今日说法》 20180804 “麻饼”保卫战</title>
+<programme start="20200814170900 +0800" stop="20200814174500 +0800" channel="IPTV法治">
+<title lang="zh">《热线12》 20180721</title>
 </programme>
-<programme start="20200811230600 +0800" stop="20200811234100 +0800" channel="IPTV法治">
-<title lang="zh">《天网》 20161104 500万和30封情书</title>
+<programme start="20200814174500 +0800" stop="20200814182900 +0800" channel="IPTV法治">
+<title lang="zh">《普法栏目剧》 20161023 淳情</title>
 </programme>
-<programme start="20200811234100 +0800" stop="20200811235900 +0800" channel="IPTV法治">
-<title lang="zh">《法律讲堂(文史版)》 20170726 明清御批案·贪财逼死五口人(上)</title>
+<programme start="20200814182900 +0800" stop="20200814185600 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(生活版)》 20170617 赌博 赌妻 赌出命</title>
 </programme>
-<programme start="20200811011500 +0800" stop="20200811014000 +0800" channel="IPTV3+">
-<title lang="zh">综艺喜乐汇</title>
+<programme start="20200814185600 +0800" stop="20200814192400 +0800" channel="IPTV法治">
+<title lang="zh">《今日说法》 20180807 千里之外(上)</title>
 </programme>
-<programme start="20200811014000 +0800" stop="20200811021500 +0800" channel="IPTV3+">
-<title lang="zh">综艺喜乐汇</title>
+<programme start="20200814192400 +0800" stop="20200814195900 +0800" channel="IPTV法治">
+<title lang="zh">《天网》 20161109 失踪在小区</title>
 </programme>
-<programme start="20200811021500 +0800" stop="20200811033200 +0800" channel="IPTV3+">
-<title lang="zh">幸福账单</title>
+<programme start="20200814195900 +0800" stop="20200814202600 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(文史版)》 20170729 明清御批案·斩刑犯刑场脱逃(下)</title>
 </programme>
-<programme start="20200811033200 +0800" stop="20200811040200 +0800" channel="IPTV3+">
-<title lang="zh">天天把歌唱</title>
+<programme start="20200814202600 +0800" stop="20200814210200 +0800" channel="IPTV法治">
+<title lang="zh">《热线12》 20180721</title>
 </programme>
-<programme start="20200811040200 +0800" stop="20200811051900 +0800" channel="IPTV3+">
-<title lang="zh">开门大吉</title>
+<programme start="20200814210200 +0800" stop="20200814214600 +0800" channel="IPTV法治">
+<title lang="zh">《普法栏目剧》 20161023 淳情</title>
 </programme>
-<programme start="20200811051900 +0800" stop="20200811063600 +0800" channel="IPTV3+">
-<title lang="zh">越战越勇</title>
+<programme start="20200814214600 +0800" stop="20200814221300 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(生活版)》 20170617 赌博 赌妻 赌出命</title>
 </programme>
-<programme start="20200811063600 +0800" stop="20200811080100 +0800" channel="IPTV3+">
-<title lang="zh">出彩中国人</title>
+<programme start="20200814221300 +0800" stop="20200814224100 +0800" channel="IPTV法治">
+<title lang="zh">《今日说法》 20180807 千里之外(上)</title>
 </programme>
-<programme start="20200811080100 +0800" stop="20200811091800 +0800" channel="IPTV3+">
-<title lang="zh">黄金100秒</title>
+<programme start="20200814224100 +0800" stop="20200814231700 +0800" channel="IPTV法治">
+<title lang="zh">《天网》 20161109 失踪在小区</title>
 </programme>
-<programme start="20200811091800 +0800" stop="20200811103800 +0800" channel="IPTV3+">
-<title lang="zh">星光大道</title>
+<programme start="20200814231700 +0800" stop="20200814234400 +0800" channel="IPTV法治">
+<title lang="zh">《法律讲堂(文史版)》 20170729 明清御批案·斩刑犯刑场脱逃(下)</title>
 </programme>
-<programme start="20200811103800 +0800" stop="20200811114800 +0800" channel="IPTV3+">
-<title lang="zh">星光大道</title>
+<programme start="20200814234400 +0800" stop="20200814235900 +0800" channel="IPTV法治">
+<title lang="zh">《热线12》 20180721</title>
 </programme>
-<programme start="20200811114800 +0800" stop="20200811130400 +0800" channel="IPTV3+">
-<title lang="zh">非常6+1</title>
+<programme start="20200814003900 +0800" stop="20200814020700 +0800" channel="IPTV3+">
+<title lang="zh">标清 《精彩音乐汇》 20200810 2020群星演唱会 第四辑</title>
 </programme>
-<programme start="20200811130400 +0800" stop="20200811132900 +0800" channel="IPTV3+">
-<title lang="zh">综艺喜乐汇</title>
+<programme start="20200814020700 +0800" stop="20200814040000 +0800" channel="IPTV3+">
+<title lang="zh">标清 《唱过夏天-2020流行音乐大型演唱会》 20200811</title>
 </programme>
-<programme start="20200811132900 +0800" stop="20200811140400 +0800" channel="IPTV3+">
-<title lang="zh">综艺喜乐汇</title>
+<programme start="20200814040000 +0800" stop="20200814052000 +0800" channel="IPTV3+">
+<title lang="zh">标清 《唱过夏天-2020流行音乐大型演唱会》 20200812</title>
 </programme>
-<programme start="20200811140400 +0800" stop="20200811152100 +0800" channel="IPTV3+">
-<title lang="zh">幸福账单</title>
+<programme start="20200814052000 +0800" stop="20200814063700 +0800" channel="IPTV3+">
+<title lang="zh">标清 《越战越勇》 20200812 坚持就是胜利</title>
 </programme>
-<programme start="20200811152100 +0800" stop="20200811155100 +0800" channel="IPTV3+">
-<title lang="zh">天天把歌唱</title>
+<programme start="20200814063700 +0800" stop="20200814080500 +0800" channel="IPTV3+">
+<title lang="zh">标清 《精彩音乐汇》 20200812 2020群星演唱会 第二辑</title>
 </programme>
-<programme start="20200811155100 +0800" stop="20200811170800 +0800" channel="IPTV3+">
-<title lang="zh">开门大吉</title>
+<programme start="20200814080500 +0800" stop="20200814092200 +0800" channel="IPTV3+">
+<title lang="zh">标清 《综艺喜乐汇》 20200812 让爱住进快乐之城</title>
 </programme>
-<programme start="20200811170800 +0800" stop="20200811182500 +0800" channel="IPTV3+">
-<title lang="zh">越战越勇</title>
+<programme start="20200814092200 +0800" stop="20200814103900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《向幸福出发》 20200812</title>
 </programme>
-<programme start="20200811182500 +0800" stop="20200811195000 +0800" channel="IPTV3+">
-<title lang="zh">出彩中国人</title>
+<programme start="20200814103900 +0800" stop="20200814105500 +0800" channel="IPTV3+">
+<title lang="zh">标清 《庆祝中华人民共和国成立70周年优秀歌曲展播》 20200812</title>
 </programme>
-<programme start="20200811195000 +0800" stop="20200811210600 +0800" channel="IPTV3+">
-<title lang="zh">黄金100秒</title>
+<programme start="20200814105500 +0800" stop="20200814121200 +0800" channel="IPTV3+">
+<title lang="zh">标清 《开门大吉》 20200812</title>
 </programme>
-<programme start="20200811210600 +0800" stop="20200811222600 +0800" channel="IPTV3+">
-<title lang="zh">星光大道</title>
+<programme start="20200814121200 +0800" stop="20200814122200 +0800" channel="IPTV3+">
+<title lang="zh">标清 《文化十分》 20200812</title>
 </programme>
-<programme start="20200811222600 +0800" stop="20200811235900 +0800" channel="IPTV3+">
-<title lang="zh">星光大道</title>
+<programme start="20200814122200 +0800" stop="20200814133900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《综艺喜乐汇》 20200812 用善良温暖心田</title>
 </programme>
-<programme start="20200811000000 +0800" stop="20200811015900 +0800" channel="IPTV5+">
-<title lang="zh">《体育晨报》</title>
+<programme start="20200814133900 +0800" stop="20200814145600 +0800" channel="IPTV3+">
+<title lang="zh">标清 《黄金100秒》 20200812 爱的力量</title>
 </programme>
-<programme start="20200811015900 +0800" stop="20200811022800 +0800" channel="IPTV5+">
-<title lang="zh">《体坛快讯》</title>
+<programme start="20200814145600 +0800" stop="20200814152100 +0800" channel="IPTV3+">
+<title lang="zh">标清 《天天把歌唱》 20200812</title>
 </programme>
-<programme start="20200811022800 +0800" stop="20200811025500 +0800" channel="IPTV5+">
-<title lang="zh">《体育新闻</title>
+<programme start="20200814152100 +0800" stop="20200814164100 +0800" channel="IPTV3+">
+<title lang="zh">标清 《唱过夏天-2020流行音乐大型演唱会》 20200812</title>
 </programme>
-<programme start="20200811025500 +0800" stop="20200811033400 +0800" channel="IPTV5+">
-<title lang="zh">《体育世界》</title>
+<programme start="20200814164100 +0800" stop="20200814175800 +0800" channel="IPTV3+">
+<title lang="zh">标清 《越战越勇》 20200812 坚持就是胜利</title>
 </programme>
-<programme start="20200811033400 +0800" stop="20200811040800 +0800" channel="IPTV5+">
-<title lang="zh">《天下足球》</title>
+<programme start="20200814175800 +0800" stop="20200814192600 +0800" channel="IPTV3+">
+<title lang="zh">标清 《精彩音乐汇》 20200812 2020群星演唱会 第二辑</title>
 </programme>
-<programme start="20200811040800 +0800" stop="20200811041500 +0800" channel="IPTV5+">
-<title lang="zh">《风云会》</title>
+<programme start="20200814192600 +0800" stop="20200814204300 +0800" channel="IPTV3+">
+<title lang="zh">标清 《综艺喜乐汇》 20200812 让爱住进快乐之城</title>
 </programme>
-<programme start="20200811041500 +0800" stop="20200811043600 +0800" channel="IPTV5+">
-<title lang="zh">《健身动起来》</title>
+<programme start="20200814204300 +0800" stop="20200814220000 +0800" channel="IPTV3+">
+<title lang="zh">标清 《向幸福出发》 20200812</title>
 </programme>
-<programme start="20200811043600 +0800" stop="20200811055500 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200814220000 +0800" stop="20200814221600 +0800" channel="IPTV3+">
+<title lang="zh">标清 《庆祝中华人民共和国成立70周年优秀歌曲展播》 20200812</title>
 </programme>
-<programme start="20200811055500 +0800" stop="20200811072400 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200814221600 +0800" stop="20200814233300 +0800" channel="IPTV3+">
+<title lang="zh">标清 《开门大吉》 20200812</title>
 </programme>
-<programme start="20200811072400 +0800" stop="20200811083500 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200814233300 +0800" stop="20200814234300 +0800" channel="IPTV3+">
+<title lang="zh">标清 《文化十分》 20200812</title>
 </programme>
-<programme start="20200811083500 +0800" stop="20200811120500 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200814234300 +0800" stop="20200814235900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《综艺喜乐汇》 20200812 用善良温暖心田</title>
 </programme>
-<programme start="20200811120500 +0800" stop="20200811174500 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200814002100 +0800" stop="20200814004000 +0800" channel="IPTV5+">
+<title lang="zh">标清 骑行圈 20200811</title>
 </programme>
-<programme start="20200811174500 +0800" stop="20200811184400 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200814004000 +0800" stop="20200814023300 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年斯诺克世锦赛1/4决赛 17-20局 20200811</title>
 </programme>
-<programme start="20200811184400 +0800" stop="20200811204400 +0800" channel="IPTV5+">
-<title lang="zh">《体育晨报》</title>
+<programme start="20200814023300 +0800" stop="20200814030600 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 男单1/8决赛 20200811</title>
 </programme>
-<programme start="20200811204400 +0800" stop="20200811211300 +0800" channel="IPTV5+">
-<title lang="zh">《体坛快讯》</title>
+<programme start="20200814030600 +0800" stop="20200814040000 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛女单32强赛 20200811</title>
 </programme>
-<programme start="20200811211300 +0800" stop="20200811214000 +0800" channel="IPTV5+">
-<title lang="zh">《体育新闻》</title>
+<programme start="20200814040000 +0800" stop="20200814045200 +0800" channel="IPTV5+">
+<title lang="zh">标清 棋牌乐 20200812</title>
 </programme>
-<programme start="20200811214000 +0800" stop="20200811221800 +0800" channel="IPTV5+">
-<title lang="zh">《体育世界》</title>
+<programme start="20200814045200 +0800" stop="20200814053800 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 跳水男子双人3米板决赛 20200812</title>
 </programme>
-<programme start="20200811221800 +0800" stop="20200811225300 +0800" channel="IPTV5+">
-<title lang="zh">《天下足球》</title>
+<programme start="20200814053800 +0800" stop="20200814063500 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 花样游泳集体自由自选 20200812</title>
 </programme>
-<programme start="20200811225300 +0800" stop="20200811230000 +0800" channel="IPTV5+">
-<title lang="zh">《风云会》</title>
+<programme start="20200814063500 +0800" stop="20200814081800 +0800" channel="IPTV5+">
+<title lang="zh">标清 2019-20赛季世界斯诺克锦标赛1/4决赛 17-23局 20200812</title>
 </programme>
-<programme start="20200811230000 +0800" stop="20200811232100 +0800" channel="IPTV5+">
-<title lang="zh">《健身动起来》</title>
+<programme start="20200814081800 +0800" stop="20200814084800 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 女单1/4决赛 20200812</title>
 </programme>
-<programme start="20200811232100 +0800" stop="20200811235900 +0800" channel="IPTV5+">
-<title lang="zh">《体育世界》</title>
+<programme start="20200814084800 +0800" stop="20200814090400 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛混双决赛 20200812</title>
 </programme>
-<programme start="20200811013100 +0800" stop="20200811025800 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814090400 +0800" stop="20200814092600 +0800" channel="IPTV5+">
+<title lang="zh">标清 健身动起来 20200812</title>
 </programme>
-<programme start="20200811025800 +0800" stop="20200811043200 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814092600 +0800" stop="20200814094000 +0800" channel="IPTV5+">
+<title lang="zh">标清 ATP周刊 20200812</title>
 </programme>
-<programme start="20200811043200 +0800" stop="20200811055400 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814094000 +0800" stop="20200814100300 +0800" channel="IPTV5+">
+<title lang="zh">标清 欧冠开场哨 20200812</title>
 </programme>
-<programme start="20200811055400 +0800" stop="20200811071900 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814100300 +0800" stop="20200814110700 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 男单1/8决赛 20200812</title>
 </programme>
-<programme start="20200811071900 +0800" stop="20200811085000 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814110700 +0800" stop="20200814114100 +0800" channel="IPTV5+">
+<title lang="zh">标清 2018年亚运会 滑板男子公园赛决赛 20200812</title>
 </programme>
-<programme start="20200811085000 +0800" stop="20200811102200 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814114100 +0800" stop="20200814120100 +0800" channel="IPTV5+">
+<title lang="zh">标清 骑行圈 20200812</title>
 </programme>
-<programme start="20200811102200 +0800" stop="20200811114500 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814120100 +0800" stop="20200814131300 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 女单1/4决赛 20200812</title>
 </programme>
-<programme start="20200811114500 +0800" stop="20200811130300 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814131300 +0800" stop="20200814140300 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 男单1/4决赛 20200812</title>
 </programme>
-<programme start="20200811130300 +0800" stop="20200811150500 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814140300 +0800" stop="20200814152200 +0800" channel="IPTV5+">
+<title lang="zh">标清 2018年亚运会 攀岩男子全能决赛 20200812</title>
 </programme>
-<programme start="20200811150500 +0800" stop="20200811163600 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814152200 +0800" stop="20200814161800 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 男单1/4决赛 20200812</title>
 </programme>
-<programme start="20200811163600 +0800" stop="20200811180300 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814161800 +0800" stop="20200814165400 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 男单1/4决赛 20200812</title>
 </programme>
-<programme start="20200811180300 +0800" stop="20200811193700 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814165400 +0800" stop="20200814173200 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年斯诺克世锦赛半决赛 6-8局 20200812</title>
 </programme>
-<programme start="20200811193700 +0800" stop="20200811205900 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814173200 +0800" stop="20200814174500 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 跆拳道女子67公斤以上级决赛 20200812</title>
 </programme>
-<programme start="20200811205900 +0800" stop="20200811222400 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814174500 +0800" stop="20200814175700 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 跆拳道男子58公斤级决赛 20200812</title>
 </programme>
-<programme start="20200811222400 +0800" stop="20200811235900 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200814175700 +0800" stop="20200814185000 +0800" channel="IPTV5+">
+<title lang="zh">标清 棋牌乐 20200812</title>
 </programme>
-<programme start="20200811070100 +0800" stop="20200811073000 +0800" channel="济南综合">
+<programme start="20200814185000 +0800" stop="20200814193600 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 跳水男子双人3米板决赛 20200812</title>
+</programme>
+<programme start="20200814193600 +0800" stop="20200814203200 +0800" channel="IPTV5+">
+<title lang="zh">标清 2016年里约奥运会 花样游泳集体自由自选 20200812</title>
+</programme>
+<programme start="20200814203200 +0800" stop="20200814221500 +0800" channel="IPTV5+">
+<title lang="zh">标清 2019-20赛季世界斯诺克锦标赛1/4决赛 17-23局 20200812</title>
+</programme>
+<programme start="20200814221500 +0800" stop="20200814224600 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 女单1/4决赛 20200812</title>
+</programme>
+<programme start="20200814224600 +0800" stop="20200814230100 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛混双决赛 20200812</title>
+</programme>
+<programme start="20200814230100 +0800" stop="20200814232300 +0800" channel="IPTV5+">
+<title lang="zh">标清 健身动起来 20200812</title>
+</programme>
+<programme start="20200814232300 +0800" stop="20200814233700 +0800" channel="IPTV5+">
+<title lang="zh">标清 ATP周刊 20200812</title>
+</programme>
+<programme start="20200814233700 +0800" stop="20200814235900 +0800" channel="IPTV5+">
+<title lang="zh">标清 欧冠开场哨 20200812</title>
+</programme>
+<programme start="20200814001900 +0800" stop="20200814015600 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《侠丐传奇》</title>
+</programme>
+<programme start="20200814015600 +0800" stop="20200814040000 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《红樱桃》</title>
+</programme>
+<programme start="20200814040000 +0800" stop="20200814053800 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《守护家园》</title>
+</programme>
+<programme start="20200814053800 +0800" stop="20200814070900 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《24周》(德国)</title>
+</programme>
+<programme start="20200814070900 +0800" stop="20200814085500 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《千钧一发》</title>
+</programme>
+<programme start="20200814085500 +0800" stop="20200814092600 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《爱心快餐》</title>
+</programme>
+<programme start="20200814092600 +0800" stop="20200814111300 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《我的左手》</title>
+</programme>
+<programme start="20200814111300 +0800" stop="20200814124000 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《飞往猎户座》</title>
+</programme>
+<programme start="20200814124000 +0800" stop="20200814141000 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《远东特遣队3:重点爆破》</title>
+</programme>
+<programme start="20200814141000 +0800" stop="20200814153300 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《最萌警探》(俄罗斯)</title>
+</programme>
+<programme start="20200814153300 +0800" stop="20200814170000 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《冒牌卧底》</title>
+</programme>
+<programme start="20200814170000 +0800" stop="20200814183500 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《飞虎队》</title>
+</programme>
+<programme start="20200814183500 +0800" stop="20200814201400 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《守护家园》</title>
+</programme>
+<programme start="20200814201400 +0800" stop="20200814214500 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《24周》(德国)</title>
+</programme>
+<programme start="20200814214500 +0800" stop="20200814233100 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《千钧一发》</title>
+</programme>
+<programme start="20200814233100 +0800" stop="20200814235900 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《最萌警探》(俄罗斯)</title>
+</programme>
+<programme start="20200814000500 +0800" stop="20200814004600 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第6集</title>
+</programme>
+<programme start="20200814004600 +0800" stop="20200814012800 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第7集</title>
+</programme>
+<programme start="20200814012800 +0800" stop="20200814020900 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第8集</title>
+</programme>
+<programme start="20200814020900 +0800" stop="20200814025100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第11集</title>
+</programme>
+<programme start="20200814025100 +0800" stop="20200814033200 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第12集</title>
+</programme>
+<programme start="20200814033200 +0800" stop="20200814040000 +0800" channel="IPTV8+">
+<title lang="zh">标清 歌唱祖国·一首歌一座城</title>
+</programme>
+<programme start="20200814040000 +0800" stop="20200814044100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第13集</title>
+</programme>
+<programme start="20200814044100 +0800" stop="20200814052300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第14集</title>
+</programme>
+<programme start="20200814052300 +0800" stop="20200814060400 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第15集</title>
+</programme>
+<programme start="20200814060400 +0800" stop="20200814064600 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第16集</title>
+</programme>
+<programme start="20200814064600 +0800" stop="20200814072700 +0800" channel="IPTV8+">
+<title lang="zh">标清 《锻刀之绝地重生》 第17集</title>
+</programme>
+<programme start="20200814072700 +0800" stop="20200814080900 +0800" channel="IPTV8+">
+<title lang="zh">标清 《锻刀之绝地重生》 第18集</title>
+</programme>
+<programme start="20200814080900 +0800" stop="20200814085000 +0800" channel="IPTV8+">
+<title lang="zh">标清 《锻刀之绝地重生》 第19集</title>
+</programme>
+<programme start="20200814085000 +0800" stop="20200814093200 +0800" channel="IPTV8+">
+<title lang="zh">标清 《锻刀之绝地重生》 第20集</title>
+</programme>
+<programme start="20200814093200 +0800" stop="20200814101400 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第37集</title>
+</programme>
+<programme start="20200814101400 +0800" stop="20200814105500 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第38集</title>
+</programme>
+<programme start="20200814105500 +0800" stop="20200814113700 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第39集</title>
+</programme>
+<programme start="20200814113700 +0800" stop="20200814121800 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第40集</title>
+</programme>
+<programme start="20200814121800 +0800" stop="20200814130000 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第9集</title>
+</programme>
+<programme start="20200814130000 +0800" stop="20200814134100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第10集</title>
+</programme>
+<programme start="20200814134100 +0800" stop="20200814142300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第11集</title>
+</programme>
+<programme start="20200814142300 +0800" stop="20200814150500 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第12集</title>
+</programme>
+<programme start="20200814150500 +0800" stop="20200814154600 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第13集</title>
+</programme>
+<programme start="20200814154600 +0800" stop="20200814162800 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第14集</title>
+</programme>
+<programme start="20200814162800 +0800" stop="20200814170900 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第15集</title>
+</programme>
+<programme start="20200814170900 +0800" stop="20200814175100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第16集</title>
+</programme>
+<programme start="20200814175100 +0800" stop="20200814183200 +0800" channel="IPTV8+">
+<title lang="zh">标清 《锻刀之绝地重生》 第17集</title>
+</programme>
+<programme start="20200814183200 +0800" stop="20200814191400 +0800" channel="IPTV8+">
+<title lang="zh">标清 《锻刀之绝地重生》 第18集</title>
+</programme>
+<programme start="20200814191400 +0800" stop="20200814195500 +0800" channel="IPTV8+">
+<title lang="zh">标清 《锻刀之绝地重生》 第19集</title>
+</programme>
+<programme start="20200814195500 +0800" stop="20200814203700 +0800" channel="IPTV8+">
+<title lang="zh">标清 《锻刀之绝地重生》 第20集</title>
+</programme>
+<programme start="20200814203700 +0800" stop="20200814211900 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第37集</title>
+</programme>
+<programme start="20200814211900 +0800" stop="20200814220000 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第38集</title>
+</programme>
+<programme start="20200814220000 +0800" stop="20200814224200 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第39集</title>
+</programme>
+<programme start="20200814224200 +0800" stop="20200814232300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《有你才有家》 第40集</title>
+</programme>
+<programme start="20200814232300 +0800" stop="20200814235900 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第9集</title>
+</programme>
+<programme start="20200814070100 +0800" stop="20200814073000 +0800" channel="济南综合">
 <title lang="zh">济南新发现</title>
 </programme>
-<programme start="20200811073000 +0800" stop="20200811084300 +0800" channel="济南综合">
+<programme start="20200814073000 +0800" stop="20200814084300 +0800" channel="济南综合">
 <title lang="zh">济南新闻(重播)</title>
 </programme>
-<programme start="20200811084300 +0800" stop="20200811092400 +0800" channel="济南综合">
+<programme start="20200814084300 +0800" stop="20200814092400 +0800" channel="济南综合">
 <title lang="zh">济南新发现</title>
 </programme>
-<programme start="20200811092400 +0800" stop="20200811110000 +0800" channel="济南综合">
+<programme start="20200814092400 +0800" stop="20200814110000 +0800" channel="济南综合">
 <title lang="zh">第一剧场</title>
 </programme>
-<programme start="20200811110000 +0800" stop="20200811111900 +0800" channel="济南综合">
-<title lang="zh">榜样</title>
+<programme start="20200814110000 +0800" stop="20200814115000 +0800" channel="济南综合">
+<title lang="zh">有么说么新闻大社区(重播)</title>
 </programme>
-<programme start="20200811111900 +0800" stop="20200811115000 +0800" channel="济南综合">
-<title lang="zh">有么故事会(重播)</title>
-</programme>
-<programme start="20200811115000 +0800" stop="20200811121000 +0800" channel="济南综合">
+<programme start="20200814115000 +0800" stop="20200814121000 +0800" channel="济南综合">
 <title lang="zh">新闻第一泉(直播)</title>
 </programme>
-<programme start="20200811121000 +0800" stop="20200811133600 +0800" channel="济南综合">
+<programme start="20200814121000 +0800" stop="20200814133600 +0800" channel="济南综合">
 <title lang="zh">今晚新闻版块(重播)</title>
 </programme>
-<programme start="20200811133600 +0800" stop="20200811151100 +0800" channel="济南综合">
-<title lang="zh">纪录片展播</title>
+<programme start="20200814133600 +0800" stop="20200814151100 +0800" channel="济南综合">
+<title lang="zh">今晚不关机(重播)</title>
 </programme>
-<programme start="20200811151100 +0800" stop="20200811170000 +0800" channel="济南综合">
+<programme start="20200814151100 +0800" stop="20200814170000 +0800" channel="济南综合">
 <title lang="zh">第一剧场</title>
 </programme>
-<programme start="20200811170000 +0800" stop="20200811173000 +0800" channel="济南综合">
+<programme start="20200814170000 +0800" stop="20200814173000 +0800" channel="济南综合">
 <title lang="zh">有么别有病(首播)</title>
 </programme>
-<programme start="20200811173000 +0800" stop="20200811183800 +0800" channel="济南综合">
+<programme start="20200814173000 +0800" stop="20200814183200 +0800" channel="济南综合">
 <title lang="zh">有么说么新闻大社区</title>
 </programme>
-<programme start="20200811183800 +0800" stop="20200811190000 +0800" channel="济南综合">
+<programme start="20200814183200 +0800" stop="20200814183800 +0800" channel="济南综合">
+<title lang="zh">时代风采</title>
+</programme>
+<programme start="20200814183800 +0800" stop="20200814190000 +0800" channel="济南综合">
 <title lang="zh">济南新闻(直播)</title>
 </programme>
-<programme start="20200811190000 +0800" stop="20200811193300 +0800" channel="济南综合">
+<programme start="20200814190000 +0800" stop="20200814193300 +0800" channel="济南综合">
 <title lang="zh">转播中央台新闻联播</title>
 </programme>
-<programme start="20200811193300 +0800" stop="20200811210600 +0800" channel="济南综合">
+<programme start="20200814193300 +0800" stop="20200814210600 +0800" channel="济南综合">
 <title lang="zh">今晚剧场:庆余年</title>
 </programme>
-<programme start="20200811210600 +0800" stop="20200811221000 +0800" channel="济南综合">
+<programme start="20200814210600 +0800" stop="20200814221000 +0800" channel="济南综合">
 <title lang="zh">今晚新闻版块(直播)</title>
 </programme>
-<programme start="20200811221000 +0800" stop="20200811225300 +0800" channel="济南综合">
+<programme start="20200814221000 +0800" stop="20200814225300 +0800" channel="济南综合">
 <title lang="zh">今晚不关机(首播)</title>
 </programme>
-<programme start="20200811225300 +0800" stop="20200811231900 +0800" channel="济南综合">
+<programme start="20200814225300 +0800" stop="20200814231900 +0800" channel="济南综合">
 <title lang="zh">济南新闻(重播)</title>
 </programme>
-<programme start="20200811231900 +0800" stop="20200811235000 +0800" channel="济南综合">
+<programme start="20200814231900 +0800" stop="20200814235000 +0800" channel="济南综合">
 <title lang="zh">有么别有病(重播)</title>
 </programme>
-<programme start="20200811235000 +0800" stop="20200811235900 +0800" channel="济南综合">
+<programme start="20200814235000 +0800" stop="20200814235900 +0800" channel="济南综合">
 <title lang="zh">寰宇地理晚间版</title>
 </programme>
-<programme start="20200811060000 +0800" stop="20200811060500 +0800" channel="临沂综合">
+<programme start="20200814060000 +0800" stop="20200814060500 +0800" channel="临沂综合">
 <title lang="zh">晨曲</title>
 </programme>
-<programme start="20200811060500 +0800" stop="20200811065500 +0800" channel="临沂综合">
+<programme start="20200814060500 +0800" stop="20200814065500 +0800" channel="临沂综合">
 <title lang="zh">中华养生</title>
 </programme>
-<programme start="20200811065500 +0800" stop="20200811071500 +0800" channel="临沂综合">
+<programme start="20200814065500 +0800" stop="20200814071500 +0800" channel="临沂综合">
 <title lang="zh">马上就办直通车</title>
 </programme>
-<programme start="20200811071500 +0800" stop="20200811075500 +0800" channel="临沂综合">
+<programme start="20200814071500 +0800" stop="20200814075500 +0800" channel="临沂综合">
 <title lang="zh">临沂新闻</title>
 </programme>
-<programme start="20200811075500 +0800" stop="20200811091500 +0800" channel="临沂综合">
+<programme start="20200814075500 +0800" stop="20200814091500 +0800" channel="临沂综合">
 <title lang="zh">电视剧</title>
 </programme>
-<programme start="20200811091500 +0800" stop="20200811103500 +0800" channel="临沂综合">
+<programme start="20200814091500 +0800" stop="20200814103500 +0800" channel="临沂综合">
 <title lang="zh">电视剧</title>
 </programme>
-<programme start="20200811103500 +0800" stop="20200811115000 +0800" channel="临沂综合">
+<programme start="20200814103500 +0800" stop="20200814115000 +0800" channel="临沂综合">
 <title lang="zh">电视剧</title>
 </programme>
-<programme start="20200811115000 +0800" stop="20200811122000 +0800" channel="临沂综合">
+<programme start="20200814115000 +0800" stop="20200814122000 +0800" channel="临沂综合">
 <title lang="zh">临沂新闻</title>
 </programme>
-<programme start="20200811122000 +0800" stop="20200811131500 +0800" channel="临沂综合">
+<programme start="20200814122000 +0800" stop="20200814131500 +0800" channel="临沂综合">
 <title lang="zh">马上就办直通车</title>
 </programme>
-<programme start="20200811131500 +0800" stop="20200811143500 +0800" channel="临沂综合">
+<programme start="20200814131500 +0800" stop="20200814143500 +0800" channel="临沂综合">
 <title lang="zh">连续剧</title>
 </programme>
-<programme start="20200811143500 +0800" stop="20200811154800 +0800" channel="临沂综合">
+<programme start="20200814143500 +0800" stop="20200814154800 +0800" channel="临沂综合">
 <title lang="zh">连续剧</title>
 </programme>
-<programme start="20200811154800 +0800" stop="20200811165500 +0800" channel="临沂综合">
+<programme start="20200814154800 +0800" stop="20200814165500 +0800" channel="临沂综合">
 <title lang="zh">连续剧</title>
 </programme>
-<programme start="20200811165500 +0800" stop="20200811174000 +0800" channel="临沂综合">
+<programme start="20200814165500 +0800" stop="20200814174000 +0800" channel="临沂综合">
 <title lang="zh">荧屏金曲</title>
 </programme>
-<programme start="20200811174000 +0800" stop="20200811181000 +0800" channel="临沂综合">
+<programme start="20200814174000 +0800" stop="20200814181000 +0800" channel="临沂综合">
 <title lang="zh">直播临沂</title>
 </programme>
-<programme start="20200811181000 +0800" stop="20200811182800 +0800" channel="临沂综合">
-<title lang="zh">教育在线</title>
-</programme>
-<programme start="20200811182800 +0800" stop="20200811190000 +0800" channel="临沂综合">
-<title lang="zh">房产报道</title>
-</programme>
-<programme start="20200811190000 +0800" stop="20200811193100 +0800" channel="临沂综合">
-<title lang="zh">新闻联播</title>
-</programme>
-<programme start="20200811193100 +0800" stop="20200811200000 +0800" channel="临沂综合">
-<title lang="zh">临沂新闻</title>
-</programme>
-<programme start="20200811200000 +0800" stop="20200811203200 +0800" channel="临沂综合">
-<title lang="zh">马上就办直通车</title>
-</programme>
-<programme start="20200811203200 +0800" stop="20200811214800 +0800" channel="临沂综合">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811214800 +0800" stop="20200811230100 +0800" channel="临沂综合">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811230100 +0800" stop="20200811235900 +0800" channel="临沂综合">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811060000 +0800" stop="20200811063300 +0800" channel="临沂农科">
-<title lang="zh">晨曲</title>
-</programme>
-<programme start="20200811063300 +0800" stop="20200811074500 +0800" channel="临沂农科">
-<title lang="zh">琅琊风云榜</title>
-</programme>
-<programme start="20200811074500 +0800" stop="20200811090000 +0800" channel="临沂农科">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811090000 +0800" stop="20200811104000 +0800" channel="临沂农科">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811104000 +0800" stop="20200811115000 +0800" channel="临沂农科">
-<title lang="zh">室内剧</title>
-</programme>
-<programme start="20200811115000 +0800" stop="20200811121000 +0800" channel="临沂农科">
-<title lang="zh">八点新时空</title>
-</programme>
-<programme start="20200811121000 +0800" stop="20200811123000 +0800" channel="临沂农科">
-<title lang="zh">教育在线</title>
-</programme>
-<programme start="20200811123000 +0800" stop="20200811133500 +0800" channel="临沂农科">
-<title lang="zh">教育视界</title>
-</programme>
-<programme start="20200811133500 +0800" stop="20200811152000 +0800" channel="临沂农科">
-<title lang="zh">连续剧</title>
-</programme>
-<programme start="20200811152000 +0800" stop="20200811165100 +0800" channel="临沂农科">
-<title lang="zh">连续剧</title>
-</programme>
-<programme start="20200811165100 +0800" stop="20200811173000 +0800" channel="临沂农科">
-<title lang="zh">荧屏金曲</title>
-</programme>
-<programme start="20200811173000 +0800" stop="20200811173100 +0800" channel="临沂农科">
-<title lang="zh">晚间节目预告</title>
-</programme>
-<programme start="20200811173100 +0800" stop="20200811180000 +0800" channel="临沂农科">
-<title lang="zh">室内剧</title>
-</programme>
-<programme start="20200811180000 +0800" stop="20200811190000 +0800" channel="临沂农科">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811190000 +0800" stop="20200811200000 +0800" channel="临沂农科">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811200000 +0800" stop="20200811202500 +0800" channel="临沂农科">
-<title lang="zh">八点新时空</title>
-</programme>
-<programme start="20200811202500 +0800" stop="20200811205300 +0800" channel="临沂农科">
-<title lang="zh">临沂第1财经</title>
-</programme>
-<programme start="20200811205300 +0800" stop="20200811211000 +0800" channel="临沂农科">
-<title lang="zh">农科天气预报</title>
-</programme>
-<programme start="20200811211000 +0800" stop="20200811221500 +0800" channel="临沂农科">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811221500 +0800" stop="20200811231300 +0800" channel="临沂农科">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811231300 +0800" stop="20200811233000 +0800" channel="临沂农科">
+<programme start="20200814181000 +0800" stop="20200814182800 +0800" channel="临沂综合">
 <title lang="zh">家装风向标</title>
 </programme>
-<programme start="20200811233000 +0800" stop="20200811235400 +0800" channel="临沂农科">
-<title lang="zh">八点新时空</title>
+<programme start="20200814182800 +0800" stop="20200814190000 +0800" channel="临沂综合">
+<title lang="zh">临沂第1财经</title>
 </programme>
-<programme start="20200811235400 +0800" stop="20200811235900 +0800" channel="临沂农科">
-<title lang="zh">家庭演播室</title>
+<programme start="20200814190000 +0800" stop="20200814193100 +0800" channel="临沂综合">
+<title lang="zh">新闻联播</title>
 </programme>
-<programme start="20200811060000 +0800" stop="20200811063000 +0800" channel="临沂公共">
-<title lang="zh">晨曲</title>
-</programme>
-<programme start="20200811063000 +0800" stop="20200811070000 +0800" channel="临沂公共">
-<title lang="zh">娱乐现场</title>
-</programme>
-<programme start="20200811070000 +0800" stop="20200811073000 +0800" channel="临沂公共">
-<title lang="zh">直播临沂</title>
-</programme>
-<programme start="20200811073000 +0800" stop="20200811082200 +0800" channel="临沂公共">
-<title lang="zh">行风热线</title>
-</programme>
-<programme start="20200811082200 +0800" stop="20200811093000 +0800" channel="临沂公共">
-<title lang="zh">直播挑战</title>
-</programme>
-<programme start="20200811093000 +0800" stop="20200811103000 +0800" channel="临沂公共">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811103000 +0800" stop="20200811120000 +0800" channel="临沂公共">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811120000 +0800" stop="20200811133000 +0800" channel="临沂公共">
-<title lang="zh">直播临沂</title>
-</programme>
-<programme start="20200811133000 +0800" stop="20200811142000 +0800" channel="临沂公共">
-<title lang="zh">临沂故事会</title>
-</programme>
-<programme start="20200811142000 +0800" stop="20200811154500 +0800" channel="临沂公共">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811154500 +0800" stop="20200811173000 +0800" channel="临沂公共">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20200811173000 +0800" stop="20200811180000 +0800" channel="临沂公共">
-<title lang="zh">晚间节目预告</title>
-</programme>
-<programme start="20200811180000 +0800" stop="20200811183000 +0800" channel="临沂公共">
-<title lang="zh">行风热线</title>
-</programme>
-<programme start="20200811183000 +0800" stop="20200811193000 +0800" channel="临沂公共">
-<title lang="zh">直播挑战</title>
-</programme>
-<programme start="20200811193000 +0800" stop="20200811200500 +0800" channel="临沂公共">
-<title lang="zh">直播临沂</title>
-</programme>
-<programme start="20200811200500 +0800" stop="20200811203000 +0800" channel="临沂公共">
-<title lang="zh">临沂故事会</title>
-</programme>
-<programme start="20200811203000 +0800" stop="20200811205500 +0800" channel="临沂公共">
-<title lang="zh">健康连线</title>
-</programme>
-<programme start="20200811205500 +0800" stop="20200811211500 +0800" channel="临沂公共">
-<title lang="zh">汽车时代</title>
-</programme>
-<programme start="20200811211500 +0800" stop="20200811213000 +0800" channel="临沂公共">
-<title lang="zh">马上就办直通车</title>
-</programme>
-<programme start="20200811213000 +0800" stop="20200811215500 +0800" channel="临沂公共">
+<programme start="20200814193100 +0800" stop="20200814200000 +0800" channel="临沂综合">
 <title lang="zh">临沂新闻</title>
 </programme>
-<programme start="20200811215500 +0800" stop="20200811222800 +0800" channel="临沂公共">
-<title lang="zh">房产报道</title>
+<programme start="20200814200000 +0800" stop="20200814203200 +0800" channel="临沂综合">
+<title lang="zh">马上就办直通车</title>
 </programme>
-<programme start="20200811222800 +0800" stop="20200811232200 +0800" channel="临沂公共">
+<programme start="20200814203200 +0800" stop="20200814214800 +0800" channel="临沂综合">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814214800 +0800" stop="20200814230100 +0800" channel="临沂综合">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814230100 +0800" stop="20200814235900 +0800" channel="临沂综合">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814060000 +0800" stop="20200814063300 +0800" channel="临沂农科">
+<title lang="zh">晨曲</title>
+</programme>
+<programme start="20200814063300 +0800" stop="20200814074500 +0800" channel="临沂农科">
+<title lang="zh">琅琊风云榜</title>
+</programme>
+<programme start="20200814074500 +0800" stop="20200814090000 +0800" channel="临沂农科">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814090000 +0800" stop="20200814104000 +0800" channel="临沂农科">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814104000 +0800" stop="20200814115000 +0800" channel="临沂农科">
+<title lang="zh">室内剧</title>
+</programme>
+<programme start="20200814115000 +0800" stop="20200814121000 +0800" channel="临沂农科">
+<title lang="zh">八点新时空</title>
+</programme>
+<programme start="20200814121000 +0800" stop="20200814123000 +0800" channel="临沂农科">
+<title lang="zh">教育在线</title>
+</programme>
+<programme start="20200814123000 +0800" stop="20200814133500 +0800" channel="临沂农科">
+<title lang="zh">教育视界</title>
+</programme>
+<programme start="20200814133500 +0800" stop="20200814152000 +0800" channel="临沂农科">
+<title lang="zh">连续剧</title>
+</programme>
+<programme start="20200814152000 +0800" stop="20200814165100 +0800" channel="临沂农科">
+<title lang="zh">连续剧</title>
+</programme>
+<programme start="20200814165100 +0800" stop="20200814173000 +0800" channel="临沂农科">
+<title lang="zh">荧屏金曲</title>
+</programme>
+<programme start="20200814173000 +0800" stop="20200814173100 +0800" channel="临沂农科">
+<title lang="zh">晚间节目预告</title>
+</programme>
+<programme start="20200814173100 +0800" stop="20200814180000 +0800" channel="临沂农科">
+<title lang="zh">室内剧</title>
+</programme>
+<programme start="20200814180000 +0800" stop="20200814190000 +0800" channel="临沂农科">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814190000 +0800" stop="20200814200000 +0800" channel="临沂农科">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814200000 +0800" stop="20200814202500 +0800" channel="临沂农科">
+<title lang="zh">八点新时空</title>
+</programme>
+<programme start="20200814202500 +0800" stop="20200814205300 +0800" channel="临沂农科">
+<title lang="zh">临沂第1财经</title>
+</programme>
+<programme start="20200814205300 +0800" stop="20200814211000 +0800" channel="临沂农科">
+<title lang="zh">农科天气预报</title>
+</programme>
+<programme start="20200814211000 +0800" stop="20200814221500 +0800" channel="临沂农科">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814221500 +0800" stop="20200814231300 +0800" channel="临沂农科">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814231300 +0800" stop="20200814233000 +0800" channel="临沂农科">
+<title lang="zh">沂蒙金盾</title>
+</programme>
+<programme start="20200814233000 +0800" stop="20200814235400 +0800" channel="临沂农科">
+<title lang="zh">八点新时空</title>
+</programme>
+<programme start="20200814235400 +0800" stop="20200814235900 +0800" channel="临沂农科">
+<title lang="zh">美丽俏佳人</title>
+</programme>
+<programme start="20200814060000 +0800" stop="20200814063000 +0800" channel="临沂公共">
+<title lang="zh">晨曲</title>
+</programme>
+<programme start="20200814063000 +0800" stop="20200814070000 +0800" channel="临沂公共">
+<title lang="zh">娱乐现场</title>
+</programme>
+<programme start="20200814070000 +0800" stop="20200814073000 +0800" channel="临沂公共">
+<title lang="zh">直播临沂</title>
+</programme>
+<programme start="20200814073000 +0800" stop="20200814082200 +0800" channel="临沂公共">
+<title lang="zh">行风热线</title>
+</programme>
+<programme start="20200814082200 +0800" stop="20200814093000 +0800" channel="临沂公共">
+<title lang="zh">直播挑战</title>
+</programme>
+<programme start="20200814093000 +0800" stop="20200814103000 +0800" channel="临沂公共">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814103000 +0800" stop="20200814120000 +0800" channel="临沂公共">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814120000 +0800" stop="20200814133000 +0800" channel="临沂公共">
+<title lang="zh">直播临沂</title>
+</programme>
+<programme start="20200814133000 +0800" stop="20200814142000 +0800" channel="临沂公共">
+<title lang="zh">临沂故事会</title>
+</programme>
+<programme start="20200814142000 +0800" stop="20200814154500 +0800" channel="临沂公共">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814154500 +0800" stop="20200814173000 +0800" channel="临沂公共">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20200814173000 +0800" stop="20200814180000 +0800" channel="临沂公共">
+<title lang="zh">晚间节目预告</title>
+</programme>
+<programme start="20200814180000 +0800" stop="20200814183000 +0800" channel="临沂公共">
+<title lang="zh">行风热线</title>
+</programme>
+<programme start="20200814183000 +0800" stop="20200814193000 +0800" channel="临沂公共">
+<title lang="zh">直播挑战</title>
+</programme>
+<programme start="20200814193000 +0800" stop="20200814200500 +0800" channel="临沂公共">
+<title lang="zh">直播临沂</title>
+</programme>
+<programme start="20200814200500 +0800" stop="20200814203000 +0800" channel="临沂公共">
+<title lang="zh">临沂故事会</title>
+</programme>
+<programme start="20200814203000 +0800" stop="20200814205500 +0800" channel="临沂公共">
+<title lang="zh">健康连线</title>
+</programme>
+<programme start="20200814205500 +0800" stop="20200814211500 +0800" channel="临沂公共">
+<title lang="zh">汽车时代</title>
+</programme>
+<programme start="20200814211500 +0800" stop="20200814213000 +0800" channel="临沂公共">
+<title lang="zh">马上就办直通车</title>
+</programme>
+<programme start="20200814213000 +0800" stop="20200814215500 +0800" channel="临沂公共">
+<title lang="zh">临沂新闻</title>
+</programme>
+<programme start="20200814215500 +0800" stop="20200814222800 +0800" channel="临沂公共">
+<title lang="zh">临沂第1财经</title>
+</programme>
+<programme start="20200814222800 +0800" stop="20200814232200 +0800" channel="临沂公共">
 <title lang="zh">老剧场</title>
 </programme>
-<programme start="20200811232200 +0800" stop="20200811235900 +0800" channel="临沂公共">
+<programme start="20200814232200 +0800" stop="20200814235900 +0800" channel="临沂公共">
 <title lang="zh">老剧场</title>
 </programme>
 </tv>
