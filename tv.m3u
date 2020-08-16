@@ -275,20 +275,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000403/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
 #EXTINF:-1  group-title="山东移动",海看4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
-#EXTINF:-1 group-title="福建移动",FJ欧美影院
-http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-#EXTINF:-1 group-title="福建移动",FJ国语影院
-http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 group-title="福建移动",FJ国产影院
-http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-#EXTINF:-1 group-title="福建移动",BesTV全球大片
-rtsp://112.50.242.148:554/PLTV/88888888/224/3221226748/45950069.smil
-#EXTINF:-1 group-title="福建移动",BesTV星光影院
-rtsp://112.50.242.148:554/PLTV/88888888/224/3221226816/48629572.smil
-#EXTINF:-1 group-title="福建移动",BesTV华语影院
-rtsp://112.50.242.148:554/PLTV/88888888/224/3221226757/45949783.smil
-#EXTINF:-1 group-title="福建移动",BesTV4K
-http://111.0.93.25/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/index.m3u8?fmt=ts2hls
+#EXTINF:-1  group-title="山东移动",三河口
+http://lmt01.juntaikeji.com:8084/srs/video/37130201561327011001.m3u8
 #EXTINF:-1 group-title="爱奇艺",豆瓣高分
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",票房收割
@@ -339,16 +327,7 @@ http://kkitv.com/iptv/mg.php?id=625681368
 http://kkitv.com/iptv/mg.php?id=623338112
 #EXTINF:-1 group-title="咪咕",MiGu刘涛作品
 http://kkitv.com/iptv/mg.php?id=625514969
-#EXTINF:-1 group-title="CIBN",CIBN电影
-http://gqys.lbcl01.cibn.cc/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?k=16a1f2573be9472216a83930f7bc0829&channel=xlmediawatch&t=1596685096&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 group-title="CIBN",CIBN好莱坞
-http://gqys.lbcl02.cibn.cc/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?k=16a1f2573be9472216a83930f7bc0829&channel=xlmediawatch&t=1596685096&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 group-title="CIBN",CIBN动作影院
-http://gqys.lbcl02.cibn.cc/hls/vCIBNDZYY/1800/vCIBNDZYY.m3u8?k=16a1f2573be9472216a83930f7bc0829&channel=xlmediawatch&t=1596685096&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 group-title="CIBN",CIBN精品影院
-http://gqys.lbcl01.cibn.cc/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?k=16a1f2573be9472216a83930f7bc0829&channel=xlmediawatch&t=1596685096&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 group-title="CIBN",CIBN院线大片
-http://gqys.lbcl02.cibn.cc/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?k=16a1f2573be9472216a83930f7bc0829&channel=xlmediawatch&t=1596685096&ttl=86400&type=3&videotype=loop
+
 #EXTINF:-1 group-title="求索频道",求索记录
 http://125.210.152.21:9120/live/QSJLHD.m3u8
 #EXTINF:-1  group-title="求索频道",求索生活
