@@ -291,6 +291,16 @@ http://223.99.240.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c20_lb_junshiguanch
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wenhuaqitan_720p_t5/c15_lb_wenhuaqitan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",奇妙世界
 http://120.221.77.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c18_lb_qimiaoshijie_720P_t5/c18_lb_qimiaoshijie_720P_t5.m3u8
+#EXTINF:-1 group-title="CIBN",CIBN电影
+http://gqys.lbcl01.cibn.cc/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?k=dd162f0395507c5ac4fddf7eda5da9ee&channel=xlmediawatch&t=1597639059&ttl=86400&type=3&videotype=loop
+#EXTINF:-1 group-title="CIBN",CIBN好莱坞
+http://gqys.lbcl02.cibn.cc/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?k=dd162f0395507c5ac4fddf7eda5da9ee&channel=xlmediawatch&t=1597639059&ttl=86400&type=3&videotype=loop
+#EXTINF:-1 group-title="CIBN",CIBN精品影院
+http://gqys.lbcl01.cibn.cc/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?k=dd162f0395507c5ac4fddf7eda5da9ee&channel=xlmediawatch&t=1597639059&ttl=86400&type=3&videotype=loop
+#EXTINF:-1 group-title="CIBN",CIBN院线大片
+http://gqys.lbcl02.cibn.cc/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?k=dd162f0395507c5ac4fddf7eda5da9ee&channel=xlmediawatch&t=1597639059&ttl=86400&type=3&videotype=loop
+#EXTINF:-1 group-title="CIBN",CIBN动作影院
+http://gqys.lbcl02.cibn.cc/hls/vCIBNDZYY/1800/vCIBNDZYY.m3u8?k=dd162f0395507c5ac4fddf7eda5da9ee&channel=xlmediawatch&t=1597639059&ttl=86400&type=3&videotype=loop
 #EXTINF:-1 group-title="咪咕",MiGu高分影院
 http://kkitv.com/iptv/mg.php?id=627198191
 #EXTINF:-1 group-title="咪咕",MiGu高清影视
