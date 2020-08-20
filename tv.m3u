@@ -109,6 +109,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1  group-title="凤凰卫视",华纳电影
 http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1  group-title="凤凰卫视",好莱坞电影
+http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1  group-title="凤凰卫视",东森洋片
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1  group-title="凤凰卫视",东森电影
@@ -285,6 +287,20 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
 #EXTINF:-1  group-title="山东移动",三河口
 http://lmt01.juntaikeji.com:8084/srs/video/37130201561327011001.m3u8
+#EXTINF:-1  group-title="山东移动",SN精彩电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+#EXTINF:-1  group-title="山东移动",SN精彩电视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1  group-title="山东移动",SN精彩综艺
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
+#EXTINF:-1  group-title="山东移动",CBN每日影院
+http://117.59.8.2/PLTV/88888888/224/3221227357/index.m3u8?icpid=88888888&from=4&hms_devid=2744
+#EXTINF:-1  group-title="山东移动",CBN幸福娱乐
+http://117.59.8.2/PLTV/88888888/224/3221227375/index.m3u8?icpid=88888888&from=4&hms_devid=2744
+#EXTINF:-1  group-title="山东移动",CBN风尚生活
+http://117.59.8.2/PLTV/88888888/224/3221227351/index.m3u8?icpid=88888888&from=4&hms_devid=2744
+#EXTINF:-1  group-title="山东移动",CBN幸福剧场
+http://117.59.8.2/PLTV/88888888/224/3221227360/index.m3u8?icpid=88888888&from=4&hms_devid=2744
 #EXTINF:-1 group-title="爱奇艺",豆瓣高分
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",票房收割
@@ -312,39 +328,21 @@ http://gqys.lbcl02.cibn.cc/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?k=dd162f0395507c5ac
 #EXTINF:-1 group-title="CIBN",CIBN动作影院
 http://gqys.lbcl02.cibn.cc/hls/vCIBNDZYY/1800/vCIBNDZYY.m3u8?k=dd162f0395507c5ac4fddf7eda5da9ee&channel=xlmediawatch&t=1597639059&ttl=86400&type=3&videotype=loop
 #EXTINF:-1 group-title="咪咕",MiGu高分影院
-http://kkitv.com/iptv/mg.php?id=627198191
+http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu高清影视
-http://kkitv.com/iptv/mg.php?id=617432318
+http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/350/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu每日科幻
-http://kkitv.com/iptv/mg.php?id=625204865
+http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu黄金剧场
-http://kkitv.com/iptv/mg.php?id=625155140
+http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172024/50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu军旅剧场
-http://kkitv.com/iptv/mg.php?id=625643517
+http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180303/50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu暑期剧场
-http://kkitv.com/iptv/mg.php?id=627198610
+http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu精品国产
-http://kkitv.com/iptv/mg.php?id=625574378
-#EXTINF:-1 group-title="咪咕",MiGu乡村爱情
-http://kkitv.com/iptv/mg.php?id=625774662
-#EXTINF:-1 group-title="咪咕",MiGu红色谍战
-http://kkitv.com/iptv/mg.php?id=634274665
-#EXTINF:-1 group-title="咪咕",MiGu精品剧场
-http://kkitv.com/iptv/mg.php?id=615810094
-#EXTINF:-1 group-title="咪咕",MiGu四大名著
-http://kkitv.com/iptv/mg.php?id=625498432
-#EXTINF:-1 group-title="咪咕",MiGu金庸频道
-http://kkitv.com/iptv/mg.php?id=625774640
-#EXTINF:-1 group-title="咪咕",MiGu天龙八部
-http://kkitv.com/iptv/mg.php?id=625703337
-#EXTINF:-1 group-title="咪咕",MiGu笑傲江湖
-http://kkitv.com/iptv/mg.php?id=625759558
-#EXTINF:-1 group-title="咪咕",MiGu鹿鼎记
-http://kkitv.com/iptv/mg.php?id=625681368
-#EXTINF:-1 group-title="咪咕",MiGu周星驰
-http://kkitv.com/iptv/mg.php?id=623338112
-#EXTINF:-1 group-title="咪咕",MiGu刘涛作品
-http://kkitv.com/iptv/mg.php?id=625514969
+http://live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-50/index.m3u8?ProgramID=&encrypt=
+#EXTINF:-1 group-title="咪咕",MiGu火爆劲片
+http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100168805/75/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="求索频道",求索记录
 http://125.210.152.21:9120/live/QSJLHD.m3u8
 #EXTINF:-1  group-title="求索频道",求索生活
