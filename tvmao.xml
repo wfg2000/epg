@@ -33,6 +33,9 @@
 <channel id="IPTV6+">
 <display-name lang="zh">IPTV6+</display-name>
 </channel>
+<channel id="IPTV8+">
+<display-name lang="zh">IPTV8+</display-name>
+</channel>
 <channel id="济南综合">
 <display-name lang="zh">济南综合</display-name>
 </channel>
@@ -933,176 +936,302 @@
 <programme start="20200821233900 +0800" stop="20200821235900 +0800" channel="IPTV法治">
 <title lang="zh">法治在线</title>
 </programme>
-<programme start="20200821011500 +0800" stop="20200821014000 +0800" channel="IPTV3+">
-<title lang="zh">综艺喜乐汇</title>
+<programme start="20200821000100 +0800" stop="20200821001100 +0800" channel="IPTV3+">
+<title lang="zh">标清 《文化十分》 20200818</title>
 </programme>
-<programme start="20200821014000 +0800" stop="20200821021500 +0800" channel="IPTV3+">
-<title lang="zh">综艺喜乐汇</title>
+<programme start="20200821001100 +0800" stop="20200821012800 +0800" channel="IPTV3+">
+<title lang="zh">标清 《越战越勇》 20200818 喜剧版</title>
 </programme>
-<programme start="20200821021500 +0800" stop="20200821033200 +0800" channel="IPTV3+">
-<title lang="zh">幸福账单</title>
+<programme start="20200821012800 +0800" stop="20200821024500 +0800" channel="IPTV3+">
+<title lang="zh">标清 《开门大吉》 20200818</title>
 </programme>
-<programme start="20200821033200 +0800" stop="20200821040200 +0800" channel="IPTV3+">
-<title lang="zh">天天把歌唱</title>
+<programme start="20200821024500 +0800" stop="20200821033500 +0800" channel="IPTV3+">
+<title lang="zh">标清 《幸福账单》 20200818</title>
 </programme>
-<programme start="20200821040200 +0800" stop="20200821051900 +0800" channel="IPTV3+">
-<title lang="zh">开门大吉</title>
+<programme start="20200821033500 +0800" stop="20200821040000 +0800" channel="IPTV3+">
+<title lang="zh">标清 《天天把歌唱》 20200818</title>
 </programme>
-<programme start="20200821051900 +0800" stop="20200821063600 +0800" channel="IPTV3+">
-<title lang="zh">越战越勇</title>
+<programme start="20200821040000 +0800" stop="20200821050600 +0800" channel="IPTV3+">
+<title lang="zh">标清 《2020旋转吧假期》 20200819</title>
 </programme>
-<programme start="20200821063600 +0800" stop="20200821080100 +0800" channel="IPTV3+">
-<title lang="zh">出彩中国人</title>
+<programme start="20200821050600 +0800" stop="20200821063300 +0800" channel="IPTV3+">
+<title lang="zh">标清 《唱过夏天-2020流行音乐大型演唱会》 20200819</title>
 </programme>
-<programme start="20200821080100 +0800" stop="20200821091800 +0800" channel="IPTV3+">
-<title lang="zh">黄金100秒</title>
+<programme start="20200821063300 +0800" stop="20200821064300 +0800" channel="IPTV3+">
+<title lang="zh">标清 《文化十分》 20200819</title>
 </programme>
-<programme start="20200821091800 +0800" stop="20200821103800 +0800" channel="IPTV3+">
-<title lang="zh">星光大道</title>
+<programme start="20200821064300 +0800" stop="20200821080000 +0800" channel="IPTV3+">
+<title lang="zh">标清 《向幸福出发》 20200819</title>
 </programme>
-<programme start="20200821103800 +0800" stop="20200821114800 +0800" channel="IPTV3+">
-<title lang="zh">星光大道</title>
+<programme start="20200821080000 +0800" stop="20200821085000 +0800" channel="IPTV3+">
+<title lang="zh">标清 《幸福账单》 20200819</title>
 </programme>
-<programme start="20200821114800 +0800" stop="20200821130400 +0800" channel="IPTV3+">
-<title lang="zh">非常6+1</title>
+<programme start="20200821085000 +0800" stop="20200821100700 +0800" channel="IPTV3+">
+<title lang="zh">标清 《开门大吉》 20200819</title>
 </programme>
-<programme start="20200821130400 +0800" stop="20200821132900 +0800" channel="IPTV3+">
-<title lang="zh">综艺喜乐汇</title>
+<programme start="20200821100700 +0800" stop="20200821103200 +0800" channel="IPTV3+">
+<title lang="zh">标清 《天天把歌唱》 20200819</title>
 </programme>
-<programme start="20200821132900 +0800" stop="20200821140400 +0800" channel="IPTV3+">
-<title lang="zh">综艺喜乐汇</title>
+<programme start="20200821103200 +0800" stop="20200821120200 +0800" channel="IPTV3+">
+<title lang="zh">标清 《2020唱响新时代》 20200819</title>
 </programme>
-<programme start="20200821140400 +0800" stop="20200821152100 +0800" channel="IPTV3+">
-<title lang="zh">幸福账单</title>
+<programme start="20200821120200 +0800" stop="20200821131900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《综艺喜乐汇》 20200819</title>
 </programme>
-<programme start="20200821152100 +0800" stop="20200821155100 +0800" channel="IPTV3+">
-<title lang="zh">天天把歌唱</title>
+<programme start="20200821131900 +0800" stop="20200821140900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《回声嘹亮》 20200819</title>
 </programme>
-<programme start="20200821155100 +0800" stop="20200821170800 +0800" channel="IPTV3+">
-<title lang="zh">开门大吉</title>
+<programme start="20200821140900 +0800" stop="20200821152600 +0800" channel="IPTV3+">
+<title lang="zh">标清 《越战越勇》 20200819</title>
 </programme>
-<programme start="20200821170800 +0800" stop="20200821182500 +0800" channel="IPTV3+">
-<title lang="zh">越战越勇</title>
+<programme start="20200821152600 +0800" stop="20200821164300 +0800" channel="IPTV3+">
+<title lang="zh">标清 《综艺喜乐汇》 20200819</title>
 </programme>
-<programme start="20200821182500 +0800" stop="20200821195000 +0800" channel="IPTV3+">
-<title lang="zh">出彩中国人</title>
+<programme start="20200821164300 +0800" stop="20200821175000 +0800" channel="IPTV3+">
+<title lang="zh">标清 《2020旋转吧假期》 20200819</title>
 </programme>
-<programme start="20200821195000 +0800" stop="20200821210600 +0800" channel="IPTV3+">
-<title lang="zh">黄金100秒</title>
+<programme start="20200821175000 +0800" stop="20200821191600 +0800" channel="IPTV3+">
+<title lang="zh">标清 《唱过夏天-2020流行音乐大型演唱会》 20200819</title>
 </programme>
-<programme start="20200821210600 +0800" stop="20200821222600 +0800" channel="IPTV3+">
-<title lang="zh">星光大道</title>
+<programme start="20200821191600 +0800" stop="20200821203300 +0800" channel="IPTV3+">
+<title lang="zh">标清 《向幸福出发》 20200819</title>
 </programme>
-<programme start="20200821222600 +0800" stop="20200821235900 +0800" channel="IPTV3+">
-<title lang="zh">星光大道</title>
+<programme start="20200821203300 +0800" stop="20200821212300 +0800" channel="IPTV3+">
+<title lang="zh">标清 《幸福账单》 20200819</title>
 </programme>
-<programme start="20200821000000 +0800" stop="20200821015900 +0800" channel="IPTV5+">
-<title lang="zh">《体育晨报》</title>
+<programme start="20200821212300 +0800" stop="20200821224000 +0800" channel="IPTV3+">
+<title lang="zh">标清 《开门大吉》 20200819</title>
 </programme>
-<programme start="20200821015900 +0800" stop="20200821022800 +0800" channel="IPTV5+">
-<title lang="zh">《体坛快讯》</title>
+<programme start="20200821224000 +0800" stop="20200821230500 +0800" channel="IPTV3+">
+<title lang="zh">标清 《天天把歌唱》 20200819</title>
 </programme>
-<programme start="20200821022800 +0800" stop="20200821025500 +0800" channel="IPTV5+">
-<title lang="zh">《体育新闻</title>
+<programme start="20200821230500 +0800" stop="20200821235900 +0800" channel="IPTV3+">
+<title lang="zh">标清 《2020唱响新时代》 20200819</title>
 </programme>
-<programme start="20200821025500 +0800" stop="20200821033400 +0800" channel="IPTV5+">
-<title lang="zh">《体育世界》</title>
+<programme start="20200821001000 +0800" stop="20200821031900 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 男团1/4决赛 20200818</title>
 </programme>
-<programme start="20200821033400 +0800" stop="20200821040800 +0800" channel="IPTV5+">
-<title lang="zh">《天下足球》</title>
+<programme start="20200821031900 +0800" stop="20200821034600 +0800" channel="IPTV5+">
+<title lang="zh">标清 2019年IBF/WBA/WBO/IBO重量级拳王争霸赛 20200818</title>
 </programme>
-<programme start="20200821040800 +0800" stop="20200821041500 +0800" channel="IPTV5+">
-<title lang="zh">《风云会》</title>
+<programme start="20200821034600 +0800" stop="20200821040000 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年斯诺克世锦赛决赛 20200817</title>
 </programme>
-<programme start="20200821041500 +0800" stop="20200821043600 +0800" channel="IPTV5+">
-<title lang="zh">《健身动起来》</title>
+<programme start="20200821040000 +0800" stop="20200821045200 +0800" channel="IPTV5+">
+<title lang="zh">标清 2019年世界滑板锦标赛 男子决赛 20200819</title>
 </programme>
-<programme start="20200821043600 +0800" stop="20200821055500 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200821045200 +0800" stop="20200821054500 +0800" channel="IPTV5+">
+<title lang="zh">标清 [棋牌乐]20200819 芈昱廷VS朴廷桓</title>
 </programme>
-<programme start="20200821055500 +0800" stop="20200821072400 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200821054500 +0800" stop="20200821062500 +0800" channel="IPTV5+">
+<title lang="zh">标清 2017年世界体操锦标赛 男子个人全能决赛 20200819</title>
 </programme>
-<programme start="20200821072400 +0800" stop="20200821083500 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200821062500 +0800" stop="20200821070400 +0800" channel="IPTV5+">
+<title lang="zh">标清 2018年世界体操锦标赛 男子个人全能决赛 20200819</title>
 </programme>
-<programme start="20200821083500 +0800" stop="20200821120500 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200821070400 +0800" stop="20200821080600 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 男团1/4决赛 20200819</title>
 </programme>
-<programme start="20200821120500 +0800" stop="20200821174500 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200821080600 +0800" stop="20200821112600 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 男团半决赛 20200819</title>
 </programme>
-<programme start="20200821174500 +0800" stop="20200821184400 +0800" channel="IPTV5+">
-<title lang="zh">体育赛事</title>
+<programme start="20200821112600 +0800" stop="20200821114700 +0800" channel="IPTV5+">
+<title lang="zh">标清 健身动起来 20200819</title>
 </programme>
-<programme start="20200821184400 +0800" stop="20200821204400 +0800" channel="IPTV5+">
-<title lang="zh">《体育晨报》</title>
+<programme start="20200821114700 +0800" stop="20200821121600 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 女单三四名决赛 20200819</title>
 </programme>
-<programme start="20200821204400 +0800" stop="20200821211300 +0800" channel="IPTV5+">
-<title lang="zh">《体坛快讯》</title>
+<programme start="20200821121600 +0800" stop="20200821130700 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 女单决赛 20200819</title>
 </programme>
-<programme start="20200821211300 +0800" stop="20200821214000 +0800" channel="IPTV5+">
-<title lang="zh">《体育新闻》</title>
+<programme start="20200821130700 +0800" stop="20200821135200 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 男单决赛 20200819</title>
 </programme>
-<programme start="20200821214000 +0800" stop="20200821221800 +0800" channel="IPTV5+">
-<title lang="zh">《体育世界》</title>
+<programme start="20200821135200 +0800" stop="20200821141700 +0800" channel="IPTV5+">
+<title lang="zh">标清 [田径杂志]20200819 汤姆-沃尔什</title>
 </programme>
-<programme start="20200821221800 +0800" stop="20200821225300 +0800" channel="IPTV5+">
-<title lang="zh">《天下足球》</title>
+<programme start="20200821141700 +0800" stop="20200821145500 +0800" channel="IPTV5+">
+<title lang="zh">标清 伦敦奥运会男足决赛:巴西VS墨西哥</title>
 </programme>
-<programme start="20200821225300 +0800" stop="20200821230000 +0800" channel="IPTV5+">
-<title lang="zh">《风云会》</title>
+<programme start="20200821145500 +0800" stop="20200821161500 +0800" channel="IPTV5+">
+<title lang="zh">标清 突破-世界田径锦标赛集锦 20200818</title>
 </programme>
-<programme start="20200821230000 +0800" stop="20200821232100 +0800" channel="IPTV5+">
-<title lang="zh">《健身动起来》</title>
+<programme start="20200821161500 +0800" stop="20200821171900 +0800" channel="IPTV5+">
+<title lang="zh">标清 里约奥运会男足决赛:巴西VS德国</title>
 </programme>
-<programme start="20200821232100 +0800" stop="20200821235900 +0800" channel="IPTV5+">
-<title lang="zh">《体育世界》</title>
+<programme start="20200821171900 +0800" stop="20200821180700 +0800" channel="IPTV5+">
+<title lang="zh">标清 2019年WBA轻量级拳王争霸赛 戴维斯VS冈博亚 20200819</title>
 </programme>
-<programme start="20200821013100 +0800" stop="20200821025800 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821180700 +0800" stop="20200821185900 +0800" channel="IPTV5+">
+<title lang="zh">标清 棋牌乐 20200819</title>
 </programme>
-<programme start="20200821025800 +0800" stop="20200821043200 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821185900 +0800" stop="20200821193900 +0800" channel="IPTV5+">
+<title lang="zh">标清 2017年世界体操锦标赛 男子个人全能决赛 20200819</title>
 </programme>
-<programme start="20200821043200 +0800" stop="20200821055400 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821193900 +0800" stop="20200821201900 +0800" channel="IPTV5+">
+<title lang="zh">标清 2018年世界体操锦标赛 男子个人全能决赛 20200819</title>
 </programme>
-<programme start="20200821055400 +0800" stop="20200821071900 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821201900 +0800" stop="20200821212000 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 男团1/4决赛 20200819</title>
 </programme>
-<programme start="20200821071900 +0800" stop="20200821085000 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821212000 +0800" stop="20200821235900 +0800" channel="IPTV5+">
+<title lang="zh">标清 2020年中国乒乓球队东京奥运模拟赛 男团半决赛 20200819</title>
 </programme>
-<programme start="20200821085000 +0800" stop="20200821102200 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821001000 +0800" stop="20200821014900 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《我的新野蛮女友》</title>
 </programme>
-<programme start="20200821102200 +0800" stop="20200821114500 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821014900 +0800" stop="20200821032500 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《一切都好》</title>
 </programme>
-<programme start="20200821114500 +0800" stop="20200821130300 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821032500 +0800" stop="20200821034400 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《蝶儿》</title>
 </programme>
-<programme start="20200821130300 +0800" stop="20200821150500 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821034400 +0800" stop="20200821040000 +0800" channel="IPTV6+">
+<title lang="zh">标清 歌唱祖国·一首歌一座城</title>
 </programme>
-<programme start="20200821150500 +0800" stop="20200821163600 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821040000 +0800" stop="20200821052800 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《电商时代》</title>
 </programme>
-<programme start="20200821163600 +0800" stop="20200821180300 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821052800 +0800" stop="20200821065300 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《怨灵》</title>
 </programme>
-<programme start="20200821180300 +0800" stop="20200821193700 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821065300 +0800" stop="20200821085300 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《蜘蛛侠 英雄归来》(美国)</title>
 </programme>
-<programme start="20200821193700 +0800" stop="20200821205900 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821085300 +0800" stop="20200821104800 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《童年的许诺》(法国)</title>
 </programme>
-<programme start="20200821205900 +0800" stop="20200821222400 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821104800 +0800" stop="20200821122000 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《拇指姑娘》</title>
 </programme>
-<programme start="20200821222400 +0800" stop="20200821235900 +0800" channel="IPTV6+">
-<title lang="zh">经典影院</title>
+<programme start="20200821122000 +0800" stop="20200821135300 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《虐心之旅》</title>
+</programme>
+<programme start="20200821135300 +0800" stop="20200821153300 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《谁的青春不迷茫》</title>
+</programme>
+<programme start="20200821153300 +0800" stop="20200821170800 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《虎头要塞 电流》</title>
+</programme>
+<programme start="20200821170800 +0800" stop="20200821183300 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《临时演员》</title>
+</programme>
+<programme start="20200821183300 +0800" stop="20200821200900 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《通天小子红枪客》</title>
+</programme>
+<programme start="20200821200900 +0800" stop="20200821214000 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《血战千顷洼》</title>
+</programme>
+<programme start="20200821214000 +0800" stop="20200821231200 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《使徒行者2谍影行动》</title>
+</programme>
+<programme start="20200821231200 +0800" stop="20200821235900 +0800" channel="IPTV6+">
+<title lang="zh">标清 电影《拇指姑娘》</title>
+</programme>
+<programme start="20200821000800 +0800" stop="20200821005000 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第34集</title>
+</programme>
+<programme start="20200821005000 +0800" stop="20200821013100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第35集</title>
+</programme>
+<programme start="20200821013100 +0800" stop="20200821021300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第36集</title>
+</programme>
+<programme start="20200821021300 +0800" stop="20200821025400 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第39集</title>
+</programme>
+<programme start="20200821025400 +0800" stop="20200821033600 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第40集</title>
+</programme>
+<programme start="20200821033600 +0800" stop="20200821040000 +0800" channel="IPTV8+">
+<title lang="zh">标清 歌唱祖国·一首歌一座城</title>
+</programme>
+<programme start="20200821040000 +0800" stop="20200821044100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第41集</title>
+</programme>
+<programme start="20200821044100 +0800" stop="20200821052300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第42集</title>
+</programme>
+<programme start="20200821052300 +0800" stop="20200821060400 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第43集</title>
+</programme>
+<programme start="20200821060400 +0800" stop="20200821064600 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第44集</title>
+</programme>
+<programme start="20200821064600 +0800" stop="20200821072700 +0800" channel="IPTV8+">
+<title lang="zh">标清 《三妹》 第4集</title>
+</programme>
+<programme start="20200821072700 +0800" stop="20200821080800 +0800" channel="IPTV8+">
+<title lang="zh">标清 《三妹》 第5集</title>
+</programme>
+<programme start="20200821080800 +0800" stop="20200821085000 +0800" channel="IPTV8+">
+<title lang="zh">标清 《三妹》 第6集</title>
+</programme>
+<programme start="20200821085000 +0800" stop="20200821093100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《三妹》 第7集</title>
+</programme>
+<programme start="20200821093100 +0800" stop="20200821101300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《小镇警事》 第15集</title>
+</programme>
+<programme start="20200821101300 +0800" stop="20200821105400 +0800" channel="IPTV8+">
+<title lang="zh">标清 《小镇警事》 第16集</title>
+</programme>
+<programme start="20200821105400 +0800" stop="20200821113600 +0800" channel="IPTV8+">
+<title lang="zh">标清 《小镇警事》 第17集</title>
+</programme>
+<programme start="20200821113600 +0800" stop="20200821121700 +0800" channel="IPTV8+">
+<title lang="zh">标清 《小镇警事》 第18集</title>
+</programme>
+<programme start="20200821121700 +0800" stop="20200821130100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第37集(大结局)</title>
+</programme>
+<programme start="20200821130100 +0800" stop="20200821134500 +0800" channel="IPTV8+">
+<title lang="zh">标清 《热爱》 第1集</title>
+</programme>
+<programme start="20200821134500 +0800" stop="20200821142500 +0800" channel="IPTV8+">
+<title lang="zh">标清 《热爱》 第2集</title>
+</programme>
+<programme start="20200821142500 +0800" stop="20200821150600 +0800" channel="IPTV8+">
+<title lang="zh">标清 《热爱》 第3集</title>
+</programme>
+<programme start="20200821150600 +0800" stop="20200821154800 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第41集</title>
+</programme>
+<programme start="20200821154800 +0800" stop="20200821162900 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第42集</title>
+</programme>
+<programme start="20200821162900 +0800" stop="20200821171100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第43集</title>
+</programme>
+<programme start="20200821171100 +0800" stop="20200821175300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《大侠霍元甲》 第44集</title>
+</programme>
+<programme start="20200821175300 +0800" stop="20200821183400 +0800" channel="IPTV8+">
+<title lang="zh">标清 《三妹》 第4集</title>
+</programme>
+<programme start="20200821183400 +0800" stop="20200821191500 +0800" channel="IPTV8+">
+<title lang="zh">标清 《三妹》 第5集</title>
+</programme>
+<programme start="20200821191500 +0800" stop="20200821195700 +0800" channel="IPTV8+">
+<title lang="zh">标清 《三妹》 第6集</title>
+</programme>
+<programme start="20200821195700 +0800" stop="20200821203800 +0800" channel="IPTV8+">
+<title lang="zh">标清 《三妹》 第7集</title>
+</programme>
+<programme start="20200821203800 +0800" stop="20200821212000 +0800" channel="IPTV8+">
+<title lang="zh">标清 《小镇警事》 第15集</title>
+</programme>
+<programme start="20200821212000 +0800" stop="20200821220100 +0800" channel="IPTV8+">
+<title lang="zh">标清 《小镇警事》 第16集</title>
+</programme>
+<programme start="20200821220100 +0800" stop="20200821224300 +0800" channel="IPTV8+">
+<title lang="zh">标清 《小镇警事》 第17集</title>
+</programme>
+<programme start="20200821224300 +0800" stop="20200821232400 +0800" channel="IPTV8+">
+<title lang="zh">标清 《小镇警事》 第18集</title>
+</programme>
+<programme start="20200821232400 +0800" stop="20200821235900 +0800" channel="IPTV8+">
+<title lang="zh">标清 《希望的大地》 第37集(大结局)</title>
 </programme>
 <programme start="20200821070100 +0800" stop="20200821073000 +0800" channel="济南综合">
 <title lang="zh">济南新发现</title>
@@ -1123,7 +1252,7 @@
 <title lang="zh">新闻第一泉(直播)</title>
 </programme>
 <programme start="20200821121000 +0800" stop="20200821133600 +0800" channel="济南综合">
-<title lang="zh">今晚新闻版块(重播)</title>
+<title lang="zh">今晚新闻版块(重)</title>
 </programme>
 <programme start="20200821133600 +0800" stop="20200821151100 +0800" channel="济南综合">
 <title lang="zh">今晚不关机(重播)</title>
@@ -1134,8 +1263,11 @@
 <programme start="20200821170000 +0800" stop="20200821173000 +0800" channel="济南综合">
 <title lang="zh">有么别有病(首播)</title>
 </programme>
-<programme start="20200821173000 +0800" stop="20200821183800 +0800" channel="济南综合">
+<programme start="20200821173000 +0800" stop="20200821183200 +0800" channel="济南综合">
 <title lang="zh">有么说么新闻大社区</title>
+</programme>
+<programme start="20200821183200 +0800" stop="20200821183800 +0800" channel="济南综合">
+<title lang="zh">时代风采</title>
 </programme>
 <programme start="20200821183800 +0800" stop="20200821190000 +0800" channel="济南综合">
 <title lang="zh">济南新闻(直播)</title>
