@@ -127,18 +127,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1  group-title="凤凰卫视",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1  group-title="凤凰卫视",凤凰香港
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1  group-title="凤凰卫视",华纳电影
-http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1  group-title="凤凰卫视",好莱坞电影
-http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1  group-title="凤凰卫视",东森洋片
-http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:-1  group-title="凤凰卫视",东森电影
-http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1  group-title="凤凰卫视",FOX电影
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级电视剧
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级电影
@@ -307,8 +295,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000403/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
 #EXTINF:-1  group-title="山东移动",海看4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
-#EXTINF:-1  group-title="山东移动",三河口
-http://lmt01.juntaikeji.com:8084/srs/video/37130201561327011001.m3u8
+#EXTINF:-1  group-title="山东移动",珠峰观景台
+http://hwplay-hls.myun.tv/live/0ezeb8o0.m3u8
 #EXTINF:-1  group-title="山东移动",SN精彩电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1  group-title="山东移动",SN精彩电视
