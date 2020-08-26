@@ -309,6 +309,16 @@ http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 #EXTINF:-1 group-title="福建移动",FJ国产影院
 http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 group-title="福建移动",KiD影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="福建移动",CBN每日影院
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="福建移动",广电情感影院
+http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
+#EXTINF:-1 group-title="福建移动",广电华语影院
+http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
+#EXTINF:-1 group-title="福建移动",广电经典剧场
+http://cbnlive.cbchot.com/live/jingdianjuchang_1.m3u8?123
 #EXTINF:-1 group-title="爱奇艺",豆瓣高分
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",票房收割
@@ -334,7 +344,7 @@ http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin
 #EXTINF:-1 group-title="CIBN",CIBN院线大片
 http://live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/yuanxiandapian/600/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="CIBN",CIBN动作影院
-http://gqys.lbcl02.cibn.cc/hls/vCIBNDZYY/1800/vCIBNDZYY.m3u8?k=b41d3b9515200bad9da9ed5b9c1b95ce&channel=xlmediawatch&t=1597901934&ttl=86400&type=3&videotype=loop
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ShengHuo
 #EXTINF:-1 group-title="咪咕",MiGu高分影院
 http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu高清影视
