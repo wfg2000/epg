@@ -196,7 +196,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000611/index.m3u8
 #EXTINF:-1  tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SITV-MOVIE/SITV-MOVIE.jpg" group-title="山东移动",都市剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002014/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="山东移动",欢笑剧场
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002004/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
 #EXTINF:-1 group-title="山东移动",城市剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000614/index.m3u8
 #EXTINF:-1  group-title="山东移动",古装剧场
@@ -309,7 +309,7 @@ http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 #EXTINF:-1 group-title="福建移动",FJ国产影院
 http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-#EXTINF:-1 group-title="福建移动",KiD影院
+#EXTINF:-1 group-title="福建移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="福建移动",CBN每日影院
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -319,6 +319,14 @@ http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
 http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
 #EXTINF:-1 group-title="福建移动",广电经典剧场
 http://cbnlive.cbchot.com/live/jingdianjuchang_1.m3u8?123
+#EXTINF:-1 group-title="福建移动",广电记录
+http://cbnlive.cbchot.com/live/jilupian_1.m3u8
+#EXTINF:-1 group-title="福建移动",广电旅游
+http://cbnlive.cbchot.com/live/lvyou_1.m3u8
+#EXTINF:-1 group-title="福建移动",广电卡通
+http://cbnlive.cbchot.com/live/shaoer_test_hd_1.m3u8
+#EXTINF:-1 group-title="福建移动",广电嗨播
+http://cbnlive.cbchot.com/live/haibo_1.m3u8?123
 #EXTINF:-1 group-title="爱奇艺",豆瓣高分
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",票房收割
