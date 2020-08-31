@@ -311,22 +311,34 @@ http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
 #EXTINF:-1 group-title="福建移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="福建移动",CBN每日影院
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="福建移动",广电情感影院
-http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
-#EXTINF:-1 group-title="福建移动",广电华语影院
-http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
-#EXTINF:-1 group-title="福建移动",广电经典剧场
-http://cbnlive.cbchot.com/live/jingdianjuchang_1.m3u8?123
-#EXTINF:-1 group-title="福建移动",广电记录
-http://cbnlive.cbchot.com/live/jilupian_1.m3u8
-#EXTINF:-1 group-title="福建移动",广电旅游
-http://cbnlive.cbchot.com/live/lvyou_1.m3u8
-#EXTINF:-1 group-title="福建移动",广电卡通
-http://cbnlive.cbchot.com/live/shaoer_test_hd_1.m3u8
-#EXTINF:-1 group-title="福建移动",广电嗨播
-http://cbnlive.cbchot.com/live/haibo_1.m3u8?123
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv10.png" group-title="贵州移动",G+海外佳片
+http://39.135.19.162:18890/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv11.png" group-title="贵州移动",G+华语影院
+http://39.135.19.162:18890/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv6.png" group-title="贵州移动",G+动画乐园
+http://39.135.19.162:18890/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv4.png" group-title="贵州移动",G+经典剧场
+http://39.135.19.162:18890/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv2.png" group-title="贵州移动",G+都市剧场
+http://39.135.19.162:18890/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv3.png" group-title="贵州移动",G+谍战剧场
+http://39.135.19.162:18890/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxjc.png" group-title="贵州移动",Dox剧场
+http://39.135.19.169:18890/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyj.png" group-title="贵州移动",Dox怡家
+http://39.135.19.169:18890/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxz.png" group-title="贵州移动",Dox新知
+http://39.135.19.169:18890/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxy.png" group-title="贵州移动",Dox新艺
+http://39.135.19.169:18890/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxh.png" group-title="贵州移动",Dox映画
+http://39.135.19.169:18890/PLTV/88888888/224/3221226039//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxhy.png" group-title="贵州移动",Dox院线
+http://39.135.19.169:18890/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyl.png" group-title="贵州移动",Dox英伦
+http://39.135.19.169:18890/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyq.png" group-title="贵州移动",Dox雅趣
+http://39.135.19.169:18890/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="爱奇艺",豆瓣高分
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",票房收割
@@ -367,8 +379,6 @@ http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180303/50/index.m3u8?Progr
 http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu精品国产
 http://live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 group-title="咪咕",MiGu火爆劲片
-http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100168805/75/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="求索频道",求索记录
 http://125.210.152.21:9120/live/QSJLHD.m3u8
 #EXTINF:-1  group-title="求索频道",求索生活
