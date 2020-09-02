@@ -311,34 +311,6 @@ http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
 #EXTINF:-1 group-title="福建移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv10.png" group-title="贵州移动",G+海外佳片
-http://39.135.19.162:18890/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv11.png" group-title="贵州移动",G+华语影院
-http://39.135.19.162:18890/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv6.png" group-title="贵州移动",G+动画乐园
-http://39.135.19.162:18890/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv4.png" group-title="贵州移动",G+经典剧场
-http://39.135.19.162:18890/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv2.png" group-title="贵州移动",G+都市剧场
-http://39.135.19.162:18890/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv3.png" group-title="贵州移动",G+谍战剧场
-http://39.135.19.162:18890/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxjc.png" group-title="贵州移动",Dox剧场
-http://39.135.19.169:18890/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyj.png" group-title="贵州移动",Dox怡家
-http://39.135.19.169:18890/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxz.png" group-title="贵州移动",Dox新知
-http://39.135.19.169:18890/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxy.png" group-title="贵州移动",Dox新艺
-http://39.135.19.169:18890/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxh.png" group-title="贵州移动",Dox映画
-http://39.135.19.169:18890/PLTV/88888888/224/3221226039//index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxhy.png" group-title="贵州移动",Dox院线
-http://39.135.19.169:18890/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyl.png" group-title="贵州移动",Dox英伦
-http://39.135.19.169:18890/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyq.png" group-title="贵州移动",Dox雅趣
-http://39.135.19.169:18890/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="爱奇艺",豆瓣高分
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",票房收割
