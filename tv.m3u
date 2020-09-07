@@ -327,16 +327,16 @@ http://223.99.240.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c20_lb_junshiguanch
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wenhuaqitan_720p_t5/c15_lb_wenhuaqitan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",奇妙世界
 http://120.221.77.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c18_lb_qimiaoshijie_720P_t5/c18_lb_qimiaoshijie_720P_t5.m3u8
-#EXTINF:-1 group-title="CIBN",CIBN电影
-http://live.hcs.cmvideo.cn:8088/ws_v/2018/cnbn/cnbn711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 group-title="CIBN",CIBN好莱坞
-http://gqys.lbcl02.cibn.cc/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?k=b41d3b9515200bad9da9ed5b9c1b95ce&channel=xlmediawatch&t=1597901934&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 group-title="CIBN",CIBN精品影院
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin
-#EXTINF:-1 group-title="CIBN",CIBN院线大片
-http://live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/yuanxiandapian/600/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 group-title="CIBN",CIBN动作影院
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ShengHuo
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",首映电影
+http://szdl.3322.org:8888/rtp/233.50.201.239:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",环球电影
+http://szdl.3322.org:8888/rtp/233.50.201.231:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",动作影院
+http://szdl.3322.org:8888/rtp/233.50.201.232:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",欧美影院
+http://szdl.3322.org:8888/rtp/233.50.201.230:5140
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",华语影院
+http://szdl.3322.org:8888/rtp/233.50.201.240:5140
 #EXTINF:-1 group-title="咪咕",MiGu高分影院
 http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu高清影视
