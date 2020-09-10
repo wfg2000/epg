@@ -311,6 +311,36 @@ http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
 #EXTINF:-1 group-title="福建移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="福建移动",G+经典剧场
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",G+都市剧场
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",G+谍战剧场
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",G+动画乐园
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",G+海外佳片
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",G+华语影院
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",DOXTV
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",DOX映画HD
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxyhhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxyhhd
+#EXTINF:-1 group-title="福建移动",DOX剧场HD
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxjchd#http://tv.tonyt.top/iptv/gzgd.php?id=doxjchd
+#EXTINF:-1 group-title="福建移动",DOX新知HD
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxxzhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxxzhd
+#EXTINF:-1 group-title="福建移动",DOX新艺HD
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxxyhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxxyhd
+#EXTINF:-1 group-title="福建移动",DOX院线HD
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxyxhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxyxhd
+#EXTINF:-1 group-title="福建移动",DOX雅趣HD
+http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxyqhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxyqhd
+#EXTINF:-1 group-title="福建移动",DOX怡家HD
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxyjhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxyjhd
+#EXTINF:-1 group-title="福建移动",DOX英伦HD
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxylhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxylhd
 #EXTINF:-1 group-title="爱奇艺",豆瓣高分
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",票房收割
