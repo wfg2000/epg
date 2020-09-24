@@ -114,9 +114,9 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
 #EXTINF:-1  tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视频道",河北卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
 #EXTINF:-1  tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="凤凰卫视",凤凰中文
-http://112.50.243.8/PLTV/88888888/224/3221225900/index.m3u8
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1  tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="凤凰卫视",凤凰资讯
-http://112.50.243.8/PLTV/88888888/224/3221225901/index.m3u8
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1  group-title="凤凰卫视",奥林匹克
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1  group-title="凤凰卫视",iPanda
@@ -303,12 +303,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 #EXTINF:-1 group-title="福建移动",,SN精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-##EXTINF:-1 group-title="福建移动",FJ欧美影院
-http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-##EXTINF:-1 group-title="福建移动",FJ国语影院
-http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-##EXTINF:-1 group-title="福建移动",FJ国产影院
-http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
 #EXTINF:-1 group-title="福建移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="福建移动",G+经典剧场
