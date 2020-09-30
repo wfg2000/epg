@@ -297,11 +297,17 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
 #EXTINF:-1  group-title="山东移动",珠峰观景台
 http://hwplay-hls.myun.tv/live/0ezeb8o0.m3u8
-#EXTINF:-1 group-title="福建移动",,SN精彩电影
+#EXTINF:-1 group-title="福建移动",FJ欧美影院
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 group-title="福建移动",FJ国语影院
+http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1 group-title="福建移动",FJ国产影院
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 group-title="福建移动",SN精彩电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="福建移动",,SN精彩电视
+#EXTINF:-1 group-title="福建移动",SN精彩电视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1 group-title="福建移动",,SN精彩综艺
+#EXTINF:-1 group-title="福建移动",SN精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 #EXTINF:-1 group-title="福建移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
