@@ -1,0 +1,218 @@
+[
+	{
+		"id": 1,
+		"name": "ok资源网",
+		"uri": "http://www.jisudhw.com",
+		"httpApi": "http://cj.okzy.tv/inc/api.php",
+		"httpsApi": "http://cj.okzy.tv/inc/ldg_seackm3u8s.php",
+		"type": "影视"
+	},
+	{
+		"id": 2,
+		"name": "麻花影视",
+		"uri": "http://mahuazy.net",
+		"httpApi": "https://www.mhapi123.com/inc/api_all.php",
+		"httpsApi": "https://www.mhapi123.com/inc/api.php",
+		"type": "影视"
+	},
+	{
+		"id": 3,
+		"name": "最大资源网",
+		"uri": "http://www.zuidazy2.net",
+		"httpApi": "http://www.zdziyuan.com/inc/api.php",
+		"httpsApi": "http://www.zdziyuan.com/inc/api_zuidam3u8.php",
+		"type": "影视"
+	},
+	{
+		"id": 4,
+		"name": "酷云资源网",
+		"uri": "http://www.kuyunzy.tv",
+		"httpApi": "http://caiji.kuyun98.com/inc/ldg_kkm3u8.php",
+		"httpsApi": "http://caiji.kuyun98.com/inc/ldg_kkm3u8.php",
+		"type": "影视"
+	},
+	{
+		"id": 5,
+		"name": "看看资源网",
+		"uri": "http://kankanzy.com",
+		"httpApi": "http://v.bbtsv.com/inc/131m3u8.php",
+		"httpsApi": "http://v.bbtsv.com/inc/131m3u8.php",
+		"type": "影视"
+	},
+	 {
+		"id": 6,
+		"name": "豆瓣资源网",
+		"uri": "http://doubanzy.com",
+		"httpApi": "http://v.1988cj.com/inc/dbm3u8.php",
+		"httpsApi": "http://v.1988cj.com/inc/dbm3u8.php",
+		"type": "影视"
+	},
+	{
+		"id": 7,
+		"name": "高清资源网站",
+		"uri": "http://gaoqingzy.com",
+		"httpApi": "http://cj.gaoqingzyw.com/inc/gqm3u8.php",
+		"httpsApi": "http://cj.gaoqingzyw.com/inc/gqm3u8.php",
+		"type": "影视"
+	},
+ 	{
+		"id": 8,
+		 "name": "135 资源网",
+		"uri": "http://www.zycjw1.com",
+		"httpApi": "http://cj.zycjw1.com/inc/api.php",
+		"httpsApi": "http://cj.zycjw1.com/inc/api.php",
+		"type": "影视"
+ 	},
+ 	{
+		"id": 9,
+		 "name": "速播资源站",
+		"uri": "http://www.subo988.com",
+		"httpApi": "https://www.subo988.com/inc/api.php",
+		"httpsApi": "https://www.subo988.com/inc/api.php",
+		"type": "影视"
+ 	},
+ 	{
+		"id": 10,
+		 "name": "酷播资源",
+		"uri": "http://www.kbzyapi.com",
+		"httpApi": "http://api.kbzyapi.com/inc/api.php",
+		"httpsApi": "http://api.kbzyapi.com/inc/api.php",
+		"type": "影视"
+ 	},
+ 	{
+		"id": 11,
+		 "name": "永久资源",
+		"uri": "http://www.yongjiuzyw.com",
+		"httpApi": "http://cj.yongjiuzyw.com/inc/api.php",
+		"httpsApi": "http://cj.yongjiuzyw.com/inc/api.php",
+		"type": "影视"
+ 	},
+ 	{
+		"id": 12,
+		 "name": "123 资源",
+		"uri": "http://www.123ku2.com",
+		"httpApi": "http://cj.123ku2.com:12315/inc/api.php",
+		"httpsApi": "http://cj.123ku2.com:12315/inc/api.php",
+		"type": "影视"
+ 	},
+ 	{
+		"id": 13,
+		 "name": "88 影视资源站",
+		"uri": "http://www.88zyw.net",
+		"httpApi": "http://www.88zyw.net/inc/api.php",
+		"httpsApi": "http://www.88zyw.net/inc/api.php",
+		"type": "影视"
+ 	},
+ 	{
+		"id": 14,
+		 "name": "人人资源",
+		"uri": "https://www.rrzyw.cc",
+		"httpApi": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
+		"httpsApi": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
+		"type": "影视"
+ 	},
+	{
+		"id": 15,
+		 "name": "1886 资源",
+		"uri": "http://www.1886zy.co",
+		"httpApi": "http://cj.1886zy.co/inc/api.php",
+		"httpsApi": "http://cj.1886zy.co/inc/api.php",
+		"type": "影视"
+ 	},
+	{
+		"id": 16,
+		 "name": "秒播资源",
+		"uri": "http://www.mb77.vip",
+		"httpApi": "http://caiji.mb77.vip/inc/api.php",
+		"httpsApi": "http://caiji.mb77.vip/inc/api.php",
+		"type": "影视"
+ 	},
+	{
+		"id": 31,
+		"name": "色色资源站",
+		"uri": "https://www.emiao026.com",
+		"httpApi": "http://sscj8.com/inc/api.php",
+		"httpsApi": "http://sscj8.com/inc/sapi.php",
+		"type": "福利"
+	},
+	{
+		"id": 32,
+		"name": "撸死你资源站",
+		"uri": "http://www.ttlsn3.com",
+		"httpApi": "http://lsnzxcj.com/inc/api.php",
+		"httpsApi": "http://lsnzxcj.com/inc/sapi.php",
+		"type": "福利"
+	},
+	{
+		"id": 33,
+		"name": "富二代资源站",
+		"uri": "https://sb8.app/rb8.png",
+		"httpApi": "http://f2dcj6.com/api",
+		"httpsApi": "http://f2dcj6.com/sapi",
+		"type": "福利"
+	},
+	{
+		"id": 34,
+		"name": "字幕网资源站",
+		"uri": "https://www.zmffl.com",
+		"httpApi": "http://zcyydy.com/api",
+		"httpsApi": "http://zcyydy.com/sapi",
+		"type": "福利"
+	},
+	{
+		"id": 35,
+		"name": "久草资源站",
+		"uri": "https://www.9ckkl.com",
+		"httpApi": "http://ssyydy.com/api",
+		"httpsApi": "http://ssyydy.com/sapi",
+		"type": "福利"
+	},
+	{
+		"id": 36,
+		"name": "利来资源",
+		"uri": "https://sao-lang-jian.com",
+		"httpApi": "http://llzxcj.com/inc/ck.php",
+		"httpsApi": "http://llzxcj.com/inc/sck.php",
+		"type": "福利"
+	},
+	{
+		"id": 37,
+		"name": "大地资源网",
+		"uri": "http://dadizy11.com/",
+		"httpApi": "https://dadiapi.com/api.php",
+		"httpsApi": "https://dadiapi.com/api.php",
+		"type": "福利"
+	},
+	{
+		"id": 38,
+		"name": "博天堂网",
+		"uri": "http://bttcj.com",
+		"httpApi": "http://bttcj.com/inc/sapi.php",
+		"httpsApi": "http://bttcj.com/inc/sapi.php",
+		"type": "福利"
+	},
+	{
+		"id": 39,
+		"name": "环亚无码",
+		"uri": "http://wmcj8.com ",
+		"httpApi": "http://wmcj8.com/inc/sapi.php",
+		"httpsApi": "http://wmcj8.com/inc/sapi.php",
+		"type": "福利"
+	},
+	{
+		"id": 40,
+		"name": "狼少年资源",
+		"uri": "http://cjmygzy.com/ ",
+		"httpApi": "http://cjmygzy.com/inc/sapi.php",
+		"httpsApi": "http://cjmygzy.com/inc/sapi.php",
+		"type": "福利"
+	},
+	{
+		"id": 41,
+		"name": "JAV名优资源",
+		"uri": "http://mygzycj.com ",
+		"httpApi": "http://mygzycj.com/api.php",
+		"httpsApi": "http://mygzycj.com/sapi.php",
+		"type": "福利"
+	}
+]
