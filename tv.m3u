@@ -368,19 +368,19 @@ http://szdl.3322.org:8888/rtp/233.50.201.230:5140
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",华语影院
 http://szdl.3322.org:8888/rtp/233.50.201.240:5140
 #EXTINF:-1 group-title="咪咕",MiGu高分影院
-http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/50/index.m3u8?ProgramID=&encrypt=
+http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/75/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu高清影视
-http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/350/index.m3u8?ProgramID=&encrypt=
+http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/350/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu每日科幻
-http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/50/index.m3u8?ProgramID=&encrypt=
+http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/50/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu黄金剧场
-http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172024/50/index.m3u8?ProgramID=&encrypt=
+http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172024/50/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu军旅剧场
-http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180303/50/index.m3u8?ProgramID=&encrypt=
+http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180303/50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu暑期剧场
-http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/50/index.m3u8?ProgramID=&encrypt=
+http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="咪咕",MiGu精品国产
-http://live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-50/index.m3u8?ProgramID=&encrypt=
+http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="求索频道",求索记录
 http://125.210.152.21:9120/live/QSJLHD.m3u8
 #EXTINF:-1  group-title="求索频道",求索生活
