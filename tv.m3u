@@ -345,6 +345,18 @@ http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",票房收割
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c19_lb_heibangdianying_720p_t5/c19_lb_heibangdianying_720p_t5.m3u8
+#EXTINF:-1 group-title="爱奇艺",电影大片
+http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_dianyingjingxuan_720p_t5/c19_lb_dianyingjingxuan_720p_t5.m3u8 
+#EXTINF:-1 group-title="爱奇艺",动作电影
+http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dongzuodianying_720p_t5/c15_lb_dongzuodianying_720p_t5.m3u8
+#EXTINF:-1 group-title="爱奇艺",周末影院
+http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_fengxiaogang_720p_t5/c15_lb_fengxiaogang_720p_t5.m3u8
+#EXTINF:-1 group-title="爱奇艺",温情影院
+http://baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c17_lb_chenglong_720p_t5/c17_lb_chenglong_720p_t5.m3u8 
+#EXTINF:-1 group-title="爱奇艺",青春剧场
+http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_qingchunjuchang_720p_t5/c18_lb_qingchunjuchang_720p_t5.m3u8
+#EXTINF:-1 group-title="爱奇艺",经典港片
+http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_jingdianguangpian_720p_t5/c18_lb_jingdianguangpian_720p_t5.m3u8 
 #EXTINF:-1 group-title="爱奇艺",惊悚午夜
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t5/c16_lb_jingnawuyechang_1080p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",历史秘闻
