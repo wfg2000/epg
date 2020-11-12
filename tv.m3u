@@ -121,6 +121,8 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1  group-title="凤凰卫视",iPanda
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
+#EXTINF:-1  group-title="凤凰卫视",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1  group-title="凤凰卫视",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 group-title="凤凰卫视",CHC家庭电影
