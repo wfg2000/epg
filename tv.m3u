@@ -199,6 +199,8 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000603/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
 #EXTINF:-1 group-title="山东移动",CNTV光影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000611/index.m3u8
+#EXTINF:-1  group-title="山东移动",CNTV精选
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000621/index.m3u8
 #EXTINF:-1  tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SITV-MOVIE/SITV-MOVIE.jpg" group-title="山东移动",都市剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002014/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="山东移动",欢笑剧场
@@ -241,8 +243,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000616/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000618/index.m3u8
 #EXTINF:-1  group-title="山东移动",CNTV高网
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000620/index.m3u8
-#EXTINF:-1  group-title="山东移动",CNTV精选
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000621/index.m3u8
+
 #EXTINF:-1  group-title="山东移动",爱生活
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000639/index.m3u8
 #EXTINF:-1  group-title="山东移动",CNTV解密
@@ -303,12 +304,18 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
 #EXTINF:-1  group-title="山东移动",珠峰观景台
 http://hwplay-hls.myun.tv/live/0ezeb8o0.m3u8
-#EXTINF:-1 group-title="福建移动",FJ欧美影院
-http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-#EXTINF:-1 group-title="福建移动",FJ国语影院
-http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 group-title="福建移动",FJ国产影院
-http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 group-title="福建移动",G+海外佳片
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",G+华语影院
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",G+经典剧场
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",G+都市剧场
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",G+谍战剧场
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",G+动画乐园
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="福建移动",SN精彩电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="福建移动",SN精彩电视
@@ -335,18 +342,12 @@ http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226016/1/index.m3u8?f
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxylhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxylhd
 #EXTINF:-1 group-title="福建移动",BesTV4K
 http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="福建移动",G+海外佳片
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="福建移动",G+华语影院
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="福建移动",G+经典剧场
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="福建移动",G+都市剧场
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="福建移动",G+谍战剧场
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="福建移动",G+动画乐园
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="福建移动",FJ欧美影院
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 group-title="福建移动",FJ国语影院
+http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1 group-title="福建移动",FJ国产影院
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
 #EXTINF:-1 group-title="爱奇艺",豆瓣高分
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",票房收割
@@ -375,30 +376,6 @@ http://223.99.240.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c20_lb_junshiguanch
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_wenhuaqitan_720p_t5/c15_lb_wenhuaqitan_720p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",奇妙世界
 http://120.221.77.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c18_lb_qimiaoshijie_720P_t5/c18_lb_qimiaoshijie_720P_t5.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",首映电影
-http://szdl.3322.org:8888/rtp/233.50.201.239:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",环球电影
-http://szdl.3322.org:8888/rtp/233.50.201.231:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",动作影院
-http://szdl.3322.org:8888/rtp/233.50.201.232:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",欧美影院
-http://szdl.3322.org:8888/rtp/233.50.201.230:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",华语影院
-http://szdl.3322.org:8888/rtp/233.50.201.240:5140
-#EXTINF:-1 group-title="咪咕",MiGu高分影院
-http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 group-title="咪咕",MiGu高清影视
-http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 group-title="咪咕",MiGu每日科幻
-http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/50/index.m3u8?&encrypt=
-#EXTINF:-1 group-title="咪咕",MiGu黄金剧场
-http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172024/50/index.m3u8?&encrypt=
-#EXTINF:-1 group-title="咪咕",MiGu军旅剧场
-http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180303/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 group-title="咪咕",MiGu暑期剧场
-http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 group-title="咪咕",MiGu精品国产
-http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-50/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="求索频道",求索纪录
 http://125.210.152.21:9120/live/QSJLHD.m3u8
 #EXTINF:-1  group-title="求索频道",求索生活
