@@ -185,6 +185,8 @@ http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u
 http://112.17.40.145/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1  group-title="山东移动",亚洲电影
 http://112.17.40.145/PLTV/88888888/224/3221226245/index.m3u8
+#EXTINF:-1 group-title="山东移动",动作影院
+http://39.137.76.32:8089/00/SNM/CHANNEL00000603/index.m3u8
 #EXTINF:-1  group-title="山东移动",海看大片
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000407/index.m3u8
 #EXTINF:-1  group-title="山东移动",家庭影院
@@ -193,8 +195,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000635/index.m3u8
 http://39.137.76.32:8089/00/SNM/CHANNEL00000604/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="山东移动",喜剧影院
 http://39.137.76.32:8089/00/SNM/CHANNEL00000602/index.m3u8
-#EXTINF:-1 group-title="山东移动",动作影院
-http://39.137.76.32:8089/00/SNM/CHANNEL00000603/index.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="山东移动",精彩影视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
 #EXTINF:-1 group-title="山东移动",CNTV光影
@@ -306,18 +307,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
 http://hwplay-hls.myun.tv/live/0ezeb8o0.m3u8
 #EXTINF:-1 group-title="福建移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="福建移动",G+海外佳片
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="福建移动",G+华语影院
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="福建移动",G+经典剧场
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="福建移动",G+都市剧场
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="福建移动",G+谍战剧场
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="福建移动",G+动画乐园
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 group-title="福建移动",SN精彩电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="福建移动",SN精彩电视
