@@ -187,8 +187,6 @@ http://112.17.40.145/PLTV/88888888/224/3221226176/index.m3u8
 http://112.17.40.145/PLTV/88888888/224/3221226245/index.m3u8
 #EXTINF:-1 group-title="山东移动",动作影院
 http://39.137.76.32:8089/00/SNM/CHANNEL00000603/index.m3u8
-#EXTINF:-1  group-title="山东移动",海看大片
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000407/index.m3u8
 #EXTINF:-1  group-title="山东移动",家庭影院
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000635/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="山东移动",IPTV经典电影
@@ -287,22 +285,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
 #EXTINF:-1  group-title="山东移动",卡通世界
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002017/index.m3u8
-#EXTINF:-1  group-title="山东移动",海看爱宠
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000202/index.m3u8
-#EXTINF:-1  group-title="山东移动",海看教育
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000204/index.m3u8
-#EXTINF:-1  group-title="山东移动",海看演艺
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000400/index.m3u8
-#EXTINF:-1  group-title="山东移动",海看健康
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000401/index.m3u8
-#EXTINF:-1  group-title="山东移动",海看少儿
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000402/index.m3u8
-#EXTINF:-1  group-title="山东移动",海看剧场
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000403/index.m3u8
-#EXTINF:-1  group-title="山东移动",海看热播
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
-#EXTINF:-1  group-title="山东移动",海看4K
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
 #EXTINF:-1  group-title="山东移动",珠峰观景台
 http://hwplay-hls.myun.tv/live/0ezeb8o0.m3u8
 #EXTINF:-1 group-title="福建移动",金马影院
