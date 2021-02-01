@@ -4,27 +4,27 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1  tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV3
-http://221.179.217.9/PLTV/88888888/224/3221226471/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
 #EXTINF:-1  tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
 #EXTINF:-1  tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL30000005/index.m3u8
 #EXTINF:-1  tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
-http://221.179.217.9/PLTV/88888888/224/3221226468/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
 #EXTINF:-1  tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1  tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8
-http://221.179.217.9/PLTV/88888888/224/3221226485/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
 #EXTINF:-1  tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV9
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
 #EXTINF:-1  tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
 #EXTINF:-1  tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11
-http://221.179.217.9/PLTV/88888888/224/3221226463/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
 #EXTINF:-1  tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
 #EXTINF:-1  tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
-http://221.179.217.9/PLTV/88888888/224/3221226316/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 #EXTINF:-1  tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1  tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
@@ -36,7 +36,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1  tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
 #EXTINF:-1   group-title="央视频道",CCTV4K
-http://112.17.40.13/PLTV/88888888/224/3221226758/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226758/1.m3u8
 #EXTINF:-1   group-title="央视频道",央视新闻·正直播1
 https://newsalic.v.myalicdn.com:443/news/news01_1/index.m3u8
 #EXTINF:-1   group-title="央视频道",央视新闻·正直播2
@@ -130,57 +130,58 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1  group-title="凤凰卫视",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级电视剧
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级电影
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
 #EXTINF:-1 group-title="NewTV",黑莓电影
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV动作电影
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226329/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV惊悚悬疑
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226423/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV明星大片
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226425/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV爱情喜剧
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226322/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV精品大剧
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226331/1.m3u8
 
 #EXTINF:-1group-title="NewTV" ,NewTV家庭剧场
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226330/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV精品纪录
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226332/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV金牌综艺
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226347/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV中国功夫
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV古装剧场
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225916/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226323/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV军事评论
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226303/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226326/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV军旅剧场
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226324/1.m3u8
 
 
 #EXTINF:-1 group-title="NewTV",NewTV超级体育
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226232/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级综艺
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226231/1.m3u8
 
 #EXTINF:-1 group-title="NewTV",NewTV精品体育
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226328/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV潮妈辣婆
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226286/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV农业致富
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226304/1.m3u8
 
 #EXTINF:-1 group-title="NewTV",NewTV海外剧场
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226325/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV武搏世界
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226320/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV健康有约
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
-
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226327/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV炫舞未来
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226248/1.m3u8
 #EXTINF:-1   group-title="山东移动",欧美电影
 http://112.17.40.145/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1  group-title="山东移动",亚洲电影
@@ -290,31 +291,29 @@ http://hwplay-hls.myun.tv/live/0ezeb8o0.m3u8
 #EXTINF:-1 group-title="福建移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 group-title="福建移动",SN精彩电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="福建移动",SN精彩电视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1 group-title="福建移动",SN精彩综艺
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
+#EXTINF:-1 group-title="福建移动",BJ淘电影
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ淘剧场
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ淘娱乐
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ淘萌宠
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ淘宝贝
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ青年
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ生活
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ财经
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ少儿
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ科教
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ健康
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 
-#EXTINF:-1 group-title="福建移动",DOXTV
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="福建移动",DOX映画
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxyhhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxyhhd
-#EXTINF:-1 group-title="福建移动",DOX剧场
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxjchd#http://tv.tonyt.top/iptv/gzgd.php?id=doxjchd
-#EXTINF:-1 group-title="福建移动",DOX新知
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxxzhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxxzhd
-#EXTINF:-1 group-title="福建移动",DOX新艺
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxxyhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxxyhd
-#EXTINF:-1 group-title="福建移动",DOX院线
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxyxhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxyxhd
-#EXTINF:-1 group-title="福建移动",DOX怡家
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxyjhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxyjhd
-#EXTINF:-1 group-title="福建移动",DOX英伦
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls#http://tvtony.ddnsto.com/iptv/gzgd.php?id=doxylhd#http://tv.tonyt.top/iptv/gzgd.php?id=doxylhd
-#EXTINF:-1 group-title="福建移动",BesTV4K
-http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 group-title="福建移动",FJ欧美影院
 http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
 #EXTINF:-1 group-title="福建移动",FJ国语影院
@@ -340,7 +339,7 @@ http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_jingdiang
 #EXTINF:-1 group-title="爱奇艺",惊悚午夜
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t5/c16_lb_jingnawuyechang_1080p_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",历史秘闻
-http://223.99.240.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c18_lb_lishimiwen_1080p_t5/c18_lb_lishimiwen_1080p_t5.m3u8
+http://120.221.242.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c18_lb_lishimiwen_720P_t5/c18_lb_lishimiwen_720P_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",人文社会
 http://120.221.242.41/r/baiducdncmn-sd.inter.iqiyi.com/tslive/c15_lb_renwenshehui_720P_t5/c15_lb_renwenshehui_720P_t5.m3u8
 #EXTINF:-1 group-title="爱奇艺",军事观察
@@ -358,7 +357,7 @@ http://125.210.152.21:9120/live/QSKX.m3u8
 #EXTINF:-1  group-title="求索频道",求索动物
 http://125.210.152.21:9120/live/QSDW.m3u8
 #EXTINF:-1 group-title="爱剧场",iHot爱院线
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
+http://112.17.40.134/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
 #EXTINF:-1 group-title="爱剧场",iHot爱科幻
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7814,0,0
 #EXTINF:-1 group-title="爱剧场",iHot爱喜剧
