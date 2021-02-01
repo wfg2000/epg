@@ -297,7 +297,28 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 #EXTINF:-1 group-title="福建移动",SN精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-
+#EXTINF:-1 group-title="福建移动",BJ淘电影
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ淘剧场
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ淘娱乐
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ淘萌宠
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ淘宝贝
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ青年
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ生活
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ财经
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ少儿
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ科教
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
+#EXTINF:-1 group-title="福建移动",BJ健康
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 
 #EXTINF:-1 group-title="福建移动",FJ欧美影院
 http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
