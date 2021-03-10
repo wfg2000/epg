@@ -193,7 +193,7 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000602/index.m3u8
 
 #EXTINF:-1  tvg-id="110170" tvg-logo="" group-title="山东移动",精彩影视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
-#EXTINF:-1 tvg-id="110179" group-title="山东移动",CNTV光影
+#EXTINF:-1  group-title="山东移动",CNTV光影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000611/index.m3u8
 #EXTINF:-1  tvg-id="110175" group-title="山东移动",CNTV精选
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000621/index.m3u8
