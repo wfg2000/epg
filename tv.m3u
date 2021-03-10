@@ -127,7 +127,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级电影
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV黑莓电影
+#EXTINF:-1 tvg-id="100040" group-title="NewTV",NewTV黑莓电影
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV动作电影
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226329/1.m3u8
@@ -182,22 +182,22 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
 #EXTINF:-1 group-title="山东移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="山东移动",动作影院
+#EXTINF:-1 tvg-id="110177" group-title="山东移动",动作影院
 http://39.137.76.32:8089/00/SNM/CHANNEL00000603/index.m3u8
-#EXTINF:-1  group-title="山东移动",家庭影院
+#EXTINF:-1 tvg-id="110178" group-title="山东移动",家庭影院
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000635/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="山东移动",IPTV经典电影
 http://39.137.76.32:8089/00/SNM/CHANNEL00000604/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="山东移动",喜剧影院
+#EXTINF:-1 tvg-id="110176" tvg-logo="" group-title="山东移动",喜剧影院
 http://39.137.76.32:8089/00/SNM/CHANNEL00000602/index.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="山东移动",精彩影视
+#EXTINF:-1  tvg-id="110170" tvg-logo="" group-title="山东移动",精彩影视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
 #EXTINF:-1 group-title="山东移动",CNTV光影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000611/index.m3u8
-#EXTINF:-1  group-title="山东移动",CNTV精选
+#EXTINF:-1  tvg-id="110175" group-title="山东移动",CNTV精选
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000621/index.m3u8
-#EXTINF:-1  tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SITV-MOVIE/SITV-MOVIE.jpg" group-title="山东移动",都市剧场
+#EXTINF:-1 tvg-id="110163"  tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SITV-MOVIE/SITV-MOVIE.jpg" group-title="山东移动",都市剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002014/index.m3u8
 #EXTINF:-1 group-title="山东移动",城市剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000614/index.m3u8
@@ -213,7 +213,7 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000606/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000608/index.m3u8
 #EXTINF:-1  tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IPTVMLSS/IPTVMLSS.jpg" group-title="山东移动",IPTV魅力时尚
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000609/index.m3u8
-#EXTINF:-1  group-title="山东移动",IPTV法治
+#EXTINF:-1  tvg-id="110174" group-title="山东移动",IPTV法治
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.m3u8
 #EXTINF:-1 group-title="山东移动" ,CNTV墨宝
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000610/index.m3u8
