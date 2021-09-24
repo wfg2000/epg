@@ -34,6 +34,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K"  group-title="央视频道",CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
 #EXTINF:-1 group-title="央视频道",央视新闻·正直播1
@@ -200,6 +202,8 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000602/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000611/index.m3u8
 #EXTINF:-1 group-title="山东移动",城市剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000614/index.m3u8
+#EXTINF:-1 group-title="山东移动",都市剧场
+http://223.110.243.223/PLTV/4/224/3221227710/index.m3u8
 #EXTINF:-1 group-title="山东移动",古装剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000622/index.m3u8
 #EXTINF:-1 group-title="山东移动",军旅剧场
