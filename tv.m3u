@@ -130,6 +130,8 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="凤凰卫视",半岛电视台
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="凤凰卫视",日本新闻 
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="凤凰卫视",FashionTV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级电视剧
