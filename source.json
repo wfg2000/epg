@@ -7,6 +7,22 @@
 		"httpsApi": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
 		"type": "影视"
 	},
+	{
+		"id": 2,
+		"name": "饭团资源",
+		"uri": "http://www.jisudhw.com",
+		"httpApi": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
+		"httpsApi": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
+		"type": "影视"
+	},
+	{
+		"id": 3,
+		"name": "明日资源",
+		"uri": "",
+		"httpApi": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
+		"httpsApi": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
+		"type": "影视"
+	},
 
 
 	{
@@ -15,6 +31,15 @@
 		"uri": "http://www.kuyunzy.tv",
 		"httpApi": "http://cj.bajiecaiji.com/inc/api.php",
 		"httpsApi": "http://cj.bajiecaiji.com/inc/api.php",
+		"type": "影视"
+	},
+
+	{
+		"id": 5,
+		"name": "红牛资源",
+		"uri": "",
+		"httpApi": "http://www.hongniuzy.com/inc/api.php",
+		"httpsApi": "http://www.hongniuzy.com/inc/api.php",
 		"type": "影视"
 	},
 
@@ -34,7 +59,22 @@
 		"httpsApi": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
 		"type": "影视"
 	},
-
+	{
+		"id": 8,
+		"name": "侦探APP",
+		"uri": "",
+		"httpApi": "http://ys.huangguay.com/api.php/provide/vod/at/xml",
+		"httpsApi": "http://ys.huangguay.com/api.php/provide/vod/at/xml",
+		"type": "影视"
+	},
+	{
+		"id": 9,
+		"name": "乐播电影",
+		"uri": "",
+		"httpApi": "https://www.lebo.la/api.php/provide/vod/at/xml",
+		"httpsApi": "https://www.lebo.la/api.php/provide/vod/at/xml",
+		"type": "影视"
+	},
 
  	{
 		"id": 10,
