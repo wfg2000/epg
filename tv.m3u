@@ -31,6 +31,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV16
+http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8
 https://live.olympicchannelchina.cn/aoyun/cctv16_1ud.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
@@ -189,8 +190,6 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226248/1.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
 #EXTINF:-1 group-title="山东移动",亚洲电影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
-#EXTINF:-1 group-title="山东移动",超高清电影
-http://60.255.49.202/live/emdy4k_8000.m3u8
 #EXTINF:-1 group-title="山东移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="山东移动",动作影院
@@ -258,8 +257,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="爱剧场",求索动物
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 group-title="爱剧场",4K花园
-http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+
 
 #EXTINF:-1 group-title="爱奇艺",票房收割
 http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
