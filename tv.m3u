@@ -143,11 +143,13 @@ http://111.13.42.45/PLTV/88888888/224/3221226253/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级电影
 http://111.13.42.43/PLTV/88888888/224/3221226233/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV黑莓电影
-http://111.13.42.8/PLTV/88888888/224/3221225927/1.m3u8
+http://223.110.243.243/PLTV/3/224/3221227520/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV动作电影
 http://223.110.243.220/PLTV/3/224/3221227606/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV惊悚悬疑
-http://111.13.42.43/PLTV/88888888/224/3221226423/1.m3u8
+http://223.110.243.221/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV热播精选
+http://223.110.243.202/PLTV/3/224/3221227539/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV明星大片
 http://111.13.42.8/PLTV/88888888/224/3221225929/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV爱情喜剧
