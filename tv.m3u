@@ -41,26 +41,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视新闻·正直播1
-https://newsalic.v.myalicdn.com:443/news/news01_1/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视新闻·正直播2
-https://newsalic.v.myalicdn.com:443/news/news02_1/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视新闻·正直播3
-https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视新闻·正直播4
-https://newsalic.v.myalicdn.com:443/news/news04_1/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视新闻·正直播5
-https://newsalic.v.myalicdn.com:443/news/news05_1/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视新闻·正直播6
-https://newsalic.v.myalicdn.com:443/news/news06_1/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视新闻·正直播7
-https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视新闻·正直播8
-https://newsalic.v.myalicdn.com:443/news/news08_1/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视新闻·正直播9
-https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
-#EXTINF:-1 group-title="央视频道",央视新闻·正直播10
-https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
+
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="山东频道",山东卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
 #EXTINF:-1 tvg-name="山东新闻" group-title="山东频道",山东新闻
@@ -127,9 +108,9 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视"  group-title="卫视频道",海南卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="凤凰卫视",凤凰中文
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="凤凰卫视",凤凰资讯
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="凤凰卫视",CNNews
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="凤凰卫视",NEWSMAX
@@ -140,10 +121,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="凤凰卫视",FashionTV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级电视剧
-http://111.13.42.45/PLTV/88888888/224/3221226253/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级电影
-http://111.13.42.43/PLTV/88888888/224/3221226233/1.m3u8
+
 #EXTINF:-1 group-title="NewTV",NewTV黑莓电影
 http://223.110.243.243/PLTV/3/224/3221227520/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV动作电影
@@ -152,8 +130,7 @@ http://223.110.243.220/PLTV/3/224/3221227606/index.m3u8
 http://223.110.243.221/PLTV/3/224/3221227536/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV热播精选
 http://223.110.243.202/PLTV/3/224/3221227539/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV明星大片
-http://111.13.42.8/PLTV/88888888/224/3221225929/1.m3u8
+
 #EXTINF:-1 group-title="NewTV",NewTV爱情喜剧
 http://223.110.243.201/PLTV/3/224/3221227548/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV精品大剧
@@ -172,18 +149,14 @@ http://223.110.243.214/PLTV/3/224/3221227542/index.m3u8
 http://223.110.243.218/PLTV/3/224/3221227544/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV军旅剧场
 http://223.110.243.218/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级体育
-http://111.13.42.45/PLTV/88888888/224/3221226232/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级综艺
-http://111.13.42.12/PLTV/88888888/224/3221226370/1.m3u8
+
 #EXTINF:-1 group-title="NewTV",NewTV精品体育
 http://223.110.243.208/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV潮妈辣婆
 http://223.110.243.214/PLTV/3/224/3221227527/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV农业致富
 http://223.110.243.219/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV海外剧场
-http://111.13.42.43/PLTV/88888888/224/3221226325/1.m3u8
+
 #EXTINF:-1 group-title="NewTV",NewTV武搏世界
 http://223.110.243.211/PLTV/3/224/3221227533/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV健康有约
@@ -196,62 +169,53 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
 #EXTINF:-1 group-title="山东移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="山东移动",动作影院
-http://39.137.76.32:8089/00/SNM/CHANNEL00000603/index.m3u8
-#EXTINF:-1 group-title="山东移动",家庭影院
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000635/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="山东移动",IPTV经典电影
-http://39.137.76.32:8089/00/SNM/CHANNEL00000604/index.m3u8
-#EXTINF:-1 group-title="山东移动",喜剧影院
-http://39.137.76.32:8089/00/SNM/CHANNEL00000602/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV光影
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000611/index.m3u8
-#EXTINF:-1 group-title="山东移动",城市剧场
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000614/index.m3u8
+#EXTINF:-1 group-title="山东移动",每日影院
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="山东移动",经典影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000401/index.m3u8
+#EXTINF:-1 group-title="山东移动",现代影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000403/index.m3u8
 #EXTINF:-1 group-title="山东移动",都市剧场
 http://223.110.243.223/PLTV/4/224/3221227710/index.m3u8
-#EXTINF:-1 group-title="山东移动",古装剧场
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000622/index.m3u8
-#EXTINF:-1 group-title="山东移动",军旅剧场
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000617/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E5%B0%91%E5%84%BF%E5%8A%A8%E7%94%BB.png" group-title="山东移动",IPTV少儿动画
-http://39.137.76.32:8089/00/SNM/CHANNEL00000605/index.m3u8
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IPTVXSXP/IPTVXSXP.jpg" group-title="山东移动",IPTV相声小品
-http://39.137.76.32:8089/00/SNM/CHANNEL00000606/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA.png" group-title="山东移动",IPTV热播剧场
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000608/index.m3u8
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IPTVMLSS/IPTVMLSS.jpg" group-title="山东移动",IPTV魅力时尚
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000609/index.m3u8
-#EXTINF:-1 group-title="山东移动",IPTV法治
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV墨宝
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000610/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV美人
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000612/index.m3u8
-#EXTINF:-1 group-title="山东移动",音乐现场
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000613/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV地理
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000615/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV美妆
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000616/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV足球
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000618/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV高网
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000620/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV解密
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000624/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV动画
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000625/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV早教
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000627/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV好学生
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000629/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV台球
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000628/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV武术
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000634/index.m3u8
-#EXTINF:-1 group-title="山东移动",CNTV国学
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000636/index.m3u8
+#EXTINF:-1 group-title="山东移动",欢笑剧场
+http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="山东移动",生活时尚
+http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="山东移动",全纪实
+http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="山东移动",综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
+#EXTINF:-1 group-title="山东移动",茶频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
+#EXTINF:-1 group-title="山东移动",四海钓鱼
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
+#EXTINF:-1 group-title="山东移动",梨园频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
+#EXTINF:-1 group-title="山东移动",文物宝库
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
+#EXTINF:-1 group-title="山东移动",动漫
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000402/index.m3u8
+#EXTINF:-1 group-title="山东移动",动画
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000408/index.m3u8
+#EXTINF:-1 group-title="山东移动",财富天下
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
+#EXTINF:-1 group-title="山东移动",环球旅游
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000643/index.m3u8
+#EXTINF:-1 group-title="山东移动",车迷频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000645/index.m3u8
+#EXTINF:-1 group-title="山东移动",先锋乒羽
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000650/index.m3u8
+#EXTINF:-1 group-title="山东移动",靓妆
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000653/index.m3u8
+#EXTINF:-1 group-title="山东移动",书法
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000651/index.m3u8
+#EXTINF:-1 group-title="山东移动",家庭理财
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000654/index.m3u8
+#EXTINF:-1 group-title="山东移动",网络棋牌
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000660/index.m3u8
+#EXTINF:-1 group-title="山东移动",中华特产
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000642/index.m3u8
 
 #EXTINF:-1 group-title="爱剧场",求索纪录
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
