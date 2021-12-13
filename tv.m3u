@@ -109,8 +109,10 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="凤凰卫视",凤凰中文
 http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="凤凰卫视",凤凰资讯
 http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="凤凰卫视",CNNews
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="凤凰卫视",NEWSMAX
@@ -122,6 +124,8 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="凤凰卫视",FashionTV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
+#EXTINF:-1 group-title="NewTV",NewTV超级电影
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV黑莓电影
 http://223.110.243.243/PLTV/3/224/3221227520/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV动作电影
@@ -130,15 +134,20 @@ http://223.110.243.220/PLTV/3/224/3221227606/index.m3u8
 http://223.110.243.221/PLTV/3/224/3221227536/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV热播精选
 http://223.110.243.202/PLTV/3/224/3221227539/index.m3u8
-
+#EXTINF:-1 group-title="NewTV",NewTV明星大片
+http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV爱情喜剧
 http://223.110.243.201/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV精品大剧
 http://223.110.243.217/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV家庭剧场
 http://223.110.243.212/PLTV/3/224/3221227600/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV精品纪录
 http://111.13.42.12/PLTV/88888888/224/3221226332/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV金牌综艺
 http://223.110.243.224/PLTV/3/224/3221227541/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV中国功夫
@@ -171,6 +180,10 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="山东移动",每日影院
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="山东移动",CHC高清电影
+http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+#EXTINF:-1 group-title="山东移动",CHC动作电影
+http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="山东移动",经典影视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000401/index.m3u8
 #EXTINF:-1 group-title="山东移动",现代影视
@@ -183,7 +196,8 @@ http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="山东移动",全纪实
 http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
-
+#EXTINF:-1 group-title="山东移动",极速汽车
+http://112.25.48.68/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="山东移动",综艺
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
 #EXTINF:-1 group-title="山东移动",茶频道
