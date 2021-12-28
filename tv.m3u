@@ -180,6 +180,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
 #EXTINF:-1 group-title="山东移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="山东移动",精彩电影
+http://39.134.19.57/PLTV/88888888/224/3221225811/index.m3u8
 #EXTINF:-1 group-title="山东移动",每日影院
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="山东移动",CHC高清电影
@@ -228,12 +230,44 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000650/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000653/index.m3u8
 #EXTINF:-1 group-title="山东移动",书法
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000651/index.m3u8
+#EXTINF:-1 group-title="山东移动",萌宠
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000202/index.m3u8
 #EXTINF:-1 group-title="山东移动",家庭理财
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000654/index.m3u8
 #EXTINF:-1 group-title="山东移动",网络棋牌
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000660/index.m3u8
 #EXTINF:-1 group-title="山东移动",中华特产
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000642/index.m3u8
+#EXTINF:-1 group-title="山东移动",武术世界
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000657/index.m3u8
+
+#EXTINF:-1 group-title="咪咕",高分影院
+http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
+#EXTINF:-1 ,group-title="咪咕",经典贺岁
+http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+#EXTINF:-1 ,group-title="咪咕",云上电影
+http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1 ,group-title="咪咕",新片放映
+http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
+#EXTINF:-1 ,group-title="咪咕",喜剧联盟
+http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
+#EXTINF:-1 ,group-title="咪咕",怀旧老片
+http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+#EXTINF:-1 ,group-title="咪咕",失眠剧场
+http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
+#EXTINF:-1 ,group-title="咪咕",试胆大会
+http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+#EXTINF:-1 ,group-title="咪咕",高能烧脑
+http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
+#EXTINF:-1 ,group-title="咪咕",史诗战争
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752751-1099531752751-86436109457817600-2199063628958-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title="咪咕",救援电影
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752777-1099531752777-86436221126967296-2199063629010-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title="咪咕",高能智商
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752768-1099531752768-86436182472261632-2199063628992-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title="咪咕",杰斯坦森
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.m3u8
+
 
 #EXTINF:-1 group-title="爱剧场",求索纪录
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
@@ -312,11 +346,6 @@ http://120.221.242.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_165_600_t1
 http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_151_600_t10/c55_lb_151_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺",科学探索
 http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8
-
-
-
-
-
 
 
 
