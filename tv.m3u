@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
@@ -240,42 +239,34 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000642/index.m3u8
 #EXTINF:-1 group-title="山东移动",武术世界
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000657/index.m3u8
 
-#EXTINF:-1 group-title="咪咕",高分影院
+#EXTINF:-1 group-title="咪咕虎牙",高分影院
 http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-#EXTINF:-1 ,group-title="咪咕",经典贺岁
+#EXTINF:-1 ,group-title="咪咕虎牙",经典贺岁
 http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
-#EXTINF:-1 ,group-title="咪咕",云上电影
+#EXTINF:-1 ,group-title="咪咕虎牙",云上电影
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1 ,group-title="咪咕",新片放映
+#EXTINF:-1 ,group-title="咪咕虎牙",新片放映
 http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
-#EXTINF:-1 ,group-title="咪咕",喜剧联盟
+#EXTINF:-1 ,group-title="咪咕虎牙",喜剧联盟
 http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
-#EXTINF:-1 ,group-title="咪咕",怀旧老片
+#EXTINF:-1 ,group-title="咪咕虎牙",怀旧老片
 http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-#EXTINF:-1 ,group-title="咪咕",失眠剧场
+#EXTINF:-1 ,group-title="咪咕虎牙",失眠剧场
 http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
-#EXTINF:-1 ,group-title="咪咕",试胆大会
+#EXTINF:-1 ,group-title="咪咕虎牙",试胆大会
 http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
-#EXTINF:-1 ,group-title="咪咕",高能烧脑
+#EXTINF:-1 ,group-title="咪咕虎牙",高能烧脑
 http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
-#EXTINF:-1 ,group-title="咪咕",史诗战争
+#EXTINF:-1 ,group-title="咪咕虎牙",史诗战争
 http://121.51.249.99/txdirect.hls.huya.com/src/1099531752751-1099531752751-86436109457817600-2199063628958-10057-A-0-1.m3u8
-#EXTINF:-1 ,group-title="咪咕",救援电影
+#EXTINF:-1 ,group-title="咪咕虎牙",救援电影
 http://121.51.249.99/txdirect.hls.huya.com/src/1099531752777-1099531752777-86436221126967296-2199063629010-10057-A-0-1.m3u8
-#EXTINF:-1 ,group-title="咪咕",高能智商
+#EXTINF:-1 ,group-title="咪咕虎牙",高能智商
 http://121.51.249.99/txdirect.hls.huya.com/src/1099531752768-1099531752768-86436182472261632-2199063628992-10057-A-0-1.m3u8
-#EXTINF:-1 ,group-title="咪咕",杰斯坦森
+#EXTINF:-1 ,group-title="咪咕虎牙",杰斯坦森
 http://121.51.249.99/txdirect.hls.huya.com/src/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.m3u8
 
 
-#EXTINF:-1 group-title="爱剧场",求索纪录
-http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 group-title="爱剧场",求索生活
-http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="爱剧场",求索科学
-http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="爱剧场",求索动物
-http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="爱剧场",爱院线
 http://39.134.134.87/000000001000/6000000006000030630/index.m3u8
 #EXTINF:-1 group-title="爱剧场",爱科幻
@@ -326,6 +317,14 @@ http://39.134.134.87/000000001000/6000000006000120630/index.m3u8
 http://39.134.134.87/000000001000/6000000006000270630/index.m3u8
 #EXTINF:-1 group-title="爱剧场",爱赛车
 http://39.134.134.87/000000001000/6000000006000240630/index.m3u8
+#EXTINF:-1 group-title="爱剧场",求索纪录
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 group-title="爱剧场",求索生活
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="爱剧场",求索科学
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 group-title="爱剧场",求索动物
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
 #EXTINF:-1 group-title="爱奇艺",票房收割
 http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
