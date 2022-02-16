@@ -7,22 +7,7 @@
 		"httpsApi": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
 		"type": "影视"
 	},
-	{
-		"id": 2,
-		"name": "饭团资源",
-		"uri": "http://www.jisudhw.com",
-		"httpApi": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
-		"httpsApi": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
-		"type": "影视"
-	},
-	{
-		"id": 3,
-		"name": "明日资源",
-		"uri": "",
-		"httpApi": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-		"httpsApi": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-		"type": "影视"
-	},
+
 
 
 	{
@@ -34,14 +19,7 @@
 		"type": "影视"
 	},
 
-	{
-		"id": 5,
-		"name": "红牛资源",
-		"uri": "",
-		"httpApi": "http://www.hongniuzy.com/inc/api.php",
-		"httpsApi": "http://www.hongniuzy.com/inc/api.php",
-		"type": "影视"
-	},
+
 
 	 {
 		"id": 6,
@@ -51,30 +29,7 @@
 		"httpsApi": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
 		"type": "影视"
 	},
-	{
-		"id": 7,
-		"name": "天空资源",
-		"uri": "http://gaoqingzy.com",
-		"httpApi": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
-		"httpsApi": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
-		"type": "影视"
-	},
-	{
-		"id": 8,
-		"name": "侦探APP",
-		"uri": "",
-		"httpApi": "http://ys.huangguay.com/api.php/provide/vod/at/xml",
-		"httpsApi": "http://ys.huangguay.com/api.php/provide/vod/at/xml",
-		"type": "影视"
-	},
-	{
-		"id": 9,
-		"name": "乐播电影",
-		"uri": "",
-		"httpApi": "https://www.lebo.la/api.php/provide/vod/at/xml",
-		"httpsApi": "https://www.lebo.la/api.php/provide/vod/at/xml",
-		"type": "影视"
-	},
+
 
  	{
 		"id": 10,
@@ -93,15 +48,7 @@
 		"httpsApi": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
 		"type": "影视"
  	},
- 
- 	{
-		"id": 14,
-		 "name": "人人资源",
-		"uri": "https://www.rrzyw.cc",
-		"httpApi": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
-		"httpsApi": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
-		"type": "影视"
- 	},
+
 	{
 		"id": 15,
 		 "name": "1886 资源",
@@ -111,22 +58,8 @@
 		"type": "影视"
  	},
 
-	{
-		"id": 17,
-		 "name": "365影视",
-		"uri": "",
-		"httpApi": "http://video.365tx.com/api.php/provide/vod/at/xml",
-		"httpsApi": "http://video.365tx.com/api.php/provide/vod/at/xml",
-		"type": "影视"
- 	},
-	{
-		"id": 18,
-		 "name": "追剧吧",
-		"uri": "",
-		"httpApi": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
-		"httpsApi": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
-		"type": "影视"
- 	},
+
+
 	{
 		"id": 19,
 		 "name": "39影视",
@@ -203,14 +136,7 @@
 		"type": "福利"
 	},
 
-	{
-		"id": 44,
-		"name": "鲨鱼资源",
-		"uri": "https://shayuapi.com",
-		"httpApi": "https://shayuapi.com/api.php/provide/vod/at/xml/",
-		"httpsApi": "https://shayuapi.com/api.php/provide/vod/at/xml/",
-		"type": "福利"
-	},
+
 	{
 		"id": 45,
 		"name": "速度资源",
@@ -269,7 +195,146 @@
 		"httpApi": "http://m.7777688.com/inc/api.php",
 		"httpsApi": "http://m.7777688.com/inc/api.php",
 		"type": "福利"
-	}
+	},
 
+        {
+            "id": 62,
+            "name": "芒果福利",
+            "httpsApi": "https://www.mgav1.cc/api.php/provide/vod/at/xml/"
+        },
+
+
+        {
+            "id": 64,
+            "name": "秀色资源",
+            "httpsApi": "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/"
+        },
+
+
+        {
+            "id": 66,
+            "name": "47628",
+
+            "httpsApi": "http://m.7777688.com/inc/api.php"
+        },
+ 
+
+        {
+            "id": 68,
+            "name": "埖椒粢羱",
+
+            "httpsApi": "https://cj.apihjzy.com/inc/api.php"
+        },
+
+
+ 
+    {
+      "id":73,
+      "name": "*玖玖资源",
+
+      "httpsApi": "http://99zywcj.com/inc/sapi.php?ac=videolist"
+    },
+ 
+    {
+      "id":77,
+      "name": "*1024资源",
+
+      "httpsApi": "https://www.1024nf.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "id":78,
+      "name": "*4000资源",
+
+      "httpsApi": "https://www.4000zy.com/inc/api.php"
+    },
+    {
+      "id":79,
+      "name": "*77资源",
+
+      "httpsApi": "https://www.77zy.vip/inc/m3u8.php"
+    },
+
+
+
+    {
+      "id":84,
+      "name": "*探探资源",
+
+      "httpsApi": "https://apittzy.com/api.php/provide/vod/at/xml"
+
+    },
+    {
+      "id": 85,
+      "name": "*乐鱼资源",
+
+      "httpsApi": "https://www.leyuzyapi.com/inc/zyapimac.php"
+
+    },
+    {
+      "id": 86,
+      "name": "*523资源",
+
+      "httpsApi": "https://caiji.523zyw.com/inc/api.php"
+    },
+    {
+      "id":87,
+      "name": "*秀色资源",
+
+      "httpsApi": "https://api.xiuseapi.com/api.php/provide/vod/at/xml"
+
+    },
+
+
+   
+    {
+      "id": 89,
+      "name": "*大地资源",
+
+      "httpsApi": "https://dadiapi.com/api.php/"
+    },
+  
+ 
+    {
+      "id": 96,
+      "name": "*优果资源",
+
+      "httpsApi": "https://www.ugzyz5.com/inc/zyapimac.php"
+    },
+
+
+    {
+      "id":99,
+      "name": "*芒果",
+
+      "httpsApi": "https://mgzyz1.com/api.php/provide/vod/at/xml"
+    },
+
+    {
+      "id": 101,
+      "name": "*S猫资源",
+
+      "httpsApi": "https://api.maozyapi.com/inc/api.php"
+    },
+
+    {
+      "id":103,
+      "name": "*BB资源",
+
+      "httpsApi": "http://bbzy.cc/inc/maccms10.php"
+    },
+    {
+      "id": 104,
+      "name": "*100ai",
+
+      "httpsApi": "http://www.010aizy.com/API/maxs.php"
+    },
+ 
+
+    {
+      "id": 120,
+      "name": "*天噜啦资源",
+
+      "httpsApi": "http://www.987caiji.com/api/max.php"
+    }
 
 ]
