@@ -60,9 +60,8 @@ NEWSMAX,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 Aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 FoxNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-亚美电视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-FashionTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-KoreaPopTV,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+
 NewTV,#genre#
 NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
@@ -91,12 +90,10 @@ NewTV炫舞未来,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
 欧美电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
 亚洲电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-乐视经典,http://api.idianshijia.com/gslb/live?stream_id=lsloop_dianying&type=.m3u8
 精彩电影,http://39.134.19.57/PLTV/88888888/224/3221225811/index.m3u8
 CHC高清电影,http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 CHC动作电影,http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 CHC家庭电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-都市剧场,http://223.110.243.223/PLTV/4/224/3221227710/index.m3u8
 欢笑剧场,http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 生活时尚,http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 全纪实,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
@@ -146,7 +143,8 @@ CHC家庭电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 古天乐影院,http://117.148.179.134/PLTV/88888888/224/3221231645/index.m3u8
 郭富城影院,http://117.148.179.134/PLTV/88888888/224/3221231688/index.m3u8
 SNH48剧场,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
-
+FashionTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+KoreaPopTV,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 爱奇艺,#genre#
 票房收割,http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
 收视冠军,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
