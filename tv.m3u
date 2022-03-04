@@ -107,25 +107,17 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="凤凰卫视",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
-http://ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
-http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="凤凰卫视",凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
-http://ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1  group-title="凤凰卫视",CNNews
-https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  group-title="凤凰卫视",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1  group-title="凤凰卫视",Aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1  group-title="凤凰卫视",FoxNews
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="凤凰卫视",日本新闻 
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1  group-title="凤凰卫视",FashionTV
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="NewTV",NewTV超级电影
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
@@ -188,12 +180,6 @@ http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index
 http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="山东移动",CHC家庭电影
 http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="山东移动",经典影视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000401/index.m3u8
-#EXTINF:-1 group-title="山东移动",现代影视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000403/index.m3u8
-#EXTINF:-1 group-title="山东移动",都市剧场
-http://223.110.243.223/PLTV/4/224/3221227710/index.m3u8
 #EXTINF:-1 group-title="山东移动",欢笑剧场
 http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="山东移动",生活时尚
@@ -239,14 +225,18 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000642/index.m3u8
 #EXTINF:-1 group-title="山东移动",武术世界
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000657/index.m3u8
 
+#EXTINF:-1 group-title="咪咕虎牙",每日荐影
+http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+#EXTINF:-1 group-title="咪咕虎牙",新片放映
+http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
 #EXTINF:-1 group-title="咪咕虎牙",高分影院
 http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
+#EXTINF:-1 group-title="咪咕虎牙",科幻电影
+http://117.148.179.134/PLTV/88888888/224/3221231568/index.m3u8
 #EXTINF:-1 ,group-title="咪咕虎牙",经典贺岁
 http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
 #EXTINF:-1 ,group-title="咪咕虎牙",云上电影
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1 ,group-title="咪咕虎牙",新片放映
-http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
 #EXTINF:-1 ,group-title="咪咕虎牙",喜剧联盟
 http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
 #EXTINF:-1 ,group-title="咪咕虎牙",怀旧老片
@@ -257,14 +247,52 @@ http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
 http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
 #EXTINF:-1 ,group-title="咪咕虎牙",高能烧脑
 http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",追剧少女
+http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",谍战剧场
+http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",文艺娱乐
+http://117.148.179.134/PLTV/88888888/224/3221231570/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",成龙影院
+http://117.148.179.134/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",杨幂影院
+http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",葛优影院
+http://117.148.179.134/PLTV/88888888/224/3221231754/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",金庸频道
+http://117.148.179.134/PLTV/88888888/224/3221231477/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",刘亦菲影院
+http://117.148.179.134/PLTV/88888888/224/3221231787/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",刘德华影院
+http://117.148.179.134/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",周润发影院
+http://117.148.179.134/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",周星驰影院
+http://117.148.179.134/PLTV/88888888/224/3221231562/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",张国荣影院
+http://117.148.179.134/PLTV/88888888/224/3221231790/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",古天乐影院
+http://117.148.179.134/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",郭富城影院
+http://117.148.179.134/PLTV/88888888/224/3221231688/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",SNH48剧场
+http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",FashionTV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 ,group-title="咪咕虎牙",KoreaPopTV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="爱奇艺",票房收割
 http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",收视冠军
+http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺",周末影院
 http://111.19.218.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺",温情影院
 http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",五星影院
+http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺",历史秘闻
 http://120.221.77.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺",人文社会
@@ -277,6 +305,7 @@ http://120.221.242.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_165_600_t1
 http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_151_600_t10/c55_lb_151_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺",科学探索
 http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8
+
 
 
 
