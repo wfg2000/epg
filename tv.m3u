@@ -116,7 +116,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1  group-title="凤凰卫视",FoxNews
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="凤凰卫视",日本新闻 
+#EXTINF:-1  group-title="凤凰卫视",NtvNews24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 group-title="NewTV",NewTV超级电影
