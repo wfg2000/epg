@@ -127,8 +127,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV惊悚悬疑
 http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV热播精选
-http://223.110.243.202/PLTV/3/224/3221227539/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV明星大片
 http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV爱情喜剧
@@ -198,9 +196,9 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
 #EXTINF:-1 group-title="山东移动",文物宝库
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
-#EXTINF:-1 group-title="山东移动",动漫
+#EXTINF:-1 group-title="山东移动",动漫秀场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000402/index.m3u8
-#EXTINF:-1 group-title="山东移动",动画
+#EXTINF:-1 group-title="山东移动",游戏风云
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000408/index.m3u8
 #EXTINF:-1 group-title="山东移动",财富天下
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
@@ -210,11 +208,11 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000643/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000645/index.m3u8
 #EXTINF:-1 group-title="山东移动",先锋乒羽
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000650/index.m3u8
-#EXTINF:-1 group-title="山东移动",靓妆
+#EXTINF:-1 group-title="山东移动",靓妆频道
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000653/index.m3u8
-#EXTINF:-1 group-title="山东移动",书法
+#EXTINF:-1 group-title="山东移动",书画频道
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000651/index.m3u8
-#EXTINF:-1 group-title="山东移动",萌宠
+#EXTINF:-1 group-title="山东移动",萌宠频道
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000202/index.m3u8
 #EXTINF:-1 group-title="山东移动",家庭理财
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000654/index.m3u8
