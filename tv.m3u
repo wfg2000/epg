@@ -125,7 +125,7 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="NewTV",NewTV超级电影
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV黑莓电影
+#EXTINF:-1 tvg="黑莓电影" group-title="NewTV",NewTV黑莓电影
 http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV动作电影
 http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
@@ -190,8 +190,6 @@ http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="山东移动",极速汽车
 http://112.25.48.68/live/program/live/jsqchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="山东移动",综艺
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
 #EXTINF:-1 group-title="山东移动",茶频道
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
 #EXTINF:-1 group-title="山东移动",快乐垂钓
