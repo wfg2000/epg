@@ -187,7 +187,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV炫舞未来
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
 
-#EXTINF:-1 tvg-name="欧美电影HD" group-title="山东移动",欧美电影
+#EXTINF:-1  group-title="山东移动",欧美电影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
 #EXTINF:-1 group-title="山东移动",亚洲电影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
