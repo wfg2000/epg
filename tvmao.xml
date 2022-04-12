@@ -15,36 +15,6 @@
 <channel id="临沂公共">
 <display-name lang="zh">临沂公共</display-name>
 </channel>
-<programme start="20220412004600 +0800" stop="20220412015000 +0800" channel="亚洲电影">
-<title lang="zh">将军在上之芙蓉密案</title>
-</programme>
-<programme start="20220412015000 +0800" stop="20220412025100 +0800" channel="亚洲电影">
-<title lang="zh">将军在上之极乐净土</title>
-</programme>
-<programme start="20220412025100 +0800" stop="20220412040300 +0800" channel="亚洲电影">
-<title lang="zh">将军在上之时空恋人</title>
-</programme>
-<programme start="20220412040300 +0800" stop="20220412050000 +0800" channel="亚洲电影">
-<title lang="zh">实境之旅:桂林</title>
-</programme>
-<programme start="20220412050000 +0800" stop="20220412063100 +0800" channel="亚洲电影">
-<title lang="zh">非常同伙</title>
-</programme>
-<programme start="20220412063100 +0800" stop="20220412080400 +0800" channel="亚洲电影">
-<title lang="zh">刺猬小子之天生我刺</title>
-</programme>
-<programme start="20220412080400 +0800" stop="20220412092800 +0800" channel="亚洲电影">
-<title lang="zh">男团秘事</title>
-</programme>
-<programme start="20220412092800 +0800" stop="20220412100000 +0800" channel="亚洲电影">
-<title lang="zh">我要进前十</title>
-</programme>
-<programme start="20220412100000 +0800" stop="20220412114600 +0800" channel="亚洲电影">
-<title lang="zh">你好，疯子</title>
-</programme>
-<programme start="20220412114600 +0800" stop="20220413013200 +0800" channel="亚洲电影">
-<title lang="zh">功夫</title>
-</programme>
 <programme start="20220413013200 +0800" stop="20220413032000 +0800" channel="亚洲电影">
 <title lang="zh">嘉年华</title>
 </programme>
@@ -63,29 +33,32 @@
 <programme start="20220413085400 +0800" stop="20220413102300 +0800" channel="亚洲电影">
 <title lang="zh">歌舞青春</title>
 </programme>
-<programme start="20220413102300 +0800" stop="20220413235950 +0800" channel="亚洲电影">
+<programme start="20220413102300 +0800" stop="20220414004400 +0800" channel="亚洲电影">
 <title lang="zh">王者天下</title>
 </programme>
-<programme start="20220412004800 +0800" stop="20220412023300 +0800" channel="欧美电影">
-<title lang="zh">穿普拉达的女王</title>
+<programme start="20220414004400 +0800" stop="20220414022900 +0800" channel="亚洲电影">
+<title lang="zh">最后的日出</title>
 </programme>
-<programme start="20220412023300 +0800" stop="20220412040500 +0800" channel="欧美电影">
-<title lang="zh">鬼债</title>
+<programme start="20220414022900 +0800" stop="20220414040000 +0800" channel="亚洲电影">
+<title lang="zh">非常同伙</title>
 </programme>
-<programme start="20220412040500 +0800" stop="20220412050000 +0800" channel="欧美电影">
-<title lang="zh">情迷英格兰</title>
+<programme start="20220414040000 +0800" stop="20220414050000 +0800" channel="亚洲电影">
+<title lang="zh">实境之旅:桂林</title>
 </programme>
-<programme start="20220412050000 +0800" stop="20220412065500 +0800" channel="欧美电影">
-<title lang="zh">借刀杀人</title>
+<programme start="20220414050000 +0800" stop="20220414062900 +0800" channel="亚洲电影">
+<title lang="zh">歌舞青春</title>
 </programme>
-<programme start="20220412065500 +0800" stop="20220412084900 +0800" channel="欧美电影">
-<title lang="zh">陌路之恋</title>
+<programme start="20220414062900 +0800" stop="20220414084300 +0800" channel="亚洲电影">
+<title lang="zh">王者天下</title>
 </programme>
-<programme start="20220412084900 +0800" stop="20220412105800 +0800" channel="欧美电影">
-<title lang="zh">缩小人生</title>
+<programme start="20220414084300 +0800" stop="20220414100500 +0800" channel="亚洲电影">
+<title lang="zh">武动乾坤</title>
 </programme>
-<programme start="20220412105800 +0800" stop="20220413001400 +0800" channel="欧美电影">
-<title lang="zh">藩篱</title>
+<programme start="20220414100500 +0800" stop="20220414113700 +0800" channel="亚洲电影">
+<title lang="zh">相声大电影之我要幸福</title>
+</programme>
+<programme start="20220414113700 +0800" stop="20220414235950 +0800" channel="亚洲电影">
+<title lang="zh">奇迹，那天如此重要</title>
 </programme>
 <programme start="20220413001400 +0800" stop="20220413015600 +0800" channel="欧美电影">
 <title lang="zh">呼啸山庄</title>
@@ -111,32 +84,29 @@
 <programme start="20220413094800 +0800" stop="20220413113300 +0800" channel="欧美电影">
 <title lang="zh">冲向天外天</title>
 </programme>
-<programme start="20220413113300 +0800" stop="20220413235950 +0800" channel="欧美电影">
+<programme start="20220413113300 +0800" stop="20220414010600 +0800" channel="欧美电影">
 <title lang="zh">骄傲的玛丽</title>
 </programme>
-<programme start="20220412060000 +0800" stop="20220412060500 +0800" channel="临沂综合">
-<title lang="zh">晨曲</title>
+<programme start="20220414010600 +0800" stop="20220414022900 +0800" channel="欧美电影">
+<title lang="zh">爷爷的旗帜</title>
 </programme>
-<programme start="20220412060500 +0800" stop="20220412065500 +0800" channel="临沂综合">
-<title lang="zh">中华养生</title>
+<programme start="20220414022900 +0800" stop="20220414041000 +0800" channel="欧美电影">
+<title lang="zh">洛奇5</title>
 </programme>
-<programme start="20220412065500 +0800" stop="20220412071500 +0800" channel="临沂综合">
-<title lang="zh">马上就办直通车</title>
+<programme start="20220414041000 +0800" stop="20220414050000 +0800" channel="欧美电影">
+<title lang="zh">情迷英格兰</title>
 </programme>
-<programme start="20220412071500 +0800" stop="20220412075500 +0800" channel="临沂综合">
-<title lang="zh">临沂新闻</title>
+<programme start="20220414050000 +0800" stop="20220414063200 +0800" channel="欧美电影">
+<title lang="zh">永远的尽头</title>
 </programme>
-<programme start="20220412075500 +0800" stop="20220412091500 +0800" channel="临沂综合">
-<title lang="zh">电视剧</title>
+<programme start="20220414063200 +0800" stop="20220414094600 +0800" channel="欧美电影">
+<title lang="zh">教父2</title>
 </programme>
-<programme start="20220412091500 +0800" stop="20220412103500 +0800" channel="临沂综合">
-<title lang="zh">电视剧</title>
+<programme start="20220414094600 +0800" stop="20220414115300 +0800" channel="欧美电影">
+<title lang="zh">异星战场</title>
 </programme>
-<programme start="20220412103500 +0800" stop="20220412115000 +0800" channel="临沂综合">
-<title lang="zh">电视剧</title>
-</programme>
-<programme start="20220412115000 +0800" stop="20220413060000 +0800" channel="临沂综合">
-<title lang="zh">临沂新闻</title>
+<programme start="20220414115300 +0800" stop="20220414235950 +0800" channel="欧美电影">
+<title lang="zh">一天2018版</title>
 </programme>
 <programme start="20220413060000 +0800" stop="20220413060500 +0800" channel="临沂综合">
 <title lang="zh">晨曲</title>
@@ -159,26 +129,32 @@
 <programme start="20220413103500 +0800" stop="20220413115000 +0800" channel="临沂综合">
 <title lang="zh">电视剧</title>
 </programme>
-<programme start="20220413115000 +0800" stop="20220413235950 +0800" channel="临沂综合">
+<programme start="20220413115000 +0800" stop="20220414060000 +0800" channel="临沂综合">
 <title lang="zh">临沂新闻</title>
 </programme>
-<programme start="20220412060000 +0800" stop="20220412063300 +0800" channel="临沂农科">
+<programme start="20220414060000 +0800" stop="20220414060500 +0800" channel="临沂综合">
 <title lang="zh">晨曲</title>
 </programme>
-<programme start="20220412063300 +0800" stop="20220412074500 +0800" channel="临沂农科">
-<title lang="zh">琅琊风云榜</title>
+<programme start="20220414060500 +0800" stop="20220414065500 +0800" channel="临沂综合">
+<title lang="zh">中华养生</title>
 </programme>
-<programme start="20220412074500 +0800" stop="20220412090000 +0800" channel="临沂农科">
+<programme start="20220414065500 +0800" stop="20220414071500 +0800" channel="临沂综合">
+<title lang="zh">马上就办直通车</title>
+</programme>
+<programme start="20220414071500 +0800" stop="20220414075500 +0800" channel="临沂综合">
+<title lang="zh">临沂新闻</title>
+</programme>
+<programme start="20220414075500 +0800" stop="20220414091500 +0800" channel="临沂综合">
 <title lang="zh">电视剧</title>
 </programme>
-<programme start="20220412090000 +0800" stop="20220412104000 +0800" channel="临沂农科">
+<programme start="20220414091500 +0800" stop="20220414103500 +0800" channel="临沂综合">
 <title lang="zh">电视剧</title>
 </programme>
-<programme start="20220412104000 +0800" stop="20220412115000 +0800" channel="临沂农科">
-<title lang="zh">室内剧</title>
+<programme start="20220414103500 +0800" stop="20220414115000 +0800" channel="临沂综合">
+<title lang="zh">电视剧</title>
 </programme>
-<programme start="20220412115000 +0800" stop="20220413060000 +0800" channel="临沂农科">
-<title lang="zh">八点新时空</title>
+<programme start="20220414115000 +0800" stop="20220414235950 +0800" channel="临沂综合">
+<title lang="zh">临沂新闻</title>
 </programme>
 <programme start="20220413060000 +0800" stop="20220413063300 +0800" channel="临沂农科">
 <title lang="zh">晨曲</title>
@@ -195,29 +171,26 @@
 <programme start="20220413104000 +0800" stop="20220413115000 +0800" channel="临沂农科">
 <title lang="zh">室内剧</title>
 </programme>
-<programme start="20220413115000 +0800" stop="20220413235950 +0800" channel="临沂农科">
+<programme start="20220413115000 +0800" stop="20220414060000 +0800" channel="临沂农科">
 <title lang="zh">八点新时空</title>
 </programme>
-<programme start="20220412060000 +0800" stop="20220412063000 +0800" channel="临沂公共">
+<programme start="20220414060000 +0800" stop="20220414063300 +0800" channel="临沂农科">
 <title lang="zh">晨曲</title>
 </programme>
-<programme start="20220412063000 +0800" stop="20220412070000 +0800" channel="临沂公共">
-<title lang="zh">娱乐现场</title>
+<programme start="20220414063300 +0800" stop="20220414074500 +0800" channel="临沂农科">
+<title lang="zh">琅琊风云榜</title>
 </programme>
-<programme start="20220412070000 +0800" stop="20220412073000 +0800" channel="临沂公共">
-<title lang="zh">直播临沂</title>
-</programme>
-<programme start="20220412073000 +0800" stop="20220412082200 +0800" channel="临沂公共">
-<title lang="zh">行风热线</title>
-</programme>
-<programme start="20220412082200 +0800" stop="20220412093000 +0800" channel="临沂公共">
-<title lang="zh">直播挑战</title>
-</programme>
-<programme start="20220412093000 +0800" stop="20220412103000 +0800" channel="临沂公共">
+<programme start="20220414074500 +0800" stop="20220414090000 +0800" channel="临沂农科">
 <title lang="zh">电视剧</title>
 </programme>
-<programme start="20220412103000 +0800" stop="20220413060000 +0800" channel="临沂公共">
+<programme start="20220414090000 +0800" stop="20220414104000 +0800" channel="临沂农科">
 <title lang="zh">电视剧</title>
+</programme>
+<programme start="20220414104000 +0800" stop="20220414115000 +0800" channel="临沂农科">
+<title lang="zh">室内剧</title>
+</programme>
+<programme start="20220414115000 +0800" stop="20220414235950 +0800" channel="临沂农科">
+<title lang="zh">八点新时空</title>
 </programme>
 <programme start="20220413060000 +0800" stop="20220413063000 +0800" channel="临沂公共">
 <title lang="zh">晨曲</title>
@@ -237,7 +210,28 @@
 <programme start="20220413093000 +0800" stop="20220413103000 +0800" channel="临沂公共">
 <title lang="zh">电视剧</title>
 </programme>
-<programme start="20220413103000 +0800" stop="20220413235950 +0800" channel="临沂公共">
+<programme start="20220413103000 +0800" stop="20220414060000 +0800" channel="临沂公共">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20220414060000 +0800" stop="20220414063000 +0800" channel="临沂公共">
+<title lang="zh">晨曲</title>
+</programme>
+<programme start="20220414063000 +0800" stop="20220414070000 +0800" channel="临沂公共">
+<title lang="zh">娱乐现场</title>
+</programme>
+<programme start="20220414070000 +0800" stop="20220414073000 +0800" channel="临沂公共">
+<title lang="zh">直播临沂</title>
+</programme>
+<programme start="20220414073000 +0800" stop="20220414082200 +0800" channel="临沂公共">
+<title lang="zh">行风热线</title>
+</programme>
+<programme start="20220414082200 +0800" stop="20220414093000 +0800" channel="临沂公共">
+<title lang="zh">直播挑战</title>
+</programme>
+<programme start="20220414093000 +0800" stop="20220414103000 +0800" channel="临沂公共">
+<title lang="zh">电视剧</title>
+</programme>
+<programme start="20220414103000 +0800" stop="20220414235950 +0800" channel="临沂公共">
 <title lang="zh">电视剧</title>
 </programme>
 </tv>
