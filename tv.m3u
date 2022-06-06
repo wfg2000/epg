@@ -256,24 +256,15 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
 #EXTINF:-1 group-title="山东移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="山东移动",CHC高清电影
-http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 group-title="山东移动",CHC动作电影
-http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="山东移动",CHC家庭电影
-http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="山东移动",欢笑剧场
-http://183.251.61.250/PLTV/88888888/224/3221227145/index.m3u8
-http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="山东移动",都市剧场
-http://183.251.61.250/PLTV/88888888/224/3221227204/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+
 #EXTINF:-1 group-title="山东移动",生活时尚
 http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="山东移动",全纪实
-http://183.251.61.250/PLTV/88888888/224/3221227083/index.m3u8
-http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="山东移动",极速汽车
-http://183.251.61.250/PLTV/88888888/224/3221227186/index.m3u8
-http://112.25.48.68/live/program/live/jsqchd/4000000/mnf.m3u8
+
 #EXTINF:-1 group-title="山东移动",茶频道
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
 #EXTINF:-1 group-title="山东移动",快乐垂钓
@@ -333,32 +324,23 @@ http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
 http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
 #EXTINF:-1  group-title="咪咕虎牙",追剧少女
 http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-#EXTINF:-1 group-title="咪咕虎牙",谍战剧场
-http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
-#EXTINF:-1 group-title="咪咕虎牙",文艺娱乐
-http://117.148.179.134/PLTV/88888888/224/3221231570/index.m3u8
+
 #EXTINF:-1 group-title="咪咕虎牙",成龙影院
 http://117.148.179.134/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 group-title="咪咕虎牙",杨幂影院
-http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
-#EXTINF:-1  group-title="咪咕虎牙",葛优影院
-http://117.148.179.134/PLTV/88888888/224/3221231754/index.m3u8
+
 #EXTINF:-1  group-title="咪咕虎牙",金庸频道
 http://117.148.179.134/PLTV/88888888/224/3221231477/index.m3u8
-#EXTINF:-1 group-title="咪咕虎牙",刘亦菲影院
-http://117.148.179.134/PLTV/88888888/224/3221231787/index.m3u8
+
 #EXTINF:-1 group-title="咪咕虎牙",刘德华影院
 http://117.148.179.134/PLTV/88888888/224/3221231757/index.m3u8
-#EXTINF:-1 group-title="咪咕虎牙",周润发影院
-http://117.148.179.134/PLTV/88888888/224/3221231709/index.m3u8
+
 #EXTINF:-1 group-title="咪咕虎牙",周星驰影院
 http://117.148.179.134/PLTV/88888888/224/3221231562/index.m3u8
 #EXTINF:-1 group-title="咪咕虎牙",张国荣影院
 http://117.148.179.134/PLTV/88888888/224/3221231790/index.m3u8
 #EXTINF:-1 group-title="咪咕虎牙",古天乐影院
 http://117.148.179.134/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1 group-title="咪咕虎牙",郭富城影院
-http://117.148.179.134/PLTV/88888888/224/3221231688/index.m3u8
+
 #EXTINF:-1 group-title="咪咕虎牙",SNH48剧场
 http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 #EXTINF:-1 group-title="咪咕虎牙",FashionTV
