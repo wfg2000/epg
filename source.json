@@ -1,62 +1,8 @@
-[
-    {
-        "id":1,
-        "name":"快播资源",
-        "uri":"http://www.jisudhw.com",
-        "httpApi":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
-        "httpsApi":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
-        "type":"影视"
-    },
-    {
-        "id":4,
-        "name":"八戒资源",
-        "uri":"http://www.kuyunzy.tv",
-        "httpApi":"http://cj.bajiecaiji.com/inc/api.php",
-        "httpsApi":"http://cj.bajiecaiji.com/inc/api.php",
-        "type":"影视"
-    },
-    {
-        "id":6,
-        "name":"百度云资源",
-        "uri":"http://doubanzy.com",
-        "httpApi":"https://api.apibdzy.com/api.php/provide/vod/at/xml",
-        "httpsApi":"https://api.apibdzy.com/api.php/provide/vod/at/xml",
-        "type":"影视"
-    },
-    {
-        "id":10,
-        "name":"最快资源",
-        "uri":"http://www.kbzyapi.com",
-        "httpApi":"http://cj.1886zy.co/inc/seacmsapi.php",
-        "httpsApi":"http://cj.1886zy.co/inc/seacmsapi.php",
-        "type":"影视"
-    },
-    {
-        "id":12,
-        "name":"蘑菇资源",
-        "uri":"http://www.123ku2.com",
-        "httpApi":"http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
-        "httpsApi":"http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
-        "type":"影视"
-    },
-    {
-        "id":15,
-        "name":"1886 资源",
-        "uri":"http://www.1886zy.co",
-        "httpApi":"http://cj.1886zy.co/inc/api.php",
-        "httpsApi":"http://cj.1886zy.co/inc/api.php",
-        "type":"影视"
-    },
-    {
-        "id":19,
-        "name":"39影视",
-        "uri":"",
-        "httpApi":"https://www.39kan.com/api.php/provide/vod/at/xml",
-        "httpsApi":"https://www.39kan.com/api.php/provide/vod/at/xml",
-        "type":"影视"
-    },
-    {
-        "id":33,
+[{"key":"3FF1AF94E5E28C6A9A22BBE1E70EB3E2","id":10,"name":"快播资源","httpApi":"http://www.kuaibozy.com/api.php/provide/vod/at/xml","httpsApi":"http://www.kuaibozy.com/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"0A2A363CC8B0F120D42345A9E9EBC2EB","id":11,"name":"八戒资源","httpApi":"http://cj.bajiecaiji.com/inc/api.php","httpsApi":"http://cj.bajiecaiji.com/inc/api.php","useInSearchAll":true},{"key":"1364B1580FA88AD6823DE3F3BB2DB8CC","id":12,"name":"天空资源","httpApi":"http://api.tiankongapi.com/api.php/provide/vod/at/xml","httpsApi":"http://api.tiankongapi.com/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"39500CBF225CD757317EF73EBE07D44F","id":13,"name":"快播云","httpApi":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/","httpsApi":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/","useInSearchAll":true},{"key":"48BAE8BAD69F856816CD6F904152EA9D","id":14,"name":"天空云","httpApi":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/","httpsApi":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/","useInSearchAll":true},{"key":"89735BFD754F6645D6F186D7CEE641FE","id":15,"name":"人人资源","httpApi":"http://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/","httpsApi":"http://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/","useInSearchAll":true},
+{"key":"89735BFD754F6645D6F186D7CEE641FE","id":16,"name":"百度云资源","httpApi":"https://api.apibdzy.com/api.php/provide/vod/at/xml/","httpsApi":"https://api.apibdzy.com/api.php/provide/vod/at/xml/","useInSearchAll":true},
+{"key":"45322E2098D99B4A227AF15663BD0E55","id":17,"name":"39影视","httpApi":"https://www.39kan.com/api.php/provide/vod/at/xml","httpsApi":"https://www.39kan.com/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"AC2829D49BA1A5E4D57D258FBC25DD4B","id":18,"name":"M3U8.TV资源","httpApi":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/","httpsApi":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/","useInSearchAll":true},{"key":"846FCDBBED4A1712B438209CDA399C1D","id":19,"name":"韩剧网","httpApi":"http://www.hanjuzy.com/inc/api.php","httpsApi":"http://www.hanjuzy.com/inc/api.php","useInSearchAll":true},{"key":"8A51277F8ACBFC4B2B328EC44DD4DCDC","id":20,"name":"天堂资源","httpApi":"http://vipmv.cc/api.php/provide/vod/at/xml/","httpsApi":"http://vipmv.cc/api.php/provide/vod/at/xml/","useInSearchAll":true},{"key":"2BD7CC8A433A1A43BD5969AFB7C65AFC","id":21,"name":"8090资源","httpApi":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml","httpsApi":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"4627D8494B1FCA95C96F4A4C55EDED1B","id":22,"name":"TVB云播","httpApi":"http://www.tvyb02.com/api.php/provide/vod/at/xml","httpsApi":"http://www.tvyb02.com/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"88BDAF157854F158229B1F98BA3E01FD","id":23,"name":"乐活影视","httpApi":"https://lehootv.com/api.php/provide/vod/at/xml","httpsApi":"https://lehootv.com/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"33FB0B0DF67A194BB42B91D5BE6F883F","id":25,"name":"奇艺","httpApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml","httpsApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml","useInSearchAll":true},{"key":"73E0F7487B8E5297182C5A711D20BF26","id":26,"name":"1905","httpApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml","httpsApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml","useInSearchAll":true},{"key":"EB8C504251AECF1E267A64A7984A1686","id":27,"name":"芒果","httpApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml","httpsApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml","useInSearchAll":true},{"key":"7A6D2774B104E0E86F126F6135366D53","id":28,"name":"搜狐","httpApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/sohu/at/xml","httpsApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/sohu/at/xml","useInSearchAll":true},{"key":"369F169A0D67A139CAE2017AB8BDF6D8","id":29,"name":"PPTV","httpApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/pptv/at/xml","httpsApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/pptv/at/xml","useInSearchAll":true},{"key":"5FF45C3B826BFFBE5C0B7FBE5B862717","id":30,"name":"乐视","httpApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/letv/at/xml","httpsApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/letv/at/xml","useInSearchAll":true},{"key":"FBCA05A66F8374E42B06B1668CAB155A","id":31,"name":"咪咕","httpApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/migu/at/xml","httpsApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/migu/at/xml","useInSearchAll":true},{"key":"D7BDE21FD44F80BFE270CE80078C85A0","id":32,"name":"优酷1","httpApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml","httpsApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml","useInSearchAll":true},{"key":"887A36775D428DAD4242EF7E84684C84","id":33,"name":"卧龙","httpApi":"https://www.wolongzyw.com/api.php/provide/vod/at/xml","httpsApi":"https://www.wolongzyw.com/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"826AC684C5E1FB190FF1D5F85BF397B1","id":34,"name":"哔哩","httpApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/bilibili/at/xml","httpsApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/bilibili/at/xml","useInSearchAll":true},{"key":"B520CE1507D525FA9CDC983836E46452","id":35,"name":"腾讯1","httpApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml","httpsApi":"http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml","useInSearchAll":true},{"key":"24BE8B50B518A273E167C2D5DDBDD73F","id":36,"name":"酷点m3u8","httpApi":"https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml","httpsApi":"https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8/at/xml","useInSearchAll":true},{"key":"34137C27F3BBAB3881C305D92FAC0F15","id":38,"name":"天空1","httpApi":"https://m3u8.tiankongapi.com/api.php/provide/vod/at/xml","httpsApi":"https://m3u8.tiankongapi.com/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"C5896E3E2E5E47E1ABDAA7948801D4ED","id":39,"name":"飘花","httpApi":"http://www.zzrhgg.com/api.php/provide/vod/at/xml","httpsApi":"http://www.zzrhgg.com/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"53F57AF393B812DB27EA07EA9EA7BC54","id":40,"name":"速云","httpApi":"https://xn--128-zm3fr26s.xyz/inc/api.php","httpsApi":"https://xn--128-zm3fr26s.xyz/inc/api.php","useInSearchAll":true},{"key":"512424689CEEB47C1ECC4D739B934FD1","id":41,"name":"快播m3u8","httpApi":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml","httpsApi":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml","useInSearchAll":true},{"key":"2A31C61781BAD84EC252FC746CD93CDF","id":42,"name":"番茄","httpApi":"http://api.fqzy.cc/api.php/provide/vod/at/xml","httpsApi":"http://api.fqzy.cc/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"E69EE86290F7DD5D96C93546DFA5F83E","id":43,"name":"天堂","httpApi":"http://vipmv.cc/api.php/provide/vod/at/xml","httpsApi":"http://vipmv.cc/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"5AC0B6E56FBA67CA6C16F36E694563FC","id":44,"name":"阿里","httpApi":"http://www.feishi.ltd/api.php/provide/vod/at/xml","httpsApi":"http://www.feishi.ltd/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"B75A8A2758EC36F02F4B914329B9311F","id":45,"name":"M3U8","httpApi":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml","httpsApi":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"2A6BCA5F3D8DE0FA9CF7CD39F315EAA9","id":46,"name":"TVB云播03","httpApi":"https://www.hktv03.com/api.php/provide/vod/at/xml","httpsApi":"https://www.hktv03.com/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"FF24DDC39407FB94F0ADC8957D8F643F","id":47,"name":"思古影院","httpApi":"https://www.siguyy.com/api.php/provide/vod/at/xml","httpsApi":"https://www.siguyy.com/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"EC8875603F59D9C01BD146E29A58CA36","id":48,"name":"七七电影","httpApi":"https://www.77diany.com/api.php/provide/vod/at/xml","httpsApi":"https://www.77diany.com/api.php/provide/vod/at/xml","useInSearchAll":true},{"key":"9E5EA32C6F1EB40CEC5205441171A288","id":49,"name":"神马","httpApi":"http://www.zitv.cc/api.php/provide/vod/at/xml","httpsApi":"http://www.zitv.cc/api.php/provide/vod/at/xml","useInSearchAll":true},
+   {
+        "id":71,
         "name":"富二代资源站",
         "uri":"",
         "httpApi":"http://f2dcj6.com/api",
@@ -64,23 +10,16 @@
         "type":"福利"
     },
     {
-        "id":36,
+        "id":72,
         "name":"利来资源",
         "uri":"https://sao-lang-jian.com",
         "httpApi":"http://llzxcj.com/inc/ck.php",
         "httpsApi":"http://llzxcj.com/inc/sck.php",
         "type":"福利"
     },
+
     {
-        "id":37,
-        "name":"佳丽 TV",
-        "uri":"http://dadizy11.com/",
-        "httpApi":"https://jialiapi.com/api.php/provide/vod/at/xml/",
-        "httpsApi":"https://jialiapi.com/api.php/provide/vod/at/xml/",
-        "type":"福利"
-    },
-    {
-        "id":38,
+        "id":73,
         "name":"博天堂网",
         "uri":"http://bttcj.com",
         "httpApi":"http://bttcj.com/inc/sapi.php",
@@ -88,7 +27,7 @@
         "type":"福利"
     },
     {
-        "id":39,
+        "id":74,
         "name":"环亚无码",
         "uri":"http://wmcj8.com ",
         "httpApi":"http://wmcj8.com/inc/sapi.php",
@@ -96,7 +35,7 @@
         "type":"福利"
     },
     {
-        "id":40,
+        "id":75,
         "name":"狼少年资源",
         "uri":"http://cjmygzy.com/ ",
         "httpApi":"http://cjmygzy.com/inc/sapi.php",
@@ -104,7 +43,7 @@
         "type":"福利"
     },
     {
-        "id":41,
+        "id":76,
         "name":"JAV名优资源",
         "uri":"http://mygzycj.com ",
         "httpApi":"http://mygzycj.com/api.php",
@@ -112,7 +51,7 @@
         "type":"福利"
     },
     {
-        "id":42,
+        "id":77,
         "name":"乐播",
         "uri":"https://lbapi9.com",
         "httpApi":"https://lbapi9.com/api.php/provide/vod/at/xml/",
@@ -120,7 +59,7 @@
         "type":"福利"
     },
     {
-        "id":45,
+        "id":78,
         "name":"速度资源",
         "uri":"",
         "httpApi":"http://www.ggmmzy.com:9999/inc/xml",
@@ -128,7 +67,7 @@
         "type":"福利"
     },
     {
-        "id":46,
+        "id":79,
         "name":"番号资源",
         "uri":"",
         "httpApi":"http://fhapi9.com/api.php/provide/vod/at/xml/",
@@ -136,7 +75,7 @@
         "type":"福利"
     },
     {
-        "id":47,
+        "id":80,
         "name":"花椒资源",
         "uri":"",
         "httpApi":"https://apihjzy.com/api.php/provide/vod/at/xml/",
@@ -144,7 +83,7 @@
         "type":"福利"
     },
     {
-        "id":48,
+        "id":81,
         "name":"玖玖资源",
         "uri":"",
         "httpApi":"http://99zywcj.com/inc/ck.php",
@@ -152,7 +91,7 @@
         "type":"福利"
     },
     {
-        "id":49,
+        "id":82,
         "name":"字幕网",
         "uri":"",
         "httpApi":"http://zmcj88.com/api",
@@ -160,7 +99,7 @@
         "type":"福利"
     },
     {
-        "id":50,
+        "id":83,
         "name":"久草资源",
         "uri":"",
         "httpApi":"http://jcspcj8.com/api",
@@ -168,91 +107,51 @@
         "type":"福利"
     },
     {
-        "id":51,
+        "id":84,
         "name":"色色",
         "uri":"http://mygzycj.com ",
         "httpApi":"http://m.7777688.com/inc/api.php",
         "httpsApi":"http://m.7777688.com/inc/api.php",
         "type":"福利"
     },
-    {
-        "id":62,
-        "name":"芒果福利",
-        "httpsApi":"https://www.mgav1.cc/api.php/provide/vod/at/xml/"
-    },
-    {
-        "id":64,
-        "name":"秀色资源",
-        "httpsApi":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/"
-    },
-    {
-        "id":73,
-        "name":"玖玖资源",
-        "httpsApi":"http://99zywcj.com/inc/sapi.php?ac=videolist"
-    },
-    {
-        "id":77,
-        "name":"1024资源",
-        "httpsApi":"https://www.1024nf.com/api.php/provide/vod/at/xml"
-    },
-    {
-        "id":78,
-        "name":"4000资源",
-        "httpsApi":"https://www.4000zy.com/inc/api.php"
-    },
-    {
-        "id":79,
-        "name":"77资源",
-        "httpsApi":"https://www.77zy.vip/inc/m3u8.php"
-    },
-    {
-        "id":84,
-        "name":"探探资源",
-        "httpsApi":"https://apittzy.com/api.php/provide/vod/at/xml"
-    },
+ 
     {
         "id":85,
-        "name":"乐鱼资源",
-        "httpsApi":"https://www.leyuzyapi.com/inc/zyapimac.php"
+        "name":"秀色资源",
+        "httpApi":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/",
+        "httpsApi":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/",
+        "type":"福利"
     },
+
+ 
     {
         "id":86,
-        "name":"523资源",
-        "httpsApi":"https://caiji.523zyw.com/inc/api.php"
+        "name":"探探资源",
+        "httpApi":"https://apittzy.com/api.php/provide/vod/at/xml",
+        "httpsApi":"https://apittzy.com/api.php/provide/vod/at/xml",
+        "type":"福利"
     },
+    {
+        "id":87,
+        "name":"乐鱼资源",
+        "httpApi":"https://www.leyuzyapi.com/inc/zyapimac.php",
+        "httpsApi":"https://www.leyuzyapi.com/inc/zyapimac.php",
+        "type":"福利"
+    },
+    {
+        "id":88,
+        "name":"523资源",
+        "httpApi":"https://caiji.523zyw.com/inc/api.php",
+        "httpsApi":"https://caiji.523zyw.com/inc/api.php",
+        "type":"福利"
+    },
+ 
+ 
     {
         "id":89,
-        "name":"大地资源",
-        "httpsApi":"https://dadiapi.com/api.php/"
-    },
-    {
-        "id":96,
-        "name":"优果资源",
-        "httpsApi":"https://www.ugzyz5.com/inc/zyapimac.php"
-    },
-    {
-        "id":99,
-        "name":"芒果",
-        "httpsApi":"https://mgzyz1.com/api.php/provide/vod/at/xml"
-    },
-    {
-        "id":101,
         "name":"S猫资源",
-        "httpsApi":"https://api.maozyapi.com/inc/api.php"
-    },
-    {
-        "id":103,
-        "name":"BB资源",
-        "httpsApi":"http://bbzy.cc/inc/maccms10.php"
-    },
-    {
-        "id":104,
-        "name":"100ai",
-        "httpsApi":"http://www.010aizy.com/API/maxs.php"
-    },
-    {
-        "id":120,
-        "name":"天噜啦资源",
-        "httpsApi":"http://www.987caiji.com/api/max.php"
+        "httpApi":"https://api.maozyapi.com/inc/api.php",
+        "httpsApi":"https://api.maozyapi.com/inc/api.php",
+        "type":"福利"
     }
 ]
