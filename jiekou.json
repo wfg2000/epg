@@ -58,6 +58,7 @@
 {"name":"看剧吧","url":"http://app.ishen520.com/api.php/v1.vod"},
 {"name":"913e影视","url":"http://www.913e.net/xgapp.php/v1/"},
 {"name":"海胆影视","url":"http://xf123.cc/api.php/app/"},
+{"name":"BT天堂","url":"http://bttcj.com/inc/sapi.php"},
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"}
 ],
 "caijizhan": [
@@ -162,7 +163,6 @@
 {"name":"CV影视","url":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"name":"非凡影院","url":"http://cms.feifan12.xyz/api.php/iptv/vod/"},
 {"name":"贵宾影院","url":"https://vipdytv.com/api.php/iptv/vod/"},
-{"name":"BT天堂","url":"http://bttcj.com/inc/sapi.php"},
 {"name":"看365","url":"https://www.kan365.xyz/api.php"}
 ],
 "lunbo":[
