@@ -305,11 +305,11 @@
     },
     {
         "id":71,
-        "name":"富二代资源站",
+        "name":"富二代资源",
         "uri":"",
         "httpApi":"http://f2dcj6.com/api",
         "httpsApi":"http://f2dcj6.com/sapi",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":72,
@@ -317,7 +317,7 @@
         "uri":"https://sao-lang-jian.com",
         "httpApi":"http://llzxcj.com/inc/ck.php",
         "httpsApi":"http://llzxcj.com/inc/sck.php",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":73,
@@ -325,15 +325,15 @@
         "uri":"http://bttcj.com",
         "httpApi":"http://bttcj.com/inc/sapi.php",
         "httpsApi":"http://bttcj.com/inc/sapi.php",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":74,
-        "name":"环亚无码",
+        "name":"环亚无M",
         "uri":"http://wmcj8.com ",
         "httpApi":"http://wmcj8.com/inc/sapi.php",
         "httpsApi":"http://wmcj8.com/inc/sapi.php",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":75,
@@ -341,7 +341,7 @@
         "uri":"http://cjmygzy.com/ ",
         "httpApi":"http://cjmygzy.com/inc/sapi.php",
         "httpsApi":"http://cjmygzy.com/inc/sapi.php",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":76,
@@ -349,7 +349,7 @@
         "uri":"http://mygzycj.com ",
         "httpApi":"http://mygzycj.com/api.php",
         "httpsApi":"http://mygzycj.com/sapi.php",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":77,
@@ -357,7 +357,7 @@
         "uri":"https://lbapi9.com",
         "httpApi":"https://lbapi9.com/api.php/provide/vod/at/xml/",
         "httpsApi":"https://lbapi9.com/api.php/provide/vod/at/xml/",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":78,
@@ -365,7 +365,7 @@
         "uri":"",
         "httpApi":"http://www.ggmmzy.com:9999/inc/xml",
         "httpsApi":"http://www.ggmmzy.com:9999/inc/xml",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":79,
@@ -373,7 +373,7 @@
         "uri":"",
         "httpApi":"http://fhapi9.com/api.php/provide/vod/at/xml/",
         "httpsApi":"http://fhapi9.com/api.php/provide/vod/at/xml/",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":80,
@@ -381,7 +381,7 @@
         "uri":"",
         "httpApi":"https://apihjzy.com/api.php/provide/vod/at/xml/",
         "httpsApi":"https://apihjzy.com/api.php/provide/vod/at/xml/",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":81,
@@ -389,7 +389,7 @@
         "uri":"",
         "httpApi":"http://99zywcj.com/inc/ck.php",
         "httpsApi":"http://99zywcj.com/inc/ck.php",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":82,
@@ -397,7 +397,7 @@
         "uri":"",
         "httpApi":"http://zmcj88.com/api",
         "httpsApi":"http://zmcj88.com/api",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":83,
@@ -405,49 +405,49 @@
         "uri":"",
         "httpApi":"http://jcspcj8.com/api",
         "httpsApi":"http://jcspcj8.com/api",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":84,
-        "name":"色色",
+        "name":"SS",
         "uri":"http://mygzycj.com ",
         "httpApi":"http://m.7777688.com/inc/api.php",
         "httpsApi":"http://m.7777688.com/inc/api.php",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":85,
-        "name":"秀色资源",
+        "name":"秀S资源",
         "httpApi":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/",
         "httpsApi":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":86,
         "name":"探探资源",
         "httpApi":"https://apittzy.com/api.php/provide/vod/at/xml",
         "httpsApi":"https://apittzy.com/api.php/provide/vod/at/xml",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":87,
         "name":"乐鱼资源",
         "httpApi":"https://www.leyuzyapi.com/inc/zyapimac.php",
         "httpsApi":"https://www.leyuzyapi.com/inc/zyapimac.php",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":88,
         "name":"523资源",
         "httpApi":"https://caiji.523zyw.com/inc/api.php",
         "httpsApi":"https://caiji.523zyw.com/inc/api.php",
-        "type":"福利"
+        "type":"fl"
     },
     {
         "id":89,
         "name":"S猫资源",
         "httpApi":"https://api.maozyapi.com/inc/api.php",
         "httpsApi":"https://api.maozyapi.com/inc/api.php",
-        "type":"福利"
+        "type":"fl"
     }
 ]
