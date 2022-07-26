@@ -465,7 +465,7 @@
 {"key":"*小湿妹资源","name":"*小湿妹资源","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*老鸭资源","name":"*老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
-{"key":"*花椒资源","name":"*花椒资源","type":1,"api":"https://apihjzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*花椒资源","name":"*花椒资源","type":1,"api":"https://apihjzy.com/api.php/provide/vod/","searchable":0,"quickSearch":1},
 {"key":"*辣椒资源","name":"*辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
 {"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
