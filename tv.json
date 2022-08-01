@@ -1,6 +1,5 @@
 {
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
-
 "spider":"https://wfg2000.github.io/epg/spider.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]}]}],
 "sites":[
