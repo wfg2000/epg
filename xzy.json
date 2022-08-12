@@ -5,7 +5,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 /*-----------------------整合JAR包接口-----------------------*/
-"spider":"https://wfg2000.github.io/jar/xzy.jar",
+"spider":"https://wfg2000.github.io/epg/jar/xzy.jar",
 
 /*-----------------------直播-----------------------*/
 "lives": [{"group": "redirect","channels": [{"name": "live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3p5L3R2L3h6eS50eHQ="]}]}],
