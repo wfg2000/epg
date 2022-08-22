@@ -39,7 +39,7 @@
 {"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"}, 
 
 
-
+//type=0表示xml资源,type=1表示json资源
 
 {"key": "csp_app_小鸟动漫","name": "🐦小鸟动漫","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_M2_暖光影视","name":"🕯️暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"}, 
