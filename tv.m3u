@@ -172,23 +172,18 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1  group-title="凤凰卫视",Aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1  group-title="凤凰卫视",BBCNews
-https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="凤凰卫视",SkyNews
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1  group-title="凤凰卫视",FoxNews
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="凤凰卫视",NtvNews24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1  group-title="凤凰卫视",EuroNews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="凤凰卫视",AustraliaChannel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1  group-title="凤凰卫视",ChannelNewsAsia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1  group-title="凤凰卫视",EnglishClub
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/271274
+#EXTINF:-1  group-title="凤凰卫视",NtvNews24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 #EXTINF:-1  group-title="NewTV",NewTV超级电影
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
 #EXTINF:-1  tvg-name="黑莓电影" group-title="NewTV",NewTV黑莓电影
