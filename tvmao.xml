@@ -15,30 +15,6 @@
 <channel id="临沂公共">
 <display-name lang="zh">临沂公共</display-name>
 </channel>
-<programme start="20220921010200 +0800" stop="20220921030600 +0800" channel="亚洲电影">
-<title lang="zh"></title>
-</programme>
-<programme start="20220921030600 +0800" stop="20220921043600 +0800" channel="亚洲电影">
-<title lang="zh"></title>
-</programme>
-<programme start="20220921043600 +0800" stop="20220921050000 +0800" channel="亚洲电影">
-<title lang="zh"></title>
-</programme>
-<programme start="20220921050000 +0800" stop="20220921061900 +0800" channel="亚洲电影">
-<title lang="zh"></title>
-</programme>
-<programme start="20220921061900 +0800" stop="20220921074500 +0800" channel="亚洲电影">
-<title lang="zh"></title>
-</programme>
-<programme start="20220921074500 +0800" stop="20220921092200 +0800" channel="亚洲电影">
-<title lang="zh"></title>
-</programme>
-<programme start="20220921092200 +0800" stop="20220921105000 +0800" channel="亚洲电影">
-<title lang="zh"></title>
-</programme>
-<programme start="20220921105000 +0800" stop="20220922010200 +0800" channel="亚洲电影">
-<title lang="zh"></title>
-</programme>
 <programme start="20220922010200 +0800" stop="20220922030600 +0800" channel="亚洲电影">
 <title lang="zh"></title>
 </programme>
@@ -60,28 +36,31 @@
 <programme start="20220922092200 +0800" stop="20220922105000 +0800" channel="亚洲电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220922105000 +0800" stop="20220922235950 +0800" channel="亚洲电影">
+<programme start="20220922105000 +0800" stop="20220923010200 +0800" channel="亚洲电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921003600 +0800" stop="20220921020400 +0800" channel="欧美电影">
+<programme start="20220923010200 +0800" stop="20220923030600 +0800" channel="亚洲电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921020400 +0800" stop="20220921042200 +0800" channel="欧美电影">
+<programme start="20220923030600 +0800" stop="20220923043600 +0800" channel="亚洲电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921042200 +0800" stop="20220921050000 +0800" channel="欧美电影">
+<programme start="20220923043600 +0800" stop="20220923050000 +0800" channel="亚洲电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921050000 +0800" stop="20220921065300 +0800" channel="欧美电影">
+<programme start="20220923050000 +0800" stop="20220923061900 +0800" channel="亚洲电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921065300 +0800" stop="20220921085300 +0800" channel="欧美电影">
+<programme start="20220923061900 +0800" stop="20220923074500 +0800" channel="亚洲电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921085300 +0800" stop="20220921110500 +0800" channel="欧美电影">
+<programme start="20220923074500 +0800" stop="20220923092200 +0800" channel="亚洲电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921110500 +0800" stop="20220922003600 +0800" channel="欧美电影">
+<programme start="20220923092200 +0800" stop="20220923105000 +0800" channel="亚洲电影">
+<title lang="zh"></title>
+</programme>
+<programme start="20220923105000 +0800" stop="20220923235950 +0800" channel="亚洲电影">
 <title lang="zh"></title>
 </programme>
 <programme start="20220922003600 +0800" stop="20220922020400 +0800" channel="欧美电影">
@@ -102,31 +81,28 @@
 <programme start="20220922085300 +0800" stop="20220922110500 +0800" channel="欧美电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220922110500 +0800" stop="20220922235950 +0800" channel="欧美电影">
+<programme start="20220922110500 +0800" stop="20220923003600 +0800" channel="欧美电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921060000 +0800" stop="20220921060500 +0800" channel="临沂综合">
+<programme start="20220923003600 +0800" stop="20220923020400 +0800" channel="欧美电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921060500 +0800" stop="20220921065500 +0800" channel="临沂综合">
+<programme start="20220923020400 +0800" stop="20220923042200 +0800" channel="欧美电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921065500 +0800" stop="20220921071500 +0800" channel="临沂综合">
+<programme start="20220923042200 +0800" stop="20220923050000 +0800" channel="欧美电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921071500 +0800" stop="20220921075500 +0800" channel="临沂综合">
+<programme start="20220923050000 +0800" stop="20220923065300 +0800" channel="欧美电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921075500 +0800" stop="20220921091500 +0800" channel="临沂综合">
+<programme start="20220923065300 +0800" stop="20220923085300 +0800" channel="欧美电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921091500 +0800" stop="20220921103500 +0800" channel="临沂综合">
+<programme start="20220923085300 +0800" stop="20220923110500 +0800" channel="欧美电影">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921103500 +0800" stop="20220921115000 +0800" channel="临沂综合">
-<title lang="zh"></title>
-</programme>
-<programme start="20220921115000 +0800" stop="20220922060000 +0800" channel="临沂综合">
+<programme start="20220923110500 +0800" stop="20220923235950 +0800" channel="欧美电影">
 <title lang="zh"></title>
 </programme>
 <programme start="20220922060000 +0800" stop="20220922060500 +0800" channel="临沂综合">
@@ -150,25 +126,31 @@
 <programme start="20220922103500 +0800" stop="20220922115000 +0800" channel="临沂综合">
 <title lang="zh"></title>
 </programme>
-<programme start="20220922115000 +0800" stop="20220922235950 +0800" channel="临沂综合">
+<programme start="20220922115000 +0800" stop="20220923060000 +0800" channel="临沂综合">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921060000 +0800" stop="20220921063300 +0800" channel="临沂农科">
+<programme start="20220923060000 +0800" stop="20220923060500 +0800" channel="临沂综合">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921063300 +0800" stop="20220921074500 +0800" channel="临沂农科">
+<programme start="20220923060500 +0800" stop="20220923065500 +0800" channel="临沂综合">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921074500 +0800" stop="20220921090000 +0800" channel="临沂农科">
+<programme start="20220923065500 +0800" stop="20220923071500 +0800" channel="临沂综合">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921090000 +0800" stop="20220921104000 +0800" channel="临沂农科">
+<programme start="20220923071500 +0800" stop="20220923075500 +0800" channel="临沂综合">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921104000 +0800" stop="20220921115000 +0800" channel="临沂农科">
+<programme start="20220923075500 +0800" stop="20220923091500 +0800" channel="临沂综合">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921115000 +0800" stop="20220922060000 +0800" channel="临沂农科">
+<programme start="20220923091500 +0800" stop="20220923103500 +0800" channel="临沂综合">
+<title lang="zh"></title>
+</programme>
+<programme start="20220923103500 +0800" stop="20220923115000 +0800" channel="临沂综合">
+<title lang="zh"></title>
+</programme>
+<programme start="20220923115000 +0800" stop="20220923235950 +0800" channel="临沂综合">
 <title lang="zh"></title>
 </programme>
 <programme start="20220922060000 +0800" stop="20220922063300 +0800" channel="临沂农科">
@@ -186,28 +168,25 @@
 <programme start="20220922104000 +0800" stop="20220922115000 +0800" channel="临沂农科">
 <title lang="zh"></title>
 </programme>
-<programme start="20220922115000 +0800" stop="20220922235950 +0800" channel="临沂农科">
+<programme start="20220922115000 +0800" stop="20220923060000 +0800" channel="临沂农科">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921060000 +0800" stop="20220921063000 +0800" channel="临沂公共">
+<programme start="20220923060000 +0800" stop="20220923063300 +0800" channel="临沂农科">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921063000 +0800" stop="20220921070000 +0800" channel="临沂公共">
+<programme start="20220923063300 +0800" stop="20220923074500 +0800" channel="临沂农科">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921070000 +0800" stop="20220921073000 +0800" channel="临沂公共">
+<programme start="20220923074500 +0800" stop="20220923090000 +0800" channel="临沂农科">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921073000 +0800" stop="20220921082200 +0800" channel="临沂公共">
+<programme start="20220923090000 +0800" stop="20220923104000 +0800" channel="临沂农科">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921082200 +0800" stop="20220921093000 +0800" channel="临沂公共">
+<programme start="20220923104000 +0800" stop="20220923115000 +0800" channel="临沂农科">
 <title lang="zh"></title>
 </programme>
-<programme start="20220921093000 +0800" stop="20220921103000 +0800" channel="临沂公共">
-<title lang="zh"></title>
-</programme>
-<programme start="20220921103000 +0800" stop="20220922060000 +0800" channel="临沂公共">
+<programme start="20220923115000 +0800" stop="20220923235950 +0800" channel="临沂农科">
 <title lang="zh"></title>
 </programme>
 <programme start="20220922060000 +0800" stop="20220922063000 +0800" channel="临沂公共">
@@ -228,7 +207,28 @@
 <programme start="20220922093000 +0800" stop="20220922103000 +0800" channel="临沂公共">
 <title lang="zh"></title>
 </programme>
-<programme start="20220922103000 +0800" stop="20220922235950 +0800" channel="临沂公共">
+<programme start="20220922103000 +0800" stop="20220923060000 +0800" channel="临沂公共">
+<title lang="zh"></title>
+</programme>
+<programme start="20220923060000 +0800" stop="20220923063000 +0800" channel="临沂公共">
+<title lang="zh"></title>
+</programme>
+<programme start="20220923063000 +0800" stop="20220923070000 +0800" channel="临沂公共">
+<title lang="zh"></title>
+</programme>
+<programme start="20220923070000 +0800" stop="20220923073000 +0800" channel="临沂公共">
+<title lang="zh"></title>
+</programme>
+<programme start="20220923073000 +0800" stop="20220923082200 +0800" channel="临沂公共">
+<title lang="zh"></title>
+</programme>
+<programme start="20220923082200 +0800" stop="20220923093000 +0800" channel="临沂公共">
+<title lang="zh"></title>
+</programme>
+<programme start="20220923093000 +0800" stop="20220923103000 +0800" channel="临沂公共">
+<title lang="zh"></title>
+</programme>
+<programme start="20220923103000 +0800" stop="20220923235950 +0800" channel="临沂公共">
 <title lang="zh"></title>
 </programme>
 </tv>
