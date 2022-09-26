@@ -231,12 +231,12 @@ http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV炫舞未来
 http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
 
-#EXTINF:-1  group-title="山东移动",欧美电影
-http://39.135.159.150:8089/PLTV/88888888/224/3221226345/index.m3u8
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
-#EXTINF:-1 group-title="山东移动",亚洲电影
-http://39.135.159.150:8089/PLTV/88888888/224/3221225844/index.m3u8
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
+##EXTINF:-1  group-title="山东移动",欧美电影
+#http://39.135.159.150:8089/PLTV/88888888/224/3221226345/index.m3u8
+#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
+##EXTINF:-1 group-title="山东移动",亚洲电影
+#http://39.135.159.150:8089/PLTV/88888888/224/3221225844/index.m3u8
+#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
 #EXTINF:-1 group-title="山东移动",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="山东移动",CHC高清电影
@@ -345,60 +345,3 @@ http://120.221.242.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_165_600_t1
 http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_151_600_t10/c55_lb_151_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺",科学探索
 http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱院线
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱悬疑
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱浪漫
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱家庭
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱都市
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱谍战
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱怀旧
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱经典
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱江湖
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱解密
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱喜剧
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱军武
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱科学
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱猎奇
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="IHOT",IHOT爱历史
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱旅行
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱美食
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱青春
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱奇谈
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱赛车
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱世界
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱时尚
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱探索
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱体育
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱玩具
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱娱乐
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IHOT",IHOT爱电竞
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=3&channel-id=wasusyt
-
-
