@@ -480,7 +480,218 @@
 //{"key":"嘛哩嘛哩","name":"嘛哩嘛哩(聚)","type":1,"api":"https://malimali3.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫"]},
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1}
 ],
-
+#PY接口
+{
+            "key": "py_ali",
+            "name": "py_ali(Pyramid)",
+            "type": 3,
+            "api": "py_ali",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_ali.py"
+        },
+        {
+            "key": "py_alist",
+            "name": "py_alist(Pyramid)",
+            "type": 3,
+            "api": "py_alist",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_alist.py"
+        },
+        {
+            "key": "py_bilibili",
+            "name": "py_bilibili(Pyramid)",
+            "type": 3,
+            "api": "py_bilibili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_bilibili.py"
+        },
+        {
+            "key": "py_bilimd",
+            "name": "py_bilimd(Pyramid)",
+            "type": 3,
+            "api": "py_bilimd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_bilimd.py"
+        },
+        {
+            "key": "py_bilivd",
+            "name": "py_bilivd(Pyramid)",
+            "type": 3,
+            "api": "py_bilivd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_bilivd.py"
+        },
+        {
+            "key": "py_cctv",
+            "name": "py_cctv(Pyramid)",
+            "type": 3,
+            "api": "py_cctv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_cctv.py"
+        },
+        {
+            "key": "py_cokemv",
+            "name": "py_cokemv(Pyramid)",
+            "type": 3,
+            "api": "py_cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_cokemv.py"
+        },
+        {
+            "key": "py_czspp",
+            "name": "py_czspp(Pyramid)",
+            "type": 3,
+            "api": "py_czspp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_czspp.py"
+        },
+        {
+            "key": "py_douyu",
+            "name": "py_douyu(Pyramid)",
+            "type": 3,
+            "api": "py_douyu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_douyu.py"
+        },
+        {
+            "key": "py_genmov",
+            "name": "py_genmov(Pyramid)",
+            "type": 3,
+            "api": "py_genmov",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_genmov.py"
+        },
+        {
+            "key": "py_gimytv",
+            "name": "py_gimytv(Pyramid)",
+            "type": 3,
+            "api": "py_gimytv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_gimytv.py"
+        },
+        {
+            "key": "py_gitcafe",
+            "name": "py_gitcafe(Pyramid)",
+            "type": 3,
+            "api": "py_gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_gitcafe.py"
+        },
+        {
+            "key": "py_huya",
+            "name": "py_huya(Pyramid)",
+            "type": 3,
+            "api": "py_huya",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_huya.py"
+        },
+        {
+            "key": "py_kuaikan",
+            "name": "py_kuaikan(Pyramid)",
+            "type": 3,
+            "api": "py_kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_kuaikan.py"
+        },
+        {
+            "key": "py_kunyu77",
+            "name": "py_kunyu77(Pyramid)",
+            "type": 3,
+            "api": "py_kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_kunyu77.py"
+        },
+        {
+            "key": "py_pansou",
+            "name": "py_pansou(Pyramid)",
+            "type": 3,
+            "api": "py_pansou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_pansou.py"
+        },
+        {
+            "key": "py_voflix",
+            "name": "py_voflix(Pyramid)",
+            "type": 3,
+            "api": "py_voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_voflix.py"
+        },
+        {
+            "key": "py_xmaomi",
+            "name": "py_xmaomi(Pyramid)",
+            "type": 3,
+            "api": "py_xmaomi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_xmaomi.py"
+        },
+        {
+            "key": "py_yiso",
+            "name": "py_yiso(Pyramid)",
+            "type": 3,
+            "api": "py_yiso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_yiso.py"
+        },
+        {
+            "key": "py_zhaozy",
+            "name": "py_zhaozy(Pyramid)",
+            "type": 3,
+            "api": "py_zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_zhaozy.py"
+        },
+        {
+            "key": "py_zxzj",
+            "name": "py_zxzj(Pyramid)",
+            "type": 3,
+            "api": "py_zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cms.nokia.press/txt/py/py_zxzj.py"
+        },
+#
 /*-----------------------解析-----------------------*/
 "parses":[
 {"name":"自动解析","type":3,"url":"Demo"},
