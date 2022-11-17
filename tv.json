@@ -4,7 +4,6 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]}]}],
 "sites":[
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_hbys","name":"🌐简影","api":"csp_JianYing","type":3,"filterable":0,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4OTMzOTg1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.XS8N8Q01_7TaoMGS_Y2phW8a-lZIVA8b7Bbsoq90EMY"},
 {"key":"csp_剧荒","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"293视频","name":"🥇293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
@@ -32,19 +31,18 @@
  {"key":"csp_Dy1010", "name":"❤️双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Dy555","name":"🔥三五电影","type":3,"api":"csp_Dy555" ,"filterable":1,"quickSearch":1,"searchable":1},
-{"key": "dr_18av", "name": "18av(道长)", "type": 1, "api": "https://spdr.moonlightfish.repl.co/vod?rule=18av&ext=txt/js/18/18av.js", "searchable": 2,"quickSearch": 0,"filterable": 0},
-
 
 {"key":"神马影院","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_AppTT","name":"🐰tutu(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"💥bidi(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{ "key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/q284855646/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
+
 {"key":"csp_QQ","name":"🐧腾讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_MGTV","name":"🥭芒果（官）","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_IQIYI","name":"🥝爱奇艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key": "csp_Yj1211","name": "📽️直播合集","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"mjxq_spider","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小熊","name":"🧸小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1}, 
+{ "key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/q284855646/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 {"key":"哔哩哔哩","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitea.com/fenwe/TVBox/raw/branch/main/sub/Bili.json"},
 {"key":"儿童乐园","name":"🅱儿童乐园","type":3,"api":"csp_Bili" ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/gxwz911/box/-/raw/master/Json/儿童乐园.json"},
 {"key":"学习课堂","name":"🅱学习课堂","type":3,"api":"csp_Bili" ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/gxwz911/box/-/raw/master/Json/学习课堂.json"},
@@ -486,39 +484,33 @@
 //{"key":"嘛哩嘛哩","name":"嘛哩嘛哩(聚)","type":1,"api":"https://malimali3.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫"]},
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 
-##PY接口
+###PY爬虫
 
-        {
-            "key": "py_alist",
-            "name": "py_alist(Pyramid)",
-            "type": 3,
-            "api": "py_alist",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/heroaku/TVbox/raw/branch/main/Js/alist.py"
-        },
-
-        {
-            "key": "py_cctv",
-            "name": "py_cctv(Pyramid)",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_cctv.py"
-        },
-        {
-            "key": "py_cokemv",
-            "name": "py_cokemv(Pyramid)",
-            "type": 3,
-            "api": "py_cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/heroaku/TVbox/raw/branch/main/Js/cokemv.py"
-        },
+{"key":"py_yixi","name":"🃏一席(PY)","type":3,"api":"py_yixi","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_yixi.py"},
+{"key":"py_libvio","name":"🃏Libvio(PY)","type":3,"api":"py_libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_libvio.py"},
+{"key":"py_qie","name":"🃏QE体育(PY)","type":3,"api":"py_qie","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_qie.py"},
+{"key":"py_lezhu","name":"🃏乐猪影视(PY)","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_lezhu.py"},
+{"key":"py_star","name":"🃏星光影视(PY)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_star.py"},
+{"key":"py_kuyun77","name":"🃏酷云77(PY)","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_kunyu77.py"},
+{"key":"py_3qu","name":"🃏快播影视(PY)","type":3,"api":"py_3qu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_3qu.py"},
+{"key":"py_zxzj","name":"🃏在线之家(PY)","type":3,"api":"py_zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_zxzj.py"},
+{"key":"py_bili","name":"🃏哔哩哔哩(PY)","type":3,"api":"py_bilibili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_bilibili.py"},
+{"key":"py_zxzj","name":"🃏在线之家(PY)","type":3,"api":"py_zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_zxzj.py"},
+{"key":"py_voflix","name":"🃏Voflix(PY)","type":3,"api":"py_voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_voflix.py"},
+{"key":"py_gimytv","name":"🃏GimyTV(PY)","type":3,"api":"py_gimytv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_gimytv.py"},
+{"key":"py_genmov","name":"🃏跟剧(PY)","type":3,"api":"py_genmov","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_genmov.py"},
+{"key":"py_cokemv","name":"🃏COKEMV(PY)","type":3,"api":"py_cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_cokemv.py"},
+{"key":"py_cctv_full","name":"🃏央视栏目(PY)","type":3,"api":"py_cctv_full","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_cctv_full.py"},
+{"key":"py_czspp","name":"🃏厂长资源(PY)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_czspp.py"},
+{"key":"py_cyys","name":"🃏创意影视(PY)","type":3,"api":"py_cyys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_cyys.py"},
+{"key":"py_xmaomi","name":"🃏猫咪影视(PY)","type":3,"api":"py_xmaomi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_xmaomi.py"},
+{"key":"py_jubaibai","name":"🃏剧白白(PY)","type":3,"api":"py_jubaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_jubaibai.py"},
+{"key":"py_555dy","name":"🃏555影视(PY)","type":3,"api":"py_555dy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_555dy.py"},
+{"key":"py_gitcafe","name":"🃏小纸条(PY)","type":3,"api":"py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_gitcafe.py"},
+{"key":"py_zhaozy","name":"🃏找资源(PY)","type":3,"api":"py_zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_zhaozy.py"},
+{"key":"py_yiso","name":"🃏易搜(PY)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_yiso.py"},
+{"key":"py_pansou","name":"🃏盘搜(PY)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_pansou.py"},
+{"key":"py_ali","name":"🃏推送","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_ali.py"},
 
        {
             "key": "dr_18av",
