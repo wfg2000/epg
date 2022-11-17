@@ -32,6 +32,7 @@
  {"key":"csp_Dy1010", "name":"❤️双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Dy555","name":"🔥三五电影","type":3,"api":"csp_Dy555" ,"filterable":1,"quickSearch":1,"searchable":1},
+{"key": "dr_18av", "name": "18av(道长)", "type": 1, "api": "https://spdr.moonlightfish.repl.co/vod?rule=18av&ext=txt/js/18/18av.js", "searchable": 2,"quickSearch": 0,"filterable": 0},
 
 
 {"key":"神马影院","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1}, 
@@ -486,7 +487,7 @@
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 
 ##PY接口
-{
+        {
             "key": "py_ali",
             "name": "py_ali(Pyramid)",
             "type": 3,
@@ -494,7 +495,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_ali.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_ali.py"
         },
         {
             "key": "py_alist",
@@ -504,7 +505,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_alist.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_alist.py"
         },
         {
             "key": "py_bilibili",
@@ -514,7 +515,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_bilibili.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_bilibili.py"
         },
         {
             "key": "py_bilimd",
@@ -524,7 +525,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_bilimd.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_bilimd.py"
         },
         {
             "key": "py_bilivd",
@@ -534,7 +535,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_bilivd.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_bilivd.py"
         },
         {
             "key": "py_cctv",
@@ -544,7 +545,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_cctv.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_cctv.py"
         },
         {
             "key": "py_cokemv",
@@ -554,7 +555,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_cokemv.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_cokemv.py"
         },
         {
             "key": "py_czspp",
@@ -564,7 +565,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_czspp.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_czspp.py"
         },
         {
             "key": "py_douyu",
@@ -574,7 +575,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_douyu.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_douyu.py"
         },
         {
             "key": "py_genmov",
@@ -584,7 +585,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_genmov.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_genmov.py"
         },
         {
             "key": "py_gimytv",
@@ -594,7 +595,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_gimytv.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_gimytv.py"
         },
         {
             "key": "py_gitcafe",
@@ -604,7 +605,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_gitcafe.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_gitcafe.py"
         },
         {
             "key": "py_huya",
@@ -614,7 +615,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_huya.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_huya.py"
         },
         {
             "key": "py_kuaikan",
@@ -624,7 +625,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_kuaikan.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_kuaikan.py"
         },
         {
             "key": "py_kunyu77",
@@ -634,7 +635,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_kunyu77.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_kunyu77.py"
         },
         {
             "key": "py_pansou",
@@ -644,7 +645,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_pansou.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_pansou.py"
         },
         {
             "key": "py_voflix",
@@ -654,7 +655,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_voflix.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_voflix.py"
         },
         {
             "key": "py_xmaomi",
@@ -664,7 +665,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_xmaomi.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_xmaomi.py"
         },
         {
             "key": "py_yiso",
@@ -674,7 +675,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_yiso.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_yiso.py"
         },
         {
             "key": "py_zhaozy",
@@ -684,7 +685,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_zhaozy.py"
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_zhaozy.py"
         },
         {
             "key": "py_zxzj",
@@ -694,8 +695,78 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_zxzj.py"
-        }
+            "ext": "https://spdr.moonlightfish.repl.co/txt/py/py_zxzj.py"
+        },
+       {
+            "key": "dr_18av",
+            "name": "18av(道长)",
+            "type": 1,
+            "api": "https://spdr.moonlightfish.repl.co/vod?rule=18av&ext=txt/js/18/18av.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "dr_banan",
+            "name": "banan(道长)",
+            "type": 1,
+            "api": "https://spdr.moonlightfish.repl.co/vod?rule=banan&ext=txt/js/18/banan.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "dr_Missav",
+            "name": "Missav(道长)",
+            "type": 1,
+            "api": "https://spdr.moonlightfish.repl.co/vod?rule=Missav&ext=txt/js/18/Missav.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "dr_养端",
+            "name": "养端(道长)",
+            "type": 1,
+            "api": "https://spdr.moonlightfish.repl.co/vod?rule=养端&ext=txt/js/18/养端.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "dr_吸瓜",
+            "name": "吸瓜(道长)",
+            "type": 1,
+            "api": "https://spdr.moonlightfish.repl.co/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "dr_朱古力",
+            "name": "朱古力(道长)",
+            "type": 1,
+            "api": "https://spdr.moonlightfish.repl.co/vod?rule=朱古力&ext=txt/js/18/朱古力.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "dr_玩偶姐姐",
+            "name": "玩偶姐姐(道长)",
+            "type": 1,
+            "api": "https://spdr.moonlightfish.repl.co/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "name": "🦀9T(Adult)",
+            "server": "https://drive.9t.ee",
+            "type": "alist"
+        },
+
+
 
 ],
 
