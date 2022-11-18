@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://wfg2000.github.io/epg/jar/xzy.jar",
+"spider":"https://wfg2000.github.io/epg/jar/xo.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]}]}],
 "sites":[
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -51,7 +51,6 @@
 {"key":"学习课堂","name":"🅱学习课堂","type":3,"api":"csp_Bili" ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Tvbox123/TVbox-4/raw/branch/master/sites/ 🐯学习园地.json"},
 {"key":"音乐演唱","name":"🅱音乐演唱","type":3,"api":"csp_Bili" ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Tvbox123/TVbox-4/raw/branch/master/sites/🎤音乐现场.json"},
 {"key":"戏曲杂苑","name":"🅱戏曲杂苑","type":3,"api":"csp_Bili" ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Tvbox123/TVbox-4/raw/branch/master/sites/👘戏曲合集.json"},
-{"key":"相声小品","name":"🅱相声小品","type":3,"api":"csp_Bili" ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Tvbox123/TVbox-4/raw/branch/master/sites/相声小品.json"},
 {"key":"女团热舞","name":"🅱女团热舞","type":3,"api":"csp_Bili" ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Tvbox123/TVbox-4/raw/branch/master/sites/💃女团热舞.json"},
 {"key":"美食天地","name":"🅱美食天地","type":3,"api":"csp_Bili" ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Tvbox123/TVbox-4/raw/branch/master/sites/ 🍔美食合集.json"},
 {"key":"美女集结","name":"🅱美女集结","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext": "https://wfg2000.github.io/epg/jar/美女MV.txt"},
