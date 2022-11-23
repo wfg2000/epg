@@ -20,7 +20,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
 http://39.135.159.150:8089/PLTV/88888888/224/3221225753/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8.
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8
 http://39.135.159.150:8089/PLTV/88888888/224/3221226429/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV9
@@ -45,7 +45,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 http://39.135.159.150:8089/PLTV/88888888/224/3221226409/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV16
-http://live.cooltv.top/aishang.php?id=cctv164k
+https://live.cooltv.top/aishang.php?id=cctv164k
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000364/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 http://39.135.159.150:8089/PLTV/88888888/224/3221226093/index.m3u8
