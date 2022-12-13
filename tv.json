@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://wfg2000.github.io/epg/jar/xo.jar",
+"spider":"https://wfg2000.github.io/epg/jar/vic.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]}]}],
 "sites":[
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -30,7 +30,7 @@
  {"key": "csp_Nkdy","name": "🎨南柯电影","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
  {"key":"csp_Dy1010", "name":"❤️双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"csp_Dy555","name":"🔥三五电影","type":3,"api":"csp_Dy555" ,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_Dy555","name":"🔥三五电影","type":3,"api":"csp_Dy555" ,"filterable":1,"quickSearch":1,"searchable":1},
 
 {"key":"神马影院","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_AppTT","name":"🐰tutu(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
