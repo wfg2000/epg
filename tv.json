@@ -181,7 +181,9 @@
 
 {"key":"drpy_兰花影院","name":"📁兰花影院(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.ym.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/兰花影院.js"},
 
-{"key":"drpy_猫了个咪","name":"🔮猫了个咪(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.ym.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/猫了个咪.js"},
+{"key":"drpy_猫了个咪","name":"🔮猫了个咪(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.ym.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/py/猫了个咪一级.js"},
+
+{"key":"drpy_学生直播","name":"🔮学生直播(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.ym.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/py/学生直播一级.js"},
 
 #三方聚合
 {"key":"爱兜视频","name":"🎬爱兜视频(聚)","type":1,"api":"http://id190.tpddns.cn:81/mogai_api.php/provide/vod/","searchable":1,"quickSearch":1},
