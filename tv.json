@@ -185,6 +185,8 @@
 
 {"key":"drpy_学生直播","name":"🔮学生直播(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.ym.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/py/学生直播一级.js"},
 
+{"key":"drpy_吸瓜","name":"🔮吸瓜(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.ym.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/%e5%90%b8%e7%93%9c.js"},
+
 #三方聚合
 {"key":"爱兜视频","name":"🎬爱兜视频(聚)","type":1,"api":"http://id190.tpddns.cn:81/mogai_api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"电视家","name":"🎬电视家(聚)","type":1,"api":"http://mytvhome.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
