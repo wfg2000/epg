@@ -5,13 +5,10 @@
 "sites":[
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"☄️蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_剧荒","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_AppTT","name":"🖼️图图影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788/"},
-//{"key":"293视频","name":"🥇293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍏小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"追剧喵","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -29,15 +26,12 @@
 {"key":"csp_Tkys","name":"🥇天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo" ,"name":"✌两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
-//{"key": "9E03","name": "🥇9E国语","type": 3,"api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key": "csp_Ysgc","name": "🎥影视工厂","type": 3,"api": "csp_Ysgc","searchable": 1,"quickSearch": 1,"filterable": 1},
  {"key": "csp_Nkdy","name": "🎨南柯电影","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
  {"key":"csp_Dy1010", "name":"❤️双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"csp_剧荒","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Dy555","name":"🔥三五电影","type":3,"api":"csp_Dy555" ,"filterable":1,"quickSearch":1,"searchable":1},
-
 {"key":"神马影院","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key":"csp_AppTT","name":"🐰tutu(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"💥bidi(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Yj1211","name": "📽️直播合集","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"mjxq_spider","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
@@ -183,9 +177,6 @@
 
 {"key":"drpy_猫了个咪","name":"🔮猫了个咪(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.ym.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/猫了个咪.js"},
 
-{"key":"drpy_学生直播","name":"🔮学生直播(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.ym.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/py/学生直播一级.js"},
-
-{"key":"drpy_吸瓜","name":"🔮吸瓜(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.ym.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/heroaku/TVbox/raw/branch/main/Js/%e5%90%b8%e7%93%9c.js"},
 
 #三方聚合
 {"key":"爱兜视频","name":"🎬爱兜视频(聚)","type":1,"api":"http://id190.tpddns.cn:81/mogai_api.php/provide/vod/","searchable":1,"quickSearch":1},
