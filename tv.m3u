@@ -163,38 +163,113 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",海南卫视
 http://39.135.159.150:8089/PLTV/88888888/224/3221226325/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="凤凰卫视",凤凰中文
+
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="凤凰卫视",凤凰资讯
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1  group-title="凤凰卫视",NEWSMAX
+#EXTINF:-1  group-title="全球直播",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1  group-title="凤凰卫视",Aljazeera
+#EXTINF:-1  group-title="全球直播",Aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1  group-title="凤凰卫视",SkyNews
+#EXTINF:-1  group-title="全球直播",SkyNews
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1  group-title="凤凰卫视",NBCNews
+#EXTINF:-1  group-title="全球直播",NBCNews
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1  group-title="凤凰卫视",CNNNews
+#EXTINF:-1  group-title="全球直播",CNNNews
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="凤凰卫视",FoxNews
+#EXTINF:-1  group-title="全球直播",FoxNews
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="凤凰卫视",EuroNews
+#EXTINF:-1  group-title="全球直播",EuroNews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="凤凰卫视",ChannelNewsAsia
+#EXTINF:-1  group-title="全球直播",ChannelNewsAsia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1  group-title="凤凰卫视",NtvNews24
+#EXTINF:-1  group-title="全球直播",NtvNews24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1  group-title="凤凰卫视",NASA
+#EXTINF:-1  group-title="全球直播",NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1  group-title="凤凰卫视",TimeLine
+#EXTINF:-1  group-title="全球直播",TimeLine
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="凤凰卫视",GinWild
+#EXTINF:-1  group-title="全球直播",GinWild
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  group-title="电影轮播",欧美电影
+http://111.11.123.33:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
+http://39.135.159.150:8089/PLTV/88888888/224/3221226345/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
+#EXTINF:-1 group-title="电影轮播",亚洲电影
+http://111.11.123.33:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
+http://39.135.159.150:8089/PLTV/88888888/224/3221225844/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
+#EXTINF:-1 group-title="电影轮播",每日影院
+http://r.jdshipin.com/sE5vO
+http://beifeng.site:4000/udp/239.3.1.111:8001
+#EXTINF:-1 group-title="电影轮播",西片影院
+http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
+#EXTINF:-1 group-title="电影轮播",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="电影轮播",华数4K
+http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
+#EXTINF:-1 group-title="电影轮播",4K影视
+http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 group-title="电影轮播",斗鱼4K
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="电影轮播",华语影院
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="电影轮播",星光影院
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="电影轮播",全球大片
+http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="电影轮播",高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 group-title="电影轮播",动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="电影轮播",家庭电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 group-title="电影轮播",成龙影院
+http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
+#EXTINF:-1 group-title="电影轮播",周润发影院
+http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+#EXTINF:-1  group-title="电影轮播",金庸频道
+http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+#EXTINF:-1 group-title="电影轮播",刘德华影院
+http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+#EXTINF:-1 group-title="电影轮播",周星驰影院
+http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+#EXTINF:-1 group-title="电影轮播",郭富城影院
+http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+#EXTINF:-1 group-title="电影轮播",李连杰影院
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+
+
+#EXTINF:-1 group-title="爱奇艺",票房收割
+http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",收视冠军
+http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",周末影院
+http://111.19.218.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",温情影院
+http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",五星影院
+http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",历史秘闻
+http://120.221.77.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",人文社会
+http://120.221.77.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c56_lb_243_600_t10/c56_lb_243_600_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",军事观察
+http://120.221.77.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",文化奇谈
+http://120.221.242.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_165_600_t10/c55_lb_165_600_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",奇妙世界
+http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_151_600_t10/c55_lb_151_600_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",科学探索
+http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8
+
 
 #EXTINF:-1  group-title="NewTV",NewTV超级电影
 http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
@@ -243,101 +318,3 @@ http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV炫舞未来
 http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
 
-#EXTINF:-1  group-title="山东移动",欧美电影
-http://111.11.123.33:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
-http://39.135.159.150:8089/PLTV/88888888/224/3221226345/index.m3u8
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
-#EXTINF:-1 group-title="山东移动",亚洲电影
-http://111.11.123.33:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-http://39.135.159.150:8089/PLTV/88888888/224/3221225844/index.m3u8
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
-#EXTINF:-1 group-title="山东移动",每日影院
-http://r.jdshipin.com/sE5vO
-http://beifeng.site:4000/udp/239.3.1.111:8001
-#EXTINF:-1 group-title="山东移动",西片影院
-http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
-#EXTINF:-1 group-title="山东移动",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="山东移动",华数4K
-http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
-#EXTINF:-1 group-title="山东移动",4K影视
-http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="山东移动",斗鱼4K
-http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 group-title="山东移动",CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="山东移动",CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="山东移动",CHC家庭电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://epg.112114.xyz/logo/上视外语.png" group-title="山东移动",上视外语
-http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="山东移动",华语影院
-http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="山东移动",星光影院
-http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="山东移动",全球大片
-http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-
-
-#EXTINF:-1  group-title="咪咕虎牙",新片放映
-http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
-#EXTINF:-1  group-title="咪咕虎牙",科幻电影
-http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
-#EXTINF:-1 group-title="咪咕虎牙",经典贺岁
-http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
-#EXTINF:-1  group-title="咪咕虎牙",云上电影
-http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1  group-title="咪咕虎牙",喜剧联盟
-http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
-#EXTINF:-1  group-title="咪咕虎牙",怀旧老片
-http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-#EXTINF:-1 group-title="咪咕虎牙",失眠剧场
-http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
-#EXTINF:-1 group-title="咪咕虎牙",高能烧脑
-http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
-#EXTINF:-1 group-title="咪咕虎牙",盗墓方法
-http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
-#EXTINF:-1  group-title="咪咕虎牙",试胆大会
-http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
-#EXTINF:-1  group-title="咪咕虎牙",追剧少女
-http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-
-#EXTINF:-1 group-title="咪咕虎牙",成龙影院
-http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
-#EXTINF:-1 group-title="咪咕虎牙",周润发影院
-http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
-#EXTINF:-1  group-title="咪咕虎牙",金庸频道
-http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
-#EXTINF:-1 group-title="咪咕虎牙",刘德华影院
-http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
-#EXTINF:-1 group-title="咪咕虎牙",周星驰影院
-http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
-#EXTINF:-1 group-title="咪咕虎牙",郭富城影院
-http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
-#EXTINF:-1 group-title="咪咕虎牙",李连杰影院
-http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-
-
-#EXTINF:-1 group-title="爱奇艺",票房收割
-http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",收视冠军
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",周末影院
-http://111.19.218.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",温情影院
-http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",五星影院
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",历史秘闻
-http://120.221.77.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",人文社会
-http://120.221.77.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c56_lb_243_600_t10/c56_lb_243_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",军事观察
-http://120.221.77.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",文化奇谈
-http://120.221.242.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_165_600_t10/c55_lb_165_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",奇妙世界
-http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_151_600_t10/c55_lb_151_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",科学探索
-http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8
