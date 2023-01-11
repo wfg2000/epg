@@ -199,13 +199,13 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  group-title="电影轮播",欧美电影
+http://111.40.196.28/0000000000001000/1.m3u8?Contentid=7185203501769528108&livemode=1&stbId=1213&channel-id=wasusyt
 http://111.11.123.33:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
-http://39.135.159.150:8089/PLTV/88888888/224/3221226345/index.m3u8
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
+
 #EXTINF:-1 group-title="电影轮播",亚洲电影
+http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5841816227539527643&livemode=1&stbId=1213&channel-id=wasusyt
 http://111.11.123.33:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-http://39.135.159.150:8089/PLTV/88888888/224/3221225844/index.m3u8
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
+
 #EXTINF:-1 group-title="电影轮播",每日影院
 http://r.jdshipin.com/sE5vO
 http://beifeng.site:4000/udp/239.3.1.111:8001
@@ -219,17 +219,12 @@ http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livem
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 group-title="电影轮播",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="电影轮播",华语影院
-http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="电影轮播",星光影院
-http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="电影轮播",全球大片
-http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="电影轮播",高清电影
+
+#EXTINF:-1  tvg-name="CHC高清电影" group-title="电影轮播",高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="电影轮播",动作电影
+#EXTINF:-1  tvg-name="CHC动作电影" group-title="电影轮播",动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="电影轮播",家庭电影
+#EXTINF:-1  tvg-name="CHC家庭电影" group-title="电影轮播",家庭电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 group-title="电影轮播",成龙影院
 http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
