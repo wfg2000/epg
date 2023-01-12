@@ -213,13 +213,20 @@ http://beifeng.site:4000/udp/239.3.1.111:8001
 http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="电影轮播",华数4K
-http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
+#EXTINF:-1 group-title="电影轮播",华语影院
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="电影轮播",星光影院
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="电影轮播",全球大片
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="电影轮播",4K超高清电影
+http://r.jdshipin.com/5DWJk
 #EXTINF:-1 group-title="电影轮播",4K影视
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 group-title="电影轮播",华数4K
+http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
 #EXTINF:-1 group-title="电影轮播",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
-
 #EXTINF:-1  tvg-name="CHC高清电影" group-title="电影轮播",高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1  tvg-name="CHC动作电影" group-title="电影轮播",动作电影
