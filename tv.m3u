@@ -276,22 +276,22 @@ http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t1
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺",收视冠军
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",周末影院
-http://lvbaiducdncmn.inter.iqiyi.com//tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",温情影院
-http://lvbaiducdncmn.inter.iqiyi.com//tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8
+##EXTINF:-1 group-title="爱奇艺",周末影院
+##http://lvbaiducdncmn.inter.iqiyi.com//tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
+##EXTINF:-1 group-title="爱奇艺",温情影院
+##http://lvbaiducdncmn.inter.iqiyi.com//tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺",历史秘闻
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",人文社会
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_243_600_t10/c56_lb_243_600_t10.m3u8
+##EXTINF:-1 group-title="爱奇艺",人文社会
+##http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_243_600_t10/c56_lb_243_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺",军事观察
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺",文化奇谈
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_165_600_t10/c55_lb_165_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",奇妙世界
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_151_600_t10/c55_lb_151_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺",科学探索
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8
+##EXTINF:-1 group-title="爱奇艺",奇妙世界
+##http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_151_600_t10/c55_lb_151_600_t10.m3u8
+##EXTINF:-1 group-title="爱奇艺",科学探索
+##http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8
 
 
 
