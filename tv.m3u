@@ -59,6 +59,41 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 http://39.135.159.150:8089/PLTV/88888888/224/3221226320/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
 
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV第一剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV风云剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV怀旧剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV风云音乐
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV女性时尚
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV兵器科技
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV文化精品
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV世界地理
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV央视台球
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV高尔夫网球
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV风云足球
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV电视指南
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道" tvg-name="SITV欢笑剧场",欢笑剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道" tvg-name="SiTV都市剧场",都市剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226581/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道" tvg-name="SiTV极速汽车",极速汽车
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226583/index.m3u8
+#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道" tvg-name="SiTV全纪实",全纪实
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226580/index.m3u8
+
+
+
 #EXTINF:-1  tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="山东频道",山东卫视
 http://39.135.159.150:8089/PLTV/88888888/224/3221226144/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
@@ -192,7 +227,7 @@ http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-27
 http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播",李连杰影院
 http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-#EXTINF:-1  group-title="电影轮播",金庸频道
+#EXTINF:-1  group-title="电影轮播",金庸系列
 http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影轮播",警匪系列
 http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
@@ -213,12 +248,13 @@ http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-27
 http://r.jdshipin.com/5DWJk
 #EXTINF:-1 group-title="电影轮播",4K影视
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="电影轮播",华数4K
+#EXTINF:-1 group-title="电影轮播",华数高清
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
 #EXTINF:-1 group-title="电影轮播",精品剧场
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=8230197131234717902&livemode=1&stbId=1213&channel-id=wasusyt
 #EXTINF:-1 group-title="电影轮播",风尚音乐
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5529729098703832176&livemode=1&stbId=1213&channel-id=wasusyt
+
 
 
 #EXTINF:-1  group-title="NewTV",NewTV超级电影
