@@ -83,14 +83,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-name="CGTN"  group-title="央视频道",CCTV电视指南
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道" tvg-name="SITV欢笑剧场",欢笑剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u
-#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道" tvg-name="SiTV都市剧场",都市剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226581/index.m3u8
-#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道" tvg-name="SiTV极速汽车",极速汽车
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226583/index.m3u8
-#EXTINF:-1 tvg-name="CGTN"  group-title="央视频道" tvg-name="SiTV全纪实",全纪实
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226580/index.m3u8
+
 
 
 
@@ -205,6 +198,8 @@ http://111.11.123.33:6610/000000001000/7185203501769528108/index.m3u8?channel-id
 #EXTINF:-1 group-title="电影轮播",亚洲电影
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5841816227539527643&livemode=1&stbId=1213&channel-id=wasusyt
 http://111.11.123.33:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
+#EXTINF:-1 group-title="电影轮播",华数高清
+http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
 #EXTINF:-1 group-title="电影轮播",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="电影轮播",西片影院
@@ -248,8 +243,7 @@ http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-27
 http://r.jdshipin.com/5DWJk
 #EXTINF:-1 group-title="电影轮播",4K测试
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="电影轮播",华数高清
-http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
+
 #EXTINF:-1 group-title="电影轮播",精品剧场
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=8230197131234717902&livemode=1&stbId=1213&channel-id=wasusyt
 #EXTINF:-1 group-title="电影轮播",风尚音乐
