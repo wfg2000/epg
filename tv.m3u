@@ -294,10 +294,8 @@ http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c51_lb_108_720P_t1
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1  group-title="全球直播",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1  group-title="全球直播",Aljazeera
@@ -305,18 +303,18 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1  group-title="全球直播",SkyNews
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1  group-title="全球直播",NBCNews
+#EXTINF:-1  group-title="全球直播" tvg-name="NBC",NBCNews
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1  group-title="全球直播",CNNNews
+#EXTINF:-1  group-title="全球直播" tvg-name="CNN",CNNNews
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="全球直播",FoxNews
+#EXTINF:-1  group-title="全球直播" tvg-name="FOX",FoxNews
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="全球直播",EuroNews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="全球直播",ChannelNewsAsia
+#EXTINF:-1  group-title="全球直播" tvg-name="CNA",ChannelNewsAsia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1  group-title="全球直播",NtvNews24
+#EXTINF:-1  group-title="全球直播" tvg-name="NTV",NtvNews24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1  group-title="全球直播",NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
