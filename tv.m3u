@@ -200,8 +200,8 @@ http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5841816227539527643&livem
 http://111.11.123.33:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 #EXTINF:-1 group-title="电影轮播",华数高清
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
-#EXTINF:-1 group-title="电影轮播",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+##EXTINF:-1 group-title="电影轮播",金马影院
+##http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="电影轮播",西片影院
 http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
 #EXTINF:-1  tvg-name="CHC高清电影" group-title="电影轮播",CHC高清电影
@@ -210,20 +210,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1  tvg-name="CHC家庭电影" group-title="电影轮播",CHC家庭电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="电影轮播",成龙影院
-http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",周润发影院
-http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",刘德华影院
-http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",周星驰影院
-http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",郭富城影院
-http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",李连杰影院
-http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-#EXTINF:-1  group-title="电影轮播",金庸系列
-http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+
 #EXTINF:-1  group-title="电影轮播",警匪系列
 http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影轮播",中国功夫
@@ -238,16 +225,29 @@ http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-28
 http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
 #EXTINF:-1  group-title="电影轮播",女神系列
 http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
-
+#EXTINF:-1 group-title="电影轮播",成龙影院
+http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
+#EXTINF:-1 group-title="电影轮播",周润发影院
+http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+#EXTINF:-1 group-title="电影轮播",刘德华影院
+http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+#EXTINF:-1 group-title="电影轮播",周星驰影院
+http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+#EXTINF:-1 group-title="电影轮播",郭富城影院
+http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+#EXTINF:-1 group-title="电影轮播",李连杰影院
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+#EXTINF:-1  group-title="电影轮播",金庸系列
+http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播",4K超高清
 http://r.jdshipin.com/5DWJk
 #EXTINF:-1 group-title="电影轮播",4K测试
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 
-#EXTINF:-1 group-title="电影轮播",精品剧场
-http://111.40.196.28/0000000000001000/1.m3u8?Contentid=8230197131234717902&livemode=1&stbId=1213&channel-id=wasusyt
-#EXTINF:-1 group-title="电影轮播",风尚音乐
-http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5529729098703832176&livemode=1&stbId=1213&channel-id=wasusyt
+##EXTINF:-1 group-title="电影轮播",精品剧场
+##http://111.40.196.28/0000000000001000/1.m3u8?Contentid=8230197131234717902&livemode=1&stbId=1213&channel-id=wasusyt
+##EXTINF:-1 group-title="电影轮播",风尚音乐
+##http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5529729098703832176&livemode=1&stbId=1213&channel-id=wasusyt
 
 
 
