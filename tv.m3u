@@ -59,29 +59,29 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 http://39.135.159.150:8089/PLTV/88888888/224/3221226320/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
 
-#EXTINF:-1   group-title="央视频道",CCTV第一剧场
+#EXTINF:-1  tvg-name="第一剧场" group-title="央视频道",CCTV第一剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1   group-title="央视频道",CCTV风云剧场
+#EXTINF:-1  tvg-name="风云剧场" group-title="央视频道",CCTV风云剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1  group-title="央视频道",CCTV怀旧剧场
+#EXTINF:-1  tvg-name="怀旧剧场" group-title="央视频道",CCTV怀旧剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1   group-title="央视频道",CCTV风云音乐
+#EXTINF:-1  tvg-name="风云音乐" group-title="央视频道",CCTV风云音乐
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1   group-title="央视频道",CCTV女性时尚
+#EXTINF:-1  tvg-name="女性时尚" group-title="央视频道",CCTV女性时尚
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1   group-title="央视频道",CCTV兵器科技
+#EXTINF:-1  tvg-name="兵器科技" group-title="央视频道",CCTV兵器科技
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1   group-title="央视频道",CCTV文化精品
+#EXTINF:-1  tvg-name="文化精品" group-title="央视频道",CCTV文化精品
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1   group-title="央视频道",CCTV世界地理
+#EXTINF:-1  tvg-name="世界地理" group-title="央视频道",CCTV世界地理
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1   group-title="央视频道",CCTV央视台球
+#EXTINF:-1  tvg-name="央视台球" group-title="央视频道",CCTV央视台球
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1   group-title="央视频道",CCTV高尔夫网球
+#EXTINF:-1  tvg-name="高尔夫网球" group-title="央视频道",CCTV高尔夫网球
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1   group-title="央视频道",CCTV风云足球
+#EXTINF:-1  tvg-name="风云足球" group-title="央视频道",CCTV风云足球
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1   group-title="央视频道",CCTV电视指南
+#EXTINF:-1  tvg-name="电视指南" group-title="央视频道",CCTV电视指南
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
 
@@ -192,7 +192,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
 
 
 
-#EXTINF:-1 group-title="电影轮播" tvg-name="欧美电影HD",欧美电影
+#EXTINF:-1 group-title="电影轮播" tvg-name="欧美影院",欧美电影
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=7185203501769528108&livemode=1&stbId=1213&channel-id=wasusyt
 http://111.11.123.33:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 #EXTINF:-1 group-title="电影轮播" tvg-name="华语电影HD",亚洲电影
@@ -341,9 +341,9 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1  group-title="全球直播" tvg-name="NBC",NBCNews
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1  group-title="全球直播" tvg-name="CNN",CNNNews
+#EXTINF:-1  group-title="全球直播" tvg-name="CNNHeadlineNews",CNNNews
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="全球直播" tvg-name="FOX",FoxNews
+#EXTINF:-1  group-title="全球直播" tvg-name="FOXNews",FoxNews
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="全球直播",EuroNews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
