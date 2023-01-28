@@ -198,6 +198,8 @@ http://111.11.123.33:6610/000000001000/7185203501769528108/index.m3u8?channel-id
 #EXTINF:-1 group-title="电影轮播" tvg-name="亚洲影院",亚洲电影
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5841816227539527643&livemode=1&stbId=1213&channel-id=wasusyt
 http://111.11.123.33:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
+#EXTINF:-1 group-title="电影轮播",全球大片
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="电影轮播",华语影院
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="电影轮播",星光影院
