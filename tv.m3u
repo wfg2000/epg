@@ -192,7 +192,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
 
 
 
-#EXTINF:-1 group-title="电影轮播" tvg-name="欧美影院",欧美电影
+#EXTINF:-1 group-title="电影轮播" tvg-name="欧美影院HD",欧美电影
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=7185203501769528108&livemode=1&stbId=1213&channel-id=wasusyt
 http://111.11.123.33:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 #EXTINF:-1 group-title="电影轮播" tvg-name="华语电影HD",亚洲电影
