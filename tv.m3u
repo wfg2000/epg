@@ -198,7 +198,7 @@ http://111.40.196.36/0000000000001000/1.m3u8?Contentid=7185203501769528108&livem
 #EXTINF:-1 group-title="电影轮播" tvg-name="华语电影HD",亚洲电影
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5841816227539527643&livemode=1&stbId=1213&channel-id=wasusyt
 http://111.40.196.36/0000000000001000/1.m3u8?Contentid=5841816227539527643&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="电影轮播" tvg-name="华语电影HD",精彩影视
+#EXTINF:-1 group-title="电影轮播" tvg-name="精彩影视",精彩影视
 http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000320630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="电影轮播",全球大片
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
@@ -221,7 +221,7 @@ http://txtest-xp2p.p2p.huya.com/src/1099531752780-1099531752780-8643623401186918
 http://txtest-xp2p.p2p.huya.com/src/1099531752772-1099531752772-86436199652130816-2199063629000-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播",救援大片
 http://txtest-xp2p.p2p.huya.com/src/1099531752784-1099531752784-86436251191738368-2199063629024-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",007系列
+#EXTINF:-1 group-title="电影轮播",007电影
 http://txtest-xp2p.p2p.huya.com/src/1099531752778-1099531752778-86436225421934592-2199063629012-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播",速度激情
 http://txtest-xp2p.p2p.huya.com/src/1099531752751-1099531752751-86436109457817600-2199063628958-10057-A-0-1.xs
@@ -275,7 +275,8 @@ http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-28
 http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播",搞笑喜剧
 http://txtest-xp2p.p2p.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.xs
-
+#EXTINF:-1 group-title="电影轮播",金庸系列
+http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播",成龙影院
 http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播",周润发影院
@@ -288,14 +289,13 @@ http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-27
 http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播",李连杰影院
 http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",甄子丹
+#EXTINF:-1 group-title="电影轮播",甄子丹影院
 http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",吴京
+#EXTINF:-1 group-title="电影轮播",吴京影院
 http://txtest-xp2p.p2p.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",黄渤
+#EXTINF:-1 group-title="电影轮播",黄渤影院
 http://txtest-xp2p.p2p.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",金庸系列
-http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+
 #EXTINF:-1 group-title="电影轮播",秘史纪录
 http://txtest-xp2p.p2p.huya.com/src/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播",太空科技
