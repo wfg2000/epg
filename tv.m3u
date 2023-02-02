@@ -298,7 +298,14 @@ http://txtest-xp2p.p2p.huya.com/src/1448737849-1448737849-6222281681932386304-28
 
 #EXTINF:-1 group-title="电影轮播",猫和老鼠
 http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
-
+#EXTINF:-1 group-title="电影轮播",CATCHPLAY电影台
+https://epg.pw/stream/2404df79f5f6ea7b95a29ca5edbcae6401a9b6c2c8bff3b1c711d883b5a0727a.m3u8
+#EXTINF:-1 group-title="电影轮播",My Cinema Europe HD
+https://epg.pw/stream/fb3844605416b977bfe3cfb4e7e4aad4d431609d6eba77a476c08ee5b713c8c5.m3u8
+#EXTINF:-1 group-title="电影轮播",龙华电影
+https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
+#EXTINF:-1 group-title="电影轮播",星卫HD电影
+https://epg.pw/stream/a4b0d8f45854cb83d20b57a708138caa3a025f4004ae337e0219d13774d537f7.ctv
 #EXTINF:-1 group-title="电影轮播",4K超高清
 http://r.jdshipin.com/5DWJk
 #EXTINF:-1 group-title="电影轮播",4K测试
@@ -406,6 +413,10 @@ http://txtest-xp2p.p2p.huya.com/src/1099531840937-1099531840937-8681486544378265
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1  group-title="全球直播",大立电视台
+https://epg.pw/stream/ec27cdcd370ad6a977757f276c048e682d211e349cef0a6b52f28143d3edae2a.m3u8
+#EXTINF:-1  group-title="全球直播",中视新闻
+https://epg.pw/stream/025cde812a1d21056908f6ecf0dd328f4abf9bf07c1c775aabada02dbaea6a48.m3u8
 #EXTINF:-1  group-title="全球直播",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1  group-title="全球直播",Aljazeera
@@ -424,6 +435,7 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  group-title="全球直播" tvg-name="CNA",ChannelNewsAsia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://epg.pw/stream/672c0d96413586b055171a62f8203ffce6a04c77c469302ff477a8b8e50a006a.m3u8
 #EXTINF:-1  group-title="全球直播" tvg-name="NTV",NtvNews24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1  group-title="全球直播",NASA
@@ -432,3 +444,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="全球直播",GinWild
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="全球直播",History
+https://epg.pw/stream/3ae2e968adbdd04e2761eba0efb44cb09ad1f0ce4b746c59545a745f247534bd.m3u8
+#EXTINF:-1  group-title="全球直播",Discovery HD
+https://epg.pw/stream/8e08790a43cabe2445d596b2cefdb246bd7bafa9491f0f0bba8882c83a81ad24.m3u8
