@@ -27,6 +27,7 @@
 {"key":"csp_Tkys","name":"🥇天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo" ,"name":"✌两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key": "csp_xp_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/MeowXP/yinfans.json"},
 {"key": "csp_Ysgc","name": "🎥影视工厂","type": 3,"api": "csp_Ysgc","searchable": 1,"quickSearch": 1,"filterable": 1},
  {"key": "csp_Nkdy","name": "🎨南柯电影","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Zjdr","name":"🏃追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
@@ -202,9 +203,9 @@
 {"key":"艾旦影视","name":"🎬艾旦影视(聚)","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"速影","name":"🎬速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"🎬飘花电影(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"MBO影视","name":"🎬MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
+{"key":"MBO影视","name":"🎬MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1}
 
-
+/*
 ###PY爬虫
 
 {"key":"py_yixi","name":"🃏一席(PY)","type":3,"api":"py_yixi","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_yixi.py"},
@@ -228,6 +229,7 @@
 {"key":"py_jubaibai","name":"🃏剧白白(PY)","type":3,"api":"py_jubaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_jubaibai.py"},
 {"key":"py_555dy","name":"🃏555影视(PY)","type":3,"api":"py_555dy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_555dy.py"},
 {"key":"py_gitcafe","name":"🃏小纸条(PY)","type":3,"api":"py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_gitcafe.py"}
+*/
 ],
 
 #
