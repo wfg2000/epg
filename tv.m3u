@@ -62,27 +62,27 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频道",CCTV风云足球
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://wfg2000.github.io/epg/icon//CCTV电视指南" group-title="央视频道",CCTV电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://wfg2000.github.io/epg/icon/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="山东频道",山东卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="山东频道",山东卫视
 http://39.135.159.150:8089/PLTV/88888888/224/3221226144/index.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://wfg2000.github.io/epg/icon/山东新闻.png" group-title="山东频道",山东新闻
 http://39.135.159.150:8089/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="山东频道",山东齐鲁
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://wfg2000.github.io/epg/icon/山东齐鲁.png"" group-title="山东频道",山东齐鲁
 http://39.135.159.150:8089/PLTV/88888888/224/3221226045/index.m3u8
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="山东频道",山东生活
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://wfg2000.github.io/epg/icon/山东生活.png" group-title="山东频道",山东生活
 http://39.135.159.150:8089/PLTV/88888888/224/3221225841/index.m3u8
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="山东频道",山东综艺
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://wfg2000.github.io/epg/icon/山东综艺.png" group-title="山东频道",山东综艺
 http://39.135.159.150:8089/PLTV/88888888/224/3221225855/index.m3u8
-#EXTINF:-1 tvg-name="山东文旅" "https://wfg2000.github.io/epg/icon/山东文旅.png" group-title="山东频道",山东文旅
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://wfg2000.github.io/epg/icon/山东文旅.png" group-title="山东频道",山东文旅
 http://39.135.159.150:8089/PLTV/88888888/224/3221225802/index.m3u8
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="山东频道",山东体育
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://wfg2000.github.io/epg/icon/山东体育.png" group-title="山东频道",山东体育
 http://39.135.159.150:8089/PLTV/88888888/224/3221226075/index.m3u8
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="山东频道",山东农科
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://wfg2000.github.io/epg/icon/山东农科.png" group-title="山东频道",山东农科
 http://39.135.159.150:8089/PLTV/88888888/224/3221226018/index.m3u8
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SDETV1/SDETV1.jpg" group-title="山东频道",山东教育
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://wfg2000.github.io/epg/icon/山东教育.png" group-title="山东频道",山东教育
 http://39.135.159.150:8089/PLTV/88888888/224/3221226049/index.m3u8
-#EXTINF:-1 tvg-name="济南综合" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV1/JNTV1.jpg" group-title="山东频道",济南综合
+#EXTINF:-1 tvg-name="济南综合" tvg-logo="https://wfg2000.github.io/epg/icon/济南新闻综合.png" group-title="山东频道",济南综合
 http://39.135.159.150:8089/PLTV/88888888/224/3221226215/index.m3u8
 #EXTINF:-1 tvg-name="青岛综合" tvg-logo="https://wfg2000.github.io/epg/icon/青岛综合.png"  group-title="山东频道",青岛综合
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8
@@ -140,7 +140,7 @@ http://111.40.196.28/0000000000001000/1.m3u8?Contentid=7185203501769528108&livem
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5841816227539527643&livemode=1&stbId=1213&channel-id=wasusyt
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/全球大片.png",全球大片
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/华语影院",华语影院
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/华语影院.png",华语影院
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/星光影院.png",星光影院
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
