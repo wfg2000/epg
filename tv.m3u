@@ -150,7 +150,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影.png",动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-name="CHC家庭电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭电影.png",家庭电影
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭电影.png",家庭电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/谍战电影.png",谍战电影
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1099531752780-1099531752780-86436234011869184-2199063629016-10057-A-0-1.xs
@@ -192,9 +192,9 @@ http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-654732596
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/古惑系列.png",古惑系列
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/盗墓经典.png",盗墓经典
+#EXTINF:-1 tvg-name="盗墓方法论" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/盗墓经典.png",盗墓经典
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1099531752747-1099531752747-86436092277948416-2199063628950-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金庸系列.png",金庸系列
+#EXTINF:-1 tvg-name="金庸频道" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金庸系列.png",金庸系列
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/古装武侠.png",古装武侠
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
@@ -214,7 +214,7 @@ http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-611512238
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/鬼吹灯.png",鬼吹灯
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/成龙影院.png",成龙影院
+#EXTINF:-1 tvg-name="成龙作品集" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/成龙影院.png",成龙影院
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/周润发影院.png",周润发影院
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
@@ -228,7 +228,7 @@ http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-622640963
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/甄子丹影院.png",甄子丹影院
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/吴京影院.png",吴京影院
+#EXTINF:-1 tvg-name="吴京作品集" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/吴京影院.png",吴京影院
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/黄渤影院.png",黄渤影院
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.xs
@@ -347,5 +347,5 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/GinWild.png",GinWild
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/HistoryChannel.png",HistoryChannel
+#EXTINF:-1 tvg-name="HISTORY" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/HistoryChannel.png",HistoryChannel
 https://epg.pw/stream/3ae2e968adbdd04e2761eba0efb44cb09ad1f0ce4b746c59545a745f247534bd.m3u8
