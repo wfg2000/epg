@@ -158,12 +158,12 @@ http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/日韩院线.png",日韩院线
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_62_600_t10/c53_lb_62_600_t10.m3u8
-##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/全球大片.png",全球大片
-#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/华语影院.png",华语影院
-#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/星光影院.png",星光影院
-#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/全球大片.png",全球大片
+http://223.109.53.138/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/华语影院.png",华语影院
+http://223.109.53.138/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/星光影院.png",星光影院
+http://223.109.53.138/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金马影院.png",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",高清电影
