@@ -146,6 +146,18 @@ http://epg.112114.xyz/douyu/413573
 http://epg.112114.xyz/douyu/8945323
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
 http://epg.112114.xyz/douyu/2436390
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣高分.png",豆瓣高分
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_112_600_t10/c51_lb_112_600_t10.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/电影大片.png",电影大片
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/票房收割.png",票房收割
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/收视冠军.png",收视冠军
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/院线电影.png",院线电影
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/日韩院线.png",日韩院线
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_62_600_t10/c53_lb_62_600_t10.m3u8
 ##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/全球大片.png",全球大片
 #http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 ##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/华语影院.png",华语影院
@@ -251,12 +263,12 @@ http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精彩影视.png",精彩影视
 http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000320630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/高清精选.png",高清精选
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000003000001569&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精品剧场.png",精品剧场
-http://111.40.196.28/0000000000001000/1.m3u8?Contentid=8230197131234717902&livemode=1&stbId=1213&channel-id=wasusyt
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/漫游世界.png",漫游世界
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000003000028434&livemode=1&stbId=3&channel-id=wasusyt
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/高清精选.png",高清精选
+#http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000003000001569&livemode=1&stbId=3&channel-id=wasusyt
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精品剧场.png",精品剧场
+#http://111.40.196.28/0000000000001000/1.m3u8?Contentid=8230197131234717902&livemode=1&stbId=1213&channel-id=wasusyt
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/漫游世界.png",漫游世界
+#http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000003000028434&livemode=1&stbId=3&channel-id=wasusyt
 
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png",NewTV超级电影
 http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
@@ -304,67 +316,56 @@ http://39.134.65.166/PLTV/88888888/224/3221225547/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV炫舞未来.png",NewTV炫舞未来
 http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣高分.png",豆瓣高分
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_112_600_t10/c51_lb_112_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/电影大片.png",电影大片
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/票房收割.png",票房收割
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/收视冠军.png",收视冠军
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/院线电影.png",院线电影
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/日韩院线.png",日韩院线
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_62_600_t10/c53_lb_62_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/历史秘闻.png",历史秘闻
+
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/历史秘闻.png",历史秘闻
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/经典纪实.png",经典纪实
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/经典纪实.png",经典纪实
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/军事观察.png",军事观察
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/军事观察.png",军事观察
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/文化奇谈.png",文化奇谈
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/文化奇谈.png",文化奇谈
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_165_600_t10/c55_lb_165_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/秘史纪录.png",秘史纪录
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/秘史纪录.png",秘史纪录
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.xs
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/太空科技.png",太空科技
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/太空科技.png",太空科技
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1099531840859-1099531840859-86814530436333568-2199063805174-10057-A-0-1.xs
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/宇宙科幻.png",宇宙科幻
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/宇宙科幻.png",宇宙科幻
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199512401451-1199512401451-5224938813503045632-2399024926358-10057-A-0-1.xs
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/物理世界.png",物理世界
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/物理世界.png",物理世界
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1099531840937-1099531840937-86814865443782656-2199063805330-10057-A-0-1.xs
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png",求索科学
+#EXTINF:-1 group-title="科教历史" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png",求索科学
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=1213&channel-id=wasusyt
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png",求索记录
+#EXTINF:-1 group-title="科教历史" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png",求索记录
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=1213&channel-id=wasusyt
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://upload.112114.xyz/logo/QSSHENGHUO.png",求索生活
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://upload.112114.xyz/logo/QSSHENGHUO.png",求索生活
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=1213&channel-id=wasusyt
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png",求索动物
+#EXTINF:-1 group-title="科教历史" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png",求索动物
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=1213&channel-id=wasusyt
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/未知科技.png",未知科技
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/未知科技.png",未知科技
 http://epg.112114.xyz/douyu/9385288
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/果库科幻.png",果库科幻
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/果库科幻.png",果库科幻
 http://epg.112114.xyz/douyu/9383318
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/科学放映.png",科学放映
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/科学放映.png",科学放映
 http://epg.112114.xyz/douyu/9439712
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/奇人异事.png",奇人异事
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/奇人异事.png",奇人异事
 http://epg.112114.xyz/douyu/9351490
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/神秘宇宙.png",神秘宇宙
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/神秘宇宙.png",神秘宇宙
 http://epg.112114.xyz/douyu/9606719
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/未解之谜.png",未解之谜
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/未解之谜.png",未解之谜
 http://epg.112114.xyz/douyu/9369468
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/硬核时事.png",硬核时事
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/硬核时事.png",硬核时事
 http://epg.112114.xyz/douyu/9739138
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/约翰杂谈.png",约翰杂谈
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/约翰杂谈.png",约翰杂谈
 http://epg.112114.xyz/douyu/9738854
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/万能编辑.png",万能编辑
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/万能编辑.png",万能编辑
 http://epg.112114.xyz/douyu/9068525
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/科学黑史.png",科学黑史
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/科学黑史.png",科学黑史
 http://epg.112114.xyz/douyu/9317739
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/老巴评测.png",老巴评测
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/老巴评测.png",老巴评测
 http://epg.112114.xyz/douyu/9642554
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/街头英语.png",街头英语
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/街头英语.png",街头英语
 http://epg.112114.xyz/douyu/9548244
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/英语小兔.png",英语小兔
+#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/英语小兔.png",英语小兔
 http://epg.112114.xyz/douyu/9504916
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
