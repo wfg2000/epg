@@ -138,12 +138,20 @@ http://39.135.159.150:8089/PLTV/88888888/224/3221226325/index.m3u8
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=7185203501769528108&livemode=1&stbId=1213&channel-id=wasusyt
 #EXTINF:-1 tvg-name="华语电影HD" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5841816227539527643&livemode=1&stbId=1213&channel-id=wasusyt
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/全球大片.png",全球大片
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/华语影院.png",华语影院
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/星光影院.png",星光影院
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣影院.png",豆瓣影院
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/宇哥经典.png",宇哥经典
+http://epg.112114.xyz/douyu/413573
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧典影院.png",欧典影院
+http://epg.112114.xyz/douyu/8945323
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
+http://epg.112114.xyz/douyu/2436390
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/全球大片.png",全球大片
+#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/华语影院.png",华语影院
+#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/星光影院.png",星光影院
+#http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金马影院.png",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",高清电影
@@ -234,6 +242,7 @@ http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524434090-1524434090-654739456
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/猫和老鼠.png",猫和老鼠
 http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/4K超高清.png",4K超高清
 http://r.jdshipin.com/5DWJk
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/4K测试.png",4K测试
@@ -325,6 +334,33 @@ http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000002000032052&livem
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=1213&channel-id=wasusyt
 #EXTINF:-1 group-title="爱奇艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png",求索动物
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=1213&channel-id=wasusyt
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/未知科技.png",未知科技
+http://epg.112114.xyz/douyu/9385288
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/果库科幻.png",果库科幻
+http://epg.112114.xyz/douyu/9383318
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/科学放映.png",科学放映
+http://epg.112114.xyz/douyu/9439712
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/奇人异事.png",奇人异事
+http://epg.112114.xyz/douyu/9351490
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/神秘宇宙.png",神秘宇宙
+http://epg.112114.xyz/douyu/9606719
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/未解之谜.png",未解之谜
+http://epg.112114.xyz/douyu/9369468
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/硬核时事.png",硬核时事
+http://epg.112114.xyz/douyu/9739138
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/约翰杂谈.png",约翰杂谈
+http://epg.112114.xyz/douyu/9738854
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/万能编辑.png",万能编辑
+http://epg.112114.xyz/douyu/9068525
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/科学黑史.png",科学黑史
+http://epg.112114.xyz/douyu/9317739
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/老巴评测.png",老巴评测
+http://epg.112114.xyz/douyu/9642554
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/街头英语.png",街头英语
+http://epg.112114.xyz/douyu/9548244
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/英语小兔.png",英语小兔
+http://epg.112114.xyz/douyu/9504916
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
