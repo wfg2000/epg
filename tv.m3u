@@ -304,16 +304,22 @@ http://39.134.65.166/PLTV/88888888/224/3221225547/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV炫舞未来.png",NewTV炫舞未来
 http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣高分.png",豆瓣高分
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_112_600_t10/c51_lb_112_600_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/电影大片.png",电影大片
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/票房收割.png",票房收割
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/五星影院.png",五星影院
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
-##EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/惊悚午夜.png",惊悚午夜
-#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/收视冠军.png",收视冠军
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/院线电影.png",院线电影
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/日韩院线.png",日韩院线
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_62_600_t10/c53_lb_62_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/历史秘闻.png",历史秘闻
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/经典纪实.png",经典纪实
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/军事观察.png",军事观察
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺" tvg-logo="https://wfg2000.github.io/epg/icon/文化奇谈.png",文化奇谈
