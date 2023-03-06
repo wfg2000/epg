@@ -272,6 +272,14 @@ http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000320630&livem
 #http://111.40.196.28/0000000000001000/1.m3u8?Contentid=8230197131234717902&livemode=1&stbId=1213&channel-id=wasusyt
 ##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/漫游世界.png",漫游世界
 #http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000003000028434&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CineLife.png",CineLife
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/MovieSphere.png",MovieSphere
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/MyTime.png",MyTime
+https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/HollyWood.png",HollyWood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png",NewTV超级电影
 http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
@@ -397,7 +405,17 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/HistoryHIT.png",HistoryHIT
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/GinWild.png",GinWild
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/InWild.png",InWild
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="HISTORY" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/HistoryChannel.png",HistoryChannel
-https://epg.pw/stream/3ae2e968adbdd04e2761eba0efb44cb09ad1f0ce4b746c59545a745f247534bd.m3u8
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Xlpore.png",Xlpore
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/InTrouble.png",InTrouble
+https://introuble-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Insight.png",Insight
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/InWonder.png",InWonder
+https://inwonder-samsungau.amagi.tv/playlist720.m3u8
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/real.png",realstories
+https://lds-realstories-samsungau.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/real.png",realcrime
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
