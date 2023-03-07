@@ -146,18 +146,18 @@ http://epg.112114.xyz/douyu/413573
 http://epg.112114.xyz/douyu/8945323
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
 http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣高分.png",豆瓣高分
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_112_600_t10/c51_lb_112_600_t10.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/电影大片.png",电影大片
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/票房收割.png",票房收割
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/收视冠军.png",收视冠军
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/院线电影.png",院线电影
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/日韩院线.png",日韩院线
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_62_600_t10/c53_lb_62_600_t10.m3u8
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣高分.png",豆瓣高分
+#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_112_600_t10/c51_lb_112_600_t10.m3u8
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/电影大片.png",电影大片
+#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/票房收割.png",票房收割
+#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/收视冠军.png",收视冠军
+#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/院线电影.png",院线电影
+#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/日韩院线.png",日韩院线
+#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_62_600_t10/c53_lb_62_600_t10.m3u8
 ##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/全球大片.png",全球大片
 #http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 #http://223.109.53.138/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
@@ -405,17 +405,17 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/HistoryHIT.png",HistoryHIT
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/InWild.png",InWild
-https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Xlpore.png",Xlpore
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/InWild.png",InWild
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/InTrouble.png",InTrouble
 https://introuble-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/InSight.png",InSight
 https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/InWonder.png",InWonder
 https://inwonder-samsungau.amagi.tv/playlist720.m3u8
-#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/real.png",realstories
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/ReaStories.png",RealStories
 https://lds-realstories-samsungau.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/real.png",realcrime
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/real.png",RealCrime
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
