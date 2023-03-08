@@ -280,6 +280,9 @@ https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
 https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/HollyWood.png",HollyWood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/ComedyChannel.png",ComedyChannel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png",NewTV超级电影
 http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
