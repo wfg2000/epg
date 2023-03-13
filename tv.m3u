@@ -332,12 +332,16 @@ http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
 
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/历史秘闻.png",历史秘闻
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8?key
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/经典纪实.png",经典纪实
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8?key
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/军事观察.png",军事观察
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8?key
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/文化奇谈.png",文化奇谈
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_165_600_t10/c55_lb_165_600_t10.m3u8?key
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_165_600_t10/c55_lb_165_600_t10.m3u8
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/秘史纪录.png",秘史纪录
 http://39.145.32.173txtest-xp2p.p2p.huya.com/src/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.xs
@@ -403,7 +407,7 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTINF:-1 tvg-name="CNA" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/ChannelNewsAsia.png",ChannelNewsAsia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/NHK.png",NHK
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/NTVnews24.png",NtvNews24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
