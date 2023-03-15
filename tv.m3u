@@ -60,7 +60,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://wfg2000.github.io/epg/icon/CCTV高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://wfg2000.github.io/epg/icon/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://wfg2000.github.io/epg/icon/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
@@ -332,16 +332,12 @@ http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
 
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/历史秘闻.png",历史秘闻
-http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8?key
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/经典纪实.png",经典纪实
-http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8?key
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/军事观察.png",军事观察
-http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8?key
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/文化奇谈.png",文化奇谈
-http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_165_600_t10/c55_lb_165_600_t10.m3u8?key
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_165_600_t10/c55_lb_165_600_t10.m3u8
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/秘史纪录.png",秘史纪录
 http://39.145.32.173txtest-xp2p.p2p.huya.com/src/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.xs
@@ -429,5 +425,5 @@ https://inwonder-samsungau.amagi.tv/playlist720.m3u8
 https://lds-realstories-samsungau.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/real.png",RealCrime
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Clarityl.png",Clarity4K
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Clarity.png",Clarity4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
