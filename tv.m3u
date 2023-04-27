@@ -398,7 +398,7 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=9416
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/BBCNews.png",BBCNews
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1 tvg-name="NBC" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/NBCNews.png",NBCNews
+#EXTINF:-1 tvg-name="CNBC" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/CNBC.png",CNBC
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941689
 #EXTINF:-1 tvg-name="CNNHeadlineNews" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/CNNNEWS.png",CNNNews
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
