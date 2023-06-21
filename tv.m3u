@@ -400,9 +400,9 @@ http://epg.112114.xyz/douyu/9548244
 http://epg.112114.xyz/douyu/9504916
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
-https://17186.eu.org/php/phtv/fhzw.flv
+http://61.221.81.93:8078/hls/20/80/phoenixch.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
-https://17186.eu.org/php/phtv/fhzx.flv
+http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Newsmax.png",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
