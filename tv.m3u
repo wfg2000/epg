@@ -152,8 +152,8 @@ http://epg.112114.xyz/douyu/323876
 http://epg.112114.xyz/douyu/8814650
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/恐怖经典.png",恐怖经典
 http://epg.112114.xyz/douyu/1165374
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金马影院.png",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金马影院.png",金马影院
+#http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影.png",动作电影
@@ -400,9 +400,9 @@ http://epg.112114.xyz/douyu/9548244
 http://epg.112114.xyz/douyu/9504916
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
-http://61.221.81.93:8078/hls/20/80/phoenixch.m3u8
+http://iptv.weai.love/live/88888888/fhzw.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
-http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+http://iptv.weai.love/live/88888888/fhzx.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Newsmax.png",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
