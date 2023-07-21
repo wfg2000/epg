@@ -161,10 +161,7 @@ http://epg.112114.xyz/douyu/1165374
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/变形人类.png",变形人类
 http://epg.112114.xyz/douyu/9651304
 
-##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金马影院.png",金马影院
-#http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金马影院.png",私人影院
-http://171.108.239.109:8181/tsfile/live/1014_1.m3u8
+
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影.png",动作电影
