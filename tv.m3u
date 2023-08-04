@@ -138,8 +138,6 @@ http://39.135.159.150:8089/PLTV/88888888/224/3221226325/index.m3u8
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=7185203501769528108&livemode=1&stbId=1213&channel-id=wasusyt
 #EXTINF:-1 tvg-name="华语电影HD" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5841816227539527643&livemode=1&stbId=1213&channel-id=wasusyt
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣影院.png",豆瓣影院
-http://maomao.kandiantv.cn/douyu1.php?id=8770422
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
 http://maomao.kandiantv.cn/douyu1.php?id=2436390
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/宇哥经典.png",宇哥经典
@@ -181,7 +179,6 @@ http://mmitv.top/pltv/huya.php?id=21059574
 https://www.goodiptv.club/huya/21059594
 http://tx.flv.huya.com/src/huyalive/1099531752784-1099531752784-86436251191738368-2199063629024-10057-A-0-1.flv?wsSecret=0259d11c4281ad61c077765859f65f15&wsTime=648e6072&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/007电影.png",007电影
-https://www.goodiptv.club/huya/21059585
 https://www.goodiptv.club/huya/21059585
 http://tx.flv.huya.com/src/huyalive/1099531752778-1099531752778-86436225421934592-2199063629012-10057-A-0-1.flv?wsSecret=0259d11c4281ad61c077765859f65f15&wsTime=648e6072&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/速度激情.png",速度激情
@@ -323,7 +320,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u
 #http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000003000028434&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/HBO.png",HBO
 http://103.112.191.9:880/LAOSAT1089.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/HBO.png",东森洋片
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/东森洋片.png",东森洋片
 http://103.112.191.9:880/LAOSAT1018.m3u8
 
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png",NewTV超级电影
