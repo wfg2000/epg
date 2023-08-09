@@ -515,9 +515,6 @@ http://103.112.191.9:880/LAOSAT1068.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 tvg-name="CNBC" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/CNBC.png",CNBC
-http://61.221.81.93:8078/hls/24/80/cnbc90.m3u8
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941689
 #EXTINF:-1 tvg-name="CNNHeadlineNews" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/CNNNEWS.png",CNNNews
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
