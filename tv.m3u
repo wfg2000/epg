@@ -284,6 +284,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/HBO.png",HBO
 http://103.112.191.9:880/LAOSAT1089.m3u8
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/东森洋片.png",东森洋片
+http://162.19.247.76:22222/live/dsypt/index.m3u8
 http://103.112.191.9:880/LAOSAT1018.m3u8
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/EBCMovies.png",东森电影
 http://103.112.191.9:880/LAOSAT1017.m3u8
