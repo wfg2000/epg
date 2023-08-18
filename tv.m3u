@@ -143,6 +143,7 @@ http://zgntv.icu/live/1905.php?id=1905dy
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
 http://maomao.kandiantv.cn/douyu1.php?id=2436390
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣影院.png",豆瓣影院
+http://maomao.kandiantv.cn/douyu1.php?id=8770422
 http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/宇哥经典.png",宇哥经典
 http://maomao.kandiantv.cn/douyu1.php?id=413573
@@ -283,7 +284,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u
 #http://111.40.196.28/0000000000001000/1.m3u8?Contentid=8230197131234717902&livemode=1&stbId=1213&channel-id=wasusyt
 ##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/漫游世界.png",漫游世界
 #http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000003000028434&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/HBO.png",HBO
+#EXTINF:-1 group-title="电影轮播" tvg-name="HBOHD" tvg-logo="https://wfg2000.github.io/epg/icon/HBO.png",HBOHD
 http://185.188.188.235/live/hbo/playlist.m3u8
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/东森洋片.png",东森洋片
 http://162.19.247.76:22222/live/dsypt/index.m3u8
