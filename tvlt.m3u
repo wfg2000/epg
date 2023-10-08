@@ -411,3 +411,7 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=9416
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/BBCNews.png",BBCNews
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 group-title="全球直播" ,CCTV4NET
+https://hls.liveshow.bdstatic.com/live/stream_bduid_2970391354_8667476552-L1.m3u8
+#EXTINF:-1 group-title="全球直播" ,红星新闻
+https://play-a2.quklive.com/live/1696678308330214.m3u8
