@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://epg.erw.cc/e.xml,http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
 http://60.217.189.200:3600/tsfile/live/0001_1.m3u8
@@ -21,7 +21,7 @@ http://60.217.189.200:3600/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
 http://60.217.189.200:3600/tsfile/live/0010_1.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11
-http://39.135.159.150:8089/PLTV/88888888/224/3221226407/index.m3u8
+http://60.217.189.200:3600/tsfile/live/0011_1.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
 http://60.217.189.200:3600/tsfile/live/0012_1.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
@@ -411,7 +411,5 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=9416
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/BBCNews.png",BBCNews
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1 group-title="全球直播" ,CCTV4NET
-https://hls.liveshow.bdstatic.com/live/stream_bduid_2970391354_8667476552-L1.m3u8
 #EXTINF:-1 group-title="全球直播" ,红星新闻
 https://play-a2.quklive.com/live/1696678308330214.m3u8
