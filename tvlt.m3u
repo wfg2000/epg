@@ -360,6 +360,8 @@ http://113.117.74.26:8081/hls/36/index.m3u8
 https://www.goodiptv.club/douyin/867088577067
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/封面新闻.png",封面新闻
 https://www.goodiptv.club/douyin/60299972768
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/澎湃新闻.png",澎湃新闻
+https://play-a2.quklive.com/live/1698205355054330.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Newsmax.png",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
