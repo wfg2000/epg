@@ -125,13 +125,6 @@ http://111.40.196.29:443/PLTV/88888888/224/3221225583/1.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视频道",黑龙江卫视
-http://111.40.196.29:443/PLTV/88888888/224/3221225544/1.m3u8
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视频道",河北卫视
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
 
 
 
@@ -152,7 +145,6 @@ http://maomao.kandiantv.cn/douyu1.php?id=1165374
 http://maomao.kandiantv.cn/douyu1.php?id=9651304
 
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/谍战电影.png",谍战电影
-http://mmitv.top/pltv/huya.php?id=21059587
 https://www.goodiptv.club/huya/21059587
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/动作枪战.png",动作枪战
 https://www.goodiptv.club/huya/21059579
@@ -260,83 +252,52 @@ https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/华语影院.png",华语影院
 https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/华数高清.png",华数高清
-http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精彩影视.png",精彩影视
-http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000320630&livemode=1&stbId=3&channel-id=wasusyt
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/高清精选.png",高清精选
-#http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000003000001569&livemode=1&stbId=3&channel-id=wasusyt
-##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精品剧场.png",精品剧场
-#http://111.40.196.28/0000000000001000/1.m3u8?Contentid=8230197131234717902&livemode=1&stbId=1213&channel-id=wasusyt
-##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/漫游世界.png",漫游世界
-#http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000003000028434&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="电影轮播" tvg-name="HBOHD" tvg-logo="https://wfg2000.github.io/epg/icon/HBO.png",HBOHD
-http://185.188.188.235/live/hbo/playlist.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/东森洋片.png",东森洋片
-http://162.19.247.76:22222/live/dsypt/index.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/EBCMovies.png",东森电影
-http://162.19.247.76:22222/live/dsdyt/index.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/OIPC.png",莲花电影
-http://anren.live/HK/BiIOU11uLA.m3u8
+
 
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",1905电影
 http://zgntv.icu/live/1905.php?id=1905dy
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/院线动作.png",院线动作
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735570
 https://www.goodiptv.club/yy/1382735570
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/国外科幻.png",国外科幻
-http://www.goodiptv.club/yy/1382747628
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382747628
 EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/科幻地球.png" , 科幻地球
-https://www.goodiptv.club/yy/1354930897
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930897
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/超炫科幻.png", 超炫科幻
-https://www.goodiptv.club/yy/1382736840
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736840
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/科幻动作.png" , 科幻动作
-https://www.goodiptv.club/yy/1382749948
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749948
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/科幻大片.png" , 科幻大片
-https://www.goodiptv.club/yy/1382745181
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745181
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/动作影视.png" , 动作影视
-https://www.goodiptv.club/yy/1382736900
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736900
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/战火故事.png" , 战火故事
-https://www.goodiptv.club/yy/1382735625
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735625
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/高分大片.png", 高分大片
-https://www.goodiptv.club/yy/1382736867
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736867
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国外动作.png", 国外动作
-https://www.goodiptv.club/yy/1382735540
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735540
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/全球谍战.png" , 全球谍战
-https://www.goodiptv.club/yy/1382736817
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736817
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/动作片场.png" , 动作片场
-https://www.goodiptv.club/yy/1354930816
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930816
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精彩动作.png" , 精彩动作
-https://www.goodiptv.club/yy/1382736823
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736823
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/狙击电影.png" , 狙击电影
-https://www.goodiptv.club/yy/1450828388
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1450828388
 #EXTINF:-1  group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/超然巨作.png", 超然巨作
-https://www.goodiptv.club/yy/26623173
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26623173
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/顶级动作.png" , 顶级动作
-https://www.goodiptv.club/yy/24923327
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/科幻电影.png", 科幻电影
-https://www.goodiptv.club/yy/1355065896
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355065896
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/西部大片.png" , 西部大片
-https://www.goodiptv.club/yy/29170933
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29170933
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/经典二战.png" , 经典二战
-https://www.goodiptv.club/yy/1354936238
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936238
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/香港动作.png" , 香港动作
-https://www.goodiptv.club/yy/1382735570
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735570
 
-
-#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/秘史纪录.png",秘史纪录
-https://tv.iill.top/huya/xingguang80
-http://hw.rtmp.huya.com/src/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/太空科技.png",太空科技
-https://tv.iill.top/huya/26355780
-http://hw.rtmp.huya.com/src/1099531840859-1099531840859-86814530436333568-2199063805174-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/宇宙科幻.png",宇宙科幻
-https://tv.iill.top/huya/17105786
-http://hw.rtmp.huya.com/src/1199512401451-1199512401451-5224938813503045632-2399024926358-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/物理世界.png",物理世界
-https://tv.iill.top/huya/22531419
-http://hw.rtmp.huya.com/src/1099531840937-1099531840937-86814865443782656-2199063805330-10057-A-0-1.m3u8
 
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/未知科技.png",未知科技
 http://maomao.kandiantv.cn/douyu1.php?id=9385288
@@ -390,15 +351,15 @@ https://www.goodiptv.club/douyin/473658633274
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
-http://113.117.74.26:8081/hls/37/index.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-
-
+http://113.117.74.26:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
-http://113.117.74.26:8081/hls/36/index.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-
-
+http://113.117.74.26:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/红星新闻.png",红星新闻
+https://www.goodiptv.club/douyin/867088577067
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/封面新闻.png",封面新闻
+https://www.goodiptv.club/douyin/60299972768
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Newsmax.png",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
@@ -443,5 +404,3 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=9416
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/BBCNews.png",BBCNews
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1 group-title="全球直播" ,红星新闻
-https://play-a2.quklive.com/live/1696678308330214.m3u8
