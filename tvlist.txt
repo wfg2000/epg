@@ -67,17 +67,10 @@ CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/i
 海南卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
 
 电影轮播,#genre#
-欧美电影,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=7185203501769528108&livemode=1&stbId=1213&channel-id=wasusyt
-亚洲电影,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=5841816227539527643&livemode=1&stbId=1213&channel-id=wasusyt
+欧美电影, http://zteres.sn.chinamobile.com:6060/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
+亚洲电影, http://zteres.sn.chinamobile.com:6060/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 1905电影,http://jh.d7g.cn/live/1905.php?id=1905dy
-全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-精彩影视,http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000320630&livemode=1&stbId=3&channel-id=wasusyt
-HBO,http://103.112.191.9:880/LAOSAT1089.m3u8
-东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
-东森电影,http://103.112.191.9:880/LAOSAT1017.m3u8
-莲花电影,http://103.112.191.9:880/LAOSAT1069.m3u8
+精彩影视, http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 家庭电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -164,6 +157,8 @@ NewTV炫舞未来,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
 承芮直播,https://www.goodiptv.club/douyin/473658633274
 美洋杨,https://www.goodiptv.club/douyin/306567794970
 孙一宁,https://www.goodiptv.club/douyin/152390404254
+秦双儿,https://www.goodiptv.club/douyin/259955161578
+十里,https://www.goodiptv.club/douyin/207858112359
 超级雨,https://www.goodiptv.club/douyin/18057771449
 猛曽,https://www.goodiptv.club/douyin/786211353453
 钟灵,https://www.goodiptv.club/douyin/573269109122
@@ -191,8 +186,6 @@ Fel,https://www.goodiptv.club/douyin/516319176960
 桃子不甜,https://www.goodiptv.club/douyin/80481339252
 末日生存,https://www.goodiptv.club/douyin/750401050942
 疯狂星,https://www.goodiptv.club/douyin/509413998809
-秦双儿,https://www.goodiptv.club/douyin/259955161578
-十里,https://www.goodiptv.club/douyin/207858112359
 闭嘴,https://www.goodiptv.club/douyin/20308583816
 张甜甜,https://www.goodiptv.club/douyin/604788153859
 Staid,https://www.goodiptv.club/douyin/12016251794
@@ -213,9 +206,8 @@ Staid,https://www.goodiptv.club/douyin/12016251794
 
 
 全球直播,#genre#
-凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-SkyNews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 NEWSMAX,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 Aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 EuroNews,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
