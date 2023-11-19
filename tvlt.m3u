@@ -116,14 +116,14 @@ http://maomao.kandiantv.cn/douyu1.php?id=1165374
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/变形人类.png",变形人类
 http://maomao.kandiantv.cn/douyu1.php?id=9651304
 
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/谍战电影.png",谍战电影
-https://www.goodiptv.club/huya/21059587
+##EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/谍战电影.png",谍战电影
+#https://www.goodiptv.club/huya/21059587
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/动作枪战.png",动作枪战
 https://www.goodiptv.club/huya/21059579
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/战争大片.png",战争大片
 http://mmitv.top/pltv/huya.php?id=21059574
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/救援大片.png",救援大片
-https://www.goodiptv.club/huya/21059594
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/救援大片.png",救援大片
+#https://www.goodiptv.club/huya/21059594
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/007电影.png",007电影
 https://www.goodiptv.club/huya/21059585
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/速度激情.png",速度激情
@@ -140,8 +140,8 @@ http://mmitv.top/pltv/huya.php?id=21059592
 http://mmitv.top/pltv/huya.php?id=21059596
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/蜘蛛大侠.png",蜘蛛大侠
 http://mmitv.top/pltv/huya.php?id=21059599
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/加勒比海.png",加勒比海
-https://www.goodiptv.club/huya/21059595
+##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/加勒比海.png",加勒比海
+#https://www.goodiptv.club/huya/21059595
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/怪兽异形.png",怪兽异形
 https://www.goodiptv.club/huya/21059577
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/死神来了.png",死神来了
