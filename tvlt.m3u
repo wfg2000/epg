@@ -332,6 +332,8 @@ http://php.17186.eu.org/phtv/fhzw.m3u8
 http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/红星新闻.png",红星新闻
 https://www.goodiptv.club/douyin/867088577067
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/环球电视.png",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Newsmax.png",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
