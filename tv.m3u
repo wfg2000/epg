@@ -133,10 +133,8 @@ http://39.135.159.150:8089/PLTV/88888888/224/3221226387/index.m3u8
 http://39.135.159.150:8089/PLTV/88888888/224/3221226325/index.m3u8
 
 #EXTINF:-1 tvg-name="欧美电影HD" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
-http://111.13.111.242/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3&HlsProfileId=
 http://zteres.sn.chinamobile.com:6060/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="华语电影HD" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
-http://111.13.111.242/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3&HlsProfileId=
 http://zteres.sn.chinamobile.com:6060/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金马影院.png",金马影院
 https://pull.kktv8.com/livekktv/128600025.flv
