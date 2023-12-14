@@ -180,12 +180,7 @@ https://www.goodiptv.club/huya/21059581
 https://www.goodiptv.club/huya/21059588
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/漫威英雄.png",漫威英雄
 https://www.goodiptv.club/huya/11342428
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/特种部队.png",特种部队
-https://www.goodiptv.club/huya/21059592
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/变形金刚.png",变形金刚
-http://mmitv.top/pltv/huya.php?id=21059596
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/蜘蛛大侠.png",蜘蛛大侠
-https://www.goodiptv.club/huya/21059599
+
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/怪兽异形.png",怪兽异形
 https://www.goodiptv.club/huya/21059577
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/死神来了.png",死神来了
@@ -267,8 +262,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u
 
 
 
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/院线动作.png",院线动作
-http://mmitv.top/pltv/yy.php?id=1382735570
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/国外科幻.png",国外科幻
 http://mmitv.top/pltv/yy.php?id=1382747628
 EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/科幻地球.png" , 科幻地球
@@ -305,8 +298,7 @@ http://mmitv.top/pltv/yy.php?id=1355065896
 http://mmitv.top/pltv/yy.php?id=29170933
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/经典二战.png" , 经典二战
 http://mmitv.top/pltv/yy.php?id=1354936238
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/香港动作.png" , 香港动作
-http://mmitv.top/pltv/yy.php?id=1382735570
+
 
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png",NewTV超级电影
 http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
