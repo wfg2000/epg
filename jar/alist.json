@@ -1,117 +1,71 @@
-[
-        {
-        "name" : "🙋丫仙女",
-        "server" : "http://alist.xiaoya.pro/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
 {
-"name":"9T",
-"server":"https://drive.9t.ee",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-},
-        {
-        "name": "🔞罗汉果",
-        "server": "https://lala-ofbip.run.goorm.site/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
-           "name": "✨小新盘",
-           "server": "https://pan.cdnxin.top/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
+"9T":"https://drive.9t.ee",
 
-        {
-           "name": "✨鹏程",
-           "server": "https://pan.pengcheng.team/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-    },
-        {
-           "name": "✨弱水分享",
-           "server": "http://shicheng.wang:555/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
-           "name": "✨神器云",
-           "server": "https://alist.ygxz.xyz/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
-           "name": "✨资源大站",
-           "server": "https://pan.ecve.cn/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
+"木偶":"https://www.kugutsu.ml",
 
+"4k影视":"https://quanzi.laoxianghuijia.cn",
 
+"A2":"http://37.16.3.89",
 
+"小江":"https://dyj.me",
 
-        {
-        "name" : "🌊七米蓝",
-        "server" : "https://al.chirmyram.com",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
+"触光":"https://pan.ichuguang.com",
 
-        {
-        "name" : "🐉神族九帝",
-        "server" : "https://alist.shenzjd.com",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
-        "name" : "☃️姬路白雪",
-        "server" : "https://pan.jlbx.xyz",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
-      "name": "⭕️歐逼",
-      "server": "https://alistcn.repl.co",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
+"罗汉果": "https://lala-ofbip.run.goorm.site/",
 
+"小光盘":"https://alist.xiaoguanxiaocheng.life",
 
-        {
-        "name" : "✨星梦",
-        "server" : "https://pan.bashroot.top",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
-        "name" : "💫触光",
-        "server" : "https://pan.ichuguang.com",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
+"非盘":"http://www.feifwp.top",
 
+"嗨翻":"https://pan.hikerfans.com",
 
-        {
-        "name" : "💦讯维云盘",
-        "server" : "https://pan.xwbeta.com",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    }]
+"AUNEY":"http://121.227.25.116:8008",
+
+"sangxuesheng":"https://wangpan.sangxuesheng.com",
+
+"杜比":"https://dubi.tk",
+
+"帥鵬":"https://hi.shuaipeng.wang",
+
+"小雅":"http://alistxy.ganggang.live:5678",
+
+"晴园":"https://alist.52qy.repl.co",
+
+"米奇":"https://anime.mqmmw.ga",
+
+"小兵":"https://6vv.app",
+
+"一只鱼":"https://alist.youte.ml",
+
+"七米蓝":"https://al.chirmyram.com",
+
+"帅盘":"https://hi.shuaipeng.wang",
+
+"神族":"https://alist.shenzjd.com",
+
+"姬路":"https://pan.jlbx.xyz",
+
+"浩瀚吧":"https://8023.haohanba.cn",
+
+"資源小站":"https://960303.xyz",
+
+"听闻":"https://wangpan.sangxuesheng.com",
+
+"DISK":"http://124.222.140.243:8080",
+
+"云播放":"https://quanzi.laoxianghuijia.cn",
+
+"星梦":"https://pan.bashroot.top",
+
+"触光":"https://pan.ichuguang.com",
+
+"SB盘":"http://sbpan.tk",
+
+"repl":"https://ali.liucn.repl.co",
+
+"秋雨分享":"https://share.laowang.me",
+
+"梓澪":"https://zi0.cc",
+
+"讯维":"https://pan.xwbeta.com"
+}
