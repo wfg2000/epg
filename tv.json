@@ -53,7 +53,7 @@
 
 
 //type=0表示xml资源,type=1表示json资源
- {"key": "csp_Alist1","name": "🅿Alist网盘", "type": 3, "api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0, "ext": "https://agit.ai/Tvbox123/TVbox-4/raw/commit/31f9e0c4f5902af322beb8cbffd5649247522b19/Alist.json"},
+ {"key": "csp_Alist1","name": "🅿Alist网盘", "type": 3, "api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0, "ext": "jar/alist.json"},
 
 #XBiu系列
 
