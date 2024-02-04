@@ -24,6 +24,7 @@ http://60.208.113.114:8001/newlive/live/hls/12/live.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
 http://60.208.113.114:8001/newlive/live/hls/13/live.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
+http://60.208.113.114:8001/newlive/live/hls/14/live.m3u8
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
 http://60.208.113.114:8001/newlive/live/hls/15/live.m3u8
@@ -344,7 +345,6 @@ https://www.goodiptv.club/douyin/140156089879
 http://113.117.74.99:8081/hls/37/index.m3u8
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
-http://113.117.74.99:8081/hls/36/index.m3u8
 http://udnhls.skilldns.com:80/fhzx.m3u8
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰香港
