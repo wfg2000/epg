@@ -341,15 +341,22 @@ https://www.goodiptv.club/douyin/646126860390
 https://www.goodiptv.club/douyin/140156089879
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
+http://113.117.74.99:8081/hls/37/index.m3u8
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
+http://113.117.74.99:8081/hls/36/index.m3u8
+http://udnhls.skilldns.com:80/fhzx.m3u8
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰香港
+http://113.117.74.99:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/红星新闻.png",红星新闻
 https://www.goodiptv.club/douyin/867088577067
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/环球电视.png",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Newsmax.png",NEWSMAX
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="CNNHeadlineNews" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/CNNNEWS.png",CNNNews
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FOXNews" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/FoxNews.png",FoxNews
