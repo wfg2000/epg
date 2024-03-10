@@ -315,7 +315,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV精品萌宠.png",NewTV精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 
-#EXTINF:-1,tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="IHOT",IHOT爱院线
+#EXTINF:-1,tvg-id="IHOT爱院线" tvg-name="爱院线" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="IHOT",IHOT爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="IHOT",IHOT爱科幻
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
@@ -465,7 +465,7 @@ https://www.goodiptv.club/douyin/169366055494
 #EXTINF:-1 group-title="网红直播" tvg-logo="https://wfg2000.github.io/epg/icon/吉他Niko.png",吉他Niko
 https://www.goodiptv.club/douyin/17489050222
 #EXTINF:-1 group-title="网红直播",细路崽崽
-https://live.douyin.com/626715234902
+https://www.goodiptv.club/douyin/626715234902
 #EXTINF:-1 group-title="网红直播" tvg-logo="https://wfg2000.github.io/epg/icon/小苏瑾.png",李素妍
 https://www.goodiptv.club/douyin/51614543445
 #EXTINF:-1 group-title="网红直播",飞行尤尤
