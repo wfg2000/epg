@@ -132,13 +132,13 @@ http://39.135.159.150:8089/PLTV/88888888/224/3221226387/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",海南卫视
 http://39.135.159.150:8089/PLTV/88888888/224/3221226325/index.m3u8
 
-#EXTINF:-1 tvg-name="欧美电影HD" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
+#EXTINF:-1 tvg-name="华数欧美影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
 http://zteres.sn.chinamobile.com:6060/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="华语电影HD" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
+#EXTINF:-1 tvg-name="华数亚洲影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
 http://zteres.sn.chinamobile.com:6060/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",1905电影
+#EXTINF:-1 group-title="电影轮播" tvg-name="1905环球经典" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",1905电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",1906电影
+#EXTINF:-1 group-title="电影轮播" tvg-name="1905极限反转"  tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",1906电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",高清电影
@@ -243,18 +243,18 @@ http://mmitv.top/pltv/huya.php?id=11601977
 https://www.goodiptv.club/huya/11352879
 
 
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/华数高清.png",华数高清
+#EXTINF:-1 group-title="电影轮播" tvg-name="华数电影4K"  tvg-logo="https://wfg2000.github.io/epg/icon/华数高清.png",华数高清
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精彩影视.png",精彩影视
+#EXTINF:-1 group-title="电影轮播" tvg-name="精彩影视"  tvg-logo="https://wfg2000.github.io/epg/icon/精彩影视.png",精彩影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/风尚音乐.png",风尚音乐
+#EXTINF:-1 group-title="电影轮播" tvg-name="华数风尚音乐"  tvg-logo="https://wfg2000.github.io/epg/icon/风尚音乐.png",风尚音乐
 http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
-##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/高清精选.png",高清精选
-#http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
-##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精品剧场.png",精品剧场
-#http://zteres.sn.chinamobile.com:6060/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
-##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/漫游世界.png",漫游世界
-#http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
+#EXTINF:-1 group-title="电影轮播" tvg-name="华数高清娱乐" tvg-logo="https://wfg2000.github.io/epg/icon/高清精选.png",高清精选
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
+#EXTINF:-1 group-title="电影轮播" tvg-name="华数精品剧场"  tvg-logo="https://wfg2000.github.io/epg/icon/精品剧场.png",精品剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
+#EXTINF:-1 group-title="电影轮播" tvg-name="华数漫游世界"  tvg-logo="https://wfg2000.github.io/epg/icon/漫游世界.png",漫游世界
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
 
 
 
