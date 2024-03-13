@@ -247,12 +247,14 @@ https://www.goodiptv.club/huya/11352879
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精彩影视.png",精彩影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/风尚音乐.png",风尚音乐
+http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
 ##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/高清精选.png",高清精选
-#http://111.13.111.242/0000000000001000/1.m3u8?Contentid=6000000003000001569&livemode=1&stbId=3&channel-id=wasusyt&HlsProfileId=
+#http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
 ##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精品剧场.png",精品剧场
-#http://111.13.111.242/0000000000001000/1.m3u8?Contentid=8230197131234717902&livemode=1&stbId=1213&channel-id=wasusyt&HlsProfileId=
+#http://zteres.sn.chinamobile.com:6060/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
 ##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/漫游世界.png",漫游世界
-#http://111.13.111.242/0000000000001000/1.m3u8?Contentid=6000000003000028434&livemode=1&stbId=3&channel-id=wasusyt&HlsProfileId=
+#http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
 
 
 
@@ -360,7 +362,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u
 #EXTINF:-1,tvg-id="IHOT爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="IHOT",IHOT爱谍战
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="IHOT爱怀旧" tvg-name="爱怀旧" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="IHOT",IHOT爱怀旧
-http://zteres.sn.chinamobile.com:6060/000000001000/600000000600026063/index.m3u8?channel-id=wasusyt&Contentid=600000000600026063&livemode=1&stbId=3
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="IHOT爱经典" tvg-name="爱经典" tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="IHOT",IHOT爱经典
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="IHOT爱江湖" tvg-name="爱江湖" tvg-logo="https://epg.112114.xyz/logo/爱江湖.png" group-title="IHOT",IHOT爱江湖
