@@ -119,12 +119,13 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5841816227539527643/index.m3u
 
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金马影院.png",金马影院
 https://pull.kktv8.com/livekktv/128600025.flv
+
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",高清电影
-http://60.208.113.114:8001/newlive/live/hls/89/live.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影.png",动作电影
-http://60.208.113.114:8001/newlive/live/hls/88/live.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭电影.png",家庭电影
-http://60.208.113.114:8001/newlive/live/hls/87/live.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
 http://epg.112114.xyz/douyu/2436390
