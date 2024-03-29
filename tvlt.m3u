@@ -1,41 +1,41 @@
 #EXTM3U url-tvg="https://epg.erw.cc/e.xml,http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
-http://60.208.44.186:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
-http://60.208.44.186:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV3
-http://60.208.44.186:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4
-http://60.208.44.186:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
-http://60.208.44.186:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
-http://60.208.44.186:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
-http://60.208.44.186:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8
-http://60.208.44.186:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV9
-http://60.208.44.186:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
-http://60.208.44.186:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11
-http://60.208.44.186:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
-http://60.208.44.186:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
-http://60.208.44.186:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.flv
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
-http://60.208.44.186:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
-http://60.208.44.186:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV16
-http://60.208.44.186:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 http://60.208.113.114:8001/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+
-http://60.208.44.186:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 
@@ -87,29 +87,29 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
-http://60.208.44.186:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
-http://60.208.44.186:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
-http://60.208.44.186:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
-http://60.208.44.186:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视
-http://60.208.44.186:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
-http://60.208.44.186:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
-http://60.208.44.186:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视频道",东南卫视
-http://60.208.44.186:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
-http://60.208.44.186:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视
-http://60.208.44.186:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
-http://60.208.44.186:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视
-http://60.208.44.186:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.173.134.150:8888/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-name="华数欧美影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
