@@ -86,29 +86,29 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
-http://222.173.134.150:8888/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
-http://222.173.134.150:8888/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
-http://222.173.134.150:8888/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225938/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
-http://222.173.134.150:8888/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视
-http://222.173.134.150:8888/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
-http://222.173.134.150:8888/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225931/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
-http://222.173.134.150:8888/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225997/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视频道",东南卫视
-http://222.173.134.150:8888/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226038/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
-http://222.173.134.150:8888/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视
-http://222.173.134.150:8888/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225935/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
-http://222.173.134.150:8888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226023/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视
-http://222.173.134.150:8888/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225970/index.m3u8
 
 
 #EXTINF:-1 tvg-name="华数欧美影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
