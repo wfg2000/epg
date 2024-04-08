@@ -497,6 +497,10 @@ https://edge1.laotv.la/live/PhoenixNews/index.m3u8
 https://www.goodiptv.club/douyin/867088577067
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/环球电视.png",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/SkyNews.png",SkyNews
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/BBCNews.png",BBCNews
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Newsmax.png",NEWSMAX
@@ -506,13 +510,13 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FOXNews" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/FoxNews.png",FoxNews
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/euronews.png",EuroNews
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 #EXTINF:-1 tvg-name="CNA" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/ChannelNewsAsia.png",ChannelNewsAsia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/RTNews.png",RTNews
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/NHK.png",NHK
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/NTVnews24.png",NtvNews24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/NASA.png",NASA
