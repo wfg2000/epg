@@ -132,10 +132,10 @@ http://39.135.159.150:8089/PLTV/88888888/224/3221226387/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",海南卫视
 http://39.135.159.150:8089/PLTV/88888888/224/3221226325/index.m3u8
 
-#EXTINF:-1 tvg-name="华数欧美影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
-http://zteres.sn.chinamobile.com:6060/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="华数亚洲影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
-http://zteres.sn.chinamobile.com:6060/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
+##EXTINF:-1 tvg-name="华数欧美影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
+#http://zteres.sn.chinamobile.com:6060/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
+##EXTINF:-1 tvg-name="华数亚洲影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
+#http://zteres.sn.chinamobile.com:6060/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",高清电影
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
