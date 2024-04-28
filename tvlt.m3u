@@ -100,11 +100,11 @@ http://xxw.me0.cn/1905dy.php?id=1905a
 http://xxw.me0.cn/1905dy.php?id=1905b
 
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",高清电影
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影.png",动作电影
-http://115.60.241.249:2000/rtp/225.1.4.208:1261
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭电影.png",家庭电影
-http://36.46.99.145:8008/rtp/239.112.205.205:5140
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
 https://www.goodiptv.club/douyu/2436390
@@ -179,7 +179,7 @@ https://www.goodiptv.club/huya/11342423
 https://www.goodiptv.club/huya/11352973
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/古墓系列.png",古墓系列
 https://www.goodiptv.club/huya/11352913
-#EXTINF:-1 tvg-name="成龙作品集" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/成龙影院.png",成龙影院
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/成龙影院.png",成龙影院
 https://www.goodiptv.club/huya/11342386
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/周润发影院.png",周润发影院
 https://www.goodiptv.club/huya/11342387
@@ -403,7 +403,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",ABC
+#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/ABC7.png",ABC7
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Newsmax.png",NEWSMAX
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
