@@ -87,11 +87,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 
 
-#EXTINF:-1 tvg-name="华数欧美影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
-http://51.159.104.29:8080/action/index.m3u8
-#EXTINF:-1 tvg-name="华数亚洲影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
-https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金马影院.png",金马影院
 https://pull.kktv8.com/livekktv/128600025.flv
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/OIPC.png",莲花电影
@@ -206,42 +201,48 @@ http://51.159.104.29:8080/mrbean/index.m3u8
 
 
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/国外科幻.png",国外科幻
-http://mmitv.top/pltv/yy.php?id=1382747628
+https://tv.iill.top/yy/1382747628
 EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/科幻地球.png" , 科幻地球
-http://mmitv.top/pltv/yy.php?id=1354930897
+https://tv.iill.top/yy/1354930897
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/超炫科幻.png", 超炫科幻
-http://mmitv.top/pltv/yy.php?id=1382736840
+https://tv.iill.top/yy/1382736840
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/科幻动作.png" , 科幻动作
-http://mmitv.top/pltv/yy.php?id=1382749948
+https://tv.iill.top/yy/1382749948
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/科幻大片.png" , 科幻大片
-http://mmitv.top/pltv/yy.php?id=1382745181
+https://tv.iill.top/yy/1382745181
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/动作影视.png" , 动作影视
-http://mmitv.top/pltv/yy.php?id=1382736900
+https://tv.iill.top/yy/1382736900
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/战火故事.png" , 战火故事
-http://mmitv.top/pltv/yy.php?id=1382735625
+https://tv.iill.top/yy/1382735625
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/高分大片.png", 高分大片
-http://mmitv.top/pltv/yy.php?id=1382736867
+https://tv.iill.top/yy/1382736867
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国外动作.png", 国外动作
-http://mmitv.top/pltv/yy.php?id=1382735540
+https://tv.iill.top/yy/1382735540
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/全球谍战.png" , 全球谍战
-http://mmitv.top/pltv/yy.php?id=1382736817
+https://tv.iill.top/yy/1382736817
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/动作片场.png" , 动作片场
-http://mmitv.top/pltv/yy.php?id=1354930816
+https://tv.iill.top/yy/1354930816
 
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精彩动作.png" , 精彩动作
-http://mmitv.top/pltv/yy.php?id=1382736823
+https://tv.iill.top/yy/1382736823
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/狙击电影.png" , 狙击电影
-http://mmitv.top/pltv/yy.php?id=1450828388
+https://tv.iill.top/yy/1450828388
 #EXTINF:-1  group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/超然巨作.png", 超然巨作
-http://mmitv.top/pltv/yy.php?id=26623173
+https://tv.iill.top/yy/26623173
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/顶级动作.png" , 顶级动作
-http://mmitv.top/pltv/yy.php?id=24923327
+https://tv.iill.top/yy/24923327
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/科幻电影.png", 科幻电影
-http://mmitv.top/pltv/yy.php?id=1355065896
+https://tv.iill.top/yy/1355065896
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/西部大片.png" , 西部大片
-http://mmitv.top/pltv/yy.php?id=29170933
+https://tv.iill.top/yy/29170933
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/经典二战.png" , 经典二战
-http://mmitv.top/pltv/yy.php?id=1354936238
+https://tv.iill.top/yy/1354936238
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
+http://51.159.104.29:8080/action/index.m3u8
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
+https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="电影轮播",东映电影
 http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 
