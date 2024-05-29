@@ -241,7 +241,8 @@ https://www.goodiptv.club/yy/1354936238
 http://51.159.104.29:8080/action/index.m3u8
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
 https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="电影轮播",生活时尚
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 #EXTINF:-1 group-title="电影轮播",东映电影
 http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
@@ -415,10 +416,10 @@ https://www.goodiptv.club/douyin/646126860390
 https://www.goodiptv.club/douyin/140156089879
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
-http://103.95.24.37:880/fhws.m3u8
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
-http://103.95.24.37:880/fhzx.m3u8
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="全球直播",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
