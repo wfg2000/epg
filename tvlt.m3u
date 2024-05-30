@@ -100,11 +100,12 @@ http://xxw.me0.cn/1905dy.php?id=1905a
 http://xxw.me0.cn/1905dy.php?id=1905b
 
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",高清电影
-http://61.52.26.127:2000/rtp/225.1.4.207:1260
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影.png",动作电影
-http://115.60.241.249:2000/rtp/225.1.4.208:1261
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭电影.png",家庭电影
-http://123.187.46.90:65000/hls/30/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+
 
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
 https://www.goodiptv.club/douyu/2436390
