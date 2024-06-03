@@ -99,7 +99,7 @@ http://xxw.me0.cn/1905dy.php?id=1905a
 #EXTINF:-1 tvg-name="1905环球经典" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",环球经典
 http://xxw.me0.cn/1905dy.php?id=1905b
 
-#EXTINF:-1 tvg-name="CHC高清电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",高清电影
+#EXTINF:-1 tvg-name="CHC影迷电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影.png",动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
@@ -204,50 +204,8 @@ https://www.goodiptv.club/huya/11352879
 http://51.159.104.29:8080/mrbean/index.m3u8
 
 
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/国外科幻.png",国外科幻
-https://www.goodiptv.club/yy/1382747628
-EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/科幻地球.png" , 科幻地球
-https://www.goodiptv.club/yy/1354930897
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/超炫科幻.png", 超炫科幻
-https://www.goodiptv.club/yy/1382736840
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/科幻动作.png" , 科幻动作
-https://www.goodiptv.club/yy/1382749948
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/科幻大片.png" , 科幻大片
-https://www.goodiptv.club/yy/1382745181
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/动作影视.png" , 动作影视
-https://www.goodiptv.club/yy/1382736900
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/战火故事.png" , 战火故事
-https://www.goodiptv.club/yy/1382735625
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/高分大片.png", 高分大片
-https://www.goodiptv.club/yy/1382736867
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国外动作.png", 国外动作
-https://www.goodiptv.club/yy/1382735540
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/全球谍战.png" , 全球谍战
-https://www.goodiptv.club/yy/1382736817
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/动作片场.png" , 动作片场
-https://www.goodiptv.club/yy/1354930816
-
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精彩动作.png" , 精彩动作
-https://www.goodiptv.club/yy/1382736823
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/狙击电影.png" , 狙击电影
-https://www.goodiptv.club/yy/1450828388
-#EXTINF:-1  group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/超然巨作.png", 超然巨作
-https://www.goodiptv.club/yy/26623173
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/顶级动作.png" , 顶级动作
-https://www.goodiptv.club/yy/24923327
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/科幻电影.png", 科幻电影
-https://www.goodiptv.club/yy/1355065896
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/西部大片.png" , 西部大片
-https://www.goodiptv.club/yy/29170933
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/经典二战.png" , 经典二战
-https://www.goodiptv.club/yy/1354936238
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美影院
+#EXTINF:-1 group-title="电影轮播" ,欧美影院
 http://51.159.104.29:8080/action/index.m3u8
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲影院
-https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="电影轮播",生活时尚
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-
 #EXTINF:-1 group-title="电影轮播" ,东映电影
 http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 
@@ -367,8 +325,6 @@ https://www.goodiptv.club/douyin/540975845707
 https://www.goodiptv.club/douyin/538124159732
 #EXTINF:-1 group-title="网络直播",大象新闻
 https://www.goodiptv.club/douyin/238099515779
-#EXTINF:-1 group-title="网络直播",央视新闻
-https://www.goodiptv.club/douyin/870887192950
 #EXTINF:-1 group-title="网络直播",澎湃新闻
 https://www.goodiptv.club/douyin/126991649085
 #EXTINF:-1 group-title="网络直播",荔枝新闻
@@ -437,8 +393,6 @@ http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/环球电视.png",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/TVBS.png",无线新闻
-https://tv.iill.top/tvb/2
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/SkyNews.png",SkyNews
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/BBCNews.png",BBCNews
