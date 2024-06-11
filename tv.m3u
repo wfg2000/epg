@@ -138,7 +138,7 @@ http://39.135.159.150:8089/PLTV/88888888/224/3221226325/index.m3u8
 #http://zteres.sn.chinamobile.com:6060/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC高清电影.png",高清电影
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL000002029/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影.png",动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭电影.png",家庭电影
