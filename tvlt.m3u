@@ -41,18 +41,25 @@ http://live.cgtn.com/1000/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="山东频道",山东卫视
+http://ori.jsblive.hls.domybox.com:91/live/SDWShd-8M/live.m3u8
 https://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://wfg2000.github.io/epg/icon/山东新闻.png" group-title="山东频道",山东新闻
+http://112.235.200.118:9901/tsfile/live/1006_1.m3u8
 https://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://wfg2000.github.io/epg/icon/山东齐鲁.png"" group-title="山东频道",山东齐鲁
+http://112.235.200.118:9901/tsfile/live/1001_1.m3u8
 https://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://wfg2000.github.io/epg/icon/山东生活.png" group-title="山东频道",山东生活
+http://112.235.200.118:9901/tsfile/live/1003_1.m3u8
 https://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://wfg2000.github.io/epg/icon/山东综艺.png" group-title="山东频道",山东综艺
+http://112.235.200.118:9901/tsfile/live/1004_1.m3u8
 https://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://wfg2000.github.io/epg/icon/山东文旅.png" group-title="山东频道",山东文旅
+http://112.235.200.118:9901/tsfile/live/1002_1.m3u8
 https://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://wfg2000.github.io/epg/icon/山东体育.png" group-title="山东频道",山东体育
+http://112.235.200.118:9901/tsfile/live/1005_1.m3u8
 https://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://wfg2000.github.io/epg/icon/临沂综合.png" group-title="山东频道",临沂综合
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
