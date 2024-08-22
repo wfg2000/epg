@@ -133,6 +133,8 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000006/index.m3u8?
 https://pull.kktv8.com/livekktv/128600025.flv
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/OIPC.png",莲花电影
 https://tv.iill.top/mo/lhws
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/OIPC.png",AMC电影
+http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="1905力量影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",力量影院
 http://xxw.me0.cn/1905dy.php?id=1905a
 #EXTINF:-1 tvg-name="1905环球经典" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",环球经典
