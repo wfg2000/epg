@@ -141,11 +141,11 @@ http://xxw.me0.cn/1905dy.php?id=1905a
 http://xxw.me0.cn/1905dy.php?id=1905b
 
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/影迷电影.png",影迷电影
-https://pi.0472.org/chc/ym.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影.png",动作电影
-https://pi.0472.org/chc/dz.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭电影.png",家庭电影
-https://pi.0472.org/chc/jt.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
 https://www.goodiptv.club/douyu/2436390
