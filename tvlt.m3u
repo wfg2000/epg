@@ -64,22 +64,22 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://124.205.11.242:91/live/SDWS-1500k/live.m3u8
 https://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://wfg2000.github.io/epg/icon/山东新闻.png" group-title="山东频道",山东新闻
-http://112.235.200.118:9901/tsfile/live/1006_1.m3u8
+http://221.0.78.198:1681/hls/10222/index.m3u8
 https://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://wfg2000.github.io/epg/icon/山东齐鲁.png"" group-title="山东频道",山东齐鲁
-http://112.235.200.118:9901/tsfile/live/1001_1.m3u8
+hhttp://221.0.78.198:1681/hls/10225/index.m3u8
 https://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://wfg2000.github.io/epg/icon/山东生活.png" group-title="山东频道",山东生活
-http://112.235.200.118:9901/tsfile/live/1003_1.m3u8
+http://221.0.78.198:1681/hls/10226/index.m3u8
 https://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://wfg2000.github.io/epg/icon/山东综艺.png" group-title="山东频道",山东综艺
-http://112.235.200.118:9901/tsfile/live/1004_1.m3u8
+http://221.0.78.198:1681/hls/10220/index.m3u8
 https://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://wfg2000.github.io/epg/icon/山东文旅.png" group-title="山东频道",山东文旅
-http://112.235.200.118:9901/tsfile/live/1002_1.m3u8
+http://221.0.78.198:1681/hls/10219/index.m3u8
 https://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://wfg2000.github.io/epg/icon/山东体育.png" group-title="山东频道",山东体育
-http://112.235.200.118:9901/tsfile/live/1005_1.m3u8
+http://221.0.78.198:1681/hls/10224/index.m3u8
 https://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://wfg2000.github.io/epg/icon/临沂综合.png" group-title="山东频道",临沂综合
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
@@ -406,14 +406,9 @@ https://www.goodiptv.club/douyin/881915323288
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
-http://home.suerwei.net:64444/udp/239.93.0.162:2192
-http://118.112.148.228:4022/udp/239.93.1.9:2192
-http://ayolee.com:5253/udp/239.93.0.162:2192
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
-http://home.suerwei.net:64444/udp/239.93.1.4:2191
-http://125.123.147.253:8888/udp/233.50.200.192:5140
-http://118.112.148.228:4022/udp/239.93.0.118:2191
-http://ayolee.com:5253/udp/239.93.1.4:2191
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/环球电视.png",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
