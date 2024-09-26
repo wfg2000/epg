@@ -144,6 +144,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭电影.png",家庭电影
 http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/全球大片.png",全球大片
+http://47.102.200.34:18081/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/星光影院.png",星光影院
+http://47.102.200.34:18081/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/华语影院.png",华语影院
+http://47.102.200.34:18081/live/program/live/hyyy8m/8000000/mnf.m3u8
 
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
 https://www.goodiptv.club/douyu/2436390
