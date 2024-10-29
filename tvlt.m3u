@@ -243,6 +243,11 @@ https://www.goodiptv.club/huya/11352876
 https://www.goodiptv.club/huya/11601977
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/猫和老鼠.png",猫和老鼠
 https://www.goodiptv.club/huya/11352879
+#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",院线动作
+https://lunbo.freetv.top/yy/1382735570
+#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外科幻
+https://lunbo.freetv.top/yy/1382747628
+
 #EXTINF:-1 group-title="电影轮播" ,东映电影
 http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 
