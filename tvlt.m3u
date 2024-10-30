@@ -265,11 +265,9 @@ https://lunbo.freetv.top/yy/1382736840
 https://lunbo.freetv.top/yy/1382745181
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png" , 战火故事
 https://lunbo.freetv.top/yy/1382735625
-
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png", 高分大片
 https://lunbo.freetv.top/yy/1382736867
-#EXTINF:-1 group-title="电影轮播" ,东映电影
-http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
+
 
 #EXTINF:-1 group-title="NewTV" tvg-name="超级电影"  tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png",NewTV超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
