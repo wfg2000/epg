@@ -102,10 +102,13 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 http://xxw.me0.cn/1905dy.php?id=1905b
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/影迷电影.png",影迷电影
+http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
 http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影.png",动作电影
+http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
 http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭电影.png",家庭电影
+http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
 http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
@@ -415,8 +418,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/环球电视.png",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/ebc.png",东森新闻
-http://211.72.65.236:8540/.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/BBCNews.png",BBCNews
