@@ -239,6 +239,8 @@ http://192.168.3.91:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
 http://192.168.3.91:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="NewTV"  tvg-name="超级电视剧" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电视剧.png",NewTV超级电视剧
 http://192.168.3.91:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+#EXTINF:-1,group-title="NewTV"  tvg-name="精品综合" tvg-logo="https://epg.v1.mk/logo/NewTV精品综合.png" ,NewTV精品综合
+http://192.168.3.91:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="NewTV"  tvg-name="精品大剧" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV精品大剧.png",NewTV精品大剧
 http://192.168.3.91:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="NewTV"  tvg-name="家庭剧场" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV家庭剧场.png",NewTV家庭剧场
@@ -279,35 +281,35 @@ http://192.168.3.91:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
 http://192.168.3.91:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
 
 
-#EXTINF:-1,tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://epg.v1.mk/logo/IHOT爱院线.png" group-title="IHOT",iHOT-爱院线
+#EXTINF:-1,tvg-id="IHOT爱院线" tvg-name="爱院线" tvg-logo="https://epg.v1.mk/logo/IHOT爱院线.png" group-title="IHOT",iHOT-爱院线
 http://192.168.3.91:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://epg.v1.mk/logo/IHOT爱谍战.png" group-title="IHOT",iHOT-爱谍战
+#EXTINF:-1,tvg-id="IHOT爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.v1.mk/logo/IHOT爱谍战.png" group-title="IHOT",iHOT-爱谍战
 http://192.168.3.91:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png" group-title="IHOT",iHOT-爱科幻
+#EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png" group-title="IHOT",iHOT-爱科幻
 http://192.168.3.91:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱浪漫" tvg-name="IHOT爱浪漫" tvg-logo="https://epg.v1.mk/logo/IHOT爱浪漫.png" group-title="IHOT",iHOT-爱浪漫
+#EXTINF:-1,tvg-id="IHOT爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.v1.mk/logo/IHOT爱浪漫.png" group-title="IHOT",iHOT-爱浪漫
 http://192.168.3.91:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱历史" tvg-name="IHOT爱历史" tvg-logo="https://epg.v1.mk/logo/IHOT爱历史.png" group-title="IHOT",iHOT-爱历史
+#EXTINF:-1,tvg-id="IHOT爱历史" tvg-name="爱历史" tvg-logo="https://epg.v1.mk/logo/IHOT爱历史.png" group-title="IHOT",iHOT-爱历史
 http://192.168.3.91:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧" tvg-logo="https://epg.v1.mk/logo/IHOT爱喜剧.png" group-title="IHOT",iHOT-爱喜剧
+#EXTINF:-1,tvg-id="IHOT爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.v1.mk/logo/IHOT爱喜剧.png" group-title="IHOT",iHOT-爱喜剧
 http://192.168.3.91:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://epg.v1.mk/logo/IHOT爱悬疑.png" group-title="IHOT",iHOT-爱悬疑
+#EXTINF:-1,tvg-id="IHOT爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.v1.mk/logo/IHOT爱悬疑.png" group-title="IHOT",iHOT-爱悬疑
 http://192.168.3.91:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱科学" tvg-name="IHOT爱科学" tvg-logo="https://epg.v1.mk/logo/IHOT爱科学.png" group-title="IHOT",iHOT-爱科学
+#EXTINF:-1,tvg-id="IHOT爱科学" tvg-name="爱科学" tvg-logo="https://epg.v1.mk/logo/IHOT爱科学.png" group-title="IHOT",iHOT-爱科学
 http://192.168.3.91:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱旅行" tvg-name="IHOT爱旅行" tvg-logo="https://epg.v1.mk/logo/IHOT爱旅行.png" group-title="IHOT",iHOT-爱旅行
+#EXTINF:-1,tvg-id="IHOT爱旅行" tvg-name="爱旅行" tvg-logo="https://epg.v1.mk/logo/IHOT爱旅行.png" group-title="IHOT",iHOT-爱旅行
 http://192.168.3.91:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱奇谈" tvg-name="IHOT爱奇谈" tvg-logo="https://epg.v1.mk/logo/IHOT爱奇谈.png" group-title="IHOT",iHOT-爱奇谈
+#EXTINF:-1,tvg-id="IHOT爱奇谈" tvg-name="爱奇谈" tvg-logo="https://epg.v1.mk/logo/IHOT爱奇谈.png" group-title="IHOT",iHOT-爱奇谈
 http://192.168.3.91:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://epg.v1.mk/logo/IHOT爱赛车.png" group-title="IHOT",iHOT-爱赛车
+#EXTINF:-1,tvg-id="IHOT爱赛车" tvg-name="爱赛车" tvg-logo="https://epg.v1.mk/logo/IHOT爱赛车.png" group-title="IHOT",iHOT-爱赛车
 http://192.168.3.91:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱体育" tvg-name="IHOT爱体育" tvg-logo="https://epg.v1.mk/logo/IHOT爱体育.png" group-title="IHOT",iHOT-爱体育
+#EXTINF:-1,tvg-id="IHOT爱体育" tvg-name="爱体育" tvg-logo="https://epg.v1.mk/logo/IHOT爱体育.png" group-title="IHOT",iHOT-爱体育
 http://192.168.3.91:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教" tvg-logo="https://epg.v1.mk/logo/IHOT爱幼教.png" group-title="IHOT",iHOT-爱幼教
+#EXTINF:-1,tvg-id="IHOT爱幼教" tvg-name="爱幼教" tvg-logo="https://epg.v1.mk/logo/IHOT爱幼教.png" group-title="IHOT",iHOT-爱幼教
 http://192.168.3.91:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://epg.v1.mk/logo/IHOT爱动漫.png" group-title="IHOT",iHOT-爱动漫
+#EXTINF:-1,tvg-id="IHOT爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.v1.mk/logo/IHOT爱动漫.png" group-title="IHOT",iHOT-爱动漫
 http://192.168.3.91:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://epg.v1.mk/logo/IHOT爱玩具.png" group-title="IHOT",iHOT-爱玩具
+#EXTINF:-1,tvg-id="IHOT爱玩具" tvg-name="爱玩具" tvg-logo="https://epg.v1.mk/logo/IHOT爱玩具.png" group-title="IHOT",iHOT-爱玩具
 http://192.168.3.91:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
 
 
