@@ -91,9 +91,9 @@ http://192.168.3.91:35455/itv/1000000006000268001.m3u8?cdn=ystenlive
 http://192.168.3.91:35455/itv/5000000011000031119.m3u8?cdn=bestzb
 
 
-#EXTINF:-1 tvg-name="华数欧美影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
+#EXTINF:-1 tvg-name="欧美影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000005&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="华数亚洲影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
+#EXTINF:-1 tvg-name="亚洲影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000006&IASHttpSessionId=OTT19019320240419154124000281
 
 #EXTINF:-1 tvg-name="1905力量影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",力量影院
@@ -126,85 +126,6 @@ http://192.168.3.91:35455/douyu/1165374
 http://192.168.3.91:35455/douyu/9651304
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",小白影院
 http://192.168.3.91:35455/douyu/322360
-
-##EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/谍战电影.png",谍战电影
-#http://192.168.3.91:35455/huya/21059587
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/动作枪战.png",动作枪战
-http://192.168.3.91:35455/huya/21059579
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/战争大片.png",战争大片
-http://192.168.3.91:35455/huya/21059574
-##EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/救援大片.png",救援大片
-#http://192.168.3.91:35455/huya/21059594
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/007电影.png",007电影
-http://192.168.3.91:35455/huya/21059585
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/速度激情.png",速度激情
-http://192.168.3.91:35455/huya/21059556
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/巨石强森.png",巨石强森
-http://192.168.3.91:35455/huya/21059581
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/杰斯坦森.png",杰斯坦森
-http://192.168.3.91:35455/huya/21059588
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/漫威英雄.png",漫威英雄
-http://192.168.3.91:35455/huya/11342428
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/怪兽异形.png",怪兽异形
-http://192.168.3.91:35455/huya/21059577
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/死神来了.png",死神来了
-http://192.168.3.91:35455/huya/11352903
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精品电影.png",精品电影
-http://192.168.3.91:35455/huya/11352963
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/韩国高分.png",韩国高分
-http://192.168.3.91:35455/huya/11352884
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/犯罪电影.png",犯罪电影
-http://192.168.3.91:35455/huya/11352962
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/警匪系列.png",警匪系列
-http://192.168.3.91:35455/huya/11352886
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国产大片.png",国产大片
-http://192.168.3.91:35455/huya/11602077
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/贺岁大片.png",贺岁大片
-http://192.168.3.91:35455/huya/11601986
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/黑帮系列.png",黑帮系列
-http://192.168.3.91:35455/huya/11342419
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/古惑系列.png",古惑系列
-http://192.168.3.91:35455/huya/11336719
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/盗墓经典.png",盗墓经典
-http://192.168.3.91:35455/huya/21059552
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金庸系列.png",金庸系列
-http://192.168.3.91:35455/huya/11342427
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/古装武侠.png",古装武侠
-http://192.168.3.91:35455/huya/11342435
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/中国功夫.png",中国功夫
-http://192.168.3.91:35455/huya/11352941
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/赛车系列.png",赛车系列
-http://192.168.3.91:35455/huya/11279247
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/女神系列.png",女神系列
-http://192.168.3.91:35455/huya/11336571
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/喜剧系列.png",喜剧系列
-http://192.168.3.91:35455/huya/11602044
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/搞笑喜剧.png",搞笑喜剧
-http://192.168.3.91:35455/huya/11342423
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/玄幻系列.png",玄幻系列
-http://192.168.3.91:35455/huya/11352973
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/古墓系列.png",古墓系列
-http://192.168.3.91:35455/huya/11352913
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/成龙影院.png",成龙影院
-http://192.168.3.91:35455/huya/11342386
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/周润发影院.png",周润发影院
-http://192.168.3.91:35455/huya/11342387
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/刘德华影院.png",刘德华影院
-http://192.168.3.91:35455/huya/11342424
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/周星驰影院.png",周星驰影院
-http://192.168.3.91:35455/huya/11342412
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/古天乐影院.png",古天乐影院
-http://192.168.3.91:35455/huya/11602041
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/李连杰影院.png",李连杰影院
-http://192.168.3.91:35455/huya/11342390
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/甄子丹影院.png",甄子丹影院
-http://192.168.3.91:35455/huya/11352935
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/黄渤影院.png",黄渤影院
-http://192.168.3.91:35455/huya/11352876
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/吴京影院.png",吴京影院
-http://192.168.3.91:35455/huya/11601977
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/猫和老鼠.png",猫和老鼠
-http://192.168.3.91:35455/huya/11352879
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",院线动作
 http://192.168.3.91:35455/yy/1382735570
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",顶级动作
@@ -225,6 +146,86 @@ http://192.168.3.91:35455/yy/1382747628
 http://192.168.3.91:35455/yy/1382745181
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png", 高分大片
 http://192.168.3.91:35455/yy/1382736867
+
+##EXTINF:-1 group-title="虎牙电影"  tvg-logo="https://wfg2000.github.io/epg/icon/谍战电影.png",谍战电影
+#http://192.168.3.91:35455/huya/21059587
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/动作枪战.png",动作枪战
+http://192.168.3.91:35455/huya/21059579
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/战争大片.png",战争大片
+http://192.168.3.91:35455/huya/21059574
+##EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/救援大片.png",救援大片
+#http://192.168.3.91:35455/huya/21059594
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/007电影.png",007电影
+http://192.168.3.91:35455/huya/21059585
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/速度激情.png",速度激情
+http://192.168.3.91:35455/huya/21059556
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/巨石强森.png",巨石强森
+http://192.168.3.91:35455/huya/21059581
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/杰斯坦森.png",杰斯坦森
+http://192.168.3.91:35455/huya/21059588
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/漫威英雄.png",漫威英雄
+http://192.168.3.91:35455/huya/11342428
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/怪兽异形.png",怪兽异形
+http://192.168.3.91:35455/huya/21059577
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/死神来了.png",死神来了
+http://192.168.3.91:35455/huya/11352903
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/精品电影.png",精品电影
+http://192.168.3.91:35455/huya/11352963
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/韩国高分.png",韩国高分
+http://192.168.3.91:35455/huya/11352884
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/犯罪电影.png",犯罪电影
+http://192.168.3.91:35455/huya/11352962
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/警匪系列.png",警匪系列
+http://192.168.3.91:35455/huya/11352886
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/国产大片.png",国产大片
+http://192.168.3.91:35455/huya/11602077
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/贺岁大片.png",贺岁大片
+http://192.168.3.91:35455/huya/11601986
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/黑帮系列.png",黑帮系列
+http://192.168.3.91:35455/huya/11342419
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/古惑系列.png",古惑系列
+http://192.168.3.91:35455/huya/11336719
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/盗墓经典.png",盗墓经典
+http://192.168.3.91:35455/huya/21059552
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/金庸系列.png",金庸系列
+http://192.168.3.91:35455/huya/11342427
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/古装武侠.png",古装武侠
+http://192.168.3.91:35455/huya/11342435
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/中国功夫.png",中国功夫
+http://192.168.3.91:35455/huya/11352941
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/赛车系列.png",赛车系列
+http://192.168.3.91:35455/huya/11279247
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/女神系列.png",女神系列
+http://192.168.3.91:35455/huya/11336571
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/喜剧系列.png",喜剧系列
+http://192.168.3.91:35455/huya/11602044
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/搞笑喜剧.png",搞笑喜剧
+http://192.168.3.91:35455/huya/11342423
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/玄幻系列.png",玄幻系列
+http://192.168.3.91:35455/huya/11352973
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/古墓系列.png",古墓系列
+http://192.168.3.91:35455/huya/11352913
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/成龙影院.png",成龙影院
+http://192.168.3.91:35455/huya/11342386
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/周润发影院.png",周润发影院
+http://192.168.3.91:35455/huya/11342387
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/刘德华影院.png",刘德华影院
+http://192.168.3.91:35455/huya/11342424
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/周星驰影院.png",周星驰影院
+http://192.168.3.91:35455/huya/11342412
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/古天乐影院.png",古天乐影院
+http://192.168.3.91:35455/huya/11602041
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/李连杰影院.png",李连杰影院
+http://192.168.3.91:35455/huya/11342390
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/甄子丹影院.png",甄子丹影院
+http://192.168.3.91:35455/huya/11352935
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/黄渤影院.png",黄渤影院
+http://192.168.3.91:35455/huya/11352876
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/吴京影院.png",吴京影院
+http://192.168.3.91:35455/huya/11601977
+#EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/猫和老鼠.png",猫和老鼠
+http://192.168.3.91:35455/huya/11352879
+
 
 #EXTINF:-1 group-title="NewTV" tvg-name="超级电影"  tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png",NewTV超级电影
 http://192.168.3.91:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
