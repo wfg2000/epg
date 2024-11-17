@@ -37,11 +37,11 @@ http://192.168.3.91:35455/ysptp/cctv17.m3u8
 http://192.168.3.91:35455/ysptp/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
 http://192.168.3.91:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
-#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4K频道",cctv4k
+#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视频道",cctv4k
 http://192.168.3.91:35455/ysptp/cctv4k.m3u8
-#EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="4K频道",华数-4K
+#EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="央视频道",华数-4K
 http://192.168.3.91:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="4K频道",纯享-4K
+#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="央视频道",纯享-4K
 http://192.168.3.91:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 
 
@@ -116,8 +116,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 http://192.168.3.91:35455/douyu/2436390
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣影院.png",豆瓣影院
 http://192.168.3.91:35455/douyu/8770422
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/宇哥经典.png",宇哥经典
-http://192.168.3.91:35455/douyu/413573
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧典影院.png",欧典影院
 http://192.168.3.91:35455/douyu/8945323
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/霍格影院.png",霍格影院
@@ -223,12 +221,8 @@ http://192.168.3.91:35455/yy/1382736823
 http://192.168.3.91:35455/yy/1355065896
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外科幻
 http://192.168.3.91:35455/yy/1382747628
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",超炫科幻
-http://192.168.3.91:35455/yy/1382736840
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",科幻大片
 http://192.168.3.91:35455/yy/1382745181
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",战火故事
-http://192.168.3.91:35455/yy/1382735625
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png", 高分大片
 http://192.168.3.91:35455/yy/1382736867
 
@@ -316,13 +310,13 @@ http://192.168.3.91:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
 http://192.168.3.91:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
 
 
-#EXTINF:-1, group-title="科教历史"  tvg-name="求索动物" tvg-logo="https://wfg2000.github.io/epg/icon/求索动物.png",求索动物
+#EXTINF:-1, group-title="科教历史"  tvg-name="求索动物" tvg-logo="https://epg.v1.mk/logo/求索动物.png",求索动物
 http://192.168.3.91:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
-#EXTINF:-1, group-title="科教历史"  tvg-name="求索纪录" tvg-logo="https://wfg2000.github.io/epg/icon/求索纪录.png",求索纪录
+#EXTINF:-1, group-title="科教历史"  tvg-name="求索纪录" tvg-logo="https://epg.v1.mk/logo/求索纪录.png",求索纪录
 http://192.168.3.91:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
-#EXTINF:-1, group-title="科教历史"  tvg-name="求索科学" tvg-logo="https://wfg2000.github.io/epg/icon/求索科学.png",求索科学
+#EXTINF:-1, group-title="科教历史"  tvg-name="求索科学" tvg-logo="https://epg.v1.mk/logo/求索科学.png",求索科学
 http://192.168.3.91:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
-#EXTINF:-1, group-title="科教历史"  tvg-name="求索生活" tvg-logo="https://wfg2000.github.io/epg/icon/求索生活.png",求索生活
+#EXTINF:-1, group-title="科教历史"  tvg-name="求索生活" tvg-logo="https://epg.v1.mk/logo/求索生活.png",求索生活
 http://192.168.3.91:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/未知科技.png",未知科技
 http://192.168.3.91:35455/douyu/9385288
@@ -330,7 +324,6 @@ http://192.168.3.91:35455/douyu/9385288
 http://192.168.3.91:35455/douyu/9383318
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/科学放映.png",科学放映
 http://192.168.3.91:35455/douyu/9439712
-
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/神秘宇宙.png",神秘宇宙
 http://192.168.3.91:35455/douyu/9606719
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/未解之谜.png",未解之谜
@@ -339,7 +332,6 @@ http://192.168.3.91:35455/douyu/9369468
 http://192.168.3.91:35455/douyu/9739138
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/约翰杂谈.png",约翰杂谈
 http://192.168.3.91:35455/douyu/9738854
-
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/科学黑史.png",科学黑史
 http://192.168.3.91:35455/douyu/9317739
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/老巴评测.png",老巴评测
@@ -405,7 +397,6 @@ http://192.168.3.91:35455/douyin/161798285107
 http://192.168.3.91:35455/douyin/867088577067
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",澎湃新闻
 http://192.168.3.91:35455/douyin/126991649085
-
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",封面新闻
 http://192.168.3.91:35455/douyin/60299972768
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",看度新闻
