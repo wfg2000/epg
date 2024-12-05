@@ -130,6 +130,31 @@ http://159.75.85.63:35455/douyu/9651304
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",小白影院
 http://159.75.85.63:35455/douyu/322360
 
+#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",院线动作
+https://lunbo.freetv.top/yy/1382735570
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",顶级动作
+https://lunbo.freetv.top/yy/24923327
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外动作
+https://lunbo.freetv.top/yy/1382735540
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",全球谍战
+https://lunbo.freetv.top/yy/1382736817
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",动作片场
+https://lunbo.freetv.top/yy/1354930816
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",精彩动作
+https://lunbo.freetv.top/yy/1382736823
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",科幻电影
+https://lunbo.freetv.top/yy/1355065896
+#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外科幻
+https://lunbo.freetv.top/yy/1382747628
+#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",超炫科幻
+https://lunbo.freetv.top/yy/1382736840
+#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",科幻大片
+https://lunbo.freetv.top/yy/1382745181
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png" , 战火故事
+https://lunbo.freetv.top/yy/1382735625
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png", 高分大片
+https://lunbo.freetv.top/yy/1382736867
+
 ##EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/谍战电影.png",谍战电影
 #http://159.75.85.63:35455/huya/21059587
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/动作枪战.png",动作枪战
@@ -208,30 +233,6 @@ http://159.75.85.63:35455/huya/11352876
 http://159.75.85.63:35455/huya/11601977
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/猫和老鼠.png",猫和老鼠
 http://159.75.85.63:35455/huya/11352879
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",院线动作
-https://lunbo.freetv.top/yy/1382735570
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",顶级动作
-https://lunbo.freetv.top/yy/24923327
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外动作
-https://lunbo.freetv.top/yy/1382735540
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",全球谍战
-https://lunbo.freetv.top/yy/1382736817
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",动作片场
-https://lunbo.freetv.top/yy/1354930816
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",精彩动作
-https://lunbo.freetv.top/yy/1382736823
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",科幻电影
-https://lunbo.freetv.top/yy/1355065896
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外科幻
-https://lunbo.freetv.top/yy/1382747628
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",超炫科幻
-https://lunbo.freetv.top/yy/1382736840
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",科幻大片
-https://lunbo.freetv.top/yy/1382745181
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png" , 战火故事
-https://lunbo.freetv.top/yy/1382735625
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png", 高分大片
-https://lunbo.freetv.top/yy/1382736867
 
 #EXTINF:-1 group-title="NewTV" tvg-name="超级电影"  tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png",NewTV超级电影
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/1.m3u8
