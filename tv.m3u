@@ -322,35 +322,35 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="精品萌宠" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV精品萌宠.png",NewTV精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 
-#EXTINF:-1 group-title="iHOT",爱院线
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱院线.png",爱院线
 http://39.134.136.161:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱科幻
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png",爱科幻
 http://39.134.136.161:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱谍战
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱谍战.png",爱谍战
 http://39.134.136.161:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱悬疑
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱悬疑.png",爱悬疑
 http://39.134.136.161:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱科学
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱科学.png",爱科学
 http://39.134.136.161:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱浪漫
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱浪漫.png",爱浪漫
 http://39.134.136.161:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱历史
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱历史.png",爱历史
 http://39.134.136.161:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱喜剧
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱喜剧.png",爱喜剧
 http://39.134.136.161:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱旅行
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱旅行.png",爱旅行
 http://39.134.136.161:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱奇谈
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱奇谈.png",爱奇谈
 http://39.134.136.161:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱赛车
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱赛车.png",爱赛车
 http://39.134.136.161:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱体育
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱体育.png",爱体育
 http://39.134.136.161:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱幼教
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱幼教.png",爱幼教
 http://39.134.136.161:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱动漫
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱动漫.png",爱动漫
 http://39.134.136.161:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="iHOT",爱玩具
+#EXTINF:-1 group-title="iHOT" tvg-logo="https://epg.v1.mk/logo/IHOT爱玩具.png",爱玩具
 http://39.134.136.161:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3$ITV
 
 
