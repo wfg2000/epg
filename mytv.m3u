@@ -404,6 +404,8 @@ http://192.168.3.91:35455/bilibili/25345699
 http://192.168.3.91:35455/douyin/646207097164
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",兰山融媒
 http://192.168.3.91:35455/douyin/161798285107
+#EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",兰山直播
+http://192.168.3.91:35455/douyin/16378144724
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",红星新闻
 http://192.168.3.91:35455/douyin/867088577067
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",澎湃新闻
