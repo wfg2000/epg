@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml,https://epg.erw.cc/all.xml,http://epg.51zmt.top:8000/e.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml,https://e.erw.cc/all.xml,http://epg.51zmt.top:8000/e.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
 http://39.135.159.150:8089/PLTV/88888888/224/3221225859/index.m3u8
@@ -40,30 +40,7 @@ http://39.135.159.150:8089/PLTV/88888888/224/3221225781/index.m3u8
 http://39.135.159.150:8089/PLTV/88888888/224/3221226320/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频道",CCTV4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视频道",CCTV第一剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视频道",CCTV风云剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://wfg2000.github.io/epg/icon/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频道",CCTV风云音乐
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视频道",CCTV女性时尚
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://wfg2000.github.io/epg/icon/CCTV兵器科技.png" group-title="央视频道",CCTV兵器科技
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视频道",CCTV文化精品
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频道",CCTV世界地理
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视频道",CCTV央视台球
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://wfg2000.github.io/epg/icon/CCTV高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://wfg2000.github.io/epg/icon/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://wfg2000.github.io/epg/icon/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="山东频道",山东卫视
 http://39.135.159.150:8089/PLTV/88888888/224/3221226144/index.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://wfg2000.github.io/epg/icon/山东新闻.png" group-title="山东频道",山东新闻
@@ -152,122 +129,120 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭电影.png",家庭电影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金马影院.png",金马影院
-https://pull.kktv8.com/livekktv/128600025.flv
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
-https://www.goodiptv.club/douyu/2436390
+https://live.iill.top/douyu/2436390
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣影院.png",豆瓣影院
-https://www.goodiptv.club/douyu/8770422
+https://live.iill.top/douyu/8770422
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/宇哥经典.png",宇哥经典
-https://www.goodiptv.club/douyu/413573
+https://live.iill.top/douyu/413573
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧典影院.png",欧典影院
-https://www.goodiptv.club/douyu/8945323
+https://live.iill.top/douyu/8945323
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/霍格影院.png",霍格影院
-https://www.goodiptv.club/douyu/8814650
+https://live.iill.top/douyu/8814650
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/恐怖经典.png",恐怖经典
-https://www.goodiptv.club/douyu/1165374
+https://live.iill.top/douyu/1165374
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/变形人类.png",变形人类
-https://www.goodiptv.club/douyu/9651304
+https://live.iill.top/douyu/9651304
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",院线动作
-https://lunbo.freetv.top/yy/1382735570
+https://live.iill.top/yy/1382735570
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",顶级动作
-https://lunbo.freetv.top/yy/24923327
+https://live.iill.top/yy/24923327
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外动作
-https://lunbo.freetv.top/yy/1382735540
+https://live.iill.top/yy/1382735540
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",全球谍战
-https://lunbo.freetv.top/yy/1382736817
+https://live.iill.top/yy/1382736817
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",动作片场
-https://lunbo.freetv.top/yy/1354930816
+https://live.iill.top/yy/1354930816
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",精彩动作
-https://lunbo.freetv.top/yy/1382736823
+https://live.iill.top/yy/1382736823
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",科幻电影
-https://lunbo.freetv.top/yy/1355065896
+https://live.iill.top/yy/1355065896
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外科幻
-https://lunbo.freetv.top/yy/1382747628
+https://live.iill.top/yy/1382747628
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",超炫科幻
-https://lunbo.freetv.top/yy/1382736840
+https://live.iill.top/yy/1382736840
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",科幻大片
-https://lunbo.freetv.top/yy/1382745181
+https://live.iill.top/yy/1382745181
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png" , 战火故事
-https://lunbo.freetv.top/yy/1382735625
+https://live.iill.top/yy/1382735625
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png", 高分大片
-https://lunbo.freetv.top/yy/1382736867
+https://live.iill.top/yy/1382736867
 
 
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/动作枪战.png",动作枪战
-https://www.goodiptv.club/huya/21059579
+https://live.iill.top/huya/21059579
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/战争大片.png",战争大片
-https://www.goodiptv.club/huya/21059574
+https://live.iill.top/huya/21059574
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/007电影.png",007电影
-https://www.goodiptv.club/huya/21059585
+https://live.iill.top/huya/21059585
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/速度激情.png",速度激情
-https://www.goodiptv.club/huya/21059556
+https://live.iill.top/huya/21059556
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/巨石强森.png",巨石强森
-https://www.goodiptv.club/huya/21059581
+https://live.iill.top/huya/21059581
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/杰斯坦森.png",杰斯坦森
-https://www.goodiptv.club/huya/21059588
+https://live.iill.top/huya/21059588
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/漫威英雄.png",漫威英雄
-https://www.goodiptv.club/huya/11342428
+https://live.iill.top/huya/11342428
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/怪兽异形.png",怪兽异形
-https://www.goodiptv.club/huya/21059577
+https://live.iill.top/huya/21059577
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/死神来了.png",死神来了
-https://www.goodiptv.club/huya/11352903
+https://live.iill.top/huya/11352903
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/精品电影.png",精品电影
-https://www.goodiptv.club/huya/11352963
+https://live.iill.top/huya/11352963
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/韩国高分.png",韩国高分
 http://mmitv.top/pltv/huya.php?id=11352884
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/犯罪电影.png",犯罪电影
-https://www.goodiptv.club/huya/11352962
+https://live.iill.top/huya/11352962
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/警匪系列.png",警匪系列
-https://www.goodiptv.club/huya/11352886
+https://live.iill.top/huya/11352886
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国产大片.png",国产大片
-https://www.goodiptv.club/huya/11602077
+https://live.iill.top/huya/11602077
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/贺岁大片.png",贺岁大片
-https://www.goodiptv.club/huya/11601986
+https://live.iill.top/huya/11601986
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/黑帮系列.png",黑帮系列
-https://www.goodiptv.club/huya/11342419
+https://live.iill.top/huya/11342419
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/古惑系列.png",古惑系列
-https://www.goodiptv.club/huya/11336719
+https://live.iill.top/huya/11336719
 #EXTINF:-1  group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/盗墓经典.png",盗墓经典
-https://www.goodiptv.club/huya/21059552
+https://live.iill.top/huya/21059552
 #EXTINF:-1  group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/金庸系列.png",金庸系列
-https://www.goodiptv.club/huya/11342427
+https://live.iill.top/huya/11342427
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/古装武侠.png",古装武侠
-https://www.goodiptv.club/huya/11342435
+https://live.iill.top/huya/11342435
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/中国功夫.png",中国功夫
-https://www.goodiptv.club/huya/11352941
+https://live.iill.top/huya/11352941
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/赛车系列.png",赛车系列
-https://www.goodiptv.club/huya/11279247
+https://live.iill.top/huya/11279247
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/女神系列.png",女神系列
-https://www.goodiptv.club/huya/11336571
+https://live.iill.top/huya/11336571
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/喜剧系列.png",喜剧系列
-https://www.goodiptv.club/huya/11602044
+https://live.iill.top/huya/11602044
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/搞笑喜剧.png",搞笑喜剧
-https://www.goodiptv.club/huya/11342423
+https://live.iill.top/huya/11342423
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/玄幻系列.png",玄幻系列
-https://www.goodiptv.club/huya/11352973
+https://live.iill.top/huya/11352973
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/古墓系列.png",古墓系列
-https://www.goodiptv.club/huya/11352913
+https://live.iill.top/huya/11352913
 #EXTINF:-1  group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/成龙影院.png",成龙影院
-https://www.goodiptv.club/huya/11342386
+https://live.iill.top/huya/11342386
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/周润发影院.png",周润发影院
-https://www.goodiptv.club/huya/11342387
+https://live.iill.top/huya/11342387
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/刘德华影院.png",刘德华影院
-https://www.goodiptv.club/huya/11342424
+https://live.iill.top/huya/11342424
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/周星驰影院.png",周星驰影院
-https://www.goodiptv.club/huya/11342412
+https://live.iill.top/huya/11342412
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/古天乐影院.png",古天乐影院
-https://www.goodiptv.club/huya/11602041
+https://live.iill.top/huya/11602041
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/李连杰影院.png",李连杰影院
-https://www.goodiptv.club/huya/11342390
+https://live.iill.top/huya/11342390
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/甄子丹影院.png",甄子丹影院
-https://www.goodiptv.club/huya/11352935
+https://live.iill.top/huya/11352935
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/黄渤影院.png",黄渤影院
-https://www.goodiptv.club/huya/11352876
+https://live.iill.top/huya/11352876
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/吴京影院.png",吴京影院
-http://mmitv.top/pltv/huya.php?id=11601977
+https://live.iill.top/huya/11601977
 #EXTINF:-1 group-title="虎牙轮播" tvg-logo="https://wfg2000.github.io/epg/icon/猫和老鼠.png",猫和老鼠
-https://www.goodiptv.club/huya/11352879
+https://live.iill.top/huya/11352879
 
 
 
@@ -355,85 +330,84 @@ http://39.134.136.161:6610/000000001000/6000000006000220630/index.m3u8?channel-i
 
 
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/未知科技.png",未知科技
-https://www.goodiptv.club/douyu/9385288
+https://live.iill.top/douyu/9385288
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/果库科幻.png",果库科幻
-https://www.goodiptv.club/douyu/9383318
+https://live.iill.top/douyu/9383318
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/科学放映.png",科学放映
-https://www.goodiptv.club/douyu/9439712
+https://live.iill.top/douyu/9439712
 
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/神秘宇宙.png",神秘宇宙
-https://www.goodiptv.club/douyu/9606719
+https://live.iill.top/douyu/9606719
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/未解之谜.png",未解之谜
-https://www.goodiptv.club/douyu/9369468
+https://live.iill.top/douyu/9369468
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/硬核时事.png",硬核时事
-https://www.goodiptv.club/douyu/9739138
+https://live.iill.top/douyu/9739138
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/约翰杂谈.png",约翰杂谈
-https://www.goodiptv.club/douyu/9738854
+https://live.iill.top/douyu/9738854
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/科学黑史.png",科学黑史
-https://www.goodiptv.club/douyu/9317739
+https://live.iill.top/douyu/9317739
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/老巴评测.png",老巴评测
-https://www.goodiptv.club/douyu/9642554
+https://live.iill.top/douyu/9642554
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/街头英语.png",街头英语
-https://www.goodiptv.club/douyu/9548244
+https://live.iill.top/douyu/9548244
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/英语小兔.png",英语小兔
-https://www.goodiptv.club/douyu/9504916
+https://live.iill.top/douyu/9504916
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",挖沟连长
-https://www.goodiptv.club/douyu/8413092
+https://live.iill.top/douyu/8413092
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",真实案件
-https://www.goodiptv.club/douyu/9754849
+https://live.iill.top/douyu/9754849
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/huya.png",元宝奇案
-https://www.goodiptv.club/huya/23759395
+https://live.iill.top/huya/23759395
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/huya.png",鬼叔奇谈
-https://www.goodiptv.club/huya/20985821
+https://live.iill.top/huya/20985821
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",奇趣研究
-https://www.goodiptv.club/douyu/8661456
+https://live.iill.top/douyu/8661456
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",OE档案
-https://www.goodiptv.club/douyu/6725858
+https://live.iill.top/douyu/6725858
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",大吉故事
-https://www.goodiptv.club/douyu/9174097
+https://live.iill.top/douyu/9174097
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",陈易奇闻
-https://www.goodiptv.club/douyu/9365118
+https://live.iill.top/douyu/9365118
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",吉祥大案
-https://www.goodiptv.club/douyu/9171887
+https://live.iill.top/douyu/9171887
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",神秘现象
-https://www.goodiptv.club/douyu/9385184
+https://live.iill.top/douyu/9385184
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",历史老撕
-https://www.goodiptv.club/douyu/9562071
+https://live.iill.top/douyu/9562071
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",怪口历史
-https://www.goodiptv.club/douyu/9384971
+https://live.iill.top/douyu/9384971
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",老鼠说车
-https://www.goodiptv.club/douyu/643871
+https://live.iill.top/douyu/643871
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",车若初见
-https://www.goodiptv.club/douyu/5300323
+https://live.iill.top/douyu/5300323
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",观察者网
-https://www.goodiptv.club/douyu/1867491
+https://live.iill.top/douyu/1867491
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",TopGear
-https://www.goodiptv.club/douyu/501455
+https://live.iill.top/douyu/501455
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",考拉考古
-https://www.goodiptv.club/bilibili/31690686
+https://live.iill.top/bilibili/31690686
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",头子探案
-https://www.goodiptv.club/bilibili/7531567
+https://live.iill.top/bilibili/7531567
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",老驴探案
-https://www.goodiptv.club/bilibili/31458322
+https://live.iill.top/bilibili/31458322
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",小驴说案
-https://www.goodiptv.club/bilibili/31527291
+https://live.iill.top/bilibili/31527291
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",英语学习
-https://www.goodiptv.club/bilibili/21582177
+https://live.iill.top/bilibili/21582177
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",英语外教
-https://www.goodiptv.club/bilibili/32395592
+https://live.iill.top/bilibili/32395592
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",听力磨耳朵
-https://www.goodiptv.club/bilibili/30858508
+https://live.iill.top/bilibili/30858508
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",看剧学英语
-https://www.goodiptv.club/bilibili/25345699
+https://live.iill.top/bilibili/25345699
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",迷鹿直播
-https://www.goodiptv.club/douyin/240276732652
+https://live.iill.top/douyin/240276732652
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",钰萌直播
-https://www.goodiptv.club/douyin/672998736529
+https://live.iill.top/douyin/672998736529
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",承芮直播
-https://www.goodiptv.club/douyin/473658633274
+https://live.iill.top/douyin/473658633274
 #EXTINF:-1 group-title="科教历史"  tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",石彦文财经
-https://www.goodiptv.club/douyin/81093441166
-
+https://live.iill.top/douyin/81093441166
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
