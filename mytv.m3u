@@ -107,9 +107,11 @@ http://192.168.3.91:5077/5841816227539527643/wasusyt/index.m3u8
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000006&IASHttpSessionId=OTT19019320240419154124000281
 
 #EXTINF:-1 tvg-name="1905力量影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",力量影院
+http://dns.yiandrive.com:15907/1905/1905a
 http://xxw.me0.cn/1905dy.php?id=1905a
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-name="1905环球经典" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",环球经典
+http://dns.yiandrive.com:15907/1905/1905b
 http://xxw.me0.cn/1905dy.php?id=1905b
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/影迷电影.png",影迷电影
@@ -123,118 +125,118 @@ http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
 http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
-https://live.iill.top/douyu/2436390
+http://dns.yiandrive.com:15907/douyu/2436390
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣影院.png",豆瓣影院
-https://live.iill.top/douyu/8770422
+http://dns.yiandrive.com:15907/douyu/8770422
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧典影院.png",欧典影院
-https://live.iill.top/douyu/8945323
+http://dns.yiandrive.com:15907/douyu/8945323
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/霍格影院.png",霍格影院
-https://live.iill.top/douyu/8814650
+http://dns.yiandrive.com:15907/douyu/8814650
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/恐怖经典.png",恐怖经典
-https://live.iill.top/douyu/1165374
+http://dns.yiandrive.com:15907/douyu/1165374
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/变形人类.png",变形人类
-https://live.iill.top/douyu/9651304
+http://dns.yiandrive.com:15907/douyu/9651304
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",小白影院
-https://live.iill.top/douyu/322360
+http://dns.yiandrive.com:15907/douyu/322360
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",院线动作
-https://live.iill.top/yy/1382735570
+http://dns.yiandrive.com:15907/yy/1382735570
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",顶级动作
-https://live.iill.top/yy/24923327
+http://dns.yiandrive.com:15907/yy/24923327
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外动作
-https://live.iill.top/yy/1382735540
+http://dns.yiandrive.com:15907/yy/1382735540
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",全球谍战
-https://live.iill.top/yy/1382736817
+http://dns.yiandrive.com:15907/yy/1382736817
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",动作片场
-https://live.iill.top/yy/1354930816
+http://dns.yiandrive.com:15907/yy/1354930816
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",精彩动作
-https://live.iill.top/yy/1382736823
+http://dns.yiandrive.com:15907/yy/1382736823
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",科幻电影
-https://live.iill.top/yy/1355065896
+http://dns.yiandrive.com:15907/yy/1355065896
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外科幻
-https://live.iill.top/yy/1382747628
+http://dns.yiandrive.com:15907/yy/1382747628
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",科幻大片
-https://live.iill.top/yy/1382745181
+http://dns.yiandrive.com:15907/yy/1382745181
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png", 高分大片
-https://live.iill.top/yy/1382736867
+http://dns.yiandrive.com:15907/yy/1382736867
 
 ##EXTINF:-1 group-title="虎牙电影"  tvg-logo="https://wfg2000.github.io/epg/icon/谍战电影.png",谍战电影
-#https://live.iill.top/huya/21059587
+#http://dns.yiandrive.com:15907/huya/21059587
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/动作枪战.png",动作枪战
-https://live.iill.top/huya/21059579
+http://dns.yiandrive.com:15907/huya/21059579
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/战争大片.png",战争大片
-https://live.iill.top/huya/21059574
+http://dns.yiandrive.com:15907/huya/21059574
 ##EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/救援大片.png",救援大片
-#https://live.iill.top/huya/21059594
+#http://dns.yiandrive.com:15907/huya/21059594
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/007电影.png",007电影
-https://live.iill.top/huya/21059585
+http://dns.yiandrive.com:15907/huya/21059585
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/速度激情.png",速度激情
-https://live.iill.top/huya/21059556
+http://dns.yiandrive.com:15907/huya/21059556
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/巨石强森.png",巨石强森
-https://live.iill.top/huya/21059581
+http://dns.yiandrive.com:15907/huya/21059581
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/杰斯坦森.png",杰斯坦森
-https://live.iill.top/huya/21059588
+http://dns.yiandrive.com:15907/huya/21059588
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/漫威英雄.png",漫威英雄
-https://live.iill.top/huya/11342428
+http://dns.yiandrive.com:15907/huya/11342428
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/怪兽异形.png",怪兽异形
-https://live.iill.top/huya/21059577
+http://dns.yiandrive.com:15907/huya/21059577
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/死神来了.png",死神来了
-https://live.iill.top/huya/11352903
+http://dns.yiandrive.com:15907/huya/11352903
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/精品电影.png",精品电影
-https://live.iill.top/huya/11352963
+http://dns.yiandrive.com:15907/huya/11352963
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/韩国高分.png",韩国高分
-https://live.iill.top/huya/11352884
+http://dns.yiandrive.com:15907/huya/11352884
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/犯罪电影.png",犯罪电影
-https://live.iill.top/huya/11352962
+http://dns.yiandrive.com:15907/huya/11352962
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/警匪系列.png",警匪系列
-https://live.iill.top/huya/11352886
+http://dns.yiandrive.com:15907/huya/11352886
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/国产大片.png",国产大片
-https://live.iill.top/huya/11602077
+http://dns.yiandrive.com:15907/huya/11602077
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/贺岁大片.png",贺岁大片
-https://live.iill.top/huya/11601986
+http://dns.yiandrive.com:15907/huya/11601986
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/黑帮系列.png",黑帮系列
-https://live.iill.top/huya/11342419
+http://dns.yiandrive.com:15907/huya/11342419
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/古惑系列.png",古惑系列
-https://live.iill.top/huya/11336719
+http://dns.yiandrive.com:15907/huya/11336719
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/盗墓经典.png",盗墓经典
-https://live.iill.top/huya/21059552
+http://dns.yiandrive.com:15907/huya/21059552
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/金庸系列.png",金庸系列
-https://live.iill.top/huya/11342427
+http://dns.yiandrive.com:15907/huya/11342427
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/古装武侠.png",古装武侠
-https://live.iill.top/huya/11342435
+http://dns.yiandrive.com:15907/huya/11342435
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/中国功夫.png",中国功夫
-https://live.iill.top/huya/11352941
+http://dns.yiandrive.com:15907/huya/11352941
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/赛车系列.png",赛车系列
-https://live.iill.top/huya/11279247
+http://dns.yiandrive.com:15907/huya/11279247
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/女神系列.png",女神系列
-https://live.iill.top/huya/11336571
+http://dns.yiandrive.com:15907/huya/11336571
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/喜剧系列.png",喜剧系列
-https://live.iill.top/huya/11602044
+http://dns.yiandrive.com:15907/huya/11602044
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/搞笑喜剧.png",搞笑喜剧
-https://live.iill.top/huya/11342423
+http://dns.yiandrive.com:15907/huya/11342423
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/玄幻系列.png",玄幻系列
-https://live.iill.top/huya/11352973
+http://dns.yiandrive.com:15907/huya/11352973
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/古墓系列.png",古墓系列
-https://live.iill.top/huya/11352913
+http://dns.yiandrive.com:15907/huya/11352913
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/成龙影院.png",成龙影院
-https://live.iill.top/huya/11342386
+http://dns.yiandrive.com:15907/huya/11342386
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/周润发影院.png",周润发影院
-https://live.iill.top/huya/11342387
+http://dns.yiandrive.com:15907/huya/11342387
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/刘德华影院.png",刘德华影院
-https://live.iill.top/huya/11342424
+http://dns.yiandrive.com:15907/huya/11342424
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/周星驰影院.png",周星驰影院
-https://live.iill.top/huya/11342412
+http://dns.yiandrive.com:15907/huya/11342412
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/古天乐影院.png",古天乐影院
-https://live.iill.top/huya/11602041
+http://dns.yiandrive.com:15907/huya/11602041
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/李连杰影院.png",李连杰影院
-https://live.iill.top/huya/11342390
+http://dns.yiandrive.com:15907/huya/11342390
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/甄子丹影院.png",甄子丹影院
-https://live.iill.top/huya/11352935
+http://dns.yiandrive.com:15907/huya/11352935
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/黄渤影院.png",黄渤影院
-https://live.iill.top/huya/11352876
+http://dns.yiandrive.com:15907/huya/11352876
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/吴京影院.png",吴京影院
-https://live.iill.top/huya/11601977
+http://dns.yiandrive.com:15907/huya/11601977
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/猫和老鼠.png",猫和老鼠
-https://live.iill.top/huya/11352879
+http://dns.yiandrive.com:15907/huya/11352879
 
 
 #EXTINF:-1 group-title="NewTV" tvg-name="超级电影"  tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png",NewTV超级电影
@@ -332,135 +334,135 @@ http://192.168.3.91:5077/6000000002000032344/wasusyt/index.m3u8
 #EXTINF:-1, group-title="科教历史"  tvg-name="求索生活" tvg-logo="https://epg.v1.mk/logo/求索生活.png",求索生活
 http://192.168.3.91:5077/6000000002000003382/wasusyt/index.m3u8
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/未知科技.png",未知科技
-https://live.iill.top/douyu/9385288
+http://dns.yiandrive.com:15907/douyu/9385288
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/果库科幻.png",果库科幻
-https://live.iill.top/douyu/9383318
+http://dns.yiandrive.com:15907/douyu/9383318
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/科学放映.png",科学放映
-https://live.iill.top/douyu/9439712
+http://dns.yiandrive.com:15907/douyu/9439712
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/神秘宇宙.png",神秘宇宙
-https://live.iill.top/douyu/9606719
+http://dns.yiandrive.com:15907/douyu/9606719
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/未解之谜.png",未解之谜
-https://live.iill.top/douyu/9369468
+http://dns.yiandrive.com:15907/douyu/9369468
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/硬核时事.png",硬核时事
-https://live.iill.top/douyu/9739138
+http://dns.yiandrive.com:15907/douyu/9739138
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/约翰杂谈.png",约翰杂谈
-https://live.iill.top/douyu/9738854
+http://dns.yiandrive.com:15907/douyu/9738854
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/科学黑史.png",科学黑史
-https://live.iill.top/douyu/9317739
+http://dns.yiandrive.com:15907/douyu/9317739
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/老巴评测.png",老巴评测
-https://live.iill.top/douyu/9642554
+http://dns.yiandrive.com:15907/douyu/9642554
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/街头英语.png",街头英语
-https://live.iill.top/douyu/9548244
+http://dns.yiandrive.com:15907/douyu/9548244
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/英语小兔.png",英语小兔
-https://live.iill.top/douyu/9504916
+http://dns.yiandrive.com:15907/douyu/9504916
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",挖沟连长
-https://live.iill.top/douyu/8413092
+http://dns.yiandrive.com:15907/douyu/8413092
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",真实案件
-https://live.iill.top/douyu/9754849
+http://dns.yiandrive.com:15907/douyu/9754849
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/huya.png",元宝奇案
-https://live.iill.top/huya/23759395
+http://dns.yiandrive.com:15907/huya/23759395
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/huya.png",鬼叔奇谈
-https://live.iill.top/huya/20985821
+http://dns.yiandrive.com:15907/huya/20985821
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",奇趣研究
-https://live.iill.top/douyu/8661456
+http://dns.yiandrive.com:15907/douyu/8661456
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",OE档案
-https://live.iill.top/douyu/6725858
+http://dns.yiandrive.com:15907/douyu/6725858
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",大吉故事
-https://live.iill.top/douyu/9174097
+http://dns.yiandrive.com:15907/douyu/9174097
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",陈易奇闻
-https://live.iill.top/douyu/9365118
+http://dns.yiandrive.com:15907/douyu/9365118
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",吉祥大案
-https://live.iill.top/douyu/9171887
+http://dns.yiandrive.com:15907/douyu/9171887
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",神秘现象
-https://live.iill.top/douyu/9385184
+http://dns.yiandrive.com:15907/douyu/9385184
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",历史老撕
-https://live.iill.top/douyu/9562071
+http://dns.yiandrive.com:15907/douyu/9562071
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",怪口历史
-https://live.iill.top/douyu/9384971
+http://dns.yiandrive.com:15907/douyu/9384971
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",老鼠说车
-https://live.iill.top/douyu/643871
+http://dns.yiandrive.com:15907/douyu/643871
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",车若初见
-https://live.iill.top/douyu/5300323
+http://dns.yiandrive.com:15907/douyu/5300323
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",观察者网
-https://live.iill.top/douyu/1867491
+http://dns.yiandrive.com:15907/douyu/1867491
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",TopGear
-https://live.iill.top/douyu/501455
+http://dns.yiandrive.com:15907/douyu/501455
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",考拉考古
-https://live.iill.top/bilibili/31690686
+http://dns.yiandrive.com:15907/bilibili/31690686
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",头子探案
-https://live.iill.top/bilibili/7531567
+http://dns.yiandrive.com:15907/bilibili/7531567
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",老驴探案
-https://live.iill.top/bilibili/31458322
+http://dns.yiandrive.com:15907/bilibili/31458322
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",小驴说案
-https://live.iill.top/bilibili/31527291
+http://dns.yiandrive.com:15907/bilibili/31527291
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",英语学习
-https://live.iill.top/bilibili/21582177
+http://dns.yiandrive.com:15907/bilibili/21582177
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",英语外教
-https://live.iill.top/bilibili/32395592
+http://dns.yiandrive.com:15907/bilibili/32395592
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",听力磨耳朵
-https://live.iill.top/bilibili/30858508
+http://dns.yiandrive.com:15907/bilibili/30858508
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/bilibili.png",看剧学英语
-https://live.iill.top/bilibili/25345699
+http://dns.yiandrive.com:15907/bilibili/25345699
 
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",临沂融媒
-https://live.iill.top/douyin/646207097164
+http://dns.yiandrive.com:15907/douyin/646207097164
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",兰山融媒
-https://live.iill.top/douyin/161798285107
+http://dns.yiandrive.com:15907/douyin/161798285107
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",兰山直播
-https://live.iill.top/douyin/16378144724
+http://dns.yiandrive.com:15907/douyin/16378144724
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",红星新闻
-https://live.iill.top/douyin/867088577067
+http://dns.yiandrive.com:15907/douyin/867088577067
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",澎湃新闻
-https://live.iill.top/douyin/126991649085
+http://dns.yiandrive.com:15907/douyin/126991649085
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",封面新闻
-https://live.iill.top/douyin/60299972768
+http://dns.yiandrive.com:15907/douyin/60299972768
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",看度新闻
-https://live.iill.top/douyin/965247950528
+http://dns.yiandrive.com:15907/douyin/965247950528
 #EXTINF:-1 group-title="网络直播"  tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",石彦文财经
-https://live.iill.top/douyin/81093441166
+http://dns.yiandrive.com:15907/douyin/81093441166
 #EXTINF:-1 group-title="网络直播"  tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",茶山滑雪
-https://live.iill.top/douyin/119350573841
+http://dns.yiandrive.com:15907/douyin/119350573841
 #EXTINF:-1 group-title="网络直播"  tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",喷香大爷
-https://live.iill.top/douyin/802279462800
+http://dns.yiandrive.com:15907/douyin/802279462800
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",迷鹿直播
-https://live.iill.top/douyin/240276732652
+http://dns.yiandrive.com:15907/douyin/240276732652
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",小苏瑾
-https://live.iill.top/douyin/169366055494
+http://dns.yiandrive.com:15907/douyin/169366055494
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",小美鞋业
-https://live.iill.top/douyin/18335925166
+http://dns.yiandrive.com:15907/douyin/18335925166
 #EXTINF:-1 group-title="网络直播"  tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",吉他Niko
-https://live.iill.top/douyin/17489050222
+http://dns.yiandrive.com:15907/douyin/17489050222
 
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",细路崽崽
-https://live.iill.top/douyin/626715234902
+http://dns.yiandrive.com:15907/douyin/626715234902
 #EXTINF:-1 group-title="网络直播"  tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",李素妍
-https://live.iill.top/douyin/51614543445
+http://dns.yiandrive.com:15907/douyin/51614543445
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",小晗同学
-https://live.iill.top/douyin/74603814362
+http://dns.yiandrive.com:15907/douyin/74603814362
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",韩晴
-https://live.iill.top/douyin/62282385478
+http://dns.yiandrive.com:15907/douyin/62282385478
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",开心大师
-https://live.iill.top/douyin/63785283498
+http://dns.yiandrive.com:15907/douyin/63785283498
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",大头小希
-https://live.iill.top/douyin/797916174665
+http://dns.yiandrive.com:15907/douyin/797916174665
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",杨思雨
-https://live.iill.top/douyin/877225478839
+http://dns.yiandrive.com:15907/douyin/877225478839
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",胡图图不糊涂
-https://live.iill.top/douyin/367146559500
+http://dns.yiandrive.com:15907/douyin/367146559500
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",小神仙
-https://live.iill.top/douyin/598441013295
+http://dns.yiandrive.com:15907/douyin/598441013295
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",米娅
-https://live.iill.top/douyin/791315522519
+http://dns.yiandrive.com:15907/douyin/791315522519
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",斯佳丽
-https://live.iill.top/douyin/634097722288
+http://dns.yiandrive.com:15907/douyin/634097722288
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",金念
-https://live.iill.top/douyin/496065643241
+http://dns.yiandrive.com:15907/douyin/496065643241
 #EXTINF:-1 group-title="网络直播" tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",美大宝
-https://live.iill.top/douyin/43035690951
+http://dns.yiandrive.com:15907/douyin/43035690951
 #EXTINF:-1 group-title="网络直播"  tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",承芮直播
-https://live.iill.top/douyin/473658633274
+http://dns.yiandrive.com:15907/douyin/473658633274
 #EXTINF:-1 group-title="网络直播"  tvg-logo="https://wfg2000.github.io/epg/icon/Douyin.png",冯提莫
-https://live.iill.top/douyin/881915323288
+http://dns.yiandrive.com:15907/douyin/881915323288
 
 
 
