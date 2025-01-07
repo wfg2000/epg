@@ -108,11 +108,11 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/index.m3u8?
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wfg2000.github.io/epg/icon/全球大片.png" group-title="电影轮播",全球大片
-http://192.168.101.6:5077/5000000011000288009/bestzb/index.m3u8
+http://192.168.3.91:5077/5000000011000288009/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wfg2000.github.io/epg/icon/星光影院.png" group-title="电影轮播",星光影院
-http://192.168.101.6:5077/5000000011000288013/bestzb/index.m3u8
+http://192.168.3.91:5077/5000000011000288013/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wfg2000.github.io/epg/icon/华语影院.png" group-title="电影轮播",华语影院
-http://192.168.101.6:5077/5000000011000288005/bestzb/index.m3u8
+http://192.168.3.91:5077/5000000011000288005/bestzb/index.m3u8
 
 #EXTINF:-1 tvg-name="1905力量影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",力量影院
 http://dns.yiandrive.com:15907/1905/1905a
