@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml,https://e.erw.cc/all.xml,http://epg.51zmt.top:8000/e.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://iptv.crestekk.cn/epgphp/t.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
 http://192.168.3.91:5000/TVOD/6000000001000029752/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
