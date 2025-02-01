@@ -107,13 +107,6 @@ http://192.168.3.91:5000/TVOD/5841816227539527643/wasusyt/index.m3u8
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000006&IASHttpSessionId=OTT19019320240419154124000281
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wfg2000.github.io/epg/icon/全球大片.png" group-title="电影轮播",全球大片
-http://192.168.3.91:5000/TVOD/5000000011000288009/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wfg2000.github.io/epg/icon/星光影院.png" group-title="电影轮播",星光影院
-http://192.168.3.91:5000/TVOD/5000000011000288013/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wfg2000.github.io/epg/icon/华语影院.png" group-title="电影轮播",华语影院
-http://192.168.3.91:5000/TVOD/5000000011000288005/bestzb/index.m3u8
-
 #EXTINF:-1 tvg-name="1905力量影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",力量影院
 http://dns.yiandrive.com:15907/1905/1905a
 http://xxw.me0.cn/1905dy.php?id=1905a
@@ -488,8 +481,7 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Newsmax.png",NEWSMAX
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-name="CNNHeadlineNews" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/CNNNEWS.png",CNNNews
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="FOXNews" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/FoxNews.png",FoxNews
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
@@ -502,6 +494,4 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/NTVnews24.png",NtvNews24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/SkyNews.png",SkyNews
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 
