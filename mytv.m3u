@@ -96,10 +96,10 @@ http://192.168.3.91:35455/bptv/10000100000000050000000004796511.m3u8
 http://192.168.3.91:35455/bptv/10000100000000050000000003887270.m3u8
 
 
-##EXTINF:-1 tvg-name="欧美影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
-#http://192.168.3.91:5000/TVOD/7185203501769528108/wasusyt/index.m3u8
-##EXTINF:-1 tvg-name="亚洲影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
-#http://192.168.3.91:5000/TVOD/5841816227539527643/wasusyt/index.m3u8
+#EXTINF:-1 tvg-name="欧美影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
+http://192.168.3.91:5000/TVOD/7185203501769528108/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-name="亚洲影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
+http://192.168.3.91:5000/TVOD/5841816227539527643/FifastbLive/index.m3u8
 
 
 #EXTINF:-1 tvg-name="1905力量影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",力量影院
