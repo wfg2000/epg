@@ -143,9 +143,9 @@ http://192.168.3.91:5000/TVOD/5000000011000031119/bestzb/index.m3u8
 
 
 #EXTINF:-1 tvg-name="欧美影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧美电影.png",欧美电影
-http://192.168.3.91:5000/TVOD/7185203501769528108/wasusyt/index.m3u8
+http://192.168.3.91:5000/TVOD/2000000004000000005/FifastbLive/index.m3u8
 #EXTINF:-1 tvg-name="亚洲影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/亚洲电影.png",亚洲电影
-http://192.168.3.91:5000/TVOD/5841816227539527643/wasusyt/index.m3u8
+http://192.168.3.91:5000/TVOD/2000000004000000006/FifastbLive/index.m3u8
 
 
 #EXTINF:-1 tvg-name="1905力量影院" group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/1905.png",力量影院
@@ -280,35 +280,35 @@ http://192.168.3.91:35455/huya/11352879
 
 
 #EXTINF:-1 group-title="NewTV" tvg-name="超级电影"  tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png",NewTV超级电影
-http://192.168.3.91:5000/TVOD/1000000003000012426/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000003000012426/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="动作电影" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV动作电影.png",NewTV动作电影
-http://192.168.3.91:5000/TVOD/1000000004000018653/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000004000018653/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="黑莓电影" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV黑莓电影.png",NewTV黑莓电影
-http://192.168.3.91:5000/TVOD/1000000004000019624/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000004000019624/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="惊悚悬疑" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV惊悚悬疑.png",NewTV惊悚悬疑
-http://192.168.3.91:5000/TVOD/1000000004000024282/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000004000024282/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="爱情喜剧" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV爱情喜剧.png",NewTV爱情喜剧
-http://192.168.3.91:5000/TVOD/2000000003000000010/hnbblive/index.m3u8
+http://192.168.3.91:5000/TVOD/2000000003000000010/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="超级电视剧" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电视剧.png",NewTV超级电视剧
-http://192.168.3.91:5000/TVOD/1000000006000268003/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000006000268003/FifastbLive/index.m3u8
 #EXTINF:-1,group-title="NewTV"  tvg-name="精品综合" tvg-logo="https://epg.v1.mk/logo/NewTV精品综合.png" ,NewTV精品综合
-http://192.168.3.91:5000/TVOD/1000000004000019008/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000004000019008/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="精品大剧" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV精品大剧.png",NewTV精品大剧
-http://192.168.3.91:5000/TVOD/1000000004000013968/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000004000013968/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="家庭剧场" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV家庭剧场.png",NewTV家庭剧场
-http://192.168.3.91:5000/TVOD/1000000004000008284/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000004000008284/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="古装剧场" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV古装剧场.png",NewTV古装剧场
 http://192.168.3.91:5000/TVOD/2000000003000000024/hnbblive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="欢乐剧场" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV欢乐剧场.png",NewTV欢乐剧场
-http://192.168.3.91:5000/TVOD/1000000005000266012/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000005000266012/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="东北热剧" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV东北热剧.png",NewTV东北热剧
-http://192.168.3.91:5000/TVOD/1000000005000266013/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000005000266013/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="精品纪录" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV精品纪录.png",NewTV精品纪录
-http://192.168.3.91:5000/TVOD/1000000004000013730/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000004000013730/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="超级综艺" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级综艺.png",NewTV超级综艺
-http://192.168.3.91:5000/TVOD/1000000006000268002/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000006000268002/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="金牌综艺" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV金牌综艺.png",NewTV金牌综艺
-http://192.168.3.91:5000/TVOD/1000000004000026167/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000004000026167/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="军事评论" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV军事评论.png",NewTV军事评论
 http://192.168.3.91:5000/TVOD/2000000003000000022/hnbblive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="军旅剧场" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV军旅剧场.png",NewTV军旅剧场
@@ -318,59 +318,59 @@ http://192.168.3.91:5000/TVOD/2000000003000000018/hnbblive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="农业致富" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV农业致富.png",NewTV农业致富
 http://192.168.3.91:5000/TVOD/2000000003000000003/hnbblive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="超级体育" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级体育.png",NewTV超级体育
-http://192.168.3.91:5000/TVOD/1000000003000012426/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000003000012426/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="精品体育" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV精品体育.png",NewTV精品体育
-http://192.168.3.91:5000/TVOD/1000000004000014634/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000004000014634/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="武搏世界" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV武搏世界.png",NewTV武搏世界
 http://192.168.3.91:5000/TVOD/2000000003000000007/hnbblive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="中国功夫" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV中国功夫.png",NewTV中国功夫
 http://192.168.3.91:5000/TVOD/2000000003000000009/hnbblive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="怡伴健康" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV健康有约.png",NewTV健康有约
-http://192.168.3.91:5000/TVOD/1000000005000266011/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000005000266011/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="炫舞未来" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV炫舞未来.png",NewTV炫舞未来
-http://192.168.3.91:5000/TVOD/1000000001000000515/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000001000000515/FifastbLive/index.m3u8
 #EXTINF:-1 group-title="NewTV"  tvg-name="精品萌宠" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV精品萌宠.png",NewTV精品萌宠
-http://192.168.3.91:5000/TVOD/1000000006000032328/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/1000000006000032328/FifastbLive/index.m3u8
 
 
 #EXTINF:-1,tvg-id="IHOT爱院线" tvg-name="爱院线" tvg-logo="https://epg.v1.mk/logo/IHOT爱院线.png" group-title="IHOT",iHOT爱院线
-http://192.168.3.91:5000/TVOD/6000000006000030630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000030630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.v1.mk/logo/IHOT爱谍战.png" group-title="IHOT",iHOT爱谍战
-http://192.168.3.91:5000/TVOD/6000000006000070630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000070630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png" group-title="IHOT",iHOT爱科幻
-http://192.168.3.91:5000/TVOD/6000000006000020630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000020630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.v1.mk/logo/IHOT爱浪漫.png" group-title="IHOT",iHOT爱浪漫
-http://192.168.3.91:5000/TVOD/6000000006000040630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000040630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱历史" tvg-name="爱历史" tvg-logo="https://epg.v1.mk/logo/IHOT爱历史.png" group-title="IHOT",iHOT爱历史
-http://192.168.3.91:5000/TVOD/6000000006000150630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000150630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.v1.mk/logo/IHOT爱喜剧.png" group-title="IHOT",iHOT爱喜剧
-http://192.168.3.91:5000/TVOD/6000000006000010630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000010630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.v1.mk/logo/IHOT爱悬疑.png" group-title="IHOT",iHOT爱悬疑
-http://192.168.3.91:5000/TVOD/6000000006000050630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000050630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱科学" tvg-name="爱科学" tvg-logo="https://epg.v1.mk/logo/IHOT爱科学.png" group-title="IHOT",iHOT爱科学
-http://192.168.3.91:5000/TVOD/6000000006000160630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000160630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱旅行" tvg-name="爱旅行" tvg-logo="https://epg.v1.mk/logo/IHOT爱旅行.png" group-title="IHOT",iHOT爱旅行
-http://192.168.3.91:5000/TVOD/600000000600025063/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/600000000600025063/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱奇谈" tvg-name="爱奇谈" tvg-logo="https://epg.v1.mk/logo/IHOT爱奇谈.png" group-title="IHOT",iHOT爱奇谈
-http://192.168.3.91:5000/TVOD/6000000006000270630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000270630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱赛车" tvg-name="爱赛车" tvg-logo="https://epg.v1.mk/logo/IHOT爱赛车.png" group-title="IHOT",iHOT爱赛车
-http://192.168.3.91:5000/TVOD/600000000600024063/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/600000000600024063/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱体育" tvg-name="爱体育" tvg-logo="https://epg.v1.mk/logo/IHOT爱体育.png" group-title="IHOT",iHOT爱体育
-http://192.168.3.91:5000/TVOD/6000000006000290630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000290630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱幼教" tvg-name="爱幼教" tvg-logo="https://epg.v1.mk/logo/IHOT爱幼教.png" group-title="IHOT",iHOT爱幼教
-http://192.168.3.91:5000/TVOD/6000000006000180630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000180630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.v1.mk/logo/IHOT爱动漫.png" group-title="IHOT",iHOT爱动漫
-http://192.168.3.91:5000/TVOD/6000000006000280630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000280630/FifastbLive/index.m3u8
 #EXTINF:-1,tvg-id="IHOT爱玩具" tvg-name="爱玩具" tvg-logo="https://epg.v1.mk/logo/IHOT爱玩具.png" group-title="IHOT",iHOT爱玩具
-http://192.168.3.91:5000/TVOD/6000000006000220630/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000006000220630/FifastbLive/index.m3u8
 #EXTINF:-1, group-title="IHOT"  tvg-name="求索动物" tvg-logo="https://epg.v1.mk/logo/求索动物.png",求索动物
-http://192.168.3.91:5000/TVOD/6000000002000010046/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000002000010046/FifastbLive/index.m3u8
 #EXTINF:-1, group-title="IHOT"  tvg-name="求索纪录" tvg-logo="https://epg.v1.mk/logo/求索纪录.png",求索纪录
-http://192.168.3.91:5000/TVOD/6000000002000032052/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000002000032052/FifastbLive/index.m3u8
 #EXTINF:-1, group-title="IHOT"  tvg-name="求索科学" tvg-logo="https://epg.v1.mk/logo/求索科学.png",求索科学
-http://192.168.3.91:5000/TVOD/6000000002000032344/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000002000032344/FifastbLive/index.m3u8
 #EXTINF:-1, group-title="IHOT"  tvg-name="求索生活" tvg-logo="https://epg.v1.mk/logo/求索生活.png",求索生活
-http://192.168.3.91:5000/TVOD/6000000002000003382/ystenlive/index.m3u8
+http://192.168.3.91:5000/TVOD/6000000002000003382/FifastbLive/index.m3u8
 
 #EXTINF:-1 group-title="科教历史" tvg-logo="https://wfg2000.github.io/epg/icon/未知科技.png",未知科技
 http://192.168.3.91:35455/douyu/9385288
