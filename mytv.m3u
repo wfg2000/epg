@@ -121,16 +121,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 http://192.168.3.91:35455/douyu/2436390
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣影院.png",豆瓣影院
 http://192.168.3.91:35455/douyu/8770422
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/欧典影院.png",欧典影院
-http://192.168.3.91:35455/douyu/8945323
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/霍格影院.png",霍格影院
-http://192.168.3.91:35455/douyu/8814650
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/恐怖经典.png",恐怖经典
-http://192.168.3.91:35455/douyu/1165374
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/变形人类.png",变形人类
-http://192.168.3.91:35455/douyu/9651304
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",小白影院
-http://192.168.3.91:35455/douyu/322360
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",漫威电影
+http://192.168.3.91:35455/douyu/1713615
+
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",院线动作
 http://192.168.3.91:35455/yy/1382735570
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",顶级动作
