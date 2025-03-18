@@ -123,7 +123,6 @@ http://192.168.3.91:35455/douyu/2436390
 http://192.168.3.91:35455/douyu/8770422
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",漫威电影
 http://192.168.3.91:35455/douyu/1713615
-
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",院线动作
 http://192.168.3.91:35455/yy/1382735570
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",顶级动作
@@ -132,16 +131,10 @@ http://192.168.3.91:35455/yy/24923327
 http://192.168.3.91:35455/yy/1382735540
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",全球谍战
 http://192.168.3.91:35455/yy/1382736817
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",动作片场
-http://192.168.3.91:35455/yy/1354930816
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",精彩动作
 http://192.168.3.91:35455/yy/1382736823
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",科幻电影
-http://192.168.3.91:35455/yy/1355065896
 #EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外科幻
 http://192.168.3.91:35455/yy/1382747628
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",科幻大片
-http://192.168.3.91:35455/yy/1382745181
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png", 高分大片
 http://192.168.3.91:35455/yy/1382736867
 
