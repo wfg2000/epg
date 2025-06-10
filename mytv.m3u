@@ -35,6 +35,8 @@ http://192.168.3.91:8123/live/cctv16?token=myitv
 http://192.168.3.91:8123/live/cctv17?token=myitv
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+
 http://192.168.3.91:8123/live/cctv5p?token=myitv
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频道",CCTV4K
+http://192.168.3.91:35455/nptv/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
 http://192.168.3.91:35455/mgtv/609017205.m3u8
 
