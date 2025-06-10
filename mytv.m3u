@@ -36,15 +36,11 @@ http://192.168.3.91:8123/live/cctv17?token=myitv
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+
 http://192.168.3.91:8123/live/cctv5p?token=myitv
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
-http://192.168.3.91:35455/gaoma/cgtnen.m3u8
-#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视频道",cctv4k
-http://192.168.3.91:35455/gaoma/cctv4k.m3u8
-
+http://192.168.3.91:35455/mgtv/609017205.m3u8
 
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="山东频道",山东卫视
-http://192.168.3.91:35455/bptv/10000100000000050000000003873467.m3u8
-
+http://192.168.3.91:35455/nptv/shandong.m3u8
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://wfg2000.github.io/epg/icon/临沂综合.png" group-title="山东频道",临沂综合
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 #EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://wfg2000.github.io/epg/icon/临沂公共.png" group-title="山东频道",临沂公共
@@ -54,60 +50,28 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
-http://192.168.3.91:8123/live/湖南卫视?token=myitv
-
+http://192.168.3.91:35455/nptv/hunan.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
-http://192.168.3.91:35455/bptv/10000100000000050000000003873469.m3u8
+http://192.168.3.91:35455/nptv/anhui.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
-http://192.168.3.91:8123/live/江苏卫视?token=myitv
+http://192.168.3.91:35455/nptv/jiangsu.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
-http://192.168.3.91:8123/live/浙江卫视?token=myitv
-
+http://192.168.3.91:35455/nptv/zhejiang.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视
-http://192.168.3.91:8123/live/东方卫视?token=myitv
-
+http://192.168.3.91:35455/nptv/dongfang.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
-http://192.168.3.91:8123/live/北京卫视?token=myitv
-
+http://192.168.3.91:35455/nptv/beijing.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
-http://192.168.3.91:35455/bptv/10000100000000050000000003873474.m3u8
-
+http://192.168.3.91:35455/nptv/shenzheng.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视频道",东南卫视
-http://192.168.3.91:35455/bptv/10000100000000050000000003873473.m3u8
-
+http://192.168.3.91:35455/nptv/dongnan.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
-http://192.168.3.91:35455/bptv/10000100000000050000000003873465.m3u8
-
+http://192.168.3.91:35455/nptv/hubei.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视
-http://192.168.3.91:35455/bptv/10000100000000050000000004796511.m3u8
-
+http://192.168.3.91:35455/nptv/jiangxi.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
-http://192.168.3.91:35455/bptv/10000100000000050000000003887270.m3u8
+http://192.168.3.91:35455/nptv/henan.m3u8
 
-
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/国语译制.png",国语译制
-http://192.168.3.91:35455/douyu/2436390
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/豆瓣影院.png",豆瓣影院
-http://192.168.3.91:35455/douyu/8770422
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/douyu.png",漫威电影
-http://192.168.3.91:35455/douyu/1713615
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",院线动作
-http://192.168.3.91:35455/yy/1382735570
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",顶级动作
-http://192.168.3.91:35455/yy/24923327
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外动作
-http://192.168.3.91:35455/yy/1382735540
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",全球谍战
-http://192.168.3.91:35455/yy/1382736817
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",精彩动作
-http://192.168.3.91:35455/yy/1382736823
-#EXTINF:-1 group-title="电影轮播"  tvg-logo="https://wfg2000.github.io/epg/icon/yy.png",国外科幻
-http://192.168.3.91:35455/yy/1382747628
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://wfg2000.github.io/epg/icon/yy.png", 高分大片
-http://192.168.3.91:35455/yy/1382736867
-
-##EXTINF:-1 group-title="虎牙电影"  tvg-logo="https://wfg2000.github.io/epg/icon/谍战电影.png",谍战电影
-#http://192.168.3.91:35455/huya/21059587
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/动作枪战.png",动作枪战
 http://192.168.3.91:35455/huya/21059579
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/战争大片.png",战争大片
