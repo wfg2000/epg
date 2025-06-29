@@ -78,53 +78,53 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 
 
-#EXTINF:-1,tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://epg.v1.mk/logo/NEWTV超级电影.png" group-title="NewTV",超级电影
+#EXTINF:-1,tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV超级电影.png" group-title="NewTV",超级电影
 http://192.168.3.91:35455/bptv/3221226233.m3u8
-#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.v1.mk/logo/黑莓电影.png" group-title="NewTV",黑莓电影
+#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://wfg2000.github.io/epg/icon/黑莓电影.png" group-title="NewTV",黑莓电影
 http://192.168.3.91:35455/bptv/3221226939.m3u8
-#EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/NEWTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
+#EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
 http://192.168.3.91:35455/bptv/3221227013.m3u8
-#EXTINF:-1,tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://epg.v1.mk/logo/明星大片.png" group-title="NewTV",明星大片
+#EXTINF:-1,tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://wfg2000.github.io/epg/icon/明星大片.png" group-title="NewTV",明星大片
 http://192.168.3.91:35455/bptv/3221227008.m3u8
-#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.v1.mk/logo/NEWTV超级电视剧.png" group-title="NewTV",超级电视剧
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV超级电视剧.png" group-title="NewTV",超级电视剧
 http://192.168.3.91:35455/bptv/3221226972.m3u8
-#EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://epg.v1.mk/logo/NEWTV精品大剧.png" group-title="NewTV",精品大剧
+#EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV精品大剧.png" group-title="NewTV",精品大剧
 http://192.168.3.91:35455/bptv/3221226970.m3u8
-#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.v1.mk/logo/NEWTV家庭剧场.png" group-title="NewTV",家庭剧场
+#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV家庭剧场.png" group-title="NewTV",家庭剧场
 http://192.168.3.91:35455/bptv/3221226981.m3u8
-#EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.v1.mk/logo/NEWTV军旅剧场.png" group-title="NewTV",军旅剧场
+#EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV军旅剧场.png" group-title="NewTV",军旅剧场
 http://192.168.3.91:35455/bptv/3221226967.m3u8
-#EXTINF:-1,tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://epg.v1.mk/logo/NEWTV古装剧场.png" group-title="NewTV",古装剧场
+#EXTINF:-1,tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV古装剧场.png" group-title="NewTV",古装剧场
 http://192.168.3.91:35455/bptv/3221226986.m3u8
-#EXTINF:-1,tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://epg.v1.mk/logo/欢乐剧场.png" group-title="NewTV",欢乐剧场
+#EXTINF:-1,tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://wfg2000.github.io/epg/icon/欢乐剧场.png" group-title="NewTV",欢乐剧场
 http://192.168.3.91:35455/bptv/3221226969.m3u8
-#EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.v1.mk/logo/NEWTV爱情喜剧.png" group-title="NewTV",爱情喜剧
+#EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV爱情喜剧.png" group-title="NewTV",爱情喜剧
 http://192.168.3.91:35455/bptv/3221226989.m3u8
-#EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/NEWTV潮妈辣婆.png" group-title="NewTV",潮妈辣婆
+#EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV潮妈辣婆.png" group-title="NewTV",潮妈辣婆
 http://192.168.3.91:35455/bptv/3221226980.m3u8
-#EXTINF:-1,tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://epg.v1.mk/logo/NEWTV精品纪录.png" group-title="NewTV",精品纪录
+#EXTINF:-1,tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV精品纪录.png" group-title="NewTV",精品纪录
 http://192.168.3.91:35455/bptv/3221226977.m3u8
-#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.v1.mk/logo/NEWTV超级体育.png" group-title="NewTV",超级体育
+#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV超级体育.png" group-title="NewTV",超级体育
 http://192.168.3.91:35455/bptv/3221226232.m3u8
-#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.v1.mk/logo/NEWTV精品体育.png" group-title="NewTV",精品体育
+#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV精品体育.png" group-title="NewTV",精品体育
 http://192.168.3.91:35455/bptv/3221226978.m3u8
-#EXTINF:-1,tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://epg.v1.mk/logo/NEWTV中国功夫.png" group-title="NewTV",中国功夫
+#EXTINF:-1,tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV中国功夫.png" group-title="NewTV",中国功夫
 http://192.168.3.91:35455/bptv/3221226988.m3u8
-#EXTINF:-1,tvg-id="NEWTV武搏世界" tvg-name="NEWTV武搏世界" tvg-logo="https://epg.v1.mk/logo/NEWTV武搏世界.png" group-title="NewTV",武搏世界
+#EXTINF:-1,tvg-id="NEWTV武搏世界" tvg-name="NEWTV武搏世界" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV武搏世界.png" group-title="NewTV",武搏世界
 http://192.168.3.91:35455/bptv/3221226992.m3u8
-#EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://epg.v1.mk/logo/NEWTV超级综艺.png" group-title="NewTV",超级综艺
+#EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV超级综艺.png" group-title="NewTV",超级综艺
 http://192.168.3.91:35455/bptv/3221226231.m3u8
-#EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://epg.v1.mk/logo/NEWTV金牌综艺.png" group-title="NewTV",金牌综艺
+#EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV金牌综艺.png" group-title="NewTV",金牌综艺
 http://192.168.3.91:35455/bptv/3221227004.m3u8
-#EXTINF:-1,tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://epg.v1.mk/logo/NEWTV炫舞未来.png" group-title="NewTV",炫舞未来
+#EXTINF:-1,tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV炫舞未来.png" group-title="NewTV",炫舞未来
 http://192.168.3.91:35455/bptv/3221226968.m3u8
-#EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://epg.v1.mk/logo/NEWTV农业致富.png" group-title="NewTV",农业致富
+#EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV农业致富.png" group-title="NewTV",农业致富
 http://192.168.3.91:35455/bptv/3221226962.m3u8
-#EXTINF:-1,tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://epg.v1.mk/logo/NEWTV军事评论.png" group-title="NewTV",军事评论
+#EXTINF:-1,tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV军事评论.png" group-title="NewTV",军事评论
 http://192.168.3.91:35455/bptv/3221226985.m3u8
-#EXTINF:-1,tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://epg.v1.mk/logo/精品萌宠.png" group-title="NewTV",精品萌宠
+#EXTINF:-1,tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://wfg2000.github.io/epg/icon/精品萌宠.png" group-title="NewTV",精品萌宠
 http://192.168.3.91:35455/bptv/3221226976.m3u8
-#EXTINF:-1,tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://epg.v1.mk/logo/NEWTV怡伴健康.png" group-title="NewTV",怡伴健康
+#EXTINF:-1,tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://wfg2000.github.io/epg/icon/NEWTV怡伴健康.png" group-title="NewTV",怡伴健康
 http://192.168.3.91:35455/bptv/3221226984.m3u8
 
 
