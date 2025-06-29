@@ -79,7 +79,7 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 #EXTINF:-1 tvg-name="临沂经济" tvg-logo="https://wfg2000.github.io/epg/icon/临沂经济.png" group-title="卫视频道",临沂经济
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/影迷电影" group-title="电影频道", CHC影迷电影
+#EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/CHC影迷电影" group-title="电影频道", CHC影迷电影
 http://192.168.3.91:35455/mgtv/952383261.m3u8
 #EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影" group-title="电影频道", CHC动作电影
 http://192.168.3.91:35455/mgtv/644368714.m3u8
