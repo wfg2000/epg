@@ -45,6 +45,8 @@ http://192.168.3.91:35455/nptv/dyjc.m3u8
 http://192.168.3.91:35455/nptv/fyjc.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视频道",怀旧剧场
 http://192.168.3.91:35455/nptv/hjjc.m3u8
+#EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="央视频道",咪咕4K
+http://192.168.3.91:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="卫视频道",山东卫视
 http://192.168.3.91:35455/nptv/shandong.m3u8
@@ -77,6 +79,18 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 #EXTINF:-1 tvg-name="临沂经济" tvg-logo="https://wfg2000.github.io/epg/icon/临沂经济.png" group-title="卫视频道",临沂经济
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/影迷电影" group-title="电影频道", CHC影迷电影
+http://192.168.3.91:35455/mgtv/952383261.m3u8
+#EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/动作电影" group-title="电影频道", CHC动作电影
+http://192.168.3.91:35455/mgtv/644368714.m3u8
+#EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/家庭影院" group-title="电影频道", CHC家庭影院
+http://192.168.3.91:35455/mgtv/644368373.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="电影频道", 高清大片
+http://192.168.3.91:35455/mgtv/629943678.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202405061742_1714988181593_H169_1080.jpg" group-title="电影频道", 新片放映厅
+http://192.168.3.91:35455/mgtv/619495952.m3u8
+#EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.v1.mk/logo/北京淘电影.png" group-title="电影频道",北京淘电影
+http://192.168.3.91:35455/bptv/3221226552.m3u8
 
 #EXTINF:-1,tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png" group-title="NewTV",超级电影
 http://192.168.3.91:35455/bptv/3221226233.m3u8
