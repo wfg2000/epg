@@ -80,7 +80,7 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 
 #EXTINF:-1,tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV超级电影.png" group-title="NewTV",超级电影
 http://192.168.3.91:35455/bptv/3221226233.m3u8
-#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://wfg2000.github.io/epg/icon/黑莓电影.png" group-title="NewTV",黑莓电影
+#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV黑莓电影.png" group-title="NewTV",黑莓电影
 http://192.168.3.91:35455/bptv/3221226939.m3u8
 #EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
 http://192.168.3.91:35455/bptv/3221227013.m3u8
@@ -124,8 +124,7 @@ http://192.168.3.91:35455/bptv/3221226962.m3u8
 http://192.168.3.91:35455/bptv/3221226985.m3u8
 #EXTINF:-1,tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV精品萌宠.png" group-title="NewTV",精品萌宠
 http://192.168.3.91:35455/bptv/3221226976.m3u8
-#EXTINF:-1,tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://wfg2000.github.io/epg/icon/NewTV怡伴健康.png" group-title="NewTV",怡伴健康
-http://192.168.3.91:35455/bptv/3221226984.m3u8
+
 
 
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/动作枪战.png",动作枪战
