@@ -273,9 +273,6 @@ http://dns.yiandrive.com:15907/phenix/fhhk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="全球直播",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-#EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/环球电视.png",环球电视
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/BBCNews.png",BBCNews
