@@ -81,9 +81,9 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/影迷电影" group-title="电影频道", CHC影迷电影
 http://192.168.3.91:35455/mgtv/952383261.m3u8
-#EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/动作电影" group-title="电影频道", CHC动作电影
+#EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影" group-title="电影频道", CHC动作电影
 http://192.168.3.91:35455/mgtv/644368714.m3u8
-#EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/家庭影院" group-title="电影频道", CHC家庭影院
+#EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭影院" group-title="电影频道", CHC家庭影院
 http://192.168.3.91:35455/mgtv/644368373.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="电影频道", 高清大片
 http://192.168.3.91:35455/mgtv/629943678.m3u8
