@@ -430,8 +430,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-name="CNA" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/ChannelNewsAsia.png",ChannelNewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="CNA" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/ChannelNewsAsia.png",ChannelNewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
 #EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/RTNews.png",RTNews
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/NHK.png",NHK
