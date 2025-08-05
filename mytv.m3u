@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv.crestekk.cn/epgphp/t.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://11.112114.xyz/pp.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
 http://192.168.3.91:35455/bst/cctv1hd@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
@@ -81,15 +81,12 @@ http://192.168.3.91:35455/bst/xgyyvcc4m@4000000.m3u8
 #EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/华语影院.png" group-title="电影频道",华语影院
 http://192.168.3.91:35455/bst/hyyyvcc4m@4000000.m3u8
 #EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/CHC影迷电影.png" group-title="电影频道", CHC影迷电影
-http://192.168.3.91:35455/mgtv/952383261.m3u8
+http://192.168.3.91:35455/yhyx/IP-HCGQ-HD.m3u8
 #EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/CHC动作电影.png" group-title="电影频道", CHC动作电影
-http://192.168.3.91:35455/mgtv/644368714.m3u8
+http://192.168.3.91:35455/yhyx/IP-DZDY-HD.m3u8
 #EXTINF:-1 tvg-logo="https://wfg2000.github.io/epg/icon/CHC家庭电影.png" group-title="电影频道", CHC家庭影院
-http://192.168.3.91:35455/mgtv/644368373.m3u8
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="电影频道", 高清大片
-http://192.168.3.91:35455/mgtv/629943678.m3u8
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202405061742_1714988181593_H169_1080.jpg" group-title="电影频道", 新片放映
-http://192.168.3.91:35455/mgtv/619495952.m3u8
+http://192.168.3.91:35455/yhyx/IP-JTYY-HD.m3u8
+
 
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/动作枪战.png",动作枪战
 http://192.168.3.91:35455/huya/21059579
