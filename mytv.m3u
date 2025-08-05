@@ -10,11 +10,11 @@ http://192.168.3.91:35455/bst/cctv4hd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
 http://192.168.3.91:35455/bst/cctv5hdhai@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
-http://192.168.3.91:35455/bst/cctv6@1300000.m3u8
+http://192.168.3.91:35455/bst/cctv6hd@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
 http://192.168.3.91:35455/bst/cctv7hd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8
-http://192.168.3.91:35455/bst/cctv8@1300000.m3u8
+http://192.168.3.91:35455/bst/cctv8hd@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV9
 http://192.168.3.91:35455/bst/cctv9hd4mc@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
@@ -38,7 +38,7 @@ http://192.168.3.91:35455/bst/cctv5phd@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频道",CCTV4K
 http://192.168.3.91:35455/bst/cctv4k@15000000.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
-http://192.168.3.91:35455/nptv/cgtn.m3u8
+http://192.168.3.91:35455/bst/cctvnews@2500000.m3u8
 
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="卫视频道",山东卫视
