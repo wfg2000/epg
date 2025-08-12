@@ -1,41 +1,41 @@
 #EXTM3U url-tvg="https://11.112114.xyz/pp.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
-https://tv-1.iill.top/migu/cctv1
+http://192.168.3.91:8123/live/cctv1?token=easyitv
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
-https://tv-1.iill.top/migu/cctv2
+http://192.168.3.91:8123/live/cctv2?token=easyitv
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV3
-https://tv-1.iill.top/migu/cctv3
+http://192.168.3.91:8123/live/cctv3?token=easyitv
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4
-https://tv-1.iill.top/migu/cctv4
+http://192.168.3.91:8123/live/cctv4?token=easyitv
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
-https://tv-1.iill.top/migu/cctv5
+http://192.168.3.91:8123/live/cctv5?token=easyitv
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
-https://tv-1.iill.top/migu/cctv6
+http://192.168.3.91:8123/live/cctv6?token=easyitv
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
-https://tv-1.iill.top/migu/cctv7
+http://192.168.3.91:8123/live/cctv7?token=easyitv
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8
-https://tv-1.iill.top/migu/cctv8
+http://192.168.3.91:8123/live/cctv8?token=easyitv
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV9
-https://tv-1.iill.top/migu/cctv9
+http://192.168.3.91:8123/live/cctv9?token=easyitv
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
-https://tv-1.iill.top/migu/cctv10
+http://192.168.3.91:8123/live/cctv10?token=easyitv
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11
-https://tv-1.iill.top/migu/cctv11
+http://192.168.3.91:8123/live/cctv11?token=easyitv
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
-https://tv-1.iill.top/migu/cctv12
+http://192.168.3.91:8123/live/cctv12?token=easyitv
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
-https://tv-1.iill.top/migu/cctv13
+http://192.168.3.91:8123/live/cctv13?token=easyitv
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
-https://tv-1.iill.top/migu/cctv14
+http://192.168.3.91:8123/live/cctv14?token=easyitv
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
-https://tv-1.iill.top/migu/cctv15
+http://192.168.3.91:8123/live/cctv15?token=easyitv
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV16
-https://tv-1.iill.top/migu/cctv16
+http://192.168.3.91:8123/live/cctv16?token=easyitv
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
-https://tv-1.iill.top/migu/cctv17
+http://192.168.3.91:8123/live/cctv17?token=easyitv
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+
-https://tv-1.iill.top/migu/cctv5p
+http://192.168.3.91:8123/live/cctv5p?token=easyitv
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
 http://192.168.3.91:35455/gptv/G_CCTV-NEWS.m3u8
 
