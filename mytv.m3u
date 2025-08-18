@@ -41,7 +41,7 @@ http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%
 
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="卫视频道",山东卫视
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+https://tfoe1gaa1hcjsgezdncbofa3drpjpqp48r3mbpisg17ufgcadrmujqfwsa7e.100ycdn.com/streamlive302.iqilu.com/21/caf9b8bb36e74a8e83b3fe9a0e6450ef/playlist.m3u8?n=14657428b41568186206a3f352612929&m=1755503755&wsSession=685e0e2d867875fa5f17fec6-175550375613107&wsIPSercert=2d418deef0b5f4f86845c936b6fb51a8&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
 http://192.168.3.91:8123/live/湖南卫视?token=myitv
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
