@@ -42,6 +42,7 @@ http://39.135.159.150:8089/PLTV/88888888/224/3221226320/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="山东频道",山东卫视
+http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
 http://39.135.159.150:8089/PLTV/88888888/224/3221226144/index.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://wfg2000.github.io/epg/icon/山东新闻.png" group-title="山东频道",山东新闻
 http://39.135.159.150:8089/PLTV/88888888/224/3221226077/index.m3u8
