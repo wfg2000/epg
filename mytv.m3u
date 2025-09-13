@@ -1,41 +1,41 @@
 #EXTM3U url-tvg="https://11.112114.xyz/pp.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
-http://192.168.3.91:8123/live/cctv1?token=myitv
+http://192.168.3.91:8123/live/b422290ad4129a91e092040bada100a4?token=myitv
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
-http://192.168.3.91:8123/live/cctv2?token=myitv
+http://192.168.3.91:8123/live/76d341a2250e458704ef72e5cc256dbe?token=myitv
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV3
-http://192.168.3.91:8123/live/cctv3?token=myitv
+http://192.168.3.91:8123/live/274f652d1670677409ad38910eb7afa2?token=myitv
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4
-http://192.168.3.91:8123/live/cctv4?token=myitv
+http://192.168.3.91:8123/live/ad8bebdd7bc3cc28376caf7eca6cc494?token=myitv
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
-http://192.168.3.91:8123/live/cctv5?token=myitv
+http://192.168.3.91:8123/live/ad8bebdd7bc3cc28376caf7eca6cc494?token=myitv
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
-http://192.168.3.91:8123/live/cctv6?token=myitv
+http://192.168.3.91:8123/live/080bbd11a48af6776ec3ded6196d1ae8?token=myitv
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
-http://192.168.3.91:8123/live/cctv7?token=myitv
+http://192.168.3.91:8123/live/36adfde69b3972a7e0d2cc51bae177d3?token=myitv
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8
-http://192.168.3.91:8123/live/cctv8?token=myitv
+http://192.168.3.91:8123/live/58330333bf3eb62e42b503a9c6d5205c?token=myitv
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV9
-http://192.168.3.91:8123/live/cctv9?token=myitv
+http://192.168.3.91:8123/live/d7a5ba2acc68474d0ba49176ff69a9d5?token=myitv
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
-http://192.168.3.91:8123/live/cctv10?token=myitv
+http://192.168.3.91:8123/live/173625ed5ff7773544f293970ce069a8?token=myitv
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11
-http://192.168.3.91:8123/live/cctv11?token=myitv
+http://192.168.3.91:8123/live/40162b7616b17cb75c17c5af6ac0855e?token=myitv
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
-http://192.168.3.91:8123/live/cctv12?token=myitv
+http://192.168.3.91:8123/live/1a5fa1aa3362153d029c762d6d7c97a9?token=myitv
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
-http://192.168.3.91:8123/live/cctv13?token=myitv
+http://192.168.3.91:8123/live/3d25660fccd9ef4541ee94c2af3bab93?token=myitv
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
-http://192.168.3.91:8123/live/cctv14?token=myitv
+http://192.168.3.91:8123/live/7ebdff7c08d5622a853001c136bfbced?token=myitv
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
-http://192.168.3.91:8123/live/cctv15?token=myitv
+http://192.168.3.91:8123/live/de9bc45287e9c28e304a8996c8071f41?token=myitv
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV16
-http://192.168.3.91:8123/live/cctv16?token=myitv
+http://192.168.3.91:8123/live/c81db1af8ef3817415bea55515eb6cf6?token=myitv
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
-http://192.168.3.91:8123/live/cctv17?token=myitv
+http://192.168.3.91:8123/live/66f838844dbeaa25528721656926419f?token=myitv
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+
-http://192.168.3.91:8123/live/cctv5p?token=myitv
+http://192.168.3.91:8123/live/b3ab7158ff6cc0fcd7b8a0833d6fc13d?token=myitv
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
 https://tv-1.iill.top/migu/cgtn
 
@@ -48,9 +48,9 @@ https://tv-1.iill.top/migu/jsws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视
-http://192.168.3.91:8123/live/东方卫视?token=myitv
+http://192.168.3.91:8123/live/8ee9209f9b395a41036137baebdd9792?token=myitv
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
-http://192.168.3.91:8123/live/北京卫视?token=myitv
+http://192.168.3.91:8123/live/c38f3c96171896571ab59b62e05d863e?token=myitv
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
 https://tv-1.iill.top/migu/ahws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
@@ -256,15 +256,15 @@ http://192.168.3.91:35455/douyin/881915323288
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
-http://192.168.3.91:8123/live/凤凰中文?token=myitv
+http://192.168.3.91:8123/live/86b911079a5e641ecff46858543a647a?token=myitv
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 http://dns.yiandrive.com:15907/phenix/fhzw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
-http://192.168.3.91:8123/live/凤凰资讯?token=myitv
+http://192.168.3.91:8123/live/8e70424c7cc07ce19f22c89ff3c0d157?token=myitv
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 http://dns.yiandrive.com:15907/phenix/fhzx
 #EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/PHOENIX3.png" group-title="全球直播",凤凰香港
-http://192.168.3.91:8123/live/凤凰香港?token=myitv
+http://192.168.3.91:8123/live/f3493b71e006a596594a77d88561d375?token=myitv
 http://dns.yiandrive.com:15907/phenix/fhhk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="全球直播",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
