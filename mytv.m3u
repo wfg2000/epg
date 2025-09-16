@@ -1,38 +1,53 @@
 #EXTM3U url-tvg="https://11.112114.xyz/pp.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
+https://mg.chinacert.cftest5.cn/mg/608807420.m3u8?userid=1999482075&sign=ba9f0f32978f362872eef7e7609adbcb9ab3ea78f0595af6c5c5a26f253a4b98f73bf970f4811698f8b8070f63064a55cbc9fdfb0ff7e8f30793fb9d988dbd689f338bdb2c628f1bff7028c75170600b03&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/b422290ad4129a91e092040bada100a4?token=myitv
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
+https://mg.chinacert.cftest5.cn/mg/631780532.m3u8?userid=1999482075&sign=b13d821deee421bca22bb84f72f5bca6702c8dec28d4c894049249ddf225d79666b9018ba2c99307bf0ab22abc239033c0e091415ee7b8321e0b36ad3e99046daf60f0317dbf82ab2083b6a2ef95e73d40&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/76d341a2250e458704ef72e5cc256dbe?token=myitv
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV3
+https://mg.chinacert.cftest5.cn/mg/624878271.m3u8?userid=1999482075&sign=6ffdd2c9d82d0201bd374f6be431b96db2f84cf55b11189d4a53e33646209599d9831eb047737abf42d225d3864c0564fabb41c651e63c430cb7f14cd5d163fbdc1ec58b88ab5aafde9452bbd290b24cdd&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/274f652d1670677409ad38910eb7afa2?token=myitv
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4
+https://mg.chinacert.cftest5.cn/mg/631780421.m3u8?userid=1999482075&sign=0f38d59efda9e2030e1c16c9ba666cb7ab2fbbd6f4a2550b56cb2123ce242fb08cfc42e524f162322f217dee289cefbeed1dbb5a9d489b9c9ccc6b439fd56b85336b6b879b8aef089d1f0bbd45613c3230&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/ad8bebdd7bc3cc28376caf7eca6cc494?token=myitv
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
+https://mg.chinacert.cftest5.cn/mg/641886683.m3u8?userid=1999482075&sign=396146d2941be766388e240540eb55c4f3daafc3a92ff170f4c68350df5bc328ac5ac1e334c39c75d8474f19acd53d4274118dfe2a7635f97da730df02f689fe40e7c159fcb5d787debbfaa88e6b9642c1&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/ad8bebdd7bc3cc28376caf7eca6cc494?token=myitv
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
+https://mg.chinacert.cftest5.cn/mg/624878396.m3u8?userid=1999482075&sign=5c043bf198763425b4bee4c660539490ac236fbb26771afcac5d832c78b6a73f14b2c28df9e8c87b674e87f3c4dbdbc81261cf3226f6b51a33c5aafec7cc48d764688ffc3f630ccfad1db02d30367d50c9&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/080bbd11a48af6776ec3ded6196d1ae8?token=myitv
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
 http://192.168.3.91:8123/live/36adfde69b3972a7e0d2cc51bae177d3?token=myitv
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8
+https://mg.chinacert.cftest5.cn/mg/624878356.m3u8?userid=1999482075&sign=8d41d666be4dab4e46a94ad3f95538ba6b29804cfa87891fd26ba6ec0d53a86c2cc5b12f58b8d14a03316b19a904b86874a74fad36b464031a1bff9197db5b4827e1341f42f2afc2cc6675fbb4be6ca04f&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/58330333bf3eb62e42b503a9c6d5205c?token=myitv
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV9
+https://mg.chinacert.cftest5.cn/mg/673168140.m3u8?userid=1999482075&sign=2fd8cb5788e6e8cbbe904883bfb9c1f5d0008599cc36413e8e039f76a47cd5331ed80abb6aac70f94b77f1bd2b948118d557e76088af9e32a1a908160f299f106918049368512318dc02c3dcf6fd4e37db&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/d7a5ba2acc68474d0ba49176ff69a9d5?token=myitv
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
+https://mg.chinacert.cftest5.cn/mg/624878405.m3u8?userid=1999482075&sign=89705190734bcd782338ee23fa8d89052745bc43fe09bb29dfd4babd2defae65de2a9f901de624f9decb4abf1f3cbe22f9aa5bb95de7eb7224aeb4697e89cd6605c66f618c0d669c848136108d7d1d6485&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/173625ed5ff7773544f293970ce069a8?token=myitv
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11
+https://mg.chinacert.cftest5.cn/mg/667987558.m3u8?userid=1999482075&sign=572bb4d53b49ea465115dc34254406a2fba8f62a0ab2b33fcf2e07ce2e5853b812a3addf86ec5815df7ee380e53a9b6885db380e517b424e78ef53bed5cf3e220f1b557a1e6c9ab66d56cf1e8755afb13f&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/40162b7616b17cb75c17c5af6ac0855e?token=myitv
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
+https://mg.chinacert.cftest5.cn/mg/673168185.m3u8?userid=1999482075&sign=d13854f327abb3662aa80c540b6408cbacdadbe58202775430d2ab4d32bcc37231306589b9d3a0d77106c9f0dc40a48b8bc9c6231f132cf87b444608ba721f3000825cfd5b363fae8fb98f6e4a32403b53&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/1a5fa1aa3362153d029c762d6d7c97a9?token=myitv
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
+https://mg.chinacert.cftest5.cn/mg/608807423.m3u8?userid=1999482075&sign=61d195ca853a0904d79796b00249d0aa3de569be15e9c8d6950d0b08c6e4bff4def5b134c94ab0ff15e54c7ffc953a6273827270b180e25db3645c0937d77af658e96ac291863b2e901d518fc70b059c0c&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/3d25660fccd9ef4541ee94c2af3bab93?token=myitv
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
+https://mg.chinacert.cftest5.cn/mg/624878440.m3u8?userid=1999482075&sign=609b629f394dceca2caeac5f5da76db628e3fc1c9af00ca41653d27e89bea1d05fb82cfaa44ab766942acfa0e4446e572edffe36cf60442ed55b106249d34ff35f4b3bd83dbafd03e370fb391b3ee5f597&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/7ebdff7c08d5622a853001c136bfbced?token=myitv
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
+https://mg.chinacert.cftest5.cn/mg/673168223.m3u8?userid=1999482075&sign=d21922c1acf8bb4bef12c8453a99e64a7df7611a7c5c63e2be985a55ca8b98057aa6ba366d71ea31985c252c09fb5fd567b98d4f0e65b854f5f7071d2c9f569fdb70f6be09025a2e440289ae7d0e1952eb&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/de9bc45287e9c28e304a8996c8071f41?token=myitv
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV16
 http://192.168.3.91:8123/live/c81db1af8ef3817415bea55515eb6cf6?token=myitv
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
+https://mg.chinacert.cftest5.cn/mg/673168256.m3u8?userid=1999482075&sign=74afec478edbae03bc3206cd9f8b1236b3ea95a0bc31aebb7a1aecfa7336c1fed38e793c344278059d21f5dc45f7103a0be1b1572a96930d8ac9340d8721a6ff47742c76b279636d3884a7884769d70b22&auth_token=3b1905859da87522d4aab2781382b1bf
 http://192.168.3.91:8123/live/66f838844dbeaa25528721656926419f?token=myitv
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+
 http://192.168.3.91:8123/live/b3ab7158ff6cc0fcd7b8a0833d6fc13d?token=myitv
