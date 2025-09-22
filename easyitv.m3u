@@ -1,0 +1,988 @@
+#EXTM3U x-tvg-url="http://e.erw.cc/all.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXT-X-VERSION 20250914.1200
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV1
+http://192.168.3.91:8123/PLTV/e554393df07a29db622ce79d35a8a184?token=easyitv
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视",CCTV2
+http://192.168.3.91:8123/PLTV/7873bcd8f20e3b49e8774891741a87e2?token=easyitv
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视",CCTV3
+http://192.168.3.91:8123/PLTV/837409d1608cd5c65108b610632a70aa?token=easyitv
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视",CCTV4
+http://192.168.3.91:8123/PLTV/57f7fb1c21269882e535b32a2e07c4d4?token=easyitv
+#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+http://192.168.3.91:8123/PLTV/1f62d7d4e8919fb5458c27e8ffd933e3?token=easyitv
+#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4美洲.png" group-title="央视",CCTV4美洲
+http://192.168.3.91:8123/PLTV/ddd72bf1503f4dd5264ad7b214c19e6b?token=easyitv
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视",CCTV5
+http://192.168.3.91:8123/PLTV/b46df59ceb4bc4d6faf600dbd9e72dea?token=easyitv
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视",CCTV5+
+http://192.168.3.91:8123/PLTV/80261644eca51cf8b91c5515e48a8903?token=easyitv
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视",CCTV6
+http://192.168.3.91:8123/PLTV/eab0dabc8345e4cc0f7658110d999600?token=easyitv
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视",CCTV7
+http://192.168.3.91:8123/PLTV/48028d6dd38a1ec192f1c1585200a1c5?token=easyitv
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视",CCTV8
+http://192.168.3.91:8123/PLTV/6f29ba5183adbdf81805258e4a3defc8?token=easyitv
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视",CCTV9
+http://192.168.3.91:8123/PLTV/412c8f8843926c4272f28320b2a872a1?token=easyitv
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视",CCTV10
+http://192.168.3.91:8123/PLTV/b610ea202edeee93b323477777823d2b?token=easyitv
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视",CCTV11
+http://192.168.3.91:8123/PLTV/a0f6c39a7f1a889995bf0d3e28c82a5a?token=easyitv
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视",CCTV12
+http://192.168.3.91:8123/PLTV/be759a0ad636fd519ac89af455099d82?token=easyitv
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视",CCTV13
+http://192.168.3.91:8123/PLTV/742238626914ad365bb92c4a8b0243bc?token=easyitv
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视",CCTV14
+http://192.168.3.91:8123/PLTV/7ea3912849156481f17c3057886a8548?token=easyitv
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视",CCTV15
+http://192.168.3.91:8123/PLTV/b61bcf8e84fb39cfe0ce166ca24307a8?token=easyitv
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视",CCTV17
+http://192.168.3.91:8123/PLTV/d4294066d6c652b30e071a012e16305c?token=easyitv
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视",CCTV4K
+http://192.168.3.91:8123/PLTV/53549752ee8552a63b0a4eadef5cd332?token=easyitv
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视",CGTN
+http://192.168.3.91:8123/PLTV/b78105787fcc13062231356dfa4c7fb8?token=easyitv
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN俄语.png" group-title="央视",CGTN俄语
+http://192.168.3.91:8123/PLTV/7a9ade8423f1dc4a762c9cc3fd47fb28?token=easyitv
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN法语.png" group-title="央视",CGTN法语
+http://192.168.3.91:8123/PLTV/6d8e0861416ef6b9e48785a7254fa49e?token=easyitv
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN纪录.png" group-title="央视",CGTN纪录
+http://192.168.3.91:8123/PLTV/47749475603640c96b19dc61df0c77a9?token=easyitv
+#EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西语.png" group-title="央视",CGTN西语
+http://192.168.3.91:8123/PLTV/f4b7822f2aa900a6090d5cc18dc586b6?token=easyitv
+#EXTINF:-1,tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN阿语.png" group-title="央视",CGTN阿语
+http://192.168.3.91:8123/PLTV/74443032c9e34dd837d3f1108f0f2e0a?token=easyitv
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国交通.png" group-title="央视",中国交通
+http://192.168.3.91:8123/PLTV/7ac5a6e41ea650e296c8a2ddfaf4126e?token=easyitv
+#EXTINF:-1,tvg-id="中国教育1" tvg-name="中国教育1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育1.png" group-title="央视",中国教育1
+http://192.168.3.91:8123/PLTV/696fc38bf86fabc3101b08aeb2f52da3?token=easyitv
+#EXTINF:-1,tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育4.png" group-title="央视",中国教育4
+http://192.168.3.91:8123/PLTV/963978aa045b99632d8e7b8f4b713dd9?token=easyitv
+#EXTINF:-1,tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海洋频道.png" group-title="央视",海洋频道
+http://192.168.3.91:8123/PLTV/10d35cd94b47cf4bc8f3ab6102a6e1ab?token=easyitv
+#EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东齐鲁.png" group-title="省内",山东齐鲁
+http://192.168.3.91:8123/PLTV/6449bacf31f1e3a0340a1ec2ef2714ae?token=easyitv
+#EXTINF:-1,tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东体育休闲.png" group-title="省内",山东体育休闲
+http://192.168.3.91:8123/PLTV/d519ac646db65854ca54dc29c6abd449?token=easyitv
+#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东新闻.png" group-title="省内",山东新闻
+http://192.168.3.91:8123/PLTV/51c1a497cd852c344e0bb2abf71f1afd?token=easyitv
+#EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东农科.png" group-title="省内",山东农科
+http://192.168.3.91:8123/PLTV/d156695f528fb25d956cafe38a7f3971?token=easyitv
+#EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东少儿.png" group-title="省内",山东少儿
+http://192.168.3.91:8123/PLTV/35fed525a8f369198765a8f607f51587?token=easyitv
+#EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东文旅.png" group-title="省内",山东文旅
+http://192.168.3.91:8123/PLTV/b7c71a5a7986d1d7e6e6b395c9568bca?token=easyitv
+#EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东生活.png" group-title="省内",山东生活
+http://192.168.3.91:8123/PLTV/5ad79522ddd977919734f4fe04156462?token=easyitv
+#EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东综艺.png" group-title="省内",山东综艺
+http://192.168.3.91:8123/PLTV/050687fc962efddbebb84803622fe6a7?token=easyitv
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育卫视.png" group-title="省内",山东教育卫视
+http://192.168.3.91:8123/PLTV/f88a91a17f466bba0d2581fec7cd5749?token=easyitv
+#EXTINF:-1,tvg-id="济南新闻综合" tvg-name="济南新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南新闻综合.png" group-title="省内",济南新闻综合
+http://192.168.3.91:8123/PLTV/dbe23bfdabf60a0dc163037f1bcb5bf7?token=easyitv
+#EXTINF:-1,tvg-id="济南教育" tvg-name="济南教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南教育.png" group-title="省内",济南教育
+http://192.168.3.91:8123/PLTV/99c971f44c1863a9b0ddcea3ee54e369?token=easyitv
+#EXTINF:-1,tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东平综合.png" group-title="省内",东平综合
+http://192.168.3.91:8123/PLTV/dfcb876870228124ce794c84953cfd3f?token=easyitv
+#EXTINF:-1,tvg-id="东阿综合" tvg-name="东阿综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东阿综合.png" group-title="省内",东阿综合
+http://192.168.3.91:8123/PLTV/0f604a66e261e1612d8ba245260bc109?token=easyitv
+#EXTINF:-1,tvg-id="临沂综合" tvg-name="临沂综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/临沂综合.png" group-title="省内",临沂综合
+http://192.168.3.91:8123/PLTV/740df6d42add0f0ab87796d5e108f339?token=easyitv
+#EXTINF:-1,tvg-id="临沭综合" tvg-name="临沭综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/临沭综合.png" group-title="省内",临沭综合
+http://192.168.3.91:8123/PLTV/1ef44241e99e39b7832742330af441a3?token=easyitv
+#EXTINF:-1,tvg-id="临清综合" tvg-name="临清综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/临清综合.png" group-title="省内",临清综合
+http://192.168.3.91:8123/PLTV/f02e9474cd5caa12a7d3911a77133b9a?token=easyitv
+#EXTINF:-1,tvg-id="临邑1" tvg-name="临邑1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/临邑1.png" group-title="省内",临邑1
+http://192.168.3.91:8123/PLTV/ddfce24d55c369d7bca81c532f4f0ea7?token=easyitv
+#EXTINF:-1,tvg-id="任城1" tvg-name="任城1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/任城1.png" group-title="省内",任城1
+http://192.168.3.91:8123/PLTV/4398d60e59d6b8cc4b0b7652ec94edc0?token=easyitv
+#EXTINF:-1,tvg-id="任城2" tvg-name="任城2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/任城2.png" group-title="省内",任城2
+http://192.168.3.91:8123/PLTV/5258151c9b53e5fbce47d655ed3131b5?token=easyitv
+#EXTINF:-1,tvg-id="兖州新闻" tvg-name="兖州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兖州新闻.png" group-title="省内",兖州新闻
+http://192.168.3.91:8123/PLTV/770a33ce6f67944306f996e38abec83e?token=easyitv
+#EXTINF:-1,tvg-id="兰陵综合" tvg-name="兰陵综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兰陵综合.png" group-title="省内",兰陵综合
+http://192.168.3.91:8123/PLTV/d8a0dcdeb4a56b8262069bbe285acbc2?token=easyitv
+#EXTINF:-1,tvg-id="单县综合" tvg-name="单县综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/单县综合.png" group-title="省内",单县综合
+http://192.168.3.91:8123/PLTV/331af73174cd1a535fd335f111fea29b?token=easyitv
+#EXTINF:-1,tvg-id="博兴综合" tvg-name="博兴综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博兴综合.png" group-title="省内",博兴综合
+http://192.168.3.91:8123/PLTV/5b59a9c299b14e88024cde5ecff49031?token=easyitv
+#EXTINF:-1,tvg-id="历城综合" tvg-name="历城综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/历城综合.png" group-title="省内",历城综合
+http://192.168.3.91:8123/PLTV/7b0003c3befdbd4392c6c7fdee2798cb?token=easyitv
+#EXTINF:-1,tvg-id="商河综合" tvg-name="商河综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/商河综合.png" group-title="省内",商河综合
+http://192.168.3.91:8123/PLTV/82929756c5535e8d33f87ca3ff24ab19?token=easyitv
+#EXTINF:-1,tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉祥综合.png" group-title="省内",嘉祥综合
+http://192.168.3.91:8123/PLTV/122c201a3f96387347ba876631c5d10e?token=easyitv
+#EXTINF:-1,tvg-id="夏津公共" tvg-name="夏津公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/夏津公共.png" group-title="省内",夏津公共
+http://192.168.3.91:8123/PLTV/03ccaeb1ec915315fd6b3c37f7dbb294?token=easyitv
+#EXTINF:-1,tvg-id="夏津综合" tvg-name="夏津综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/夏津综合.png" group-title="省内",夏津综合
+http://192.168.3.91:8123/PLTV/d464ff9ecab55a85d7a538da8b7a9827?token=easyitv
+#EXTINF:-1,tvg-id="宁津综合" tvg-name="宁津综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁津综合.png" group-title="省内",宁津综合
+http://192.168.3.91:8123/PLTV/f56b57161c56b92bf8e02363173ab722?token=easyitv
+#EXTINF:-1,tvg-id="宁阳综合" tvg-name="宁阳综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁阳综合.png" group-title="省内",宁阳综合
+http://192.168.3.91:8123/PLTV/5f55f58e68354678e37e3b04194a00c6?token=easyitv
+#EXTINF:-1,tvg-id="定陶1" tvg-name="定陶1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/定陶1.png" group-title="省内",定陶1
+http://192.168.3.91:8123/PLTV/cd13305e9d3a5f86aedbdffe29a4076b?token=easyitv
+#EXTINF:-1,tvg-id="岱岳" tvg-name="岱岳" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/岱岳.png" group-title="省内",岱岳
+http://192.168.3.91:8123/PLTV/d79d52e2cff462f287fb42f4af78b991?token=easyitv
+#EXTINF:-1,tvg-id="巨野新闻" tvg-name="巨野新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/巨野新闻.png" group-title="省内",巨野新闻
+http://192.168.3.91:8123/PLTV/b487f7c0584b26f3c7dac5add23175fd?token=easyitv
+#EXTINF:-1,tvg-id="平原综合" tvg-name="平原综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/平原综合.png" group-title="省内",平原综合
+http://192.168.3.91:8123/PLTV/c860043d2c2003f0d0131ed7faf183a1?token=easyitv
+#EXTINF:-1,tvg-id="平阴综合" tvg-name="平阴综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/平阴综合.png" group-title="省内",平阴综合
+http://192.168.3.91:8123/PLTV/96e26863e5ad4e8703a642d0e93de08b?token=easyitv
+#EXTINF:-1,tvg-id="广饶综合" tvg-name="广饶综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广饶综合.png" group-title="省内",广饶综合
+http://192.168.3.91:8123/PLTV/ef5eabba44599a4872403d099e083a2e?token=easyitv
+#EXTINF:-1,tvg-id="微山综合" tvg-name="微山综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/微山综合.png" group-title="省内",微山综合
+http://192.168.3.91:8123/PLTV/fd3273fcb9fa1cc34a812a4dac665937?token=easyitv
+#EXTINF:-1,tvg-id="德州新闻综合" tvg-name="德州新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/德州新闻综合.png" group-title="省内",德州新闻综合
+http://192.168.3.91:8123/PLTV/6d47baa0b6926283af1714b70e5194be?token=easyitv
+#EXTINF:-1,tvg-id="德州经济生活" tvg-name="德州经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/德州经济生活.png" group-title="省内",德州经济生活
+http://192.168.3.91:8123/PLTV/5c5eb5fffe8374fc7ca558d1bfec224b?token=easyitv
+#EXTINF:-1,tvg-id="新泰乡村" tvg-name="新泰乡村" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新泰乡村.png" group-title="省内",新泰乡村
+http://192.168.3.91:8123/PLTV/b291d345d49c5e040d74947cb6ecb9de?token=easyitv
+#EXTINF:-1,tvg-id="新泰综合" tvg-name="新泰综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新泰综合.png" group-title="省内",新泰综合
+http://192.168.3.91:8123/PLTV/609bc69e4debc3ee4f938f8735c9772e?token=easyitv
+#EXTINF:-1,tvg-id="无棣综合" tvg-name="无棣综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无棣综合.png" group-title="省内",无棣综合
+http://192.168.3.91:8123/PLTV/0f78c31aec73c36de9d9af48bc889c6f?token=easyitv
+#EXTINF:-1,tvg-id="曲阜综合" tvg-name="曲阜综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/曲阜综合.png" group-title="省内",曲阜综合
+http://192.168.3.91:8123/PLTV/4b17eb688b45a3949f1c8a23394968c2?token=easyitv
+#EXTINF:-1,tvg-id="梁山综合" tvg-name="梁山综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/梁山综合.png" group-title="省内",梁山综合
+http://192.168.3.91:8123/PLTV/17fd2cfa128233bf5782ba86b52a6c3c?token=easyitv
+#EXTINF:-1,tvg-id="武城综合" tvg-name="武城综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/武城综合.png" group-title="省内",武城综合
+http://192.168.3.91:8123/PLTV/ebf18eccbf2a29b0788423d227cc7663?token=easyitv
+#EXTINF:-1,tvg-id="武城综艺影视" tvg-name="武城综艺影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/武城综艺影视.png" group-title="省内",武城综艺影视
+http://192.168.3.91:8123/PLTV/f0332ba57e1616372e937e3787be5b2c?token=easyitv
+#EXTINF:-1,tvg-id="沂南红色影视" tvg-name="沂南红色影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/沂南红色影视.png" group-title="省内",沂南红色影视
+http://192.168.3.91:8123/PLTV/d17406b3013730c743be373d289da2c3?token=easyitv
+#EXTINF:-1,tvg-id="沂南综合" tvg-name="沂南综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/沂南综合.png" group-title="省内",沂南综合
+http://192.168.3.91:8123/PLTV/6d723cbf7c14113521470a5a3da2631a?token=easyitv
+#EXTINF:-1,tvg-id="沂水综合" tvg-name="沂水综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/沂水综合.png" group-title="省内",沂水综合
+http://192.168.3.91:8123/PLTV/8e35772431459a45a10609349b3291e6?token=easyitv
+#EXTINF:-1,tvg-id="河东综合" tvg-name="河东综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河东综合.png" group-title="省内",河东综合
+http://192.168.3.91:8123/PLTV/0be4e169014b87ca563ea0e4bc9de32a?token=easyitv
+#EXTINF:-1,tvg-id="沾化综合" tvg-name="沾化综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/沾化综合.png" group-title="省内",沾化综合
+http://192.168.3.91:8123/PLTV/649e113563c36744cfeb530223be108e?token=easyitv
+#EXTINF:-1,tvg-id="泰安综合" tvg-name="泰安综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/泰安综合.png" group-title="省内",泰安综合
+http://192.168.3.91:8123/PLTV/b1275a2ba2aaf86c5839c5ff54ad8257?token=easyitv
+#EXTINF:-1,tvg-id="泰山" tvg-name="泰山" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/泰山.png" group-title="省内",泰山
+http://192.168.3.91:8123/PLTV/8fd49b83fac5a376089143bb5d0a94a5?token=easyitv
+#EXTINF:-1,tvg-id="济宁综合" tvg-name="济宁综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济宁综合.png" group-title="省内",济宁综合
+http://192.168.3.91:8123/PLTV/44931fb1665887405a1abc50d7c59276?token=easyitv
+#EXTINF:-1,tvg-id="济宁高新" tvg-name="济宁高新" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济宁高新.png" group-title="省内",济宁高新
+http://192.168.3.91:8123/PLTV/14484ccb5d66d34fd81544067bdf6f96?token=easyitv
+#EXTINF:-1,tvg-id="济阳综合" tvg-name="济阳综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济阳综合.png" group-title="省内",济阳综合
+http://192.168.3.91:8123/PLTV/17ead96b29600dd4722a531c7140529d?token=easyitv
+#EXTINF:-1,tvg-id="淄博影视" tvg-name="淄博影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/淄博影视.png" group-title="省内",淄博影视
+http://192.168.3.91:8123/PLTV/02163744a8b641276f8967977b59d2fb?token=easyitv
+#EXTINF:-1,tvg-id="淄博新闻综合" tvg-name="淄博新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/淄博新闻综合.png" group-title="省内",淄博新闻综合
+http://192.168.3.91:8123/PLTV/8af6ec41dcb727079ca07346ea7995e5?token=easyitv
+#EXTINF:-1,tvg-id="淄川新闻" tvg-name="淄川新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/淄川新闻.png" group-title="省内",淄川新闻
+http://192.168.3.91:8123/PLTV/01e63d8cff530807c2cad6bbef83e5f4?token=easyitv
+#EXTINF:-1,tvg-id="禹城综合" tvg-name="禹城综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/禹城综合.png" group-title="省内",禹城综合
+http://192.168.3.91:8123/PLTV/7e1d91ccc3a6bc3882fe7db282027ce6?token=easyitv
+#EXTINF:-1,tvg-id="禹城综艺" tvg-name="禹城综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/禹城综艺.png" group-title="省内",禹城综艺
+http://192.168.3.91:8123/PLTV/2013f4490e10c5d5b4a29997aba2e601?token=easyitv
+#EXTINF:-1,tvg-id="章丘综合" tvg-name="章丘综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/章丘综合.png" group-title="省内",章丘综合
+http://192.168.3.91:8123/PLTV/3ff1358ef97ad30fe8260b714f8a27b6?token=easyitv
+#EXTINF:-1,tvg-id="聊城民生" tvg-name="聊城民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/聊城民生.png" group-title="省内",聊城民生
+http://192.168.3.91:8123/PLTV/c57446d7e7e3953ea7af65270aefbbdb?token=easyitv
+#EXTINF:-1,tvg-id="聊城综合" tvg-name="聊城综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/聊城综合.png" group-title="省内",聊城综合
+http://192.168.3.91:8123/PLTV/d01723a12dee30e6655fed95bea08e1a?token=easyitv
+#EXTINF:-1,tvg-id="肥城综合" tvg-name="肥城综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/肥城综合.png" group-title="省内",肥城综合
+http://192.168.3.91:8123/PLTV/29445dcaf43fb42416cb9e21c62b5858?token=easyitv
+#EXTINF:-1,tvg-id="茌平综合" tvg-name="茌平综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/茌平综合.png" group-title="省内",茌平综合
+http://192.168.3.91:8123/PLTV/0acc3542285e51ac06569df7b945f244?token=easyitv
+#EXTINF:-1,tvg-id="莘县综合" tvg-name="莘县综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/莘县综合.png" group-title="省内",莘县综合
+http://192.168.3.91:8123/PLTV/06f97640ca4c0a519d07f43a98e9de8a?token=easyitv
+#EXTINF:-1,tvg-id="蒙阴综合" tvg-name="蒙阴综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/蒙阴综合.png" group-title="省内",蒙阴综合
+http://192.168.3.91:8123/PLTV/2ec31520d88a2549abd8e9ecb4d1c811?token=easyitv
+#EXTINF:-1,tvg-id="邹城综合" tvg-name="邹城综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/邹城综合.png" group-title="省内",邹城综合
+http://192.168.3.91:8123/PLTV/11a081c3286759c7fb58732e1f5ffbd3?token=easyitv
+#EXTINF:-1,tvg-id="邹平综合" tvg-name="邹平综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/邹平综合.png" group-title="省内",邹平综合
+http://192.168.3.91:8123/PLTV/bd7dd92819711c42fa13b9d814a23254?token=easyitv
+#EXTINF:-1,tvg-id="郓城新闻" tvg-name="郓城新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/郓城新闻.png" group-title="省内",郓城新闻
+http://192.168.3.91:8123/PLTV/8639f53e1c5223dc2201e979762f06bc?token=easyitv
+#EXTINF:-1,tvg-id="陵城综合" tvg-name="陵城综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陵城综合.png" group-title="省内",陵城综合
+http://192.168.3.91:8123/PLTV/d5eec6521c436d37a06e05afaa86ed50?token=easyitv
+#EXTINF:-1,tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/鱼台生活.png" group-title="省内",鱼台生活
+http://192.168.3.91:8123/PLTV/9813c2ec9e90e06d9d4cd6ef9747171d?token=easyitv
+#EXTINF:-1,tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/鱼台综合.png" group-title="省内",鱼台综合
+http://192.168.3.91:8123/PLTV/14909dadd824ff8932e62c61d4a26303?token=easyitv
+#EXTINF:-1,tvg-id="齐河综合" tvg-name="齐河综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/齐河综合.png" group-title="省内",齐河综合
+http://192.168.3.91:8123/PLTV/43844198852546df4f2d65a1387ea070?token=easyitv
+#EXTINF:-1,tvg-id="济南娱乐" tvg-name="济南娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南娱乐.png" group-title="省内",济南娱乐
+http://192.168.3.91:8123/PLTV/d4da8efc0f22274208afd67a673f8457?token=easyitv
+#EXTINF:-1,tvg-id="济南少儿" tvg-name="济南少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南少儿.png" group-title="省内",济南少儿
+http://192.168.3.91:8123/PLTV/07cb7d851dcc22a39ecfd6ac0bbc07ff?token=easyitv
+#EXTINF:-1,tvg-id="济南文旅体育" tvg-name="济南文旅体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南文旅体育.png" group-title="省内",济南文旅体育
+http://192.168.3.91:8123/PLTV/611969fb3408565e9577eaedf15388e9?token=easyitv
+#EXTINF:-1,tvg-id="济南生活" tvg-name="济南生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南生活.png" group-title="省内",济南生活
+http://192.168.3.91:8123/PLTV/326e02e4cf1e871f01118c889df25642?token=easyitv
+#EXTINF:-1,tvg-id="济南都市" tvg-name="济南都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南都市.png" group-title="省内",济南都市
+http://192.168.3.91:8123/PLTV/12b805ee7124314ac130d747b3026723?token=easyitv
+#EXTINF:-1,tvg-id="济南鲁中" tvg-name="济南鲁中" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南鲁中.png" group-title="省内",济南鲁中
+http://192.168.3.91:8123/PLTV/7bed0530a8a6deb62a08cead9dd15a14?token=easyitv
+#EXTINF:-1,tvg-id="济宁公共" tvg-name="济宁公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济宁公共.png" group-title="省内",济宁公共
+http://192.168.3.91:8123/PLTV/e8dda0568efd7dfe672c81a9624f2afc?token=easyitv
+#EXTINF:-1,tvg-id="济宁生活" tvg-name="济宁生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济宁生活.png" group-title="省内",济宁生活
+http://192.168.3.91:8123/PLTV/cf1e76f0593754552b87ec374e26ebdc?token=easyitv
+#EXTINF:-1,tvg-id="东明新闻综合" tvg-name="东明新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东明新闻综合.png" group-title="省内",东明新闻综合
+http://192.168.3.91:8123/PLTV/b3a061bc2a05a43514748a06155f4e13?token=easyitv
+#EXTINF:-1,tvg-id="东营公共" tvg-name="东营公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东营公共.png" group-title="省内",东营公共
+http://192.168.3.91:8123/PLTV/35a6909a3d9344984fc019bfc8af87ba?token=easyitv
+#EXTINF:-1,tvg-id="东营新闻综合" tvg-name="东营新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东营新闻综合.png" group-title="省内",东营新闻综合
+http://192.168.3.91:8123/PLTV/f9ea647a6b9c4255921d30bd255eda4b?token=easyitv
+#EXTINF:-1,tvg-id="临沂公共" tvg-name="临沂公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/临沂公共.png" group-title="省内",临沂公共
+http://192.168.3.91:8123/PLTV/231a413755e7bd14dc64aa337d18c3fe?token=easyitv
+#EXTINF:-1,tvg-id="临沂经济" tvg-name="临沂经济" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/临沂经济.png" group-title="省内",临沂经济
+http://192.168.3.91:8123/PLTV/051bea9e6a975b62dc251231c3f2c071?token=easyitv
+#EXTINF:-1,tvg-id="冠县综合" tvg-name="冠县综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/冠县综合.png" group-title="省内",冠县综合
+http://192.168.3.91:8123/PLTV/c9f0d9abdff8eb3e1bf5814875b619e1?token=easyitv
+#EXTINF:-1,tvg-id="周村新闻" tvg-name="周村新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/周村新闻.png" group-title="省内",周村新闻
+http://192.168.3.91:8123/PLTV/cd35f2cba41a28a5f7d91380004c9422?token=easyitv
+#EXTINF:-1,tvg-id="宁阳2" tvg-name="宁阳2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁阳2.png" group-title="省内",宁阳2
+http://192.168.3.91:8123/PLTV/06677109d7e35a7fc825b20434ff8de8?token=easyitv
+#EXTINF:-1,tvg-id="张店" tvg-name="张店" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/张店.png" group-title="省内",张店
+http://192.168.3.91:8123/PLTV/afccf5e681dcd64db7d80bfa69517848?token=easyitv
+#EXTINF:-1,tvg-id="惠民综合" tvg-name="惠民综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/惠民综合.png" group-title="省内",惠民综合
+http://192.168.3.91:8123/PLTV/14bb4a9beb32134b7d67f808f29f7b46?token=easyitv
+#EXTINF:-1,tvg-id="枣庄新闻综合" tvg-name="枣庄新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/枣庄新闻综合.png" group-title="省内",枣庄新闻综合
+http://192.168.3.91:8123/PLTV/0f5562e26f99ed33b20626fc7014f0aa?token=easyitv
+#EXTINF:-1,tvg-id="枣庄经济生活" tvg-name="枣庄经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/枣庄经济生活.png" group-title="省内",枣庄经济生活
+http://192.168.3.91:8123/PLTV/754960ba3024a15500540e576735a13d?token=easyitv
+#EXTINF:-1,tvg-id="桓台综合" tvg-name="桓台综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/桓台综合.png" group-title="省内",桓台综合
+http://192.168.3.91:8123/PLTV/9d034abf57fb6dadbb9dc05868e5bbdd?token=easyitv
+#EXTINF:-1,tvg-id="沂源综合" tvg-name="沂源综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/沂源综合.png" group-title="省内",沂源综合
+http://192.168.3.91:8123/PLTV/734bc60a80537ef6e4748f6b1fad76ba?token=easyitv
+#EXTINF:-1,tvg-id="泗水新闻综合" tvg-name="泗水新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/泗水新闻综合.png" group-title="省内",泗水新闻综合
+http://192.168.3.91:8123/PLTV/ac6099b1857bb60aa4d0cf0bd296c5fa?token=easyitv
+#EXTINF:-1,tvg-id="泰安经济生活" tvg-name="泰安经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/泰安经济生活.png" group-title="省内",泰安经济生活
+http://192.168.3.91:8123/PLTV/9348d9dd9acc4beb0290b04b3d202f07?token=easyitv
+#EXTINF:-1,tvg-id="淄博文旅" tvg-name="淄博文旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/淄博文旅.png" group-title="省内",淄博文旅
+http://192.168.3.91:8123/PLTV/fc14587d3a12da9a589bb1ac963f7ab7?token=easyitv
+#EXTINF:-1,tvg-id="淄博民生" tvg-name="淄博民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/淄博民生.png" group-title="省内",淄博民生
+http://192.168.3.91:8123/PLTV/2956594f8d8cafff2d4a65780e046799?token=easyitv
+#EXTINF:-1,tvg-id="滕州综合" tvg-name="滕州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/滕州综合.png" group-title="省内",滕州综合
+http://192.168.3.91:8123/PLTV/103566e80bc305f7efddb305c37197e0?token=easyitv
+#EXTINF:-1,tvg-id="滨州新闻综合" tvg-name="滨州新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/滨州新闻综合.png" group-title="省内",滨州新闻综合
+http://192.168.3.91:8123/PLTV/c3bf136f07aa93b61a5d52e21e734a5b?token=easyitv
+#EXTINF:-1,tvg-id="滨州民生" tvg-name="滨州民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/滨州民生.png" group-title="省内",滨州民生
+http://192.168.3.91:8123/PLTV/4a558795c3950b62956b0c1fe3bea5f8?token=easyitv
+#EXTINF:-1,tvg-id="莒南综合" tvg-name="莒南综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/莒南综合.png" group-title="省内",莒南综合
+http://192.168.3.91:8123/PLTV/f238707a7c9e5d2e2326baf6f83d6592?token=easyitv
+#EXTINF:-1,tvg-id="菏泽新闻综合" tvg-name="菏泽新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/菏泽新闻综合.png" group-title="省内",菏泽新闻综合
+http://192.168.3.91:8123/PLTV/e58d1d7d3df17e92505bacaf9bde6efa?token=easyitv
+#EXTINF:-1,tvg-id="菏泽经济生活" tvg-name="菏泽经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/菏泽经济生活.png" group-title="省内",菏泽经济生活
+http://192.168.3.91:8123/PLTV/6247d906b2caf89287fa5025073d829a?token=easyitv
+#EXTINF:-1,tvg-id="鄄城综合" tvg-name="鄄城综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/鄄城综合.png" group-title="省内",鄄城综合
+http://192.168.3.91:8123/PLTV/26b656f77be22ba4260f4c3e8ab537db?token=easyitv
+#EXTINF:-1,tvg-id="长清综合" tvg-name="长清综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/长清综合.png" group-title="省内",长清综合
+http://192.168.3.91:8123/PLTV/87e9f399c63b793c5c5307e8710b5540?token=easyitv
+#EXTINF:-1,tvg-id="阳信新闻综合" tvg-name="阳信新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/阳信新闻综合.png" group-title="省内",阳信新闻综合
+http://192.168.3.91:8123/PLTV/ab58bc0cd0b5f29c1fa2cf310e0ed748?token=easyitv
+#EXTINF:-1,tvg-id="高青综合" tvg-name="高青综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/高青综合.png" group-title="省内",高青综合
+http://192.168.3.91:8123/PLTV/64c729fcb672fc15b0b5d89e37759e6d?token=easyitv
+#EXTINF:-1,tvg-id="湖南快乐购" tvg-name="湖南快乐购" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南快乐购.png" group-title="省内",湖南快乐购
+http://192.168.3.91:8123/PLTV/4b8683a2db5459fae1db02d4fe6e2f6d?token=easyitv
+#EXTINF:-1,tvg-id="江西风尚购物" tvg-name="江西风尚购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西风尚购物.png" group-title="省内",江西风尚购物
+http://192.168.3.91:8123/PLTV/adcadd290b7e3785548da3466828d52c?token=easyitv
+#EXTINF:-1,tvg-id="CCTV央视购物" tvg-name="CCTV央视购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV央视购物.png" group-title="省内",CCTV央视购物
+http://192.168.3.91:8123/PLTV/2b0922af8270595c933cff611669a0d6?token=easyitv
+#EXTINF:-1,tvg-id="山东交通广播" tvg-name="山东交通广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东交通广播.png" group-title="省内",山东交通广播
+http://192.168.3.91:8123/PLTV/e97b2fa7562d9ab60a2ee2333fc3f2b7?token=easyitv
+#EXTINF:-1,tvg-id="山东经济广播" tvg-name="山东经济广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东经济广播.png" group-title="省内",山东经济广播
+http://192.168.3.91:8123/PLTV/1d00cab30409b77ad10056fb3ab27dc1?token=easyitv
+#EXTINF:-1,tvg-id="山东居家购物" tvg-name="山东居家购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东居家购物.png" group-title="省内",山东居家购物
+http://192.168.3.91:8123/PLTV/d7588cd87d8db825e50b0dc7c33542b4?token=easyitv
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视",东南卫视
+http://192.168.3.91:8123/PLTV/746b204b64754c7be454178dfa227bef?token=easyitv
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视",东方卫视
+http://192.168.3.91:8123/PLTV/aaf14ab3e1f98f1774c8c78e1cd6f005?token=easyitv
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视",云南卫视
+http://192.168.3.91:8123/PLTV/e067cee733fdc1681a0e2fc2b9de843e?token=easyitv
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视",北京卫视
+http://192.168.3.91:8123/PLTV/0dacf309e032f94661425e3af48ef328?token=easyitv
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视",吉林卫视
+http://192.168.3.91:8123/PLTV/3f98183e893d9d4348f2f2a2a6a14b65?token=easyitv
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视",四川卫视
+http://192.168.3.91:8123/PLTV/629392e5b81a95d57d138309c894dfbe?token=easyitv
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视",天津卫视
+http://192.168.3.91:8123/PLTV/0de8d62ce212f23c89268bc88055d6c8?token=easyitv
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视",安徽卫视
+http://192.168.3.91:8123/PLTV/739f757b4d81a6765a258a5c6885a06f?token=easyitv
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视",山东卫视
+http://192.168.3.91:8123/PLTV/c7123030c9776c351dd8b7f651795bf4?token=easyitv
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视",广东卫视
+http://192.168.3.91:8123/PLTV/399bf5596d7ef3906102440d553f0680?token=easyitv
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视",广西卫视
+http://192.168.3.91:8123/PLTV/7cdee09e929032821b3cd843787bc0d8?token=easyitv
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视",江苏卫视
+http://192.168.3.91:8123/PLTV/3ad12d81c2a6e61cb06a4110c9d3d1c2?token=easyitv
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视",江西卫视
+http://192.168.3.91:8123/PLTV/e5c3e9670be6c99e56a4ec827c9526c4?token=easyitv
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视",河北卫视
+http://192.168.3.91:8123/PLTV/45c0dae299b4e1647ace75046d5e96de?token=easyitv
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视",河南卫视
+http://192.168.3.91:8123/PLTV/a1fab936a53fb0462b69c98cabd45b17?token=easyitv
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视",浙江卫视
+http://192.168.3.91:8123/PLTV/4920779c8b10966220e3caa6cf29eacc?token=easyitv
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视",海南卫视
+http://192.168.3.91:8123/PLTV/b194f7675f319aecd04ed82095d3b15a?token=easyitv
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视",深圳卫视
+http://192.168.3.91:8123/PLTV/d8590482d628cd125c7f6d219326f4ea?token=easyitv
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视",湖北卫视
+http://192.168.3.91:8123/PLTV/302d7f0a0772a977f65df06c007ecf3c?token=easyitv
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视",湖南卫视
+http://192.168.3.91:8123/PLTV/8b6c27f73ce6c2b7dc07093a9a615e7d?token=easyitv
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://192.168.3.91:8123/PLTV/111aadf7cf3ae384b714592a06325b97?token=easyitv
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视",贵州卫视
+http://192.168.3.91:8123/PLTV/82f839e8643412ed6d09a96d9e3889b6?token=easyitv
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://192.168.3.91:8123/PLTV/3a00ffd7a057629f7b112be714bddcbe?token=easyitv
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视",重庆卫视
+http://192.168.3.91:8123/PLTV/a42b26585cae2a117216544b3be1ecd4?token=easyitv
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视",青海卫视
+http://192.168.3.91:8123/PLTV/ac4faa36721e46ec0f23a3d3083a1bde?token=easyitv
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://192.168.3.91:8123/PLTV/7b2415a0e9b2d3f15ab1ae4aa409bf66?token=easyitv
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="数字",CHC动作电影
+http://192.168.3.91:8123/PLTV/e62a5dc1aa84338cd985044e60ef8f7c?token=easyitv
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="数字",CHC家庭影院
+http://192.168.3.91:8123/PLTV/c913eb9d9af78a9c80af4a4e4fa219b9?token=easyitv
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="数字",CHC影迷电影
+http://192.168.3.91:8123/PLTV/32eccfeae5cbf735d9892dab28402fd3?token=easyitv
+#EXTINF:-1,tvg-id="华数精彩影视" tvg-name="华数精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数精彩影视.png" group-title="数字",华数精彩影视
+http://192.168.3.91:8123/PLTV/9cd036be382855481f8112e6ded53fc2?token=easyitv
+#EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="数字",上海纪实人文
+http://192.168.3.91:8123/PLTV/9d4ba65ff414238f7b47e7d2388a0271?token=easyitv
+#EXTINF:-1,tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南金鹰纪实.png" group-title="数字",湖南金鹰纪实
+http://192.168.3.91:8123/PLTV/1bb1807588c62355cf9215a16a54b9fb?token=easyitv
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南金鹰卡通.png" group-title="数字",湖南金鹰卡通
+http://192.168.3.91:8123/PLTV/10db397cd07b1c587efc458d88c10cfa?token=easyitv
+#EXTINF:-1,tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南快乐垂钓.png" group-title="数字",湖南快乐垂钓
+http://192.168.3.91:8123/PLTV/6ee4158948d914f9e89ca7665c880521?token=easyitv
+#EXTINF:-1,tvg-id="湖南茶" tvg-name="湖南茶" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南茶.png" group-title="数字",湖南茶
+http://192.168.3.91:8123/PLTV/55f3f068f30f4f9aef8399bb936ac322?token=easyitv
+#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png" group-title="数字",北京纪实科教
+http://192.168.3.91:8123/PLTV/a649bee000e04c62cf3c7eab2bd54221?token=easyitv
+#EXTINF:-1,tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卡酷少儿.png" group-title="数字",北京卡酷少儿
+http://192.168.3.91:8123/PLTV/295eea75489a00929359f5e2b04ec58c?token=easyitv
+#EXTINF:-1,tvg-id="河南文物宝库" tvg-name="河南文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南文物宝库.png" group-title="数字",河南文物宝库
+http://192.168.3.91:8123/PLTV/020fc283c73bd0b1da4cb123a4add57d?token=easyitv
+#EXTINF:-1,tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南梨园.png" group-title="数字",河南梨园
+http://192.168.3.91:8123/PLTV/2be2686152bbb75183a21657b85db039?token=easyitv
+#EXTINF:-1,tvg-id="河南武术世界" tvg-name="河南武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南武术世界.png" group-title="数字",河南武术世界
+http://192.168.3.91:8123/PLTV/07ffe0424b4243d0ac4da509ce1baf05?token=easyitv
+#EXTINF:-1,tvg-id="SiTV东方财经" tvg-name="SiTV东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV东方财经.png" group-title="数字",SiTV东方财经
+http://192.168.3.91:8123/PLTV/35ccebd3f1368347676515a5b1b2a6e5?token=easyitv
+#EXTINF:-1,tvg-id="SiTV乐游" tvg-name="SiTV乐游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV乐游.png" group-title="数字",SiTV乐游
+http://192.168.3.91:8123/PLTV/69fef6086f714bd5761e6b654a62a1ec?token=easyitv
+#EXTINF:-1,tvg-id="SiTV动漫秀场" tvg-name="SiTV动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV动漫秀场.png" group-title="数字",SiTV动漫秀场
+http://192.168.3.91:8123/PLTV/381709f3b9f0cfddec256053b481db35?token=easyitv
+#EXTINF:-1,tvg-id="SiTV劲爆体育" tvg-name="SiTV劲爆体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV劲爆体育.png" group-title="数字",SiTV劲爆体育
+http://192.168.3.91:8123/PLTV/f93d39f16000ff560170a467f563748a?token=easyitv
+#EXTINF:-1,tvg-id="SiTV法治天地" tvg-name="SiTV法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV法治天地.png" group-title="数字",SiTV法治天地
+http://192.168.3.91:8123/PLTV/645f11bcd55b188d56b7d2786ff28284?token=easyitv
+#EXTINF:-1,tvg-id="SiTV游戏风云" tvg-name="SiTV游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV游戏风云.png" group-title="数字",SiTV游戏风云
+http://192.168.3.91:8123/PLTV/e573ff1623bcc22b75df4fbee5df0ce6?token=easyitv
+#EXTINF:-1,tvg-id="SiTV生活时尚" tvg-name="SiTV生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV生活时尚.png" group-title="数字",SiTV生活时尚
+http://192.168.3.91:8123/PLTV/6b99a4f4868214a4b59e255434c6e16d?token=easyitv
+#EXTINF:-1,tvg-id="SiTV都市频道" tvg-name="SiTV都市频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV都市频道.png" group-title="数字",SiTV都市频道
+http://192.168.3.91:8123/PLTV/3fc5817b8ecc5c3c54b23f417d3a55c1?token=easyitv
+#EXTINF:-1,tvg-id="SiTV金色学堂" tvg-name="SiTV金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV金色学堂.png" group-title="数字",SiTV金色学堂
+http://192.168.3.91:8123/PLTV/d955c94e10635030631940d8ce78b8e7?token=easyitv
+#EXTINF:-1,tvg-id="SiTV魅力足球" tvg-name="SiTV魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV魅力足球.png" group-title="数字",SiTV魅力足球
+http://192.168.3.91:8123/PLTV/4d3135df45a1007684d4204c396275f0?token=easyitv
+#EXTINF:-1,tvg-id="重庆汽摩" tvg-name="重庆汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆汽摩.png" group-title="数字",重庆汽摩
+http://192.168.3.91:8123/PLTV/12d8171330df9b13a5fb28383004413d?token=easyitv
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视2",CCTV1
+http://192.168.3.91:8123/PLTV/d79fffe7b0afa46c53f10ea012f228a7?token=easyitv
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视2",CCTV2
+http://192.168.3.91:8123/PLTV/b1a5c31bc0599a83882713513b06c664?token=easyitv
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视2",CCTV3
+http://192.168.3.91:8123/PLTV/ad77eca8da5cd1327167a3ebd6bb526c?token=easyitv
+#EXTINF:-1,tvg-id="CCTV4 亚洲" tvg-name="CCTV4 亚洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4 亚洲.png" group-title="央视2",CCTV4 亚洲
+http://192.168.3.91:8123/PLTV/ad48b3624ad1f832838a0b0bff4285f7?token=easyitv
+#EXTINF:-1,tvg-id="CCTV4 欧洲" tvg-name="CCTV4 欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4 欧洲.png" group-title="央视2",CCTV4 欧洲
+http://192.168.3.91:8123/PLTV/4da28a811052428486cc3494979d78af?token=easyitv
+#EXTINF:-1,tvg-id="CCTV4 美洲" tvg-name="CCTV4 美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4 美洲.png" group-title="央视2",CCTV4 美洲
+http://192.168.3.91:8123/PLTV/8d9f944acb5a12425558a4974acb2bbf?token=easyitv
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视2",CCTV5
+http://192.168.3.91:8123/PLTV/6695708957bb7391397c27d35f6ef516?token=easyitv
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视2",CCTV5+
+http://192.168.3.91:8123/PLTV/51d7a61d6b38fda781cb86330bb8b99e?token=easyitv
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视2",CCTV6
+http://192.168.3.91:8123/PLTV/4e53b689bb8c6caf661ef2e8bbde24e9?token=easyitv
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视2",CCTV7
+http://192.168.3.91:8123/PLTV/a310c61ae214ac975d9e9891d8cbaafc?token=easyitv
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视2",CCTV8
+http://192.168.3.91:8123/PLTV/f7513ed2c9b53aaa58e2240e6290163b?token=easyitv
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视2",CCTV9
+http://192.168.3.91:8123/PLTV/57d864631f1600b220ebf0d3a22d4456?token=easyitv
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视2",CCTV10
+http://192.168.3.91:8123/PLTV/b21a1c13ce3564cdd81df90ec58481cf?token=easyitv
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视2",CCTV11
+http://192.168.3.91:8123/PLTV/0d1c64bc2241b01283f829e5485e1884?token=easyitv
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视2",CCTV12
+http://192.168.3.91:8123/PLTV/77515771b00e531cf7d3a78857b356f9?token=easyitv
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视2",CCTV13
+http://192.168.3.91:8123/PLTV/aa6e6fa5e0206c9d0e21d7dcb1b5ae5a?token=easyitv
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视2",CCTV14
+http://192.168.3.91:8123/PLTV/0a95ee3de074cd607a11133a893d8493?token=easyitv
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视2",CCTV15
+http://192.168.3.91:8123/PLTV/d40070f9f1845ebdea65cbf5c3afe740?token=easyitv
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视2",CCTV16
+http://192.168.3.91:8123/PLTV/7d9651ca7965b1af2356386edf323a94?token=easyitv
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视2",CCTV17
+http://192.168.3.91:8123/PLTV/283f94ebccb36683d9f1e0d97ef64fae?token=easyitv
+#EXTINF:-1,tvg-id="CETV 1" tvg-name="CETV 1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV 1.png" group-title="央视2",CETV 1
+http://192.168.3.91:8123/PLTV/fe11f6bce7b28bd0f4ee6fd540e4cd9c?token=easyitv
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国交通.png" group-title="央视2",中国交通
+http://192.168.3.91:8123/PLTV/17e98b10094370657d3bb8276d5dd63f?token=easyitv
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视2",东南卫视
+http://192.168.3.91:8123/PLTV/68ad368aedf4e55a7ac023b181171038?token=easyitv
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视2",东方卫视
+http://192.168.3.91:8123/PLTV/42fbaaf4fca019d831c75b792a1b5346?token=easyitv
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视2",北京卫视
+http://192.168.3.91:8123/PLTV/8322a14e8ae6d5575ed5789280a4bbc9?token=easyitv
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视2",吉林卫视
+http://192.168.3.91:8123/PLTV/5c79c07acb4800b2b32a4b9f80d37fda?token=easyitv
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视2",四川卫视
+http://192.168.3.91:8123/PLTV/1c39ab3f540988494eb3b4309ee91ae4?token=easyitv
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视2",天津卫视
+http://192.168.3.91:8123/PLTV/6ffabe589b39485ada329c99cae27787?token=easyitv
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视2",安徽卫视
+http://192.168.3.91:8123/PLTV/9bd75711ba280a286f7f655f769f966b?token=easyitv
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视2",广东卫视
+http://192.168.3.91:8123/PLTV/551017fb248bfd514573ddeffe6a70e8?token=easyitv
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视2",江苏卫视
+http://192.168.3.91:8123/PLTV/c7a86b66b383aa79c2921e5a497e18de?token=easyitv
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视2",江西卫视
+http://192.168.3.91:8123/PLTV/1369170b3ad9b2ce3b44e3f42a378f47?token=easyitv
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视2",河北卫视
+http://192.168.3.91:8123/PLTV/ce83243a03e6fd5d79568e40aedf3f8a?token=easyitv
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视2",河南卫视
+http://192.168.3.91:8123/PLTV/0875f7629ae2490211b2c0b100fd2c71?token=easyitv
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视2",浙江卫视
+http://192.168.3.91:8123/PLTV/987cdae560358371fa38dd37abd6ae2d?token=easyitv
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视2",海南卫视
+http://192.168.3.91:8123/PLTV/b42f6aa28b859bb943d793bab347a35b?token=easyitv
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视2",深圳卫视
+http://192.168.3.91:8123/PLTV/d7fbabd5ca8e5f2d896d5e2cd25b56a3?token=easyitv
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视2",湖北卫视
+http://192.168.3.91:8123/PLTV/913294e5fb9eca7e7a00d7b247510750?token=easyitv
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视2",湖南卫视
+http://192.168.3.91:8123/PLTV/25e1a3cfce1cfd569e08f3b1c1006996?token=easyitv
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视2",甘肃卫视
+http://192.168.3.91:8123/PLTV/7deb0ea95dd1ac44843f00f8fe9064d1?token=easyitv
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视2",贵州卫视
+http://192.168.3.91:8123/PLTV/c1dbf5f3e645404859c098df5f9aaff1?token=easyitv
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视2",辽宁卫视
+http://192.168.3.91:8123/PLTV/eeab8c4bfad0f95a599b5029b4735860?token=easyitv
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视2",重庆卫视
+http://192.168.3.91:8123/PLTV/34b3e2754ffd08eb881e6e083cdccebf?token=easyitv
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视2",云南卫视
+http://192.168.3.91:8123/PLTV/ce6149d468c99da126aeaddc6f2e53bf?token=easyitv
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="卫视2",宁夏卫视
+http://192.168.3.91:8123/PLTV/cd654ad451e5c2e4e0d87d9d31b12289?token=easyitv
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="卫视2",山西卫视
+http://192.168.3.91:8123/PLTV/76e6bfde7cbf22f9c2def268f3fc5cb7?token=easyitv
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视2",广西卫视
+http://192.168.3.91:8123/PLTV/f972200a0c871f4a5677da8bc9d4a8c6?token=easyitv
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="卫视2",新疆卫视
+http://192.168.3.91:8123/PLTV/b171d5a5cd7bd06ba2e83dd48520ea1b?token=easyitv
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视2",西藏卫视
+http://192.168.3.91:8123/PLTV/5192619ed20dc4e4c42b9b45e139d713?token=easyitv
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="卫视2",陕西卫视
+http://192.168.3.91:8123/PLTV/e489e5c0d5f7bec194eb718bb4d8a9df?token=easyitv
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视2",青海卫视
+http://192.168.3.91:8123/PLTV/8b5b56bdac70ba56bd54bfc04e895b2d?token=easyitv
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视2",黑龙江卫视
+http://192.168.3.91:8123/PLTV/35f70cbf4abcd2731711e96601597f36?token=easyitv
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="卫视2",内蒙古卫视
+http://192.168.3.91:8123/PLTV/ad807f835e4d7e24ed526ed59a5c70a5?token=easyitv
+#EXTINF:-1,tvg-id="新疆兵团卫视" tvg-name="新疆兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆兵团卫视.png" group-title="卫视2",新疆兵团卫视
+http://192.168.3.91:8123/PLTV/bd72ff8e23df884c95b52b979a3767d9?token=easyitv
+#EXTINF:-1,tvg-id="海南三沙卫视" tvg-name="海南三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南三沙卫视.png" group-title="卫视2",海南三沙卫视
+http://192.168.3.91:8123/PLTV/66499d6e36134027784e63e82430ccdb?token=easyitv
+#EXTINF:-1,tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西农林卫视.png" group-title="卫视2",陕西农林卫视
+http://192.168.3.91:8123/PLTV/afc60da460a011b99af9dff276f29a2f?token=easyitv
+#EXTINF:-1,tvg-id="上海哈哈炫动" tvg-name="上海哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海哈哈炫动.png" group-title="数字2",上海哈哈炫动
+http://192.168.3.91:8123/PLTV/3a23149fa95e268e7f29512b445169b5?token=easyitv
+#EXTINF:-1,tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卡酷少儿.png" group-title="数字2",北京卡酷少儿
+http://192.168.3.91:8123/PLTV/ff48348730cd8a4241eb1b8925669220?token=easyitv
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南金鹰卡通.png" group-title="数字2",湖南金鹰卡通
+http://192.168.3.91:8123/PLTV/989014fcb7f58033deb94e7b5926d25b?token=easyitv
+#EXTINF:-1,tvg-id="江苏优漫卡通" tvg-name="江苏优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏优漫卡通.png" group-title="数字2",江苏优漫卡通
+http://192.168.3.91:8123/PLTV/53848d85de868c492ca73ad21691128d?token=easyitv
+#EXTINF:-1,tvg-id="广东嘉佳卡通" tvg-name="广东嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东嘉佳卡通.png" group-title="数字2",广东嘉佳卡通
+http://192.168.3.91:8123/PLTV/227b0d6281ebb14bda3cf5ca4794d1bd?token=easyitv
+#EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="数字2",上海纪实人文
+http://192.168.3.91:8123/PLTV/520d6dde5282621d12ed6ae67a0b9133?token=easyitv
+#EXTINF:-1,tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南金鹰纪实.png" group-title="数字2",湖南金鹰纪实
+http://192.168.3.91:8123/PLTV/25dba71ff81f671c805bc32ea7df38ec?token=easyitv
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="省内2",山东卫视
+http://192.168.3.91:8123/PLTV/a0c99cbafa682ad9104c5608e4553ac2?token=easyitv
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东体育.png" group-title="省内2",山东体育
+http://192.168.3.91:8123/PLTV/cc0a460ff582035d75fff3cc04d597af?token=easyitv
+#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东新闻.png" group-title="省内2",山东新闻
+http://192.168.3.91:8123/PLTV/0e313518034607d6cc51dbb0c960eb8b?token=easyitv
+#EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东农科.png" group-title="省内2",山东农科
+http://192.168.3.91:8123/PLTV/feb93ebe9509c1e67d1edfa2e0d97329?token=easyitv
+#EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东少儿.png" group-title="省内2",山东少儿
+http://192.168.3.91:8123/PLTV/d941f59342c4a873f5ef7b4bab7079b2?token=easyitv
+#EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东文旅.png" group-title="省内2",山东文旅
+http://192.168.3.91:8123/PLTV/e14b01e2fc98efdfa405ee9d71a3b8d3?token=easyitv
+#EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东生活.png" group-title="省内2",山东生活
+http://192.168.3.91:8123/PLTV/1cc6856d08e6b2bad0ae897c2a5608c3?token=easyitv
+#EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东综艺.png" group-title="省内2",山东综艺
+http://192.168.3.91:8123/PLTV/71505516c997b056e0e9c32b866fdaea?token=easyitv
+#EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东齐鲁.png" group-title="省内2",山东齐鲁
+http://192.168.3.91:8123/PLTV/3ad154da4f3341ae821ecf13101a27d9?token=easyitv
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育卫视.png" group-title="省内2",山东教育卫视
+http://192.168.3.91:8123/PLTV/ee99110a7d72998a36df2b031876b9b8?token=easyitv
+#EXTINF:-1,tvg-id="济南新闻综合" tvg-name="济南新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南新闻综合.png" group-title="省内2",济南新闻综合
+http://192.168.3.91:8123/PLTV/b0f04c683a4d755124ca442d9376af66?token=easyitv
+#EXTINF:-1,tvg-id="济南教育" tvg-name="济南教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南教育.png" group-title="省内2",济南教育
+http://192.168.3.91:8123/PLTV/50dd7eabb7be5217acc5fefd825ea2f4?token=easyitv
+#EXTINF:-1,tvg-id="济南娱乐" tvg-name="济南娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南娱乐.png" group-title="省内2",济南娱乐
+http://192.168.3.91:8123/PLTV/98cf18f53ab20b2cfc7f691f8ba1de6e?token=easyitv
+#EXTINF:-1,tvg-id="济南少儿" tvg-name="济南少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南少儿.png" group-title="省内2",济南少儿
+http://192.168.3.91:8123/PLTV/62c62988126702961d8ff4b44ef56727?token=easyitv
+#EXTINF:-1,tvg-id="济南影视" tvg-name="济南影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南影视.png" group-title="省内2",济南影视
+http://192.168.3.91:8123/PLTV/058654c6ee3dc4ca5f3de87b7528a9c6?token=easyitv
+#EXTINF:-1,tvg-id="济南生活" tvg-name="济南生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南生活.png" group-title="省内2",济南生活
+http://192.168.3.91:8123/PLTV/54832be36a0dd86230843b2ada62eec3?token=easyitv
+#EXTINF:-1,tvg-id="济南都市" tvg-name="济南都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南都市.png" group-title="省内2",济南都市
+http://192.168.3.91:8123/PLTV/f33a430c1eebefe7c0b0d5465e3ed102?token=easyitv
+#EXTINF:-1,tvg-id="济南鲁中" tvg-name="济南鲁中" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/济南鲁中.png" group-title="省内2",济南鲁中
+http://192.168.3.91:8123/PLTV/d834a2930385b244a9be14fa25b9cb84?token=easyitv
+#EXTINF:-1,tvg-id="德州新闻综合" tvg-name="德州新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/德州新闻综合.png" group-title="省内2",德州新闻综合
+http://192.168.3.91:8123/PLTV/b362f896a9ff252530078e6f3d494ece?token=easyitv
+#EXTINF:-1,tvg-id="德州经济生活" tvg-name="德州经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/德州经济生活.png" group-title="省内2",德州经济生活
+http://192.168.3.91:8123/PLTV/b37947a9c7a9feb091c826af297ccb28?token=easyitv
+#EXTINF:-1,tvg-id="夏津公共" tvg-name="夏津公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/夏津公共.png" group-title="省内2",夏津公共
+http://192.168.3.91:8123/PLTV/767e6758baf138e93037ea351cd4ff01?token=easyitv
+#EXTINF:-1,tvg-id="夏津综合" tvg-name="夏津综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/夏津综合.png" group-title="省内2",夏津综合
+http://192.168.3.91:8123/PLTV/d647e2a92138ea4e333f76257c11bb2e?token=easyitv
+#EXTINF:-1,tvg-id="宁津综合" tvg-name="宁津综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁津综合.png" group-title="省内2",宁津综合
+http://192.168.3.91:8123/PLTV/9830d6dc222e39c14628625a3552bd8c?token=easyitv
+#EXTINF:-1,tvg-id="平原新闻" tvg-name="平原新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/平原新闻.png" group-title="省内2",平原新闻
+http://192.168.3.91:8123/PLTV/bf1d81fff40131b4176cc070ce8e037e?token=easyitv
+#EXTINF:-1,tvg-id="武城新闻" tvg-name="武城新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/武城新闻.png" group-title="省内2",武城新闻
+http://192.168.3.91:8123/PLTV/e14a0ab000a680350d8f183406ec237f?token=easyitv
+#EXTINF:-1,tvg-id="武城影视" tvg-name="武城影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/武城影视.png" group-title="省内2",武城影视
+http://192.168.3.91:8123/PLTV/88f318d35e3af426453514a15b718045?token=easyitv
+#EXTINF:-1,tvg-id="禹城综合" tvg-name="禹城综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/禹城综合.png" group-title="省内2",禹城综合
+http://192.168.3.91:8123/PLTV/116ecf4ef88c29889408ab819ac7c7a5?token=easyitv
+#EXTINF:-1,tvg-id="禹城综艺" tvg-name="禹城综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/禹城综艺.png" group-title="省内2",禹城综艺
+http://192.168.3.91:8123/PLTV/2bfdd7c26e8d9c05a24c4dd26daf221e?token=easyitv
+#EXTINF:-1,tvg-id="陵城新闻" tvg-name="陵城新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陵城新闻.png" group-title="省内2",陵城新闻
+http://192.168.3.91:8123/PLTV/74c369d6b5081c86b46d9ae8042c44b7?token=easyitv
+#EXTINF:-1,tvg-id="齐河新闻" tvg-name="齐河新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/齐河新闻.png" group-title="省内2",齐河新闻
+http://192.168.3.91:8123/PLTV/e2a29e60a1825b22bfffd9e47aeeb10c?token=easyitv
+#EXTINF:-1,tvg-id="宁津新闻" tvg-name="宁津新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁津新闻.png" group-title="省内2",宁津新闻
+http://192.168.3.91:8123/PLTV/9830d6dc222e39c14628625a3552bd8c?token=easyitv
+#EXTINF:-1,tvg-id="菏泽新闻综合" tvg-name="菏泽新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/菏泽新闻综合.png" group-title="省内2",菏泽新闻综合
+http://192.168.3.91:8123/PLTV/dcc3638f235e2e57318fec0897415ed8?token=easyitv
+#EXTINF:-1,tvg-id="菏泽经济生活" tvg-name="菏泽经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/菏泽经济生活.png" group-title="省内2",菏泽经济生活
+http://192.168.3.91:8123/PLTV/ef5cd4ce606ee1bbbbe24b17900bf127?token=easyitv
+#EXTINF:-1,tvg-id="郓城新闻" tvg-name="郓城新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/郓城新闻.png" group-title="省内2",郓城新闻
+http://192.168.3.91:8123/PLTV/676ee4bdd5ac4cb0fc57818e03f68db7?token=easyitv
+#EXTINF:-1,tvg-id="巨野新闻" tvg-name="巨野新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/巨野新闻.png" group-title="省内2",巨野新闻
+http://192.168.3.91:8123/PLTV/a8cd6f9f004b079e5478d485778e691a?token=easyitv
+#EXTINF:-1,tvg-id="单县综合" tvg-name="单县综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/单县综合.png" group-title="省内2",单县综合
+http://192.168.3.91:8123/PLTV/01ac8e5a34300b7e70ae6c6c2ae4e896?token=easyitv
+#EXTINF:-1,tvg-id="定陶综合" tvg-name="定陶综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/定陶综合.png" group-title="省内2",定陶综合
+http://192.168.3.91:8123/PLTV/3404222802fa9785bb5d10b699c19272?token=easyitv
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视3",CCTV1
+http://192.168.3.91:8123/PLTV/a61a9b0d14875acad1289e76663f9001?token=easyitv
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视3",CCTV2
+http://192.168.3.91:8123/PLTV/3dcfdabf6eb7e8b17b55dd9049ca39d3?token=easyitv
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视3",CCTV3
+http://192.168.3.91:8123/PLTV/47d198fe502e9e9d9e42ab86df9cad75?token=easyitv
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视3",CCTV4
+http://192.168.3.91:8123/PLTV/f8aa8dbdc91ba9acdf412b2cce0b9006?token=easyitv
+#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png" group-title="央视3",CCTV4欧洲
+http://192.168.3.91:8123/PLTV/5f2472deee10bbe42a42f4a14ce8543f?token=easyitv
+#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4美洲.png" group-title="央视3",CCTV4美洲
+http://192.168.3.91:8123/PLTV/5abe222341f41587010e06bf6fa48650?token=easyitv
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视3",CCTV5
+http://192.168.3.91:8123/PLTV/38a4578270d357a2832958624b1d80ac?token=easyitv
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视3",CCTV5+
+http://192.168.3.91:8123/PLTV/ff5fc421cbfd6284e6ceb7336eac95e0?token=easyitv
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视3",CCTV6
+http://192.168.3.91:8123/PLTV/ca22fd675f134af98aa69c148059a31d?token=easyitv
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视3",CCTV7
+http://192.168.3.91:8123/PLTV/126b23da6e170612a6efb5decd81b206?token=easyitv
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视3",CCTV8
+http://192.168.3.91:8123/PLTV/8bd211bfa06c86667e53f01768c018ab?token=easyitv
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视3",CCTV9
+http://192.168.3.91:8123/PLTV/10b56e6af933c2be3ea6f86a8d16336f?token=easyitv
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视3",CCTV10
+http://192.168.3.91:8123/PLTV/944386788b7fb4e52d5d2be42fbfaa7a?token=easyitv
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视3",CCTV11
+http://192.168.3.91:8123/PLTV/e1ea1a287e04aeca17fd0ec67ac910c3?token=easyitv
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视3",CCTV12
+http://192.168.3.91:8123/PLTV/c0a60ee599caa82dda77edad55c8381b?token=easyitv
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视3",CCTV13
+http://192.168.3.91:8123/PLTV/8ff72837324eb7f442fd468d31850610?token=easyitv
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视3",CCTV14
+http://192.168.3.91:8123/PLTV/823bd65c44af7d8f667b5c8ff06ac949?token=easyitv
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视3",CCTV15
+http://192.168.3.91:8123/PLTV/77d0ca8966d3e9eb9f9977adb5ecfa26?token=easyitv
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视3",CCTV17
+http://192.168.3.91:8123/PLTV/f7d9be02eb97c3a4f645cebe6d832d3d?token=easyitv
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视3",CGTN
+http://192.168.3.91:8123/PLTV/abe6d3faae909e1483a042f628499ed6?token=easyitv
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN俄语.png" group-title="央视3",CGTN俄语
+http://192.168.3.91:8123/PLTV/05c8dc7d2d0686f20f0b1dbe9c5a3050?token=easyitv
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN法语.png" group-title="央视3",CGTN法语
+http://192.168.3.91:8123/PLTV/c5c407e52ea54db1025096926b49eb07?token=easyitv
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN纪录.png" group-title="央视3",CGTN纪录
+http://192.168.3.91:8123/PLTV/38f7708df84bcec2a17760959f4cc5c2?token=easyitv
+#EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西语.png" group-title="央视3",CGTN西语
+http://192.168.3.91:8123/PLTV/d6bb2ec5d7b528ccca07b5bb2f1b7c42?token=easyitv
+#EXTINF:-1,tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN阿语.png" group-title="央视3",CGTN阿语
+http://192.168.3.91:8123/PLTV/afe5fb5c71fd8ccc2b773e8e78a70840?token=easyitv
+#EXTINF:-1,tvg-id="中国教育1" tvg-name="中国教育1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育1.png" group-title="央视3",中国教育1
+http://192.168.3.91:8123/PLTV/eff215e7f07547dd8d9d50ce706b3dd5?token=easyitv
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国交通.png" group-title="央视3",中国交通
+http://192.168.3.91:8123/PLTV/53a8bb1133da3b183aa5222d8ff1881c?token=easyitv
+#EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东齐鲁.png" group-title="省内3",山东齐鲁
+http://192.168.3.91:8123/PLTV/ab3f5bfd36b587c4ff53eb87649601e7?token=easyitv
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东体育.png" group-title="省内3",山东体育
+http://192.168.3.91:8123/PLTV/78e1d440badd2c23119d2e8a3503274c?token=easyitv
+#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东新闻.png" group-title="省内3",山东新闻
+http://192.168.3.91:8123/PLTV/a66a2731557567f99996bbfdfa76c037?token=easyitv
+#EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东农科.png" group-title="省内3",山东农科
+http://192.168.3.91:8123/PLTV/5f7a7776a3015d6982ea3fd92c50990a?token=easyitv
+#EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东少儿.png" group-title="省内3",山东少儿
+http://192.168.3.91:8123/PLTV/e9a76e396c8bcb2099276a016818a8e9?token=easyitv
+#EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东文旅.png" group-title="省内3",山东文旅
+http://192.168.3.91:8123/PLTV/903023e0107fa1670352006bf60ebeff?token=easyitv
+#EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东生活.png" group-title="省内3",山东生活
+http://192.168.3.91:8123/PLTV/197b52d55e80a3b7f93429ede4104713?token=easyitv
+#EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东综艺.png" group-title="省内3",山东综艺
+http://192.168.3.91:8123/PLTV/9ab661a1c75372bfdb776cb2f91b1fe0?token=easyitv
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育卫视.png" group-title="省内3",山东教育卫视
+http://192.168.3.91:8123/PLTV/05773bc6d098e1609fb4f578f15f61b1?token=easyitv
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视3",东南卫视
+http://192.168.3.91:8123/PLTV/9f27f65303a27451a770ef2ef76b3d8f?token=easyitv
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视3",东方卫视
+http://192.168.3.91:8123/PLTV/c6bb6322d7f9ab0b187cf6da344a8c62?token=easyitv
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视3",云南卫视
+http://192.168.3.91:8123/PLTV/eb9470166409f714b613ae7678d20719?token=easyitv
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视3",北京卫视
+http://192.168.3.91:8123/PLTV/cb10209efb92a0193407cb244516242d?token=easyitv
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视3",吉林卫视
+http://192.168.3.91:8123/PLTV/0f47e5e6014fca0c73e47f37975cecdb?token=easyitv
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视3",四川卫视
+http://192.168.3.91:8123/PLTV/924938d77ac08bb2437df62f8946ef24?token=easyitv
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视3",天津卫视
+http://192.168.3.91:8123/PLTV/011bd9dbf0df6bf8a6a06a1cb5c7fb9c?token=easyitv
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视3",安徽卫视
+http://192.168.3.91:8123/PLTV/60dbdc78b62a2e3f378a3d1b8d789dd6?token=easyitv
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视3",山东卫视
+http://192.168.3.91:8123/PLTV/a0612a21891e2e5dd8ab2d3afebef488?token=easyitv
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视3",广东卫视
+http://192.168.3.91:8123/PLTV/321c4d470ef539246996e91bb7c142a1?token=easyitv
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视3",广西卫视
+http://192.168.3.91:8123/PLTV/fc2564e9ecbba2df5566ea364d5763b6?token=easyitv
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视3",江苏卫视
+http://192.168.3.91:8123/PLTV/9e8cba83a18ea095169ee599c64c0295?token=easyitv
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视3",江西卫视
+http://192.168.3.91:8123/PLTV/d9e76c5d330208c66828cee7900b54f7?token=easyitv
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视3",河北卫视
+http://192.168.3.91:8123/PLTV/ba0a4d69af6cf82c03cf8961edd375c6?token=easyitv
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视3",河南卫视
+http://192.168.3.91:8123/PLTV/e86e9225d4f32f9b99458ec1dd7db51d?token=easyitv
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视3",浙江卫视
+http://192.168.3.91:8123/PLTV/cc4c3ebd401bd1f7fd69b6f183e0061b?token=easyitv
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视3",海南卫视
+http://192.168.3.91:8123/PLTV/d942fe3423a9f7b308b7a4b39ac77bc5?token=easyitv
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视3",深圳卫视
+http://192.168.3.91:8123/PLTV/9dc2e09b11d608a9eb72d18276d4d240?token=easyitv
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视3",湖北卫视
+http://192.168.3.91:8123/PLTV/6c33a571115b8056ca8b3d81de8dbbb6?token=easyitv
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视3",湖南卫视
+http://192.168.3.91:8123/PLTV/e85d2f457dcf038711ac6a39f3b73608?token=easyitv
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视3",甘肃卫视
+http://192.168.3.91:8123/PLTV/d92ba9c0e6f3c6dbd18514756a505f9a?token=easyitv
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视3",贵州卫视
+http://192.168.3.91:8123/PLTV/5e820e56794f76f1c51f713021fd0826?token=easyitv
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视3",辽宁卫视
+http://192.168.3.91:8123/PLTV/d99e747c1c642d0c4c6518f6609dbddd?token=easyitv
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视3",重庆卫视
+http://192.168.3.91:8123/PLTV/aae09f9ed809ad1ee345758073207920?token=easyitv
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视3",青海卫视
+http://192.168.3.91:8123/PLTV/6f803b9b7eea40d7decdbd9537303f3a?token=easyitv
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视3",黑龙江卫视
+http://192.168.3.91:8123/PLTV/6d15ad7b9ffa4dc76bce25c73c3fcabf?token=easyitv
+#EXTINF:-1,tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海洋频道.png" group-title="数字3",海洋频道
+http://192.168.3.91:8123/PLTV/537439e60b857d5ad1965128ba1bc4f7?token=easyitv
+#EXTINF:-1,tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卡酷少儿.png" group-title="数字3",北京卡酷少儿
+http://192.168.3.91:8123/PLTV/560c27ff3cda9428e4fe9916fc6c4eff?token=easyitv
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南金鹰卡通.png" group-title="数字3",湖南金鹰卡通
+http://192.168.3.91:8123/PLTV/8ef2e85156b9e61ab23cdc6bb5b32f9c?token=easyitv
+#EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="数字3",上海纪实人文
+http://192.168.3.91:8123/PLTV/a9f70d1130981d072bbdc06a285cd0fd?token=easyitv
+#EXTINF:-1,tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南金鹰纪实.png" group-title="数字3",湖南金鹰纪实
+http://192.168.3.91:8123/PLTV/68200fd645969662025f1116a850686d?token=easyitv
+#EXTINF:-1,tvg-id="河南文物宝库" tvg-name="河南文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南文物宝库.png" group-title="数字3",河南文物宝库
+http://192.168.3.91:8123/PLTV/eec8ffcdfea556c43df988662c244d83?token=easyitv
+#EXTINF:-1,tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南梨园.png" group-title="数字3",河南梨园
+http://192.168.3.91:8123/PLTV/a9967bcf9e80bc04ea0259eeca3136c7?token=easyitv
+#EXTINF:-1,tvg-id="河南武术世界" tvg-name="河南武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南武术世界.png" group-title="数字3",河南武术世界
+http://192.168.3.91:8123/PLTV/3af31bb15b177e8d55ffeec70dd9b67c?token=easyitv
+#EXTINF:-1,tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南快乐垂钓.png" group-title="数字3",湖南快乐垂钓
+http://192.168.3.91:8123/PLTV/7e3608f5f7e89b7a8a4d027adc6c073b?token=easyitv
+#EXTINF:-1,tvg-id="湖南茶" tvg-name="湖南茶" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南茶.png" group-title="数字3",湖南茶
+http://192.168.3.91:8123/PLTV/a17fd21678435f526c6b1c6620fc0319?token=easyitv
+#EXTINF:-1,tvg-id="临朐新闻综合" tvg-name="临朐新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/临朐新闻综合.png" group-title="省内4",临朐新闻综合
+http://192.168.3.91:8123/PLTV/50972eaca437ec93a1c40605c2a9dbd2?token=easyitv
+#EXTINF:-1,tvg-id="乳山" tvg-name="乳山" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/乳山.png" group-title="省内4",乳山
+http://192.168.3.91:8123/PLTV/5fb3e0551dc6136005f3c1dc8bec5966?token=easyitv
+#EXTINF:-1,tvg-id="即墨新闻综合" tvg-name="即墨新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/即墨新闻综合.png" group-title="省内4",即墨新闻综合
+http://192.168.3.91:8123/PLTV/31a0ee95aa3321995af6c3c0288acc6a?token=easyitv
+#EXTINF:-1,tvg-id="安丘新闻综合" tvg-name="安丘新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安丘新闻综合.png" group-title="省内4",安丘新闻综合
+http://192.168.3.91:8123/PLTV/7d51fecf88afbe1c38768682bd74cc47?token=easyitv
+#EXTINF:-1,tvg-id="寿光蔬菜" tvg-name="寿光蔬菜" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寿光蔬菜.png" group-title="省内4",寿光蔬菜
+http://192.168.3.91:8123/PLTV/37169864b757d84723550bf8d6ad4dff?token=easyitv
+#EXTINF:-1,tvg-id="岚山" tvg-name="岚山" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/岚山.png" group-title="省内4",岚山
+http://192.168.3.91:8123/PLTV/905e94f4f5c7bbabb928012e62443e8b?token=easyitv
+#EXTINF:-1,tvg-id="崂山" tvg-name="崂山" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/崂山.png" group-title="省内4",崂山
+http://192.168.3.91:8123/PLTV/5517e8724bedab385ddf1590f4352752?token=easyitv
+#EXTINF:-1,tvg-id="德州公共" tvg-name="德州公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/德州公共.png" group-title="省内4",德州公共
+http://192.168.3.91:8123/PLTV/1e9443ab89c2ddeadc9a3b71691bba7a?token=easyitv
+#EXTINF:-1,tvg-id="昌乐新闻综合" tvg-name="昌乐新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/昌乐新闻综合.png" group-title="省内4",昌乐新闻综合
+http://192.168.3.91:8123/PLTV/d33afb3712992ba544f3a34d51fa43f2?token=easyitv
+#EXTINF:-1,tvg-id="昌邑新闻综合" tvg-name="昌邑新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/昌邑新闻综合.png" group-title="省内4",昌邑新闻综合
+http://192.168.3.91:8123/PLTV/cbdfc742d28cf7d40a76eefde9279a5b?token=easyitv
+#EXTINF:-1,tvg-id="海阳综合" tvg-name="海阳综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海阳综合.png" group-title="省内4",海阳综合
+http://192.168.3.91:8123/PLTV/737c4ce6468514c347e5294fc7fa61dc?token=easyitv
+#EXTINF:-1,tvg-id="海阳综艺" tvg-name="海阳综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海阳综艺.png" group-title="省内4",海阳综艺
+http://192.168.3.91:8123/PLTV/d0537159e169663758481a6cc79c86f6?token=easyitv
+#EXTINF:-1,tvg-id="潍坊影视综合" tvg-name="潍坊影视综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/潍坊影视综合.png" group-title="省内4",潍坊影视综合
+http://192.168.3.91:8123/PLTV/a39eada73e8edfb83aeb2f87601a376a?token=easyitv
+#EXTINF:-1,tvg-id="潍坊科教文旅" tvg-name="潍坊科教文旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/潍坊科教文旅.png" group-title="省内4",潍坊科教文旅
+http://192.168.3.91:8123/PLTV/7fcc8312d523bf1ee29ebd860792b0b3?token=easyitv
+#EXTINF:-1,tvg-id="烟台影视" tvg-name="烟台影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/烟台影视.png" group-title="省内4",烟台影视
+http://192.168.3.91:8123/PLTV/01abb01b06b651a138a3c247f8358931?token=easyitv
+#EXTINF:-1,tvg-id="烟台新闻综合" tvg-name="烟台新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/烟台新闻综合.png" group-title="省内4",烟台新闻综合
+http://192.168.3.91:8123/PLTV/37bd777796d3f5ed89da763aa7a1b518?token=easyitv
+#EXTINF:-1,tvg-id="烟台经济科技" tvg-name="烟台经济科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/烟台经济科技.png" group-title="省内4",烟台经济科技
+http://192.168.3.91:8123/PLTV/ebeb890846deb5e01b255e93f68340cc?token=easyitv
+#EXTINF:-1,tvg-id="胶州新闻" tvg-name="胶州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/胶州新闻.png" group-title="省内4",胶州新闻
+http://192.168.3.91:8123/PLTV/4d969cbb27b17c3b89f2f33026860d80?token=easyitv
+#EXTINF:-1,tvg-id="荣成综合" tvg-name="荣成综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/荣成综合.png" group-title="省内4",荣成综合
+http://192.168.3.91:8123/PLTV/d66cb0d75f91b655531a6a268e0e0e06?token=easyitv
+#EXTINF:-1,tvg-id="莱西综合" tvg-name="莱西综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/莱西综合.png" group-title="省内4",莱西综合
+http://192.168.3.91:8123/PLTV/8008a0fa1ee63374d982087ba9ce06e5?token=easyitv
+#EXTINF:-1,tvg-id="蓬莱新闻" tvg-name="蓬莱新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/蓬莱新闻.png" group-title="省内4",蓬莱新闻
+http://192.168.3.91:8123/PLTV/fe7c0a8504ef168996942aeab3b16138?token=easyitv
+#EXTINF:-1,tvg-id="长岛综合" tvg-name="长岛综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/长岛综合.png" group-title="省内4",长岛综合
+http://192.168.3.91:8123/PLTV/fe238b07c6fc3d713ae669198971d715?token=easyitv
+#EXTINF:-1,tvg-id="青州文化旅游" tvg-name="青州文化旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青州文化旅游.png" group-title="省内4",青州文化旅游
+http://192.168.3.91:8123/PLTV/a45c3a43975e3342a2a557496b852d9f?token=easyitv
+#EXTINF:-1,tvg-id="青州综合" tvg-name="青州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青州综合.png" group-title="省内4",青州综合
+http://192.168.3.91:8123/PLTV/a685340c952e7303ad9059f84037b31f?token=easyitv
+#EXTINF:-1,tvg-id="高密新闻综合" tvg-name="高密新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/高密新闻综合.png" group-title="省内4",高密新闻综合
+http://192.168.3.91:8123/PLTV/e486e15a2748ef5b41967d7d6a1be851?token=easyitv
+#EXTINF:-1,tvg-id="黄岛新闻" tvg-name="黄岛新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄岛新闻.png" group-title="省内4",黄岛新闻
+http://192.168.3.91:8123/PLTV/437d302d8b249f13efe3bdae32e8c313?token=easyitv
+#EXTINF:-1,tvg-id="黄岛生活" tvg-name="黄岛生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄岛生活.png" group-title="省内4",黄岛生活
+http://192.168.3.91:8123/PLTV/e4a914ee5312384ec62dc11eaa94c90b?token=easyitv
+#EXTINF:-1,tvg-id="五莲新闻综合 576" tvg-name="五莲新闻综合 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五莲新闻综合 576.png" group-title="省内4",五莲新闻综合 576
+http://192.168.3.91:8123/PLTV/6d9ffb042a64ca6b84056f3e12f57d7b?token=easyitv
+#EXTINF:-1,tvg-id="奎文 576" tvg-name="奎文 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/奎文 576.png" group-title="省内4",奎文 576
+http://192.168.3.91:8123/PLTV/019639365ca06c456f0eb4b1616e2464?token=easyitv
+#EXTINF:-1,tvg-id="威海公共 576" tvg-name="威海公共 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/威海公共 576.png" group-title="省内4",威海公共 576
+http://192.168.3.91:8123/PLTV/7dbf19cf78144093558709a7cd56e3d5?token=easyitv
+#EXTINF:-1,tvg-id="威海新闻综合 576" tvg-name="威海新闻综合 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/威海新闻综合 576.png" group-title="省内4",威海新闻综合 576
+http://192.168.3.91:8123/PLTV/f43748df7973859c4a6f089b864c6195?token=easyitv
+#EXTINF:-1,tvg-id="寿光新闻 576" tvg-name="寿光新闻 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寿光新闻 576.png" group-title="省内4",寿光新闻 576
+http://192.168.3.91:8123/PLTV/e6c85ab3d2c788764cbb7486bb39475b?token=easyitv
+#EXTINF:-1,tvg-id="平度新闻综合 576" tvg-name="平度新闻综合 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/平度新闻综合 576.png" group-title="省内4",平度新闻综合 576
+http://192.168.3.91:8123/PLTV/2343180da5b9a8fbec5440dc1f6dc8b8?token=easyitv
+#EXTINF:-1,tvg-id="文登1 576" tvg-name="文登1 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/文登1 576.png" group-title="省内4",文登1 576
+http://192.168.3.91:8123/PLTV/57ba70da5b489e6c01c8b8697c916dcf?token=easyitv
+#EXTINF:-1,tvg-id="新泰新闻综合 576" tvg-name="新泰新闻综合 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新泰新闻综合 576.png" group-title="省内4",新泰新闻综合 576
+http://192.168.3.91:8123/PLTV/fe31d02b914f55b00b7dc8cf077994f7?token=easyitv
+#EXTINF:-1,tvg-id="日照公共 576" tvg-name="日照公共 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/日照公共 576.png" group-title="省内4",日照公共 576
+http://192.168.3.91:8123/PLTV/011f55884f554972e7596655626a8800?token=easyitv
+#EXTINF:-1,tvg-id="日照新闻综合 576" tvg-name="日照新闻综合 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/日照新闻综合 576.png" group-title="省内4",日照新闻综合 576
+http://192.168.3.91:8123/PLTV/f4bd523a267db0f70c8debb63072e451?token=easyitv
+#EXTINF:-1,tvg-id="日照科技生活 576" tvg-name="日照科技生活 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/日照科技生活 576.png" group-title="省内4",日照科技生活 576
+http://192.168.3.91:8123/PLTV/94faef139e35f8a2fd4c5fbce8b8ef7d?token=easyitv
+#EXTINF:-1,tvg-id="栖霞综合 576" tvg-name="栖霞综合 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/栖霞综合 576.png" group-title="省内4",栖霞综合 576
+http://192.168.3.91:8123/PLTV/ed820645ed48317f85476f3565ba74cd?token=easyitv
+#EXTINF:-1,tvg-id="潍坊新闻 576" tvg-name="潍坊新闻 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/潍坊新闻 576.png" group-title="省内4",潍坊新闻 576
+http://192.168.3.91:8123/PLTV/830e6f5a4f2f6f961db737c2badd24c4?token=easyitv
+#EXTINF:-1,tvg-id="潍坊经济 576" tvg-name="潍坊经济 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/潍坊经济 576.png" group-title="省内4",潍坊经济 576
+http://192.168.3.91:8123/PLTV/12f76e39600c272168d382d56b9002aa?token=easyitv
+#EXTINF:-1,tvg-id="烟台公共 576" tvg-name="烟台公共 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/烟台公共 576.png" group-title="省内4",烟台公共 576
+http://192.168.3.91:8123/PLTV/56cf9ef03d761b8d107046b5cb0ebc2a?token=easyitv
+#EXTINF:-1,tvg-id="牟平新闻 576" tvg-name="牟平新闻 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/牟平新闻 576.png" group-title="省内4",牟平新闻 576
+http://192.168.3.91:8123/PLTV/d5a118590e725ec26d23d82b242b6e8e?token=easyitv
+#EXTINF:-1,tvg-id="牟平生活 576" tvg-name="牟平生活 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/牟平生活 576.png" group-title="省内4",牟平生活 576
+http://192.168.3.91:8123/PLTV/e707775892562cba8ea2c303aa5dbff9?token=easyitv
+#EXTINF:-1,tvg-id="莒县1 576" tvg-name="莒县1 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/莒县1 576.png" group-title="省内4",莒县1 576
+http://192.168.3.91:8123/PLTV/0da10602b0709907302ffe167e55693a?token=easyitv
+#EXTINF:-1,tvg-id="诸城新闻综合 576" tvg-name="诸城新闻综合 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/诸城新闻综合 576.png" group-title="省内4",诸城新闻综合 576
+http://192.168.3.91:8123/PLTV/1c0544739243042bc93f5c94e11c8d3f?token=easyitv
+#EXTINF:-1,tvg-id="青岛1 576" tvg-name="青岛1 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青岛1 576.png" group-title="省内4",青岛1 576
+http://192.168.3.91:8123/PLTV/eaf3ffa2988ef33b5fe53c4498435c7e?token=easyitv
+#EXTINF:-1,tvg-id="青岛2 576" tvg-name="青岛2 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青岛2 576.png" group-title="省内4",青岛2 576
+http://192.168.3.91:8123/PLTV/b7671ea96cc1047835f9f25f2620f2ea?token=easyitv
+#EXTINF:-1,tvg-id="青岛3 576" tvg-name="青岛3 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青岛3 576.png" group-title="省内4",青岛3 576
+http://192.168.3.91:8123/PLTV/c0df317740cefd81eeeb4e3a6fd0198d?token=easyitv
+#EXTINF:-1,tvg-id="青岛4 576" tvg-name="青岛4 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青岛4 576.png" group-title="省内4",青岛4 576
+http://192.168.3.91:8123/PLTV/05d1b5bbd123f24d73acafec9a3c2518?token=easyitv
+#EXTINF:-1,tvg-id="青岛5 576" tvg-name="青岛5 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青岛5 576.png" group-title="省内4",青岛5 576
+http://192.168.3.91:8123/PLTV/f47196e8c8085ef73a467f0321bfa4ef?token=easyitv
+#EXTINF:-1,tvg-id="青岛6 576" tvg-name="青岛6 576" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青岛6 576.png" group-title="省内4",青岛6 576
+http://192.168.3.91:8123/PLTV/6ba897ab79b31a10506a6e715fb3e848?token=easyitv
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="Easy央视",CCTV1
+http://192.168.3.91:8123/live/b422290ad4129a91e092040bada100a4?token=easyitv
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="Easy央视",CCTV2
+http://192.168.3.91:8123/live/76d341a2250e458704ef72e5cc256dbe?token=easyitv
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="Easy央视",CCTV3
+http://192.168.3.91:8123/live/274f652d1670677409ad38910eb7afa2?token=easyitv
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="Easy央视",CCTV4
+http://192.168.3.91:8123/live/ad8bebdd7bc3cc28376caf7eca6cc494?token=easyitv
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="Easy央视",CCTV5
+http://192.168.3.91:8123/live/5f92a62a95fc6f91a36250dac7f3af4b?token=easyitv
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="Easy央视",CCTV5+
+http://192.168.3.91:8123/live/b3ab7158ff6cc0fcd7b8a0833d6fc13d?token=easyitv
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="Easy央视",CCTV6
+http://192.168.3.91:8123/live/080bbd11a48af6776ec3ded6196d1ae8?token=easyitv
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="Easy央视",CCTV7
+http://192.168.3.91:8123/live/36adfde69b3972a7e0d2cc51bae177d3?token=easyitv
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="Easy央视",CCTV8
+http://192.168.3.91:8123/live/58330333bf3eb62e42b503a9c6d5205c?token=easyitv
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="Easy央视",CCTV9
+http://192.168.3.91:8123/live/d7a5ba2acc68474d0ba49176ff69a9d5?token=easyitv
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="Easy央视",CCTV10
+http://192.168.3.91:8123/live/173625ed5ff7773544f293970ce069a8?token=easyitv
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="Easy央视",CCTV11
+http://192.168.3.91:8123/live/40162b7616b17cb75c17c5af6ac0855e?token=easyitv
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="Easy央视",CCTV12
+http://192.168.3.91:8123/live/1a5fa1aa3362153d029c762d6d7c97a9?token=easyitv
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="Easy央视",CCTV13
+http://192.168.3.91:8123/live/3d25660fccd9ef4541ee94c2af3bab93?token=easyitv
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="Easy央视",CCTV14
+http://192.168.3.91:8123/live/7ebdff7c08d5622a853001c136bfbced?token=easyitv
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="Easy央视",CCTV15
+http://192.168.3.91:8123/live/de9bc45287e9c28e304a8996c8071f41?token=easyitv
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="Easy央视",CCTV16
+http://192.168.3.91:8123/live/c81db1af8ef3817415bea55515eb6cf6?token=easyitv
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="Easy央视",CCTV17
+http://192.168.3.91:8123/live/66f838844dbeaa25528721656926419f?token=easyitv
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="Easy卫视",北京卫视
+http://192.168.3.91:8123/live/c38f3c96171896571ab59b62e05d863e?token=easyitv
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="Easy卫视",东方卫视
+http://192.168.3.91:8123/live/8ee9209f9b395a41036137baebdd9792?token=easyitv
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="Easy其他",凤凰资讯
+http://192.168.3.91:8123/live/8e70424c7cc07ce19f22c89ff3c0d157?token=easyitv
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="Easy其他",凤凰中文
+http://192.168.3.91:8123/live/86b911079a5e641ecff46858543a647a?token=easyitv
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="Easy其他",凤凰香港
+http://192.168.3.91:8123/live/f3493b71e006a596594a77d88561d375?token=easyitv
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="Easy其他",CHC家庭影院
+http://192.168.3.91:8123/live/61242e2bdd0c778d8582e283182f8f1a?token=easyitv
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="Easy其他",CHC动作电影
+http://192.168.3.91:8123/live/1c6db777b9cf067879adf329bc9039cd?token=easyitv
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="Easy其他",CHC影迷电影
+http://192.168.3.91:8123/live/5a676a75b887e65d91901bfda9d4ca3a?token=easyitv
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="Easy其他",五星体育
+http://192.168.3.91:8123/live/a9fc6080659aa5463f2f60e92e0328e8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="咪咕体育",咪咕4K
+http://192.168.3.91:8123/TVOD/3000000010000005180.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="至臻视界" tvg-name="至臻视界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="咪咕体育",至臻视界
+http://192.168.3.91:8123/TVOD/3000000010000015686.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩广场舞.png" group-title="咪咕体育",睛彩广场舞
+http://192.168.3.91:8123/TVOD/3000000020000011523.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="咪咕体育",睛彩竞技
+http://192.168.3.91:8123/TVOD/3000000020000011528.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩篮球.png" group-title="咪咕体育",睛彩篮球
+http://192.168.3.91:8123/TVOD/3000000020000011529.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="咪咕体育",睛彩青少
+http://192.168.3.91:8123/TVOD/3000000020000011525.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-1
+http://192.168.3.91:8123/TVOD/3000000001000005308.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-2
+http://192.168.3.91:8123/TVOD/3000000001000005969.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-3
+http://192.168.3.91:8123/TVOD/3000000001000007218.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-4
+http://192.168.3.91:8123/TVOD/3000000001000008001.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-5
+http://192.168.3.91:8123/TVOD/3000000001000008176.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-6
+http://192.168.3.91:8123/TVOD/3000000001000008379.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-7
+http://192.168.3.91:8123/TVOD/3000000001000010129.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-8
+http://192.168.3.91:8123/TVOD/3000000001000010948.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-9
+http://192.168.3.91:8123/TVOD/3000000001000028638.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-10
+http://192.168.3.91:8123/TVOD/3000000001000031494.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-11
+http://192.168.3.91:8123/TVOD/3000000010000005837.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-12
+http://192.168.3.91:8123/TVOD/3000000020000011518.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-13
+http://192.168.3.91:8123/TVOD/3000000020000011519.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-14
+http://192.168.3.91:8123/TVOD/3000000020000011520.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-15
+http://192.168.3.91:8123/TVOD/3000000020000011521.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-16
+http://192.168.3.91:8123/TVOD/3000000020000011522.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-24
+http://192.168.3.91:8123/TVOD/3000000010000000097.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-25
+http://192.168.3.91:8123/TVOD/3000000010000002019.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-26
+http://192.168.3.91:8123/TVOD/3000000010000002809.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-27
+http://192.168.3.91:8123/TVOD/3000000010000003915.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-28
+http://192.168.3.91:8123/TVOD/3000000010000004193.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-29
+http://192.168.3.91:8123/TVOD/3000000010000006077.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-30
+http://192.168.3.91:8123/TVOD/3000000010000006658.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-31
+http://192.168.3.91:8123/TVOD/3000000010000009788.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-32
+http://192.168.3.91:8123/TVOD/3000000010000010833.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-33
+http://192.168.3.91:8123/TVOD/3000000010000011297.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-34
+http://192.168.3.91:8123/TVOD/3000000010000011518.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-35
+http://192.168.3.91:8123/TVOD/3000000010000012558.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-36
+http://192.168.3.91:8123/TVOD/3000000010000012616.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-37
+http://192.168.3.91:8123/TVOD/3000000010000015470.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-38
+http://192.168.3.91:8123/TVOD/3000000010000015560.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-39
+http://192.168.3.91:8123/TVOD/3000000010000017678.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-40
+http://192.168.3.91:8123/TVOD/3000000010000019839.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-41
+http://192.168.3.91:8123/TVOD/3000000010000021904.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-42
+http://192.168.3.91:8123/TVOD/3000000010000023434.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-43
+http://192.168.3.91:8123/TVOD/3000000010000025380.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-44
+http://192.168.3.91:8123/TVOD/3000000010000027691.m3u8?token=easyitv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪咕体育",咪咕视频-45
+http://192.168.3.91:8123/TVOD/3000000010000031669.m3u8?token=easyitv
