@@ -1,66 +1,69 @@
 #EXTM3U url-tvg="https://11.112114.xyz/pp.xml" catchup="append"  catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
-http://192.168.3.91:8123/live/b422290ad4129a91e092040bada100a4?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/69958_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
-http://192.168.3.91:8123/live/76d341a2250e458704ef72e5cc256dbe?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15111015505054435886.rsc/70018_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV3
-http://192.168.3.91:8123/live/274f652d1670677409ad38910eb7afa2?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21072816504132734115.rsc/91877_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4
-http://192.168.3.91:8123/live/ad8bebdd7bc3cc28376caf7eca6cc494?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch17121814361050007455.rsc/75843_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
-http://192.168.3.91:8123/live/5f92a62a95fc6f91a36250dac7f3af4b?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21072816512692879794.rsc/91882_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+
+http://192.168.3.218:8300/catchup/112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11061217321508656858.rsc/70007_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
-http://192.168.3.91:8123/live/080bbd11a48af6776ec3ded6196d1ae8?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21072816530254611367.rsc/91842_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
-http://192.168.3.91:8123/live/36adfde69b3972a7e0d2cc51bae177d3?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/69960_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8
-http://192.168.3.91:8123/live/58330333bf3eb62e42b503a9c6d5205c?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/91850_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV9
-http://192.168.3.91:8123/live/d7a5ba2acc68474d0ba49176ff69a9d5?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/70042_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
-http://192.168.3.91:8123/live/173625ed5ff7773544f293970ce069a8?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/69941_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11
-http://192.168.3.91:8123/live/40162b7616b17cb75c17c5af6ac0855e?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11122400354496191158.rsc/70045_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
-http://192.168.3.91:8123/live/1a5fa1aa3362153d029c762d6d7c97a9?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15111015571407754299.rsc/70056_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13
-http://192.168.3.91:8123/live/3d25660fccd9ef4541ee94c2af3bab93?token=easyitv
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050914361303395989.rsc/69923_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
-http://192.168.3.91:8123/live/7ebdff7c08d5622a853001c136bfbced?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.rsc/69975_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
-http://192.168.3.91:8123/live/de9bc45287e9c28e304a8996c8071f41?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch11122400365842237336.rsc/70037_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV16
 http://192.168.3.91:8123/live/c81db1af8ef3817415bea55515eb6cf6?token=easyitv
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
-http://192.168.3.91:8123/live/66f838844dbeaa25528721656926419f?token=easyitv
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+
-http://192.168.3.91:8123/live/b3ab7158ff6cc0fcd7b8a0833d6fc13d?token=easyitv
+http://192.168.3.218:8300/catchup/112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch19073116233495000222.rsc/85717_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV4K" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV4K.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV4K
+http://192.168.3.218:8300/catchup/112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99912_Uni.sdp
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
-https://tv-1.iill.top/migu/cgtn
+http://192.168.3.218:8300/catchup/112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15050914501799552135.rsc/70003_Uni.sdp
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="卫视频道",山东卫视
-http://shtv.a24fbd0a.er.aliyun-esa.net/PLTV/11/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
-https://tv-1.iill.top/x/hnws
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
-https://tv-1.iill.top/migu/jsws
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视
-http://192.168.3.91:8123/live/8ee9209f9b395a41036137baebdd9792?token=easyitv
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
-http://192.168.3.91:8123/live/c38f3c96171896571ab59b62e05d863e?token=easyitv
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
-https://tv-1.iill.top/migu/ahws
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
-https://tv-1.iill.top/migu/szws
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
-https://tv-1.iill.top/migu/hubws
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视
-https://tv-1.iill.top/migu/jxws
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
-https://tv-1.iill.top/migu/hnws
+http://192.168.3.218:8300/catchup/112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch25081411425529721444.rsc/103166_Uni.sdp
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://wfg2000.github.io/epg/icon/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://192.168.3.218:8300/catchup/112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch25092214073911761412.rsc/103206_Uni.sdp
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://wfg2000.github.io/epg/icon/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://192.168.3.218:8300/catchup/112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch25092214081313070909.rsc/103254_Uni.sdp
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://wfg2000.github.io/epg/icon/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://192.168.3.218:8300/catchup/112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch25092214075944736959.rsc/103230_Uni.sdp
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://wfg2000.github.io/epg/icon/东方卫视.png" group-title="卫视频道",东方卫视
+http://192.168.3.218:8300/catchup/112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch25092214082801723362.rsc/103278_Uni.sdp
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://wfg2000.github.io/epg/icon/北京卫视.png" group-title="卫视频道",北京卫视
+http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch25032514071097767315.rsc/102825_Uni.sdp
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://wfg2000.github.io/epg/icon/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://192.168.3.218:8300/catchup/112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch25061910020901468282.rsc/103007_Uni.sdp
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://wfg2000.github.io/epg/icon/广东卫视.png" group-title="卫视频道",广东卫视
+http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch25062414535257116401.rsc/103043_Uni.sdp
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://wfg2000.github.io/epg/icon/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050917541532308683.rsc/70014_Uni.sdp
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://wfg2000.github.io/epg/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://192.168.3.218:8300/catchup/112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15050917541519800547.rsc/69933_Uni.sdp
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://wfg2000.github.io/epg/icon/江西卫视.png" group-title="卫视频道",江西卫视
+http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120118345500084693.rsc/69999_Uni.sdp
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://wfg2000.github.io/epg/icon/河南卫视.png" group-title="卫视频道",河南卫视
+http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118312827983078.rsc/69930_Uni.sdp
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://wfg2000.github.io/epg/icon/临沂综合.png" group-title="卫视频道",临沂综合
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 #EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://wfg2000.github.io/epg/icon/临沂公共.png" group-title="卫视频道",临沂公共
