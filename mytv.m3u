@@ -42,27 +42,27 @@ http://192.168.3.218:8300/catchup/112.245.125.48:1554/iptv/import/Tvod/iptv/001/
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="卫视频道",山东卫视
 http://192.168.3.218:8300/catchup/112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch25081411425529721444.rsc/103166_Uni.sdp
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://wfg2000.github.io/epg/icon/湖南卫视.png" group-title="卫视频道",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
 http://192.168.3.218:8300/catchup/112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch25092214073911761412.rsc/103206_Uni.sdp
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://wfg2000.github.io/epg/icon/江苏卫视.png" group-title="卫视频道",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
 http://192.168.3.218:8300/catchup/112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch25092214081313070909.rsc/103254_Uni.sdp
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://wfg2000.github.io/epg/icon/浙江卫视.png" group-title="卫视频道",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
 http://192.168.3.218:8300/catchup/112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch25092214075944736959.rsc/103230_Uni.sdp
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://wfg2000.github.io/epg/icon/东方卫视.png" group-title="卫视频道",东方卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视
 http://192.168.3.218:8300/catchup/112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch25092214082801723362.rsc/103278_Uni.sdp
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://wfg2000.github.io/epg/icon/北京卫视.png" group-title="卫视频道",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
 http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch25032514071097767315.rsc/102825_Uni.sdp
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://wfg2000.github.io/epg/icon/深圳卫视.png" group-title="卫视频道",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
 http://192.168.3.218:8300/catchup/112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch25061910020901468282.rsc/103007_Uni.sdp
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://wfg2000.github.io/epg/icon/广东卫视.png" group-title="卫视频道",广东卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视
 http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch25062414535257116401.rsc/103043_Uni.sdp
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://wfg2000.github.io/epg/icon/安徽卫视.png" group-title="卫视频道",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
 http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050917541532308683.rsc/70014_Uni.sdp
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://wfg2000.github.io/epg/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
 http://192.168.3.218:8300/catchup/112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15050917541519800547.rsc/69933_Uni.sdp
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://wfg2000.github.io/epg/icon/江西卫视.png" group-title="卫视频道",江西卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视
 http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120118345500084693.rsc/69999_Uni.sdp
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://wfg2000.github.io/epg/icon/河南卫视.png" group-title="卫视频道",河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
 http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118312827983078.rsc/69930_Uni.sdp
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="山东频道",山东卫视
