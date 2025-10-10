@@ -85,8 +85,8 @@ http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/
 http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/69990_Uni.sdp
 #EXTINF:-1 tvg-name="山东海洋频道" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东海洋频道.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch22111116270462496793.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 海洋频道
 http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch22111116270462496793.rsc/96159_Uni.sdp
-#EXTINF:-1 tvg-name="济南综合" tvg-logo="https://wfg2000.github.io/epg/icon/济南新闻综合.png" group-title="山东频道",济南综合
-http://192.168.3.218:8300/catchup/124.128.255.239:1554/iptv/import/Tvod/iptv/001/001/ch13092921272839762982.rsc/72123_Uni.sdp
+##EXTINF:-1 tvg-name="济南综合" tvg-logo="https://wfg2000.github.io/epg/icon/济南新闻综合.png" group-title="山东频道",济南综合
+#http://192.168.3.218:8300/catchup/124.128.255.239:1554/iptv/import/Tvod/iptv/001/001/ch13092921272839762982.rsc/72123_Uni.sdp
 ##EXTINF:-1 tvg-name="青岛综合" tvg-logo="https://wfg2000.github.io/epg/icon/青岛综合.png"  group-title="山东频道",青岛综合
 #http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8
 #EXTINF:-1 tvg-name="烟台综合" tvg-logo="https://wfg2000.github.io/epg/icon/烟台综合.png"  group-title="山东频道",烟台综合
