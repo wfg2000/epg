@@ -213,7 +213,7 @@ http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/import/Tvod/iptv/001/
 http://192.168.3.218:8300/catchup/112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15090916181970967371.rsc/69985_Uni.sdp
 #EXTINF:-1 tvg-name="墨宝" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/CNTV墨宝.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15090916235097407367.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 墨宝
 http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090916235097407367.rsc/70062_Uni.sdp
-#EXTINF:-1 tvg-name="书画" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/书画.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610331127874295.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 书画
+#EXTINF:-1 tvg-name="书画" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/书画频道.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610331127874295.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 书画
 http://192.168.3.218:8300/catchup/112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21092610331127874295.rsc/92486_Uni.sdp
 #EXTINF:-1 tvg-name="戏曲" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/CNTV戏曲.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090915581648434862.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 戏曲
 http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090915581648434862.rsc/70031_Uni.sdp
