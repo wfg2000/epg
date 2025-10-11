@@ -217,7 +217,7 @@ http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/
 http://192.168.3.218:8300/catchup/112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21092610331127874295.rsc/92486_Uni.sdp
 #EXTINF:-1 tvg-name="戏曲" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/CNTV戏曲.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090915581648434862.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 戏曲
 http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090915581648434862.rsc/70031_Uni.sdp
-#EXTINF:-1 tvg-name="梨园" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/CNTV梨园.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610314667739520.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 梨园
+#EXTINF:-1 tvg-name="梨园" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/梨园频道.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610314667739520.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 梨园
 http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610314667739520.rsc/92523_Uni.sdp
 #EXTINF:-1 tvg-name="美人" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/CNTV美人.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15090916040665863835.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 美人
 http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090916040665863835.rsc/69934_Uni.sdp
@@ -229,7 +229,7 @@ http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/import/Tvod/iptv/001/
 http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090916274339587371.rsc/69944_Uni.sdp
 #EXTINF:-1 tvg-name="足球" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/CNTV足球.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15090915041757410943.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 足球
 http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090915041757410943.rsc/69998_Uni.sdp
-#EXTINF:-1 tvg-name="汽摩" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/CNTV汽摩.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch23112715323902470603.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 汽摩
+#EXTINF:-1 tvg-name="汽摩" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/汽摩.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch23112715323902470603.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 汽摩
 http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch23112715323902470603.rsc/99884_Uni.sdp
 #EXTINF:-1 tvg-name="乐游" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/CNTV乐游.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316264757381898.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 乐游
 http://192.168.3.218:8300/catchup/112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316264757381898.rsc/69991_Uni.sdp
