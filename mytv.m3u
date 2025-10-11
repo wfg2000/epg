@@ -118,7 +118,7 @@ http://192.168.3.218:8300/catchup/112.245.125.39:1554/iptv/import/Tvod/iptv/001/
 http://192.168.3.218:8300/catchup/112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch11060317313622161494.rsc/69976_Uni.sdp
 #EXTINF:-1 tvg-name="爱上4K测试体验" group-title="影视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/爱上4K测试体验.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch16062014270602375204.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱上4K
 http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch16062014270602375204.rsc/70019_Uni.sdp
-#EXTINF:-1 tvg-name="爱电影" group-title="影视频道" tvg-logo="https://wfg2000.github.io/epg/icon/爱电影.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11061217105732492560.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱电影
+#EXTINF:-1 tvg-name="爱电影" group-title="影视频道" tvg-logo="https://wfg2000.github.io/epg/icon/IHOT-爱院线.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11061217105732492560.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱电影
 http://192.168.3.218:8300/catchup/112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11061217105732492560.rsc/69994_Uni.sdp
 #EXTINF:-1 tvg-name="星影" group-title="影视频道" tvg-logo="https://wfg2000.github.io/epg/icon/星影.png" catchup="default" catchup-source="http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15090916302647677604.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 星影
 http://192.168.3.218:8300/catchup/112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090916302647677604.rsc/69967_Uni.sdp
