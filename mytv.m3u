@@ -27,9 +27,9 @@ rstp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11122400354496191158.
 rstp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15111015571407754299.rsc/70056_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV13" group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050914361303395989.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",CCTV13
 rstp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050914361303395989.rsc/69923_Uni.sdp
-#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15111016003483433803.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT,CCTV14
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15111016003483433803.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",CCTV14
 rstp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.rsc/69975_Uni.sdp
-#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT,CCTV15
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",CCTV15
 rstp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch11122400365842237336.rsc/70037_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV17" group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch19073116233495000222.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",CCTV17
 rstp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch19073116233495000222.rsc/85717_Uni.sdp
