@@ -31,8 +31,6 @@ rstp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050914361303395989.
 rstp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.rsc/69975_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV15" group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT,CCTV15
 rstp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch11122400365842237336.rsc/70037_Uni.sdp
-#EXTINF:-1 tvg-name="CCTV16" group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" ,CCTV16
-http://192.168.3.91:8123/live/c81db1af8ef3817415bea55515eb6cf6?token=easyitv
 #EXTINF:-1 tvg-name="CCTV17" group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch19073116233495000222.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",CCTV17
 rstp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch19073116233495000222.rsc/85717_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV4K.png" catchup="default" catchup-source="rstp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV4K
