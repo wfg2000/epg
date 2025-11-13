@@ -69,9 +69,9 @@ rstp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118312827983078.
 rstp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch25081411425529721444.rsc/103166_Uni.sdp
 #EXTINF:-1 tvg-name="山东新闻" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东新闻.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120117023986249401.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",山东新闻
 rstp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120117023986249401.rsc/70005_Uni.sdp
-#EXTINF:-1 tvg-name="山东齐鲁" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东齐鲁.png"" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120117223157422538.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT,山东齐鲁
+#EXTINF:-1 tvg-name="山东齐鲁" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东齐鲁.png"" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120117223157422538.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",山东齐鲁
 rstp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120117223157422538.rsc/70061_Uni.sdp
-#EXTINF:-1 tvg-name="山东生活" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东生活.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120117100570561699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT,山东生活
+#EXTINF:-1 tvg-name="山东生活" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东生活.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120117100570561699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",山东生活
 rstp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120117100570561699.rsc/70011_Uni.sdp
 #EXTINF:-1 tvg-name="山东综艺" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东综艺.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch11012815051671532768.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",山东综艺
 rstp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch11012815051671532768.rsc/69938_Uni.sdp
