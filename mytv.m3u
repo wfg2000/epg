@@ -418,11 +418,11 @@ http://192.168.3.91:35455/douyin/rid/881915323288
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
-http://58.19.180.108:9981/stream/channelid/1749482778
+http://192.168.3.91:8123/live/86b911079a5e641ecff46858543a647a?token=easyitv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
-http://58.19.180.108:9981/stream/channelid/708272803
+http://192.168.3.91:8123/live/8e70424c7cc07ce19f22c89ff3c0d157?token=easyitv
 #EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/PHOENIX3.png" group-title="全球直播",凤凰香港
-https://migu.188766.xyz/?migutoken=5efbcfcb99e5b220fc04079782753a1b&id=hkphoenix_twn&type=dy
+http://192.168.3.91:8123/live/f3493b71e006a596594a77d88561d375?token=easyitv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="全球直播",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
