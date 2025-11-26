@@ -89,8 +89,6 @@ rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11012815083626567264.
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch22111116270462496793.rsc/96159_Uni.sdp
 #EXTINF:-1 tvg-name="临沂综合" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂综合.png" catchup="default" catchup-source="rtsp://124.132.241.135:1554/iptv/Tvod/iptv/001/001/ch15111215111453039260.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",临沂综合
 rtsp://124.132.241.135:1554/iptv/import/Tvod/iptv/001/001/ch15111215111453039260.rsc/90240_Uni.sdp
-#EXTINF:-1 tvg-name="临沂公共" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂公共.png" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/Tvod/iptv/001/001/ch17060116035423523106.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",临沂公共
-rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch17060116035423523106.rsc/90183_Uni.sdp
 #EXTINF:-1 tvg-name="临沂经济" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂经济.png" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/Tvod/iptv/001/001/ch15111716392179568846.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",临沂经济
 rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch15111716392179568846.rsc/90243_Uni.sdp
 
