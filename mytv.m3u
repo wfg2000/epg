@@ -421,8 +421,6 @@ http://192.168.3.91:8123/live/86b911079a5e641ecff46858543a647a?token=easyitv
 http://192.168.3.91:8123/live/8e70424c7cc07ce19f22c89ff3c0d157?token=easyitv
 #EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/PHOENIX3.png" group-title="全球直播",凤凰香港
 http://192.168.3.91:8123/live/f3493b71e006a596594a77d88561d375?token=easyitv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="全球直播",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
