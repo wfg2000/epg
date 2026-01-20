@@ -156,8 +156,6 @@ rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch22122209125585392509.
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch22121315043920146188.rsc/96497_Uni.sdp
 #EXTINF:-1 tvg-name="快乐垂钓" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/快乐垂钓.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21082717343948936881.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 快乐垂钓
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21082717343948936881.rsc/96392_Uni.sdp
-#EXTINF:-1 tvg-name="先锋乒羽" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/先锋乒羽.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch18120514104123291864.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 先锋乒羽
-rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch18120514104123291864.rsc/81479_Uni.sdp
 #EXTINF:-1 tvg-name="生活时尚" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/生活时尚.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch16051316300118213959.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 生活时尚
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch16051316300118213959.rsc/69982_Uni.sdp
 #EXTINF:-1 tvg-name="魅力时尚" group-title="其他频道" tvg-logo="https://wfg2000.github.io/epg/icon/IPTV魅力时尚.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch11061217095691862636.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 魅力时尚
