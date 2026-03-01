@@ -414,10 +414,13 @@ http://192.168.3.91:35455/douyin/rid/881915323288
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
+http://rihou.cc:555/tv/[Pd]凤凰中文
 http://192.168.3.91:8123/live/86b911079a5e641ecff46858543a647a?token=easyitv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
+http://rihou.cc:555/tv/[PL]凤凰资讯
 http://192.168.3.91:8123/live/8e70424c7cc07ce19f22c89ff3c0d157?token=easyitv
 #EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/PHOENIX3.png" group-title="全球直播",凤凰香港
+http://rihou.cc:555/tv/[PL]凤凰香港
 http://192.168.3.91:8123/live/f3493b71e006a596594a77d88561d375?token=easyitv
 
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
@@ -445,5 +448,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/NTVnews24.png",NtvNews24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
+#EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/EnglishClub.png",EnglishClub
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
