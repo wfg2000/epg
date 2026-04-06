@@ -445,10 +445,6 @@ https://fl31.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/RTNews.png",RTNews
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/NHK.png",NHK
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/NTVnews24.png",NtvNews24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/EnglishClub.png",EnglishClub
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
