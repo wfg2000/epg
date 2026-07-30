@@ -93,10 +93,10 @@ rtsp://60.214.235.85:1554/iptv/import/Tvod/iptv/001/001/ch11012815083626567264.r
 rtsp://60.214.235.76:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/69105_Uni.sdp
 #EXTINF:-1 tvg-id="ch00000000000000001509" tvg-name="山东海洋" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东海洋频道.png" catchup="default" catchup-source="rtsp://60.214.235.77:1554/iptv/Tvod/iptv/001/001/ch22111116270462496793.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东海洋
 rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch22111116270462496793.rsc/96145_Uni.sdp
-#EXTINF:-1 tvg-name="临沂综合" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂综合.png" catchup="default" catchup-source="rtsp://124.132.241.135:1554/iptv/Tvod/iptv/001/001/ch15111215111453039260.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",临沂综合
-rtsp://124.132.241.135:1554/iptv/import/Tvod/iptv/001/001/ch15111215111453039260.rsc/90240_Uni.sdp
-#EXTINF:-1 tvg-name="临沂经济" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂经济.png" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/Tvod/iptv/001/001/ch15111716392179568846.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",临沂经济
-rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch15111716392179568846.rsc/90243_Uni.sdp
+#EXTINF:-1 tvg-name="临沂综合" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂综合.png" catchup="default" catchup-source="rtsp://60.214.235.77:1554/iptv/Tvod/iptv/001/001/ch15111215111453039260.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",临沂综合
+rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch15111215111453039260.rsc/90240_Uni.sdp
+#EXTINF:-1 tvg-name="临沂经济" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂经济.png" catchup="default" catchup-source="rtsp://60.214.235.77:1554/iptv/Tvod/iptv/001/001/ch15111716392179568846.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",临沂经济
+rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch15111716392179568846.rsc/90243_Uni.sdp
 
 #EXTINF:-1 tvg-id="ch00000000000000001286" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC家庭影院.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch18120514091718394256.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="影视频道",CHC家庭影院
 rtsp://60.214.235.76:1554/iptv/import/Tvod/iptv/001/001/ch18120514091718394256.rsc/81468_Uni.sdp
