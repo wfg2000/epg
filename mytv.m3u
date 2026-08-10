@@ -447,12 +447,15 @@ http://192.168.3.91:35455/douyin/rid/881915323288
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="全球直播",凤凰中文
+https://php.doube.eu.org/fengshows.php?pid=2
 http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="全球直播",凤凰资讯
+https://php.doube.eu.org/fengshows.php?pid=1
 http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/PHOENIX3.png" group-title="全球直播",凤凰香港
+https://php.doube.eu.org/fengshows.php?pid=3
 http://123.234.2.58:80/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
