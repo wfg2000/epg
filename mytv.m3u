@@ -1,126 +1,125 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc.xml.gz"
-#EXTINF:-1 tvg-id="ch00000000000000001128" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" catchup="default" catchup-source="rtsp://60.214.235.71:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-id="ch00000000000000001128" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png"  group-title="央视频道",CCTV1
 http://192.168.3.218:5000/cctv1/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001219" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" catchup="default" catchup-source="rtsp://60.214.235.85:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-id="ch00000000000000001219" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png"  group-title="央视频道",CCTV2
 http://192.168.3.218:5000/cctv2/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001357" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV3.png" catchup="default" catchup-source="rtsp://60.214.235.77:1554/iptv/Tvod/iptv/001/001/ch21072816504132734115.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-id="ch00000000000000001357" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV3.png"  group-title="央视频道",CCTV3
 http://192.168.3.218:5000/cctv3/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001261" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" catchup="default" catchup-source="rtsp://60.214.235.70:1554/iptv/Tvod/iptv/001/001/ch17121814361050007455.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-id="ch00000000000000001261" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png"  group-title="央视频道",CCTV4
 http://192.168.3.218:5000/cctv4/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001358" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch21072816512692879794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV5
+#EXTINF:-1 tvg-id="ch00000000000000001358" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5.png"  group-title="央视频道",CCTV5
 http://192.168.3.218:5000/cctv5/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001086" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5+.png" catchup="default" catchup-source="rtsp://60.214.235.73:1554/iptv/Tvod/iptv/001/001/ch11061217321508656858.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV5+
+#EXTINF:-1 tvg-id="ch00000000000000001086" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://192.168.3.218:5000/cctv5p/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001359" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV6.png" catchup="default" catchup-source="rtsp://60.214.235.74:1554/iptv/Tvod/iptv/001/001/ch21072816530254611367.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-id="ch00000000000000001359" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV6.png"  group-title="央视频道",CCTV6
 http://192.168.3.218:5000/cctv6/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001220" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" catchup="default" catchup-source="rtsp://60.214.235.86:1554/iptv/Tvod/iptv/001/001/ch15111015535263088598.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV7
+#EXTINF:-1 tvg-id="ch00000000000000001220" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png"  group-title="央视频道",CCTV7
 http://192.168.3.218:5000/cctv7/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001360" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV8.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch21072816531463294165.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV8
+#EXTINF:-1 tvg-id="ch00000000000000001360" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV8.png"  group-title="央视频道",CCTV8
 http://192.168.3.218:5000/cctv8/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001171" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" catchup="default" catchup-source="rtsp://60.214.235.70:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV9
+#EXTINF:-1 tvg-id="ch00000000000000001171" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png"  group-title="央视频道",CCTV9
 http://192.168.3.218:5000/cctv9/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001221" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" catchup="default" catchup-source="rtsp://60.214.235.73:1554/iptv/Tvod/iptv/001/001/ch15111015554384702984.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV10
+#EXTINF:-1 tvg-id="ch00000000000000001221" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png"  group-title="央视频道",CCTV10
 http://192.168.3.218:5000/cctv10/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001013" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" catchup="default" catchup-source="rtsp://60.214.235.86:1554/iptv/Tvod/iptv/001/001/ch11122400354496191158.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-id="ch00000000000000001013" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png"  group-title="央视频道",CCTV11
 http://192.168.3.218:5000/cctv11/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001222" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" catchup="default" catchup-source="rtsp://60.214.235.71:1554/iptv/Tvod/iptv/001/001/ch15111015571407754299.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV12
+#EXTINF:-1 tvg-id="ch00000000000000001222" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png"  group-title="央视频道",CCTV12
 http://192.168.3.218:5000/cctv12/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001157" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" catchup="default" catchup-source="rtsp://60.214.235.73:1554/iptv/Tvod/iptv/001/001/ch15050914361303395989.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV13
+#EXTINF:-1 tvg-id="ch00000000000000001157" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png"  group-title="央视频道",CCTV13
 http://192.168.3.218:5000/cctv13/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001223" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" catchup="default" catchup-source="rtsp://60.214.235.86:1554/iptv/Tvod/iptv/001/001/ch15111016003483433803.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV14
+#EXTINF:-1 tvg-id="ch00000000000000001223" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png"  group-title="央视频道",CCTV14
 http://192.168.3.218:5000/cctv14/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001015" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV15
+#EXTINF:-1 tvg-id="ch00000000000000001015" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png"  group-title="央视频道",CCTV15
 http://192.168.3.218:5000/cctv15/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001016" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV16
+#EXTINF:-1 tvg-id="ch00000000000000001016" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png"  group-title="央视频道",CCTV16
 http://192.168.3.218:5000/cctv16/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001300" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch19073116233495000222.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV17
+#EXTINF:-1 tvg-id="ch00000000000000001300" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png"  group-title="央视频道",CCTV17
 http://192.168.3.218:5000/cctv17/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001969" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" catchup="default" catchup-source="rtsp://60.214.235.74:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CCTV4K
+#EXTINF:-1 tvg-id="ch00000000000000001969" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png"  group-title="央视频道",CCTV4K
 rtsp://60.214.235.74:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99906_Uni.sdp
-#EXTINF:-1 tvg-id="ch00000000000000001158" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN.png" catchup="default" catchup-source="rtsp://60.214.235.77:1554/iptv/Tvod/iptv/001/001/ch15050914501799552135.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CGTN
+#EXTINF:-1 tvg-id="ch00000000000000001158" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN.png"  group-title="央视频道",CGTN
 http://192.168.3.218:50003/play/index.m3u8?sign=Upt0qEqgMzm4Dth81BtKAyWNZ2C82pK0h11Pre4KTQ0bFNxLOPYIenAz%2FYsJWM56
-#EXTINF:-1 tvg-id="ch00000000000000001350" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN纪录.png" catchup="default" catchup-source="rtsp://60.214.235.71:1554/iptv/Tvod/iptv/001/001/ch21062215405197977873.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="央视频道",CGTN纪录
-rtsp://60.214.235.71:1554/iptv/import/Tvod/iptv/001/001/ch21062215405197977873.rsc/91701_Uni.sdp
 
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视4K.png" catchup="default" catchup-source="rtsp://60.214.235.73:1554/iptv/Tvod/iptv/001/001/ch25081411425529721444.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",山东卫视
+
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视4K.png",山东卫视
 http://192.168.3.218:5000/sd_sdtv/playlist.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/湖南卫视4K.png" catchup="default" catchup-source="rtsp://60.214.235.73:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/湖南卫视4K.png",湖南卫视
 rtsp://60.214.235.70:1554/iptv/import/Tvod/iptv/001/001/ch25092214073911761412.rsc/103201_Uni.sdp
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/江苏卫视4K.png" catchup="default" catchup-source="rtsp://60.214.235.77:1554/iptv/Tvod/iptv/001/001/ch25092214081313070909.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/江苏卫视4K.png",江苏卫视
 http://192.168.3.218:5000/js_jsws4k/playlist.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/浙江卫视4K.png" catchup="default" catchup-source="rtsp://60.214.235.71:1554/iptv/Tvod/iptv/001/001/ch25092214075944736959.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/浙江卫视4K.png",浙江卫视
 http://192.168.3.218:5000/zj_zhejiangweishi/playlist.m3u8
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/东方卫视4K.png" catchup="default" catchup-source="rtsp://60.214.235.86:1554/iptv/Tvod/iptv/001/001/ch25092214082801723362.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",东方卫视
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/东方卫视4K.png",东方卫视
 http://192.168.3.218:5000/sh_dongfang/playlist.m3u8
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/北京卫视4K.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch25032514071097767315.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/北京卫视4K.png",北京卫视
 http://192.168.3.218:50003/play/index.m3u8?sign=owbkwZQjjmQTnZ0YqXZdTPsmaWlIq7DBRPPn2BMz0ydrNpLLquBw%2BI9ywSbo6nlF
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/深圳卫视4K.png" catchup="default" catchup-source="rtsp://60.214.235.85:1554/iptv/Tvod/iptv/001/001/ch25061910020901468282.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/深圳卫视4K.png",深圳卫视
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36","Referer":"https://www.sztv.com.cn/","Origin":"https://www.sztv.com.cn"}
 #EXTKU9OPT:HEADERS={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36","Referer":"https://www.sztv.com.cn/","Origin":"https://www.sztv.com.cn"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrerhttps://www.sztv.com.cn/
 #EXTVLCOPT:http-origin=https://www.sztv.com.cn
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/广东卫视4K.png" catchup="default" catchup-source="rtsp://60.214.235.85:1554/iptv/Tvod/iptv/001/001/ch25062414535257116401.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",广东卫视
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/广东卫视4K.png",广东卫视
 http://192.168.3.218:5000/gd_guangdongweishi/playlist.m3u8
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/四川卫视4K.png" catchup="default" catchup-source="rtsp://60.214.235.73:1554/iptv/Tvod/iptv/001/001/ch25092214084431033201.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/四川卫视4K.png",四川卫视
 rtsp://60.214.235.73:1554/iptv/import/Tvod/iptv/001/001/ch25092214084431033201.rsc/103297_Uni.sdp
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" catchup="default" catchup-source="rtsp://60.214.235.85:1554/iptv/Tvod/iptv/001/001/ch15050917541532308683.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
 #EXTHTTP:{"User-Agent":"Mozilla/5.0","Referer":"https://www.ahtv.cn/"}
 #EXTKU9OPT:HEADERS={"User-Agent":"Mozilla/5.0","Referer":"https://www.ahtv.cn/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrerhttps://www.ahtv.cn/
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" catchup="default" catchup-source="rtsp://60.214.235.74:1554/iptv/Tvod/iptv/001/001/ch15050917541519800547.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",湖北卫视
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
 http://192.168.3.218:50003/play/index.m3u8?sign=FnKfKNZQx1ux%2BzccIxts8ALxGg%2FeH4Jz2h%2BcRuEs1uXKvUhdffS7OvhJ0eVO7%2Fmw
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" catchup="default" catchup-source="rtsp://60.214.235.71:1554/iptv/Tvod/iptv/001/001/ch10120118345500084693.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",江西卫视
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
 http://192.168.3.218:50003/play/index.m3u8?sign=yfLh4YRGgEFQ5RgvZzWc9Ct0k%2BYtLLtcF891aet%2FTgRhh6h%2FB7XdMakcHA%2BIZcjm
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" catchup="default" catchup-source="rtsp://60.214.235.86:1554/iptv/Tvod/iptv/001/001/ch10120118312827983078.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",河南卫视
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
 http://192.168.3.218:50003/play/index.m3u8?sign=UP4y7BgX%2BS5ZVmSyrp41L9FmghTs4yf9FJ60CVT08F3Ka%2BJUOAiCqkVYuMh8CNnw
 
-#EXTINF:-1 tvg-id="ch00000000000000001170" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" catchup="default" catchup-source="rtsp://60.214.235.74:1554/iptv/Tvod/iptv/001/001/ch15050916441119736372.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东卫视
+#EXTINF:-1 tvg-id="ch00000000000000001170" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" group-title="山东频道",山东卫视
 http://192.168.3.218:5000/sd_sdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001017" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东齐鲁.png" catchup="default" catchup-source="rtsp://60.214.235.77:1554/iptv/Tvod/iptv/001/001/ch10120117223157422538.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东齐鲁
+#EXTINF:-1 tvg-id="ch00000000000000001017" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东齐鲁.png"  group-title="山东频道",山东齐鲁
 http://192.168.3.218:5000/sd_qlpd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001018" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东文旅.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch10120117133527564831.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东文旅
+#EXTINF:-1 tvg-id="ch00000000000000001018" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东文旅.png"  group-title="山东频道",山东文旅
 http://192.168.3.218:5000/sd_yspd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001019" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东生活.png" catchup="default" catchup-source="rtsp://60.214.235.73:1554/iptv/Tvod/iptv/001/001/ch10120117100570561699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东生活
+#EXTINF:-1 tvg-id="ch00000000000000001019" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东生活.png"  group-title="山东频道",山东生活
 http://192.168.3.218:5000/sd_shpd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001020" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东综艺.png" catchup="default" catchup-source="rtsp://60.214.235.85:1554/iptv/Tvod/iptv/001/001/ch11012815051671532768.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东综艺
+#EXTINF:-1 tvg-id="ch00000000000000001020" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东综艺.png"  group-title="山东频道",山东综艺
 http://192.168.3.218:5000/sd_zypd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001021" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东体育.png" catchup="default" catchup-source="rtsp://60.214.235.70:1554/iptv/Tvod/iptv/001/001/ch10111720502861127519.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东体育
+#EXTINF:-1 tvg-id="ch00000000000000001021" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东体育.png"  group-title="山东频道",山东体育
 http://192.168.3.218:5000/sd_typd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001022" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东新闻.png" catchup="default" catchup-source="rtsp://60.214.235.73:1554/iptv/Tvod/iptv/001/001/ch10120117023986249401.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东新闻
+#EXTINF:-1 tvg-id="ch00000000000000001022" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东新闻.png"  group-title="山东频道",山东新闻
 #EXTHTTP:{"User-Agent":"Mozilla/5.0","Referer":"https://v.iqilu.com/"}
 #EXTKU9OPT:HEADERS={"User-Agent":"Mozilla/5.0","Referer":"https://v.iqilu.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrerhttps://v.iqilu.com/
-#EXTINF:-1 tvg-id="ch00000000000000001023" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东农科.png" catchup="default" catchup-source="rtsp://60.214.235.74:1554/iptv/Tvod/iptv/001/001/ch11012815072111657053.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东农科
+#EXTINF:-1 tvg-id="ch00000000000000001023" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东农科.png"  group-title="山东频道",山东农科
 http://192.168.3.218:5000/sd_nkpd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001024" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东少儿.png" catchup="default" catchup-source="rtsp://60.214.235.85:1554/iptv/Tvod/iptv/001/001/ch11012815083626567264.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东少儿
+#EXTINF:-1 tvg-id="ch00000000000000001024" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东少儿.png"  group-title="山东频道",山东少儿
 http://192.168.3.218:5000/sd_sepd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001073" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch10120118342495301658.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东教育
+#EXTINF:-1 tvg-id="ch00000000000000001073" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png"  group-title="山东频道",山东教育
 rtsp://60.214.235.76:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/69105_Uni.sdp
-#EXTINF:-1 tvg-id="ch00000000000000001509" tvg-name="山东海洋" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东海洋频道.png" catchup="default" catchup-source="rtsp://60.214.235.77:1554/iptv/Tvod/iptv/001/001/ch22111116270462496793.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="山东频道",山东海洋
+#EXTINF:-1 tvg-id="ch00000000000000001509" tvg-name="山东海洋" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东海洋频道.png" group-title="山东频道",山东海洋
 rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch22111116270462496793.rsc/96145_Uni.sdp
-#EXTINF:-1 tvg-name="临沂综合" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂综合.png" catchup="default" catchup-source="rtsp://60.214.235.77:1554/iptv/Tvod/iptv/001/001/ch15111215111453039260.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",临沂综合
+#EXTINF:-1 tvg-name="临沂综合" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂综合.png",临沂综合
 rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch15111215111453039260.rsc/90240_Uni.sdp
-#EXTINF:-1 tvg-name="临沂经济" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂经济.png" catchup="default" catchup-source="rtsp://60.214.235.77:1554/iptv/Tvod/iptv/001/001/ch15111716392179568846.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",临沂经济
+#EXTINF:-1 tvg-name="临沂经济" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂经济.png",临沂经济
 rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch15111716392179568846.rsc/90243_Uni.sdp
 
-#EXTINF:-1 tvg-id="ch00000000000000001286" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC家庭影院.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch18120514091718394256.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="影视频道",CHC家庭影院
+#EXTINF:-1 tvg-id="ch00000000000000001286" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
 http://192.168.3.218:50003/play/index.m3u8?sign=bV1mJdzW0NgAW9ZRKfMUH8BWVUzf8CGLT%2FGiJi30CYY3FJEUFqSVIPyNgUHHIayv
-#EXTINF:-1 tvg-id="ch00000000000000001287" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC动作电影.png" catchup="default" catchup-source="rtsp://60.214.235.73:1554/iptv/Tvod/iptv/001/001/ch18120514100139517699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="影视频道",CHC动作电影
+#EXTINF:-1 tvg-id="ch00000000000000001287" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC动作电影.png" group-title="影视频道",CHC动作电影
 http://192.168.3.218:50003/play/index.m3u8?sign=bV1mJdzW0NgAW9ZRKfMUHwDMQ186NPiIgCFle1S7IxwuS5%2FfnDVHLzNfD%2FgMX9F6
-#EXTINF:-1 tvg-id="ch00000000000000001288" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC影迷电影.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch18120514102191199606.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="影视频道",CHC影迷电影
+#EXTINF:-1 tvg-id="ch00000000000000001288" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC影迷电影.png"  group-title="影视频道",CHC影迷电影
 http://192.168.3.218:50003/play/index.m3u8?sign=ju5ISGUcydU7fCmFmzT0h2pnMdVZ9CbAjl%2FCDIXbTwZTL0iSps6z%2FjGsQLCzcvS6
-#EXTINF:-1 tvg-id="ch00000000000000001193" tvg-name="红色影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/红色影院.png" catchup="default" catchup-source="rtsp://60.214.235.86:1554/iptv/Tvod/iptv/001/001/ch15090915431474482038.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="影视频道",红色影院
+#EXTINF:-1 tvg-id="ch00000000000000001193" tvg-name="红色影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/红色影院.png"  group-title="影视频道",红色影院
 http://192.168.3.218:50003/play/index.m3u8?sign=6EwgAZBK9py5o0AyQxPTLibTmVaGVo%2BWD404boQlvY5ut8si8sIlW9QQ0CcVpRyF
-#EXTINF:-1 tvg-id="ch00000000000000001202" tvg-name="家庭影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/家庭影院.png" catchup="default" catchup-source="rtsp://60.214.235.73:1554/iptv/Tvod/iptv/001/001/ch15090916215642164569.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="影视频道",家庭影院
+#EXTINF:-1 tvg-id="ch00000000000000001202" tvg-name="家庭影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/家庭影院.png"  group-title="影视频道",家庭影院
 http://192.168.3.218:50003/play/index.m3u8?sign=i%2Bm%2Fok5ze%2BjI7fr%2FIXXnh1UysFumvN9ksXM4fM2kEsDe8AKsRgD81NR%2FsQ0Plx%2BJ
-#EXTINF:-1 tvg-id="ch00000000000000001204" tvg-name="喜剧影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/喜剧影院.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch15090916165898699737.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="影视频道",喜剧影院
+#EXTINF:-1 tvg-id="ch00000000000000001204" tvg-name="喜剧影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/喜剧影院.png"  group-title="影视频道",喜剧影院
 rtsp://60.214.235.76:1554/iptv/import/Tvod/iptv/001/001/ch15090916165898699737.rsc/69049_Uni.sdp
-#EXTINF:-1 tvg-id="ch00000000000000001205" tvg-name="动作影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动作影院.png" catchup="default" catchup-source="rtsp://60.214.235.76:1554/iptv/Tvod/iptv/001/001/ch15090916164124642866.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="影视频道",动作影院
+#EXTINF:-1 tvg-id="ch00000000000000001205" tvg-name="动作影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动作影院.png"  group-title="影视频道",动作影院
 rtsp://60.214.235.76:1554/iptv/import/Tvod/iptv/001/001/ch15090916164124642866.rsc/81496_Uni.sdp
-#EXTINF:-1 tvg-id="ch00000000000000001127" tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/经典电影.png" catchup="default" catchup-source="rtsp://60.214.235.86:1554/iptv/Tvod/iptv/001/001/ch11060317313622161494.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT" group-title="影视频道",经典电影
+#EXTINF:-1 tvg-id="ch00000000000000001127" tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/经典电影.png"  group-title="影视频道",经典电影
 http://192.168.3.218:50003/play/index.m3u8?sign=qcHU395aDIkv1RFPD7oNAH0n31HSfi0idYNEcmoft2n9%2FQWoSL0OCD%2Bqwu%2FHgwEd
 
 
