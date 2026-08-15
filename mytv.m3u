@@ -44,7 +44,7 @@ http://192.168.3.218:50003/play/index.m3u8?sign=Upt0qEqgMzm4Dth81BtKAyWNZ2C82pK0
 #EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视4K.png",山东卫视
 http://192.168.3.218:5000/sd_sdtv/playlist.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/湖南卫视4K.png",湖南卫视
-http://112.237.124.157:8888/rtp/239.253.248.282:8000
+http://112.237.124.157:8888/rtp/239.253.248.82:8000
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/江苏卫视4K.png",江苏卫视
 http://192.168.3.218:5000/js_jsws/playlist.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/浙江卫视4K.png",浙江卫视
