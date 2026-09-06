@@ -1,95 +1,94 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc.xml.gz"
 #EXTINF:-1 tvg-id="ch00000000000000001128" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png"  group-title="央视频道",CCTV1
-http://192.168.3.218:5000/cctv1/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv1.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001219" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png"  group-title="央视频道",CCTV2
-http://192.168.3.218:5000/cctv2/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv2.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001357" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV3.png"  group-title="央视频道",CCTV3
-http://192.168.3.218:5000/cctv3/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv3.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001261" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png"  group-title="央视频道",CCTV4
-http://192.168.3.218:5000/cctv4/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv4.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001358" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5.png"  group-title="央视频道",CCTV5
-http://192.168.3.218:5000/cctv5/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv5.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001086" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5+.png" group-title="央视频道",CCTV5+
-http://192.168.3.218:5000/cctv5p/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv5p.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001359" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV6.png"  group-title="央视频道",CCTV6
-http://192.168.3.218:5000/cctv6/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv6.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001220" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png"  group-title="央视频道",CCTV7
-http://192.168.3.218:5000/cctv7/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv7.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001360" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV8.png"  group-title="央视频道",CCTV8
-http://192.168.3.218:5000/cctv8/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv8.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001171" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png"  group-title="央视频道",CCTV9
-http://192.168.3.218:5000/cctv9/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv9.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001221" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png"  group-title="央视频道",CCTV10
-http://192.168.3.218:5000/cctv10/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv10.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001013" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png"  group-title="央视频道",CCTV11
-http://192.168.3.218:5000/cctv11/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv11.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001222" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png"  group-title="央视频道",CCTV12
-http://192.168.3.218:5000/cctv12/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv12.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001157" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png"  group-title="央视频道",CCTV13
-http://192.168.3.218:5000/cctv13/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv13.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001223" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png"  group-title="央视频道",CCTV14
-http://192.168.3.218:5000/cctv14/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv14.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001015" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png"  group-title="央视频道",CCTV15
-http://192.168.3.218:5000/cctv15/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv15.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001016" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png"  group-title="央视频道",CCTV16
-http://192.168.3.218:5000/cctv16/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv16.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001300" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png"  group-title="央视频道",CCTV17
-http://192.168.3.218:5000/cctv17/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-cctv17.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001969" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png"  group-title="央视频道",CCTV4K
-rtsp://60.214.235.74:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99906_Uni.sdp
+http://192.168.3.91:1905/relay/ysp-cctv4k.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001158" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN.png"  group-title="央视频道",CGTN
-http://192.168.3.91:50003/play/index.m3u8?sign=Upt0qEqgMzm4Dth81BtKAyWNZ2C82pK0h11Pre4KTQ0bFNxLOPYIenAz%2FYsJWM56
+http://192.168.3.91:1905/relay/ysp-cgtn.m3u8
 
 
 #EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视4K.png",山东卫视
-http://192.168.3.218:5000/sd_sdtv/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-sdws.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/湖南卫视4K.png",湖南卫视
-http://112.237.124.157:8888/rtp/239.253.248.82:8000
+http://192.168.3.91:1905/relay/ysp-hnws.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/江苏卫视4K.png",江苏卫视
-http://192.168.3.218:5000/js_jsws/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-jsws.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/浙江卫视4K.png",浙江卫视
-http://192.168.3.218:5000/zj_zhejiangweishi/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-zjws.m3u8
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/东方卫视4K.png",东方卫视
-http://192.168.3.218:5000/sh_dongfang/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-dfws.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/北京卫视4K.png",北京卫视
-http://192.168.3.91:50003/play/index.m3u8?sign=owbkwZQjjmQTnZ0YqXZdTPsmaWlIq7DBRPPn2BMz0ydrNpLLquBw%2BI9ywSbo6nlF
+http://192.168.3.91:1905/relay/ysp-bjws.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/深圳卫视4K.png",深圳卫视
-http://112.237.124.157:8888/rtp/239.253.248.91:8000
+http://192.168.3.91:1905/relay/ysp-szws.m3u8
 #EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/广东卫视4K.png",广东卫视
-http://192.168.3.218:5000/gd_4kchaogaoqing/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-gdws.m3u8
 #EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/四川卫视4K.png",四川卫视
-rtsp://60.214.235.73:1554/iptv/import/Tvod/iptv/001/001/ch25092214084431033201.rsc/103297_Uni.sdp
+rhttp://192.168.3.91:1905/relay/ysp-scws.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
-http://112.237.124.157:8888/rtp/239.253.248.87:8000
+http://192.168.3.91:1905/relay/ysp-ahws.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
-http://192.168.3.91:50003/play/index.m3u8?sign=FnKfKNZQx1ux%2BzccIxts8ALxGg%2FeH4Jz2h%2BcRuEs1uXKvUhdffS7OvhJ0eVO7%2Fmw
+http://192.168.3.91:1905/relay/ysp-hbws.m3u8
 #EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
-http://192.168.3.91:50003/play/index.m3u8?sign=yfLh4YRGgEFQ5RgvZzWc9Ct0k%2BYtLLtcF891aet%2FTgRhh6h%2FB7XdMakcHA%2BIZcjm
+http://192.168.3.91:1905/relay/ysp-jxws.m3u8
 #EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
-http://192.168.3.91:50003/play/index.m3u8?sign=UP4y7BgX%2BS5ZVmSyrp41L9FmghTs4yf9FJ60CVT08F3Ka%2BJUOAiCqkVYuMh8CNnw
+http://192.168.3.91:1905/relay/ysp-henanws.m3u8
 
 #EXTINF:-1 tvg-id="ch00000000000000001170" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" group-title="山东频道",山东卫视
-http://192.168.3.218:5000/sd_sdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001017" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东齐鲁.png"  group-title="山东频道",山东齐鲁
-http://192.168.3.218:5000/sd_qlpd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001018" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东文旅.png"  group-title="山东频道",山东文旅
-http://192.168.3.218:5000/sd_yspd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001019" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东生活.png"  group-title="山东频道",山东生活
-http://192.168.3.218:5000/sd_shpd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001020" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东综艺.png"  group-title="山东频道",山东综艺
-http://192.168.3.218:5000/sd_zypd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch00000000000000001021" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东体育.png"  group-title="山东频道",山东体育
-http://192.168.3.218:5000/sd_typd/playlist.m3u8
+http://192.168.3.91:1905/relay/ysp-sdws.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001022" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东新闻.png"  group-title="山东频道",山东新闻
-http://112.237.124.157:8888/rtp/239.253.248.23:8000
+http://192.168.3.91:1905/iqilu-ggpd
+#EXTINF:-1 tvg-id="ch00000000000000001017" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东齐鲁.png"  group-title="山东频道",山东齐鲁
+http://192.168.3.91:1905/iqilu-qlpd
+#EXTINF:-1 tvg-id="ch00000000000000001018" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东文旅.png"  group-title="山东频道",山东文旅
+http://192.168.3.91:1905/iqilu-yspd
+#EXTINF:-1 tvg-id="ch00000000000000001019" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东生活.png"  group-title="山东频道",山东生活
+http://192.168.3.91:1905/iqilu-shpd
+#EXTINF:-1 tvg-id="ch00000000000000001020" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东综艺.png"  group-title="山东频道",山东综艺
+http://192.168.3.91:1905/iqilu-zypd
 #EXTINF:-1 tvg-id="ch00000000000000001023" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东农科.png"  group-title="山东频道",山东农科
-http://192.168.3.218:5000/sd_nkpd/playlist.m3u8
+http://192.168.3.91:1905/iqilu-nkpd
 #EXTINF:-1 tvg-id="ch00000000000000001024" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东少儿.png"  group-title="山东频道",山东少儿
-http://192.168.3.218:5000/sd_sepd/playlist.m3u8
+http://192.168.3.91:1905/iqilu-sepd
 #EXTINF:-1 tvg-id="ch00000000000000001073" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png"  group-title="山东频道",山东教育
-rtsp://60.214.235.76:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/69105_Uni.sdp
-#EXTINF:-1 tvg-id="ch00000000000000001509" tvg-name="山东海洋" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东海洋频道.png" group-title="山东频道",山东海洋
-rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch22111116270462496793.rsc/96145_Uni.sdp
+http://192.168.3.91:1905/609154353
+#EXTINF:-1 tvg-id="ch00000000000000001021" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东体育.png"  group-title="山东频道",山东体育
+http://192.168.3.91:1905/iqilu-typd
+
 #EXTINF:-1 tvg-name="临沂综合" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂综合.png",临沂综合
 rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch15111215111453039260.rsc/90240_Uni.sdp
 #EXTINF:-1 tvg-name="临沂经济" group-title="山东频道" tvg-logo="https://wfg2000.github.io/epg/icon/临沂经济.png",临沂经济
