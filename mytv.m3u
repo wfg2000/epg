@@ -44,7 +44,6 @@ http://192.168.3.91:1905/relay/ysp-cgtn.m3u8
 #EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视4K.png",山东卫视
 http://192.168.3.91:1905/relay/ysp-sdws.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/湖南卫视4K.png",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 http://192.168.3.91:1905/relay/ysp-hnws.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/江苏卫视4K.png",江苏卫视
 http://192.168.3.91:1905/proxy/jstv-676.m3u8
