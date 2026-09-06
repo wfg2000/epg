@@ -38,7 +38,7 @@ http://192.168.3.218:5000/cctv17/playlist.m3u8
 #EXTINF:-1 tvg-id="ch00000000000000001969" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png"  group-title="央视频道",CCTV4K
 rtsp://60.214.235.74:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99906_Uni.sdp
 #EXTINF:-1 tvg-id="ch00000000000000001158" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN.png"  group-title="央视频道",CGTN
-http://192.168.3.218:50003/play/index.m3u8?sign=Upt0qEqgMzm4Dth81BtKAyWNZ2C82pK0h11Pre4KTQ0bFNxLOPYIenAz%2FYsJWM56
+http://192.168.3.91:50003/play/index.m3u8?sign=Upt0qEqgMzm4Dth81BtKAyWNZ2C82pK0h11Pre4KTQ0bFNxLOPYIenAz%2FYsJWM56
 
 
 #EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视4K.png",山东卫视
@@ -52,7 +52,7 @@ http://192.168.3.218:5000/zj_zhejiangweishi/playlist.m3u8
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/东方卫视4K.png",东方卫视
 http://192.168.3.218:5000/sh_dongfang/playlist.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/北京卫视4K.png",北京卫视
-http://192.168.3.218:50003/play/index.m3u8?sign=owbkwZQjjmQTnZ0YqXZdTPsmaWlIq7DBRPPn2BMz0ydrNpLLquBw%2BI9ywSbo6nlF
+http://192.168.3.91:50003/play/index.m3u8?sign=owbkwZQjjmQTnZ0YqXZdTPsmaWlIq7DBRPPn2BMz0ydrNpLLquBw%2BI9ywSbo6nlF
 #EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/深圳卫视4K.png",深圳卫视
 http://112.237.124.157:8888/rtp/239.253.248.91:8000
 #EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://wfg2000.github.io/epg/icon/广东卫视4K.png",广东卫视
@@ -62,11 +62,11 @@ rtsp://60.214.235.73:1554/iptv/import/Tvod/iptv/001/001/ch25092214084431033201.r
 #EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
 http://112.237.124.157:8888/rtp/239.253.248.87:8000
 #EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
-http://192.168.3.218:50003/play/index.m3u8?sign=FnKfKNZQx1ux%2BzccIxts8ALxGg%2FeH4Jz2h%2BcRuEs1uXKvUhdffS7OvhJ0eVO7%2Fmw
+http://192.168.3.91:50003/play/index.m3u8?sign=FnKfKNZQx1ux%2BzccIxts8ALxGg%2FeH4Jz2h%2BcRuEs1uXKvUhdffS7OvhJ0eVO7%2Fmw
 #EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
-http://192.168.3.218:50003/play/index.m3u8?sign=yfLh4YRGgEFQ5RgvZzWc9Ct0k%2BYtLLtcF891aet%2FTgRhh6h%2FB7XdMakcHA%2BIZcjm
+http://192.168.3.91:50003/play/index.m3u8?sign=yfLh4YRGgEFQ5RgvZzWc9Ct0k%2BYtLLtcF891aet%2FTgRhh6h%2FB7XdMakcHA%2BIZcjm
 #EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
-http://192.168.3.218:50003/play/index.m3u8?sign=UP4y7BgX%2BS5ZVmSyrp41L9FmghTs4yf9FJ60CVT08F3Ka%2BJUOAiCqkVYuMh8CNnw
+http://192.168.3.91:50003/play/index.m3u8?sign=UP4y7BgX%2BS5ZVmSyrp41L9FmghTs4yf9FJ60CVT08F3Ka%2BJUOAiCqkVYuMh8CNnw
 
 #EXTINF:-1 tvg-id="ch00000000000000001170" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" group-title="山东频道",山东卫视
 http://192.168.3.218:5000/sd_sdtv/playlist.m3u8
@@ -96,21 +96,21 @@ rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch15111215111453039260.r
 rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch15111716392179568846.rsc/90243_Uni.sdp
 
 #EXTINF:-1 tvg-id="ch00000000000000001286" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-http://192.168.3.218:50003/play/index.m3u8?sign=bV1mJdzW0NgAW9ZRKfMUH8BWVUzf8CGLT%2FGiJi30CYY3FJEUFqSVIPyNgUHHIayv
+http://192.168.3.91:50003/play/index.m3u8?sign=bV1mJdzW0NgAW9ZRKfMUH8BWVUzf8CGLT%2FGiJi30CYY3FJEUFqSVIPyNgUHHIayv
 #EXTINF:-1 tvg-id="ch00000000000000001287" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC动作电影.png" group-title="影视频道",CHC动作电影
-http://192.168.3.218:50003/play/index.m3u8?sign=bV1mJdzW0NgAW9ZRKfMUHwDMQ186NPiIgCFle1S7IxwuS5%2FfnDVHLzNfD%2FgMX9F6
+http://192.168.3.91:50003/play/index.m3u8?sign=bV1mJdzW0NgAW9ZRKfMUHwDMQ186NPiIgCFle1S7IxwuS5%2FfnDVHLzNfD%2FgMX9F6
 #EXTINF:-1 tvg-id="ch00000000000000001288" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC影迷电影.png"  group-title="影视频道",CHC影迷电影
-http://192.168.3.218:50003/play/index.m3u8?sign=ju5ISGUcydU7fCmFmzT0h2pnMdVZ9CbAjl%2FCDIXbTwZTL0iSps6z%2FjGsQLCzcvS6
+http://192.168.3.91:50003/play/index.m3u8?sign=ju5ISGUcydU7fCmFmzT0h2pnMdVZ9CbAjl%2FCDIXbTwZTL0iSps6z%2FjGsQLCzcvS6
 #EXTINF:-1 tvg-id="ch00000000000000001193" tvg-name="红色影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/红色影院.png"  group-title="影视频道",红色影院
-http://192.168.3.218:50003/play/index.m3u8?sign=6EwgAZBK9py5o0AyQxPTLibTmVaGVo%2BWD404boQlvY5ut8si8sIlW9QQ0CcVpRyF
+http://192.168.3.91:50003/play/index.m3u8?sign=6EwgAZBK9py5o0AyQxPTLibTmVaGVo%2BWD404boQlvY5ut8si8sIlW9QQ0CcVpRyF
 #EXTINF:-1 tvg-id="ch00000000000000001202" tvg-name="家庭影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/家庭影院.png"  group-title="影视频道",家庭影院
-http://192.168.3.218:50003/play/index.m3u8?sign=i%2Bm%2Fok5ze%2BjI7fr%2FIXXnh1UysFumvN9ksXM4fM2kEsDe8AKsRgD81NR%2FsQ0Plx%2BJ
+http://192.168.3.91:50003/play/index.m3u8?sign=i%2Bm%2Fok5ze%2BjI7fr%2FIXXnh1UysFumvN9ksXM4fM2kEsDe8AKsRgD81NR%2FsQ0Plx%2BJ
 #EXTINF:-1 tvg-id="ch00000000000000001204" tvg-name="喜剧影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/喜剧影院.png"  group-title="影视频道",喜剧影院
 rtsp://60.214.235.76:1554/iptv/import/Tvod/iptv/001/001/ch15090916165898699737.rsc/69049_Uni.sdp
 #EXTINF:-1 tvg-id="ch00000000000000001205" tvg-name="动作影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动作影院.png"  group-title="影视频道",动作影院
 rtsp://60.214.235.76:1554/iptv/import/Tvod/iptv/001/001/ch15090916164124642866.rsc/81496_Uni.sdp
 #EXTINF:-1 tvg-id="ch00000000000000001127" tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/经典电影.png"  group-title="影视频道",经典电影
-http://192.168.3.218:50003/play/index.m3u8?sign=qcHU395aDIkv1RFPD7oNAH0n31HSfi0idYNEcmoft2n9%2FQWoSL0OCD%2Bqwu%2FHgwEd
+http://192.168.3.91:50003/play/index.m3u8?sign=qcHU395aDIkv1RFPD7oNAH0n31HSfi0idYNEcmoft2n9%2FQWoSL0OCD%2Bqwu%2FHgwEd
 
 
 #EXTINF:-1 group-title="虎牙电影" tvg-logo="https://wfg2000.github.io/epg/icon/动作枪战.png",动作枪战
