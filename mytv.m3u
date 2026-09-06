@@ -100,11 +100,11 @@ rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch15111215111453039260.r
 rtsp://60.214.235.77:1554/iptv/import/Tvod/iptv/001/001/ch15111716392179568846.rsc/90243_Uni.sdp
 
 #EXTINF:-1 tvg-id="ch00000000000000001286" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-http://192.168.3.91:50003/play/index.m3u8?sign=bV1mJdzW0NgAW9ZRKfMUH8BWVUzf8CGLT%2FGiJi30CYY3FJEUFqSVIPyNgUHHIayv
+http://192.168.3.91:1905/644368373
 #EXTINF:-1 tvg-id="ch00000000000000001287" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC动作电影.png" group-title="影视频道",CHC动作电影
-http://192.168.3.91:50003/play/index.m3u8?sign=bV1mJdzW0NgAW9ZRKfMUHwDMQ186NPiIgCFle1S7IxwuS5%2FfnDVHLzNfD%2FgMX9F6
+http://192.168.3.91:1905/644368714
 #EXTINF:-1 tvg-id="ch00000000000000001288" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC影迷电影.png"  group-title="影视频道",CHC影迷电影
-http://192.168.3.91:50003/play/index.m3u8?sign=ju5ISGUcydU7fCmFmzT0h2pnMdVZ9CbAjl%2FCDIXbTwZTL0iSps6z%2FjGsQLCzcvS6
+http://192.168.3.91:1905/952383261
 #EXTINF:-1 tvg-id="ch00000000000000001193" tvg-name="红色影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/红色影院.png"  group-title="影视频道",红色影院
 http://192.168.3.91:50003/play/index.m3u8?sign=6EwgAZBK9py5o0AyQxPTLibTmVaGVo%2BWD404boQlvY5ut8si8sIlW9QQ0CcVpRyF
 #EXTINF:-1 tvg-id="ch00000000000000001202" tvg-name="家庭影院" tvg-logo="https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/家庭影院.png"  group-title="影视频道",家庭影院
